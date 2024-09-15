@@ -1,0 +1,82 @@
+Name,Date,Age,Location,District,Gender
+Ahmad Jamil Ibrahim 'Abdu,5/25/2021,25,Um a-Sharayet - Samiramis,al-Quds,M
+Muhammad Elias Mahmoud 'Aweidah,3/28/2007,15,Um a-Sharayet - Samiramis,al-Quds,M
+Yihya Yusri Hassan Taha,11/26/2015,19,Qatanah,al-Quds,M
+Samir 'Awni Harbi Aslan,1/11/2023,41,Qalandia R.C.,al-Quds,M
+'Alaa Muhammad 'Abd al-Qader Shahham,3/15/2022,20,Qalandia R.C.,al-Quds,M
+"Jihad Muhammad Sa'id Khalil ""al-Qdumi""",11/22/2016,48,Qalandia R.C.,al-Quds,M
+Nasib 'Imran Muhammad Abu Maizar,9/30/2016,28,Qalandia R.C.,al-Quds,M
+Ibrahim Salem Hassan Taha,4/27/2016,16,Qalandia R.C.,al-Quds,M
+Maram Saleh Hassan Abu Isma'il,4/27/2016,23,Qalandia R.C.,al-Quds,F
+Nahed Fawzi Fayez Mteir,3/1/2016,21,Qalandia R.C.,al-Quds,M
+Iyad 'Omar Mahmoud Sajdeyyah,3/1/2016,21,Qalandia R.C.,al-Quds,M
+Bilal 'Omar Jamal Zayed,12/24/2015,25,Qalandia R.C.,al-Quds,M
+Ahmad Hassan 'Ali Jahajhah,12/16/2015,23,Qalandia R.C.,al-Quds,M
+Hikmat Faruk Hikmat Hamdan,12/16/2015,33,Qalandia R.C.,al-Quds,M
+Layth Ashraf 'Ali As'ad,11/16/2015,20,Qalandia R.C.,al-Quds,M
+Ahmad Subhi Hussein Abu al-'Eish,11/16/2015,30,Qalandia R.C.,al-Quds,M
+'Omar Muhammad Mahmoud al-Faqih,10/17/2015,24,Qalandia R.C.,al-Quds,M
+Muhammad 'Ata Diab Abu Latifah,7/27/2015,20,Qalandia R.C.,al-Quds,M
+Mahmoud 'Abdallah Muhammad Dar 'Udwan,12/16/2014,21,Qalandia R.C.,al-Quds,M
+Muhammad Ziad 'Abd al-Fatah A'araj,7/24/2014,17,Qalandia R.C.,al-Quds,M
+Mustafa Hussni Taher Aslan,6/20/2014,23,Qalandia R.C.,al-Quds,M
+Jihad Mansur Harbi Aslan,8/26/2013,20,Qalandia R.C.,al-Quds,M
+Yunes Jamal Muhammad Jahjouh,8/26/2013,22,Qalandia R.C.,al-Quds,M
+Rubin 'Abd a-Rahman Hussein Zayed,8/26/2013,34,Qalandia R.C.,al-Quds,M
+Mahmoud Wajih 'Abd al-Hamid 'Awwad,3/1/2013,25,Qalandia R.C.,al-Quds,M
+Mu'tasem 'Issa 'Othman 'Udwan,8/1/2011,22,Qalandia R.C.,al-Quds,M
+'Ali Hassan 'Abed Khalifah,8/1/2011,25,Qalandia R.C.,al-Quds,M
+Muhammad Farid Hassan Ziad,4/3/2006,16,Qalandia R.C.,al-Quds,M
+'Arafat Ibrahim Mahmoud Ya'qub,6/6/2004,31,Qalandia R.C.,al-Quds,M
+'Omar Musa Matar,3/28/2003,14,Qalandia R.C.,al-Quds,M
+Khaled 'Abd a-Ra'uf,4/15/2002,30,Qalandia R.C.,al-Quds,M
+Yasser al-Qasbah,12/8/2001,12,Qalandia R.C.,al-Quds,M
+Ishaq Hamdi Amin 'Ajlouni,6/24/2023,16,Qalandia,al-Quds,M
+Taha Muhammad Subhi al-Quljawi,2/1/2007,16,Qalandia,al-Quds,M
+Muhannad Muhammad Suleiman Mazar'ah,8/1/2023,20,Ma'ale Adumim,al-Quds,M
+Bahaa 'Imad Samir al-Hirbawi,6/20/2017,23,Jaba',al-Quds,M
+Mai Khaled Yusef 'Afanah,6/16/2021,29,Hizma,al-Quds,F
+Muhammad Fathi 'Abd al-Jabber Kan'an,7/24/2017,28,Hizma,al-Quds,M
+Mazen Hassan Ahmad 'Ireibah,12/3/2015,35,Hizma,al-Quds,M
+Ousamah Muhammad Sidqi Mansur,4/6/2021,45,Bir Nabala,al-Quds,M
+Sawsan 'Ali Dawood Mansur,5/23/2016,18,Bidu,al-Quds,F
+Diaa' A-Din 'Abd al-Karim Ibrahim Abu 'Eid,4/18/2004,23,Bidu,al-Quds,M
+Muhammad Dawood Saleh Badwan,2/26/2004,21,Bidu,al-Quds,M
+Muhammad Fadel Hashem Rayan,2/26/2004,25,Bidu,al-Quds,M
+Zakaria Mahmoud 'Eid Salem,2/26/2004,28,Bidu,al-Quds,M
+Riyad Sa'adah,4/12/2002,20,Bidu,al-Quds,M
+Mahmoud Sa'id 'Abd a-Rahim Saleh,3/8/2002,22,Beit Hanina al-Balad,al-Quds,M
+Dawood Mahmoud Khalil Rayan,11/3/2022,41,Beit Duqu,al-Quds,M
+Zakaria Ibrahim Saleh Badwan,9/26/2021,26,Beit 'Anan,al-Quds,M
+Mahmoud Mustafa 'Abd al-Fatah Hmeidan,9/26/2021,27,Beit 'Anan,al-Quds,M
+Ahmad Ibrahim Musa Zahran,9/26/2021,32,Beit 'Anan,al-Quds,M
+Fayez Khaled Mahmoud Damdum,10/1/2022,17,al-'Eizariyah,al-Quds,M
+Yamen Nafez Mahmoud Khanafsah,3/6/2022,15,Abu Dis,al-Quds,M
+Muhammad Khalaf Mahmoud Khalaf Lafy,7/21/2017,17,Abu Dis,al-Quds,M
+Fadi Sh'alan Khader Bahar,5/9/2004,18,Abu Dis,al-Quds,M
+Marwan Halabiyah,10/24/2001,20,Abu Dis,al-Quds,M
+Nur Jamal Isma'il Shqeir,11/25/2020,36,a-Za'ayem,al-Quds,M
+Samah Zuheir Ahmad Mubarak,1/30/2019,16,a-Za'ayem,al-Quds,F
+'Ali Muhammad 'Ali Abu Ghannam,4/25/2015,17,a-Za'ayem,al-Quds,M
+Hassan Badi'a 'Omar a-Tabar,7/29/2012,47,a-Za'ayem,al-Quds,M
+'Iz a-Din Saleh 'Abd al-Karim Kawazbah,10/3/2010,35,a-Za'ayem,al-Quds,M
+Mamduh Muhammad Yusef Shqeirat,5/26/2007,21,a-Sheikh Sa'ed,al-Quds,M
+Mahmoud Naji Muhammad Halaseh,5/26/2007,24,a-Sheikh Sa'ed,al-Quds,M
+Ahmad Mustafa Musa 'Areiqat,6/23/2020,26,a-Sawahrah a-Sharqiyah,al-Quds,M
+Ibrahim Muhammad Ibrahim Halaseh,4/22/2020,24,a-Sawahrah a-Sharqiyah,al-Quds,M
+Raed Ahmad 'Issa a-Radaydeh,5/22/2017,15,a-Sawahrah a-Sharqiyah,al-Quds,M
+Sadeq Ziad Sadeq Gharbiyah,11/10/2015,16,a-Sawahrah a-Sharqiyah,al-Quds,M
+Anas Fouad Rifa'i al-Atrash,11/7/2013,23,a-Sawahrah a-Sharqiyah,al-Quds,M
+Nidal Ahmad Jamil Shqeirat,7/27/2006,25,a-Sawahrah a-Sharqiyah,al-Quds,M
+Yusef Yihya 'Abd al-Karim Muheisen,1/26/2023,22,a-Ram,al-Quds,M
+Muhyi a-Din Muhammad Sudqi Sadeq a-Tabakhi,7/19/2016,10,a-Ram,al-Quds,M
+Anwar Fallah Anwar a-Salaymeh,7/13/2016,22,a-Ram,al-Quds,M
+Wisam Naser 'Abd al-Hadi Abu Ghweilah,12/24/2015,20,a-Ram,al-Quds,M
+Muhammad Sami 'Ali 'Ali Kusbah,7/3/2015,17,a-Ram,al-Quds,M
+Mahmoud Hatem Mahmoud Shawamreh,7/21/2014,26,a-Ram,al-Quds,M
+Yunes Ahmad Mahmoud a-Radaydeh,10/17/2013,27,a-Ram,al-Quds,M
+Tal'at 'Abd a-Rahman Ziad Ramyeh,2/24/2012,25,a-Ram,al-Quds,M
+Suliman Ahmad Muhammad Abu Ghaliya,8/3/2003,25,a-Ram,al-Quds,M
+Durgham 'Izat Muhammad Sa'id Zakarneh,3/10/2002,20,a-Ram,al-Quds,M
+Basel Mustafa Muhammad Ibrahim,12/15/2017,29,'Anata,al-Quds,M
+'Abir Bassam 'Abd Rabo 'Aramin,1/16/2007,10,'Anata,al-Quds,F

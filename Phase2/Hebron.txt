@@ -1,0 +1,282 @@
+Name,Date,Age,Location,District,Gender
+Musa Muhammad Musa Makhamreh,11/26/2013,21,Yatta,Hebron,M
+Muhammad Fouad Jamil Neiroukh,11/26/2013,30,Yatta,Hebron,M
+Zakaria Jamal Muhammad Abu 'Arram,3/8/2012,16,Yatta,Hebron,M
+Muhammad Mahmoud Ahmad Abu Rajab,3/2/2004,27,Yatta,Hebron,M
+Rashad Muhammad 'Abd a-Rahman Mor Abu Sh'aban,11/26/2003,15,Yatta,Hebron,M
+Muhammad Qa'id Sa'ed Dib,5/1/2003,22,Yatta,Hebron,M
+Khaled Jibrin Shihadah Salamah,5/1/2003,27,Yatta,Hebron,M
+Hassan Munasreh,4/15/2003,35,Yatta,Hebron,M
+Muhammad al-Mor,2/18/2003,27,Yatta,Hebron,M
+Jamal Kara'in,4/6/2002,20,Yatta,Hebron,M
+Nader al-Khader,4/6/2002,28,Yatta,Hebron,M
+'Issa Dababseh,11/8/2001,48,Yatta,Hebron,M
+Ziad 'Ali Hassan a-Zuhur,1/19/2006,19,Telem,Hebron,M
+Mustafa Ibrahim Khalil Awlad Muhammad,1/4/2006,38,Tarramah,Hebron,M
+Basel Na'im Nabil a-Natsheh,12/28/2007,21,Tarqumya,Hebron,M
+Hijazi Muhammad 'Abd al-'Aziz Erziqat,6/8/2007,17,Tapuah,Hebron,M
+Walid Salman Muhammad 'Atiyat Khamaiseh,9/13/2005,18,Tapuah,Hebron,M
+Muhammad Jbarah Ahmad al-Faqih,7/27/2016,29,Surif,Hebron,M
+Taysir Shehdeh Muhammad Manasrah,2/2/2009,27,South Hebron Hills,Hebron,M
+Sami Kazem Shawar,12/4/2002,-1,South Hebron Hills,Hebron,M
+Hashem Dawood Srur,12/4/2002,-1,South Hebron Hills,Hebron,M
+'Arif Sharif 'Abd al-Ghafar Jaradat,5/4/2016,23,Sa'ir,Hebron,M
+'Issa Ibrahim Salamah al-Hrub,12/11/2015,56,Sa'ir,Hebron,M
+Mahmoud Muhammad 'Issa Wadi,11/12/2015,17,Sa'ir,Hebron,M
+Iyad Rohi Hijazi Jaradat,10/26/2015,19,Sa'ir,Hebron,M
+Musa Muhammad Hamed al-Jabarin,10/5/2004,44,Sa'ir,Hebron,M
+Muhammad Mustafa Hassan Shahin (a-Darabi'),12/27/2002,19,Otniel,Hebron,M
+Ahmad 'Ayed Ahmad al-Faqih,12/27/2002,20,Otniel,Hebron,M
+Mahmoud Nassar Yusef Hamdan,9/25/2003,21,Negohot,Hebron,M
+Sufian Majed Muhammad Hariz,3/7/2003,21,Negohot,Hebron,M
+Fadi al-Fakhuri,3/7/2003,21,Negohot,Hebron,M
+Muhammad Farid Shawqi Ibrahim Za'arir,8/1/2023,15,Mitzpe Eshtamoa,Hebron,M
+Wafa 'Abd a-Rahman 'Abd a-Razeq Barad'i,5/19/2021,34,Kiryat Arba,Hebron,F
+Firas Musa Muhammad al-Khadur,9/16/2016,17,Kiryat Arba,Hebron,M
+al-Majd 'Abdallah 'Abdallah al-Khadur,6/24/2016,18,Kiryat Arba,Hebron,F
+Yusef Walid Mustafa Tarayrah,3/14/2016,17,Kiryat Arba,Hebron,M
+Amir Fouad Na'im al-Juneidi,3/14/2016,21,Kiryat Arba,Hebron,M
+Qassem Farid 'Abd al-'Aziz Jaber,3/14/2016,31,Kiryat Arba,Hebron,M
+Muhammad Fares 'Abdallah al-Ja'bari,10/9/2015,18,Kiryat Arba,Hebron,M
+'Alaa Judy Ribhi a-Natsheh,4/5/2003,20,Kiryat Arba,Hebron,M
+Muhsen al-Qawasmeh,3/7/2003,20,Kiryat Arba,Hebron,M
+Hazem al-Qawasmeh,3/7/2003,22,Kiryat Arba,Hebron,M
+'Imad a-Razim,6/20/2002,-1,Kiryat Arba,Hebron,M
+Yasser Muhareb Muhammad Jabarin,12/27/2004,32,Kh. Shuweika,Hebron,M
+Hassan Khamis Rafraf,4/17/2002,43,Karmah,Hebron,M
+'Omar Hassan Muhammad 'Awwad,12/11/2018,24,Idhna,Hebron,M
+'Alaa Jihad Ahmad a-Sghayer,7/21/2014,20,Idhna,Hebron,M
+Yasser Saqer Isma'il Itmeizah,1/13/2009,34,Idhna,Hebron,M
+Nassim Nayef Salman Fuda,1/30/2023,26,Hebron,Hebron,M
+Muamen Yasin Muhammad Judah Jaber,8/9/2022,16,Hebron,Hebron,M
+Maha Kazem 'Awad a-Za'tari,4/10/2022,25,Hebron,Hebron,F
+Ahmad Yunes Sidqi Atrash,4/1/2022,28,Hebron,Hebron,M
+Islam Ghayad Muhammad Zahdah,5/18/2021,31,Hebron,Hebron,M
+Muhammad Khalil Yunes Khalil Frejat,5/12/2021,14,Hebron,Hebron,M
+Muhammad Salman To'meh al-Hadad,2/5/2020,16,Hebron,Hebron,M
+Yasser Muhammad Fawzi Khalil a-Shweiki,3/12/2019,40,Hebron,Hebron,M
+Mu'amar 'Arif Rif'i 'Arif al-Atrash,10/22/2018,42,Hebron,Hebron,M
+Rami Wahid Hassan Sabarneh,6/2/2018,36,Hebron,Hebron,M
+Muhammad Zein Fazza' al-Ja'bri,3/9/2018,24,Hebron,Hebron,M
+Iyad Munir 'Arafat Gheith,6/28/2017,23,Hebron,Hebron,M
+Amir Jamal Ahmad a-Rajabi,9/19/2016,16,Hebron,Hebron,M
+Muhannad Jamil Ahmad a-Rajabi,9/19/2016,20,Hebron,Hebron,M
+Hatem 'Abd al-Hafiz 'Abd a-Rahim a-Shaloudi,9/17/2016,25,Hebron,Hebron,M
+Muhammad Kayed Thalji a-Rajabi,9/16/2016,15,Hebron,Hebron,M
+Sarah Dawood 'Ata Hajuj,7/1/2016,27,Hebron,Hebron,F
+Ramzi 'Aziz Mustafa Qasrawi,3/24/2016,20,Hebron,Hebron,M
+'Abd al-Fatah Yusri 'Abd al-Fatah a-Sharif,3/24/2016,20,Hebron,Hebron,M
+'Abdallah Muhammad 'Ayed Fadel 'Ajlouni,3/19/2016,16,Hebron,Hebron,M
+Kalzar Muhammad 'Abd al-Halim Muhammad 'Azmi al-'Awiwi,2/13/2016,18,Hebron,Hebron,F
+Iyad Jamal 'Issa D'eisat,12/24/2015,25,Hebron,Hebron,M
+'Udai Jihad Hussein Irsheid,12/11/2015,24,Hebron,Hebron,M
+Ihab Fathi Zakaria Maswdeh,12/7/2015,21,Hebron,Hebron,M
+Mustafa Fadel 'Abd al-Mun'im Fanun,12/4/2015,15,Hebron,Hebron,M
+Taher Feisal 'Abd al-Mun'im Fanun,12/4/2015,19,Hebron,Hebron,M
+'Abdallah 'Azzam Sha'ban Shalaldeh,11/12/2015,27,Hebron,Hebron,M
+Tharwat Ibrahim Suliman a-Sha'rawi,11/6/2015,72,Hebron,Hebron,F
+Faruk 'Abd al-Qader Muhammad 'Omar Sidr,10/29/2015,19,Hebron,Hebron,M
+Mahdi Muhammad Ramadan al-Muhtaseb,10/29/2015,23,Hebron,Hebron,M
+Islam Rafiq Hammad 'Abido,10/28/2015,22,Hebron,Hebron,M
+Humam 'Adnan Yihya Is'id,10/27/2015,22,Hebron,Hebron,M
+Sa'ed Muhammad Yusef al-Atrash,10/26/2015,19,Hebron,Hebron,M
+Daniyah Jihad Hussein Irsheid,10/25/2015,17,Hebron,Hebron,F
+Bashar Nidal Jamil al-Ja'bari,10/20/2015,15,Hebron,Hebron,M
+Husam Isma'il Jamil al-Ja'bari,10/20/2015,18,Hebron,Hebron,M
+Tareq Ziad Nu'man a-Natsheh,10/17/2015,16,Hebron,Hebron,M
+Bayan Ayman 'Abd al-Wahab 'Asilah,10/17/2015,16,Hebron,Hebron,F
+Hadil Salah a-Din Sadeq al-Hashlamun,9/22/2015,18,Hebron,Hebron,F
+Mahmoud Yihya Yunes Abu Jheishah,4/25/2015,19,Hebron,Hebron,M
+Marwan Sa'di 'Abd al-'Afo al-Qawasmeh,9/23/2014,29,Hebron,Hebron,M
+'Amer 'Omar 'Abd al-Qader Abu 'Eishah,9/23/2014,32,Hebron,Hebron,M
+Nader Muhammad Sa'di Abd al-Ghani Idris,8/8/2014,42,Hebron,Hebron,M
+Muhammad Ziad 'Awad a-Salaymeh,12/12/2012,17,Hebron,Hebron,M
+'Omar Salim Suliman al-Qawasmeh,1/7/2011,66,Hebron,Hebron,M
+Maamun Taysir Yasin a-Natsheh,10/8/2010,24,Hebron,Hebron,M
+Nashaat Na'im al-Karmi,10/8/2010,34,Hebron,Hebron,M
+Faiz Ahmad Sa'id Faraj,2/12/2010,41,Hebron,Hebron,M
+'Obaydah Maher 'Abd al-Mu'ti al-Qudsi,8/26/2009,26,Hebron,Hebron,M
+Hamam Muhammad Burhan Naser a-Din,5/6/2009,18,Hebron,Hebron,M
+'Iz a-Din Radwan Radwan al-Jamal,2/13/2009,14,Hebron,Hebron,M
+Mus'ab Naser Badwan Da'na,1/16/2009,17,Hebron,Hebron,M
+Sh'hab a-Din 'Abd al-'Aziz a-Natsheh,7/27/2008,25,Hebron,Hebron,M
+Bahaa Ahmad Fahed 'Ashur (al-'Ajloni),9/16/2007,23,Hebron,Hebron,M
+Ahmad 'Abd al-Muhsen 'Abd a-Rahim a-Skafi,7/3/2007,15,Hebron,Hebron,M
+Yihya Ishaq Karamah al-Ja'bari,6/6/2007,72,Hebron,Hebron,M
+Bashar Hmeidan al-Ja'bari,12/1/2006,22,Hebron,Hebron,M
+Zeid 'Omar 'Abd al-Qader Abu 'Eishah,11/18/2005,22,Hebron,Hebron,M
+Ihssan Muhammad 'Atiyyah Abu Hamdiyeh,7/22/2005,17,Hebron,Hebron,M
+'Omar Radi Mahmoud Hushiyah,5/29/2005,28,Hebron,Hebron,M
+Sabri Faiz Yunes a-Rajub,2/14/2005,15,Hebron,Hebron,M
+'Omar Hashem 'Abd al-Fatah al-Haymuni,11/25/2004,21,Hebron,Hebron,M
+Murad 'Ali Hassan al-Qawasmeh,11/25/2004,28,Hebron,Hebron,M
+Malek 'Abd a-Salam Mesbah Naser a-Din,7/15/2004,41,Hebron,Hebron,M
+Marwan 'Ali 'Omar al-Qawasmeh,7/9/2004,32,Hebron,Hebron,M
+Yasin 'Adel 'Abdallah a-Julani,5/6/2004,23,Hebron,Hebron,M
+"Rafiq ""Muhammad"" Ziad Ya'qub Qneibi",10/22/2003,23,Hebron,Hebron,M
+'Abd al-Hadi al-Mutaleb Abu 'Eishah a-Natsheh,10/22/2003,34,Hebron,Hebron,M
+Diab 'Abd a-Rahim 'Abd a-Rahman a-Shweiki,9/25/2003,26,Hebron,Hebron,M
+'Abd a-Rahim 'Abd al-'Aziz al-Qiq a-Talahmeh,9/25/2003,30,Hebron,Hebron,M
+Basel Muhammad Shafiq 'Abd al-Qader al-Qawasmeh,9/22/2003,26,Hebron,Hebron,M
+Ahmad Fawzi 'Abd a-Latif Abu Dosh,9/16/2003,25,Hebron,Hebron,M
+Thaer Mansur Nu'man a-Siuri,9/9/2003,9,Hebron,Hebron,M
+Ahmad 'Othman Shafiq Bader,9/9/2003,21,Hebron,Hebron,M
+'Iz a-Din Khader Shams a-Din Misk,9/9/2003,25,Hebron,Hebron,M
+Muhammad Ayub Dawood Sidr,8/14/2003,25,Hebron,Hebron,M
+'Abdallah 'Abd al-Qader Hussni al-Qawasmeh,6/21/2003,42,Hebron,Hebron,M
+Walid Hijazi Salem a-'Abido,6/8/2003,19,Hebron,Hebron,M
+'Alaa 'Abd al-Mun'im 'Alaa a-Din al-Fakhuri,6/8/2003,22,Hebron,Hebron,M
+Hafez Nazmi a-Rajabi,3/10/2003,24,Hebron,Hebron,M
+Hamzah al-Qawasmeh,1/17/2003,18,Hebron,Hebron,M
+'Imran 'Abd al-Ghani Gheith Abu Hamdiyeh,12/30/2002,17,Hebron,Hebron,M
+Muhammad Yarmur,9/28/2002,-1,Hebron,Hebron,M
+Gharam Muhammad Ibrahim Man'a,9/26/2002,1,Hebron,Hebron,F
+Muhammad Idris Faiz 'Ashur,9/2/2002,22,Hebron,Hebron,M
+'Alaa Rafa'a,9/2/2002,23,Hebron,Hebron,M
+'Abd a-Rahim Ibrahim Tawil,8/3/2002,40,Hebron,Hebron,M
+Muhammad Jihad Abu 'Awwad,6/25/2002,23,Hebron,Hebron,M
+Ashraf Muhammad Rarduq,6/25/2002,24,Hebron,Hebron,M
+Ashraf Dib,6/25/2002,24,Hebron,Hebron,M
+Khaled Tameisi,6/25/2002,26,Hebron,Hebron,M
+Hussein Yusef Muhammad 'Odeh,4/29/2002,-1,Hebron,Hebron,M
+Tareq Rasmi Dufish,4/29/2002,22,Hebron,Hebron,M
+Munzer 'Iz a-Din Katbeh,4/29/2002,22,Hebron,Hebron,M
+Fares Yasser Shahin,4/29/2002,24,Hebron,Hebron,M
+Akram Jum'ah al-Hamuri,4/29/2002,24,Hebron,Hebron,M
+Amjad Yasser Katbeh,4/29/2002,25,Hebron,Hebron,M
+Ibrahim Yasser Shahin,4/29/2002,28,Hebron,Hebron,M
+Rajaai Abu Shameh,4/29/2002,30,Hebron,Hebron,M
+Nader 'Imran Shahin,4/29/2002,31,Hebron,Hebron,M
+Ahmad Bashir,4/26/2002,-1,Hebron,Hebron,M
+Samir Abu Rajub,4/22/2002,-1,Hebron,Hebron,M
+Marwan Zalum,4/22/2002,59,Hebron,Hebron,M
+Fares Qassem Abu Ramileh,4/16/2002,24,Hebron,Hebron,M
+Esqandar Khaled Sa'adah,4/12/2002,52,Hebron,Hebron,M
+Hamzi Abu Ramuz,4/3/2002,24,Hebron,Hebron,M
+Muhammad Da'na,3/16/2002,26,Hebron,Hebron,M
+Majdi al-'Awiwi,3/15/2002,32,Hebron,Hebron,M
+Ayman Saleh Muhanna,3/11/2002,18,Hebron,Hebron,M
+Rawan 'Abd al-Qader Jabrini,3/5/2002,16,Hebron,Hebron,F
+'Abd al-Ghani Feisal Mujahed,2/21/2002,30,Hebron,Hebron,M
+Ya'qub Fathi Rabi' a-Dkeideq,12/17/2001,27,Hebron,Hebron,M
+Burhan al-Haymuni,12/10/2001,3,Hebron,Hebron,M
+Shadi Ahmad 'Arafah,12/10/2001,13,Hebron,Hebron,M
+Jamil Jadallah al-Qawasmeh,10/31/2001,25,Hebron,Hebron,M
+Taha Ribhi Abu Sneineh,10/7/2001,18,Hebron,Hebron,M
+Riyad a-Sharif,10/7/2001,32,Hebron,Hebron,M
+Hamzah Ibrahim Salem al-Qawasmeh,10/6/2001,23,Hebron,Hebron,M
+Amjad Muhammad al-Asmar al-Qawasmeh,10/6/2001,25,Hebron,Hebron,M
+Hazem 'Abd al-Majid Taleb 'Amru,10/5/2001,27,Hebron,Hebron,M
+Qassem Abu 'Afifi,10/5/2001,48,Hebron,Hebron,M
+'Abdallah 'Arafat a-Natsheh,11/23/2002,17,Har Hebron,Hebron,M
+Diab Muhammad al-Muhtaseb,11/15/2002,22,Har Hebron,Hebron,M
+Hamdi Shaker Ahmad Abu Diyah,1/17/2023,40,Halhul,Hebron,M
+Mahmoud Fayez Mahmoud Karajah,6/9/2022,28,Halhul,Hebron,M
+Haitham Isma'il Muhammad Sa'dah,2/5/2016,13,Halhul,Hebron,M
+Hassan Jihad Hassan Sa'dah,11/13/2015,21,Halhul,Hebron,M
+Ibrahim Samir Ibrahim Skafi,11/4/2015,22,Halhul,Hebron,M
+Iyad Khalil Mahmoud al-'Awawdeh,10/16/2015,26,Halhul,Hebron,M
+Hamdi Muhammad Jawad Musa al-Fallah,11/19/2012,22,Halhul,Hebron,M
+Jalal Khalil Ibrahim al-Masri,1/20/2011,28,Halhul,Hebron,M
+Shadi Rajeh 'Abdallah al-Mtur,6/22/2007,25,Halhul,Hebron,M
+Iyad 'Eid Rabi' a-Dweik,4/25/2005,32,Halhul,Hebron,M
+Yusef Muhammad Abu Khader Bsharat,6/18/2002,22,Halhul,Hebron,M
+Ahmad 'Abd al-'Aziz Zumareh,5/14/2002,26,Halhul,Hebron,M
+Khaled Abu Hiran,5/14/2002,38,Halhul,Hebron,M
+Na'im a-Zabaineh,3/13/2002,50,Halhul,Hebron,M
+Fares Khaled al-Bu,2/23/2002,22,Halhul,Hebron,M
+Tareq al-Hindawi,2/12/2002,22,Halhul,Hebron,M
+Wael 'Abd al-Fatah Abd al-Ghani al-Ja'bari,9/3/2018,36,Giv'at Ha'avot,Hebron,M
+Muhammad Jihad Muhammad Dudin,6/20/2014,15,Dura,Hebron,M
+Mu'taz Idris 'Abd al-Fatah Sharawnah,7/2/2013,18,Dura,Hebron,M
+Akram Sedqi al-Atrash,4/10/2002,28,Dura,Hebron,M
+'Aref Sayed Ahmad,4/9/2002,32,Dura,Hebron,M
+Taher 'Abd a-Dad Dudin,4/9/2002,35,Dura,Hebron,M
+Nayef Sayed Ahmad,4/9/2002,35,Dura,Hebron,M
+Muhammad 'Abd al-Qader Rajub,3/5/2002,24,Dura,Hebron,M
+Muhammad 'Abed 'Atawaneh,3/5/2002,35,Dura,Hebron,M
+'Abd al-Majid 'Ali 'Abdallah Dudin,5/28/2009,47,Dier al-'Asal a-Tahta,Hebron,M
+Yusef Sami Yusef a-Shwamrah,3/19/2014,14,Deir al-'Asal al-Foqa,Hebron,M
+Ahmad Badawi Khalil Masalmeh,6/8/2002,35,Carmei Tzur,Hebron,M
+Muhammad Raed Nayef Barad'iyah,4/1/2023,23,Beit Ummar,Hebron,M
+Mufid Muhammad Mahmoud Khlayel,11/28/2022,44,Beit Ummar,Hebron,M
+Shawkat Khaled 'Abdallah Za'aqiq,7/29/2021,19,Beit Ummar,Hebron,M
+Muhammad Muayad Bahajat Abu Sarah,7/28/2021,11,Beit Ummar,Hebron,M
+Ramzi 'Adnan Dawood Abu Yabes,11/26/2018,32,Beit Ummar,Hebron,M
+Khaled Ahmad 'Alian Ekhlil,10/30/2016,25,Beit Ummar,Hebron,M
+Khaled Bahar Ahmad Bahar,10/20/2016,15,Beit Ummar,Hebron,M
+'Omar 'Arafat 'Issa a-Za'aqiq,11/27/2015,20,Beit Ummar,Hebron,M
+Ibrahim Ahmad Mustafa 'Awad,10/8/2015,27,Beit Ummar,Hebron,M
+Fallah Hamdi Zamel Abu Maryah,7/23/2015,53,Beit Ummar,Hebron,M
+Ziad 'Omar Musleh 'Awad,4/10/2015,28,Beit Ummar,Hebron,M
+Sultan Yusef Muhammad a-Shaqadam,7/25/2014,30,Beit Ummar,Hebron,M
+'Abd al-Hamid Ahmad 'Abd al-Hamid Ibreighith,7/25/2014,38,Beit Ummar,Hebron,M
+Hashem Khader 'Abed Abu Mariyah,7/25/2014,50,Beit Ummar,Hebron,M
+Mahdi Sa'id Muhammad Abu 'Ayash,3/4/2009,17,Beit Ummar,Hebron,M
+Muhammad Anwaar Jamil al-'Alami,6/27/2008,15,Beit Ummar,Hebron,M
+Mahmoud Muhammad Mahmoud 'Awad,1/25/2008,17,Beit Ummar,Hebron,M
+Muhammad Jamil 'Amer Abu Mariyah,11/11/2004,19,Beit Ummar,Hebron,M
+Tareq Ahmad al-'Alami,3/22/2004,34,Beit Ummar,Hebron,M
+Murad Jamil Mahmoud Alkam,6/4/2002,16,Beit Ummar,Hebron,M
+Nidal al-'Almi,3/22/2002,19,Beit Ummar,Hebron,M
+Amjad Bahajat al-'Almi,3/18/2002,20,Beit Ummar,Hebron,M
+Muhammad 'Abd al-Fatah Muhammad a-Sarahin,9/15/2016,30,Beit Ula,Hebron,M
+As'ad Abu Turki Abu Sneineh,12/14/2001,21,Beit Kahil,Hebron,M
+'Abd al-Basset Abu Sneineh,12/14/2001,28,Beit Kahil,Hebron,M
+Fadi Muhammad Fayez Ghattas,9/2/2022,19,Beit 'Einun,Hebron,M
+Raafat Nazmi Shukri al-Hirbawi,7/18/2017,29,Beit 'Einun,Hebron,M
+Muayad 'Awni Muhammad Jabarin,1/14/2016,19,Beit 'Einun,Hebron,M
+'Adnan 'Ayed Hamed Mashni,1/12/2016,17,Beit 'Einun,Hebron,M
+Muhammad Ahmad Muhammad Kawazbah,1/12/2016,22,Beit 'Einun,Hebron,M
+Khalil Muhammad 'Issa Wadi,1/7/2016,15,Beit 'Einun,Hebron,M
+Fadi Hassan 'Issa al-Froukh,11/1/2015,29,Beit 'Einun,Hebron,M
+Raed Saket 'Abd a-Rahim Thalji (Jaradat),10/26/2015,22,Beit 'Einun,Hebron,M
+Ousamah Muhammad Mahmoud Jabarin,4/28/2002,15,Beit 'Einun,Hebron,M
+Bahaa Muhammad 'Abdallah 'Awawdeh,5/14/2020,19,Beit 'Awwa,Hebron,M
+Badawi Khaled Badawi al-msalmah,11/30/2019,18,Beit 'Awwa,Hebron,M
+'Udai Hashem Muhammad Masalmeh,10/20/2015,24,Beit 'Awwa,Hebron,M
+'Ali Isma'il 'Abd al-Qader a-Sawity,4/26/2010,24,Beit 'Awwa,Hebron,M
+Mahmoud Muhammad Ahmad Masalmeh,3/2/2008,15,Beit 'Awwa,Hebron,M
+Jihad Muhammad Isma'il a-Sawity,1/30/2004,39,Beit 'Awwa,Hebron,M
+'Issa Salem Mahmoud Tarayrah,9/20/2016,15,Bani Na'im,Hebron,M
+'Atiyyah Hlaiqah,9/1/2002,21,Bani Na'im,Hebron,M
+'Alaa 'Atef 'Abd al-Yassin 'Abeidah,9/1/2002,21,Bani Na'im,Hebron,M
+Husam Na'im Dib Hlaiqah,9/1/2002,33,Bani Na'im,Hebron,M
+Hisham Na'im Dib Hlaiqah,9/1/2002,33,Bani Na'im,Hebron,M
+Ya'qub Isma'il Ise'ifan al-Traeyra,4/24/2002,35,Bani Na'im,Hebron,M
+Muhammad 'Abd al-Halim al-Traeyra,4/24/2002,43,Bani Na'im,Hebron,M
+Mahmoud Khaled Mahmoud a-Najar,11/26/2013,22,al-Karmel,Hebron,M
+Sharif Hassan Muhammad Wreidat,2/9/2023,19,al-Fawar R.C.,Hebron,M
+Hussein 'Atiyyah Hussein Titi,5/12/2021,27,al-Fawar R.C.,Hebron,M
+Zeid Fadel Muhammad Qeisiyah,5/13/2020,17,al-Fawar R.C.,Hebron,M
+Muhammad Yusef Saber Abu Hashhash,8/16/2016,19,al-Fawar R.C.,Hebron,M
+Muhammad Isma'il Muhammad a-Shobaki,11/25/2015,20,al-Fawar R.C.,Hebron,M
+Khalil Muhammad Ahmad al-'Anati,8/10/2014,10,al-Fawar R.C.,Hebron,M
+Mahmoud 'Adel Fares a-Titi,3/12/2013,22,al-Fawar R.C.,Hebron,M
+Islam Muhammad Mahmoud Husniyeh,5/20/2004,14,al-Fawar R.C.,Hebron,M
+Mujahed 'Abd al-Qader Muhammad Abu 'Awwad,4/19/2004,21,al-Fawar R.C.,Hebron,M
+Rubin al-Khader,4/6/2002,14,al-Fawar R.C.,Hebron,M
+Milad Munzer Wajih a-Ra'i,9/9/2023,15,al-'Arrub R.C.,Hebron,M
+Muhammad Isma'il Muhammad Jawabreh,2/23/2023,20,al-'Arrub R.C.,Hebron,M
+Ousamah Mahmoud Hassan 'Adawi,10/12/2022,17,al-'Arrub R.C.,Hebron,M
+Ghufran Harun Hamed Warasnah,6/1/2022,30,al-'Arrub R.C.,Hebron,F
+'Obaydah Akram 'Abd a-Rahman Jawabreh,5/17/2021,17,al-'Arrub R.C.,Hebron,M
+'Omar Haitham Ahmad al-Badawi,11/11/2019,22,al-'Arrub R.C.,Hebron,M
+Murad Yusef Muhammad Abu Ghazi,3/17/2017,17,al-'Arrub R.C.,Hebron,M
+Mustafa Muhammad 'Othman Barad'iyah,7/18/2016,50,al-'Arrub R.C.,Hebron,M
+Ibrahim Muhammad 'Othman Barad'iyah,4/14/2016,53,al-'Arrub R.C.,Hebron,M
+'Omar Yusef Isma'il Madi,2/10/2016,15,al-'Arrub R.C.,Hebron,M
+Khaled Mahmoud 'Abd al-Majid Jibrin,11/26/2015,18,al-'Arrub R.C.,Hebron,M
+Muhammad 'Imad Ahmad Jawabreh,11/11/2014,19,al-'Arrub R.C.,Hebron,M
+'Eid Rabah 'Abd al-Qader Fdeilat,7/25/2014,28,al-'Arrub R.C.,Hebron,M
+Lubna Munir Sa'id al-Hanash,1/23/2013,21,al-'Arrub R.C.,Hebron,F
+Thaer Muhammad Harun 'Eid Haliqa,3/10/2004,15,al-'Arrub R.C.,Hebron,M
+Tareq Rasmi Dufish,4/27/2002,19,Adora,Hebron,M
+Akram 'Abd al-Muhsen al-Haymuni,11/15/2002,20,a-Tuwani,Hebron,M
+Munir Ahmad Hamdan al-Badarin,7/14/2014,18,a-Samu',Hebron,M
+Khalil Ahmad Mahmoud a-Za'arir,5/2/2008,30,a-Samu',Hebron,M
+'Udai Muhammad Salamah Darawish,1/12/2013,21,a-Ramadin,Hebron,M
+Wajdi Walid 'Abdallah Ja'afrah,5/15/2021,30,a-Dhahiriyah,Hebron,M
+Jamil Talab 'Odeh a-Tal,3/28/2004,34,a-Dhahiriyah,Hebron,M
+Ghaseb Mahmoud Hawarin,4/12/2003,22,a-Dhahiriyah,Hebron,M
+Basemah Musa Mutawe'a Qeisiyah,4/17/2002,35,a-Dhahiriyah,Hebron,F

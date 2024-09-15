@@ -1,0 +1,1868 @@
+Name,Date,Age,Location,District,Gender
+Husam 'Omar Ghaben,9/30/2004,21,Nissanit,North Gaza,M
+Mus'ab Muhammad Frij Jum'ah,9/30/2004,22,Nissanit,North Gaza,M
+Isma'il 'Abdallah A'bed 'Abd Rabo ('Ayad),10/23/2003,34,Nissanit,North Gaza,M
+Yunes Muhammad Abu Hararah,4/15/2002,25,Nissanit,North Gaza,M
+Muhammad Nabil Muhammad Muheisen,12/22/2017,29,Nahal Oz Checkpoint,North Gaza,M
+Yasser Naji Ibrahim Sukar,12/15/2017,23,Nahal Oz Checkpoint,North Gaza,M
+Ibrahim Nayef Ibrahim Abu Thurayyah,12/15/2017,29,Nahal Oz Checkpoint,North Gaza,M
+Muhammad Sami Hashem a-Dahduh,12/8/2017,19,Nahal Oz Checkpoint,North Gaza,M
+Rami 'Abd al-Karim Fahmi Abu Lihyah,9/19/2004,20,Nahal Oz Checkpoint,North Gaza,M
+'Abd al-Karim Muhammad 'Arafat Sukar,12/6/2003,19,Nahal Oz Checkpoint,North Gaza,M
+Ashraf 'Abd a-Salam Isma'il al-Hayah,12/6/2003,21,Nahal Oz Checkpoint,North Gaza,M
+'Abd al-Halim Jawdat Kheir a-Najar,5/11/2023,21,Jabalya R.C.,North Gaza,M
+'Alian 'Ata 'Alian Abu Wadi,5/11/2023,36,Jabalya R.C.,North Gaza,M
+Jamil Najm a-Din Jamil Nijm,8/7/2022,3,Jabalya R.C.,North Gaza,M
+Jamil Ihab Jamil Nijm,8/7/2022,13,Jabalya R.C.,North Gaza,M
+Nazmi Fayez 'Abd al-Hadi Abu Karsh,8/7/2022,15,Jabalya R.C.,North Gaza,M
+Muhammad Salah Hamed Nijm,8/7/2022,16,Jabalya R.C.,North Gaza,M
+Hamed Haydar Hamed Nijm,8/7/2022,16,Jabalya R.C.,North Gaza,M
+Ahmad Mustafa Mahmoud Saleh,9/2/2021,27,Jabalya R.C.,North Gaza,M
+Husam Muhammad 'Othman Abu Harbid,5/17/2021,36,Jabalya R.C.,North Gaza,M
+Ahmad Muhammad al-Mahdi Isma'il a-Najar,5/14/2021,32,Jabalya R.C.,North Gaza,M
+Ahmad 'Awad Muhammad a-Nazer,5/14/2021,36,Jabalya R.C.,North Gaza,M
+Nael Khaled Yunes al-Barawi,5/12/2021,22,Jabalya R.C.,North Gaza,M
+Tal'at Jamil Mahmoud Warsh Agha,5/12/2021,37,Jabalya R.C.,North Gaza,M
+'Atef 'Abd a-Rahman Jum'ah al-Barawi,5/12/2021,48,Jabalya R.C.,North Gaza,M
+Wael Mahmoud Fares al-Ghulah,5/12/2021,55,Jabalya R.C.,North Gaza,M
+'Alaa Nizar 'Ayesh Hamdan,10/4/2019,28,Jabalya R.C.,North Gaza,M
+'Ali Sami 'Ali al-Ashqar,9/6/2019,17,Jabalya R.C.,North Gaza,M
+Myasarah Musa Suliman Abu Shaluf,4/12/2019,15,Jabalya R.C.,North Gaza,M
+'Abd a-Ra'uf Isma'il Muhammad Salhah,1/11/2019,13,Jabalya R.C.,North Gaza,M
+Muhammad Khaled Mahmoud 'Abd a-Nabi,10/26/2018,27,Jabalya R.C.,North Gaza,M
+'Attaf Muhammad Musleh Saleh,9/9/2018,29,Jabalya R.C.,North Gaza,M
+Amjad Fayez Ahmad Hamdunah,7/13/2018,19,Jabalya R.C.,North Gaza,M
+'Imad Nabil 'Ali Abu Darabi,6/8/2018,20,Jabalya R.C.,North Gaza,M
+Sa'id Muhammad Sa'id Abu al-Kheir,5/14/2018,15,Jabalya R.C.,North Gaza,M
+Ibrahim Ahmad 'Ali a-Zarqah,5/14/2018,17,Jabalya R.C.,North Gaza,M
+'Imad 'Ali Sadeq a-Sheikh,5/14/2018,19,Jabalya R.C.,North Gaza,M
+Muhammad 'Abd a-Salam Muhammad Hirz,5/14/2018,20,Jabalya R.C.,North Gaza,M
+Ahmad Zuheir Hamed a-Shawa,5/14/2018,20,Jabalya R.C.,North Gaza,M
+Ahmad 'Abed Ramadan Abu Samrah,5/14/2018,20,Jabalya R.C.,North Gaza,M
+Yihya Isma'il Rajab a-Daqur,5/14/2018,21,Jabalya R.C.,North Gaza,M
+Samer Nael 'Awni a-Shawa,5/14/2018,21,Jabalya R.C.,North Gaza,M
+Mustafa Muhammad Samir al-Masri,5/14/2018,21,Jabalya R.C.,North Gaza,M
+Mahmoud Mustafa Ahmad 'Assaf,5/14/2018,23,Jabalya R.C.,North Gaza,M
+Ahmad Fayez Harb Shihadah,5/14/2018,23,Jabalya R.C.,North Gaza,M
+Khalil Isma'il Khalil Mansur,5/14/2018,24,Jabalya R.C.,North Gaza,M
+'Imad Muhammad Khalil a-Nafar,5/14/2018,24,Jabalya R.C.,North Gaza,M
+Majd Soheil Muhammad 'Aqil,5/14/2018,26,Jabalya R.C.,North Gaza,M
+Ahmad Majed Qassem 'Atallah,5/14/2018,26,Jabalya R.C.,North Gaza,M
+Naser 'Aref 'Abd a-Ra'uf al-'Arini,5/14/2018,27,Jabalya R.C.,North Gaza,M
+Ahmad Mahmoud Muhammad a-Rantisi,5/14/2018,27,Jabalya R.C.,North Gaza,M
+Mus'ab Yusef Ibrahim Abu Laylah,5/14/2018,28,Jabalya R.C.,North Gaza,M
+Muhammad Na'im Hassan Hamadah,5/14/2018,29,Jabalya R.C.,North Gaza,M
+Isma'il Khalil Ramadan a-Dahuk,5/14/2018,29,Jabalya R.C.,North Gaza,M
+Mu'taz Bassam Kamel a-Nunu,5/14/2018,30,Jabalya R.C.,North Gaza,M
+Jihad Muhammad 'Othman Musa,5/14/2018,30,Jabalya R.C.,North Gaza,M
+Shaher Mahmoud Muhammad al-Madhun,5/14/2018,31,Jabalya R.C.,North Gaza,M
+'Omar Jum'ah Mahmoud Abu Ful,5/14/2018,31,Jabalya R.C.,North Gaza,M
+Muhammad Riyad 'Abd a-Rahman al-'Aamudi,5/14/2018,31,Jabalya R.C.,North Gaza,M
+Muhammad Hani Hussni a-Najar,5/14/2018,33,Jabalya R.C.,North Gaza,M
+Musa Jaber 'Abd a-Salam Abu Hasanein,5/14/2018,34,Jabalya R.C.,North Gaza,M
+Muhammad Ibrahim Ayub Ayub,4/20/2018,14,Jabalya R.C.,North Gaza,M
+Ahmad Rashad 'Abdallah al-'Athamneh,4/20/2018,24,Jabalya R.C.,North Gaza,M
+Ahmad Nabil Muhammad 'Aqel,4/20/2018,24,Jabalya R.C.,North Gaza,M
+Ahmad Muhammad Ashraf Hassan Abu Hussein,4/13/2018,24,Jabalya R.C.,North Gaza,M
+Majdi Ramadan Musa Shabat,4/6/2018,37,Jabalya R.C.,North Gaza,M
+'Abd al-Fatah Bahajat 'Abd al-Fatah 'Abd a-Nabi,3/30/2018,18,Jabalya R.C.,North Gaza,M
+Bader Fayeq Ibrahim a-Sabagh,3/30/2018,20,Jabalya R.C.,North Gaza,M
+Muhammad Kamal Muhammad a-Najar,3/30/2018,25,Jabalya R.C.,North Gaza,M
+Thaer Muhammad 'Abd a-Ra'uf Rab'ah,3/30/2018,30,Jabalya R.C.,North Gaza,M
+Sharif al-'Abed Muhammad Shalash,12/17/2017,28,Jabalya R.C.,North Gaza,M
+'Aead Khamis Mahmoud Jum'ah,6/9/2017,19,Jabalya R.C.,North Gaza,M
+Fadel Muhammad Muhammad Halawah,11/23/2014,32,Jabalya R.C.,North Gaza,M
+Ousamah Hamdi 'Abd a-Latif a-Shalfouh,8/25/2014,22,Jabalya R.C.,North Gaza,M
+Ousamah Muhammad Sa'id Shbeir,8/25/2014,25,Jabalya R.C.,North Gaza,M
+Husam 'Abd Rabo Muhammad Abu Jaser,8/21/2014,45,Jabalya R.C.,North Gaza,M
+'Iz a-Din Ghazi Hassan Ta'imah,8/4/2014,19,Jabalya R.C.,North Gaza,M
+Raghad Muhammad Sa'di Nijem al-Masri,8/3/2014,3,Jabalya R.C.,North Gaza,F
+Shaimaa Wael Mahmoud Qassem,8/3/2014,14,Jabalya R.C.,North Gaza,F
+Ahmad Muhammad 'Abd al-Karim Abu Nijem,8/3/2014,17,Jabalya R.C.,North Gaza,M
+Muhammad Muhammad 'Abd al-Karim Abu Nijem,8/3/2014,20,Jabalya R.C.,North Gaza,M
+Bilal Muhammad 'Abd al-Karim Abu Nijem,8/3/2014,26,Jabalya R.C.,North Gaza,M
+'Abd a-Naser 'Abd al-Khaleq Ibrahim al-'Ajuri,8/3/2014,26,Jabalya R.C.,North Gaza,M
+Suha Hamed 'Abd al-Karim Nijem al-Masri,8/3/2014,29,Jabalya R.C.,North Gaza,F
+Danyal Kamel Muhammad Mansur,8/3/2014,41,Jabalya R.C.,North Gaza,M
+Muhammad 'Abd al-Karim Muhammad Abu Nijem,8/3/2014,54,Jabalya R.C.,North Gaza,M
+'Abd al-Karim Muhammad 'Awad Abu Nijem,8/3/2014,92,Jabalya R.C.,North Gaza,M
+Ihab Muhammad Muhammad Sihweil,7/30/2014,15,Jabalya R.C.,North Gaza,M
+Ousamah Muhammad Muhammad Sihweil,7/30/2014,16,Jabalya R.C.,North Gaza,M
+Alaa Khader Ramadan Salman,7/30/2014,17,Jabalya R.C.,North Gaza,F
+'Abdallah Midhat Ahmad al-'Aamudi,7/30/2014,18,Jabalya R.C.,North Gaza,M
+'Udai Yihya Zaki Jneid,7/30/2014,19,Jabalya R.C.,North Gaza,M
+'Abd al-Jalil Jihad 'Arafat 'Abd a-Dayem,7/30/2014,21,Jabalya R.C.,North Gaza,M
+Ramadan Khader Ramadan Salman,7/30/2014,23,Jabalya R.C.,North Gaza,M
+Bilal Midhat Ahmad al-'Aamudi,7/30/2014,26,Jabalya R.C.,North Gaza,M
+Muhammad Harb Hassan Ghaben,7/30/2014,27,Jabalya R.C.,North Gaza,M
+'Issam Jaber Mustafa al-Khatib,7/30/2014,27,Jabalya R.C.,North Gaza,M
+Isma'il Bassam Khalil al-Qassas,7/30/2014,27,Jabalya R.C.,North Gaza,M
+Farid Shawqi Muhammad Jneid,7/30/2014,31,Jabalya R.C.,North Gaza,M
+Muhammad Musa Muhammad Ghaben,7/30/2014,32,Jabalya R.C.,North Gaza,M
+Luai Talal Khamis al-Feiri,7/30/2014,33,Jabalya R.C.,North Gaza,M
+Rami 'Ali Muhammad Barakat,7/30/2014,36,Jabalya R.C.,North Gaza,M
+Ibrahim Muhammad Khader Salman,7/30/2014,40,Jabalya R.C.,North Gaza,M
+Bassem Khalad Ahmad a-Najar,7/30/2014,42,Jabalya R.C.,North Gaza,M
+Sa'id Mustafa Ahmad Abu Jalalah,7/30/2014,46,Jabalya R.C.,North Gaza,M
+Jihad 'Arafat Muhammad 'Abd a-Dayem,7/30/2014,48,Jabalya R.C.,North Gaza,M
+'Adel 'Abdallah Mahmoud Qamar,7/30/2014,51,Jabalya R.C.,North Gaza,M
+Midhat Ahmad Shihadah al-'Aamudi,7/30/2014,53,Jabalya R.C.,North Gaza,M
+Shaher Khaled Ahmad a-Najar,7/30/2014,54,Jabalya R.C.,North Gaza,M
+Taysir Hassan Ibrahim Hammad,7/30/2014,56,Jabalya R.C.,North Gaza,M
+Wadi'ah Muhammad Kheir Sa'id a-Zein,7/29/2014,29,Jabalya R.C.,North Gaza,F
+Samih Jebril Rizeq Jneid,7/28/2014,4,Jabalya R.C.,North Gaza,M
+Muhammad Taleb Muhammad 'Assaf,7/28/2014,7,Jabalya R.C.,North Gaza,M
+Muhammad Musa Marzuq 'Alwan,7/28/2014,9,Jabalya R.C.,North Gaza,M
+Hend 'Imad Muhammad Qadurah,7/28/2014,9,Jabalya R.C.,North Gaza,F
+Yusef 'Imad Muhammad Qadurah,7/28/2014,10,Jabalya R.C.,North Gaza,M
+Hani Muhammad 'Abed Abu Khalifah,7/28/2014,36,Jabalya R.C.,North Gaza,M
+Sa'id 'Abd al-Majid 'Ali a-Nadi,7/28/2014,54,Jabalya R.C.,North Gaza,M
+Fayzeh Ahmad 'Abd al-Fatah a-Nadi,7/28/2014,54,Jabalya R.C.,North Gaza,F
+Maryam Ahmad Khalil 'Abd Rabo,7/28/2014,67,Jabalya R.C.,North Gaza,F
+Ibrahim 'Abd a-Rahman 'Abdallah Sama'aneh,7/25/2014,17,Jabalya R.C.,North Gaza,M
+'Abd a-Rahman Mahmoud 'Abd al-Fatah 'Abd a-Nabi,7/24/2014,1,Jabalya R.C.,North Gaza,M
+Hadi 'Abd al-Hamid 'Abd al-Fatah 'Abd a-Nabi,7/24/2014,3,Jabalya R.C.,North Gaza,M
+Adham Ahmad Ibrahim Abu 'Aytah,7/24/2014,4,Jabalya R.C.,North Gaza,M
+Ahmad Ibrahim 'Abdallah Abu 'Aytah,7/24/2014,31,Jabalya R.C.,North Gaza,M
+Muhammad Ibrahim 'Abdallah Abu 'Aytah,7/24/2014,32,Jabalya R.C.,North Gaza,M
+Jamileh Salim 'Eid Abu 'Aytah,7/24/2014,55,Jabalya R.C.,North Gaza,F
+Ibrahim 'Abdallah Ibrahim Abu 'Aytah,7/24/2014,66,Jabalya R.C.,North Gaza,M
+Ayman Adham Yusef al-Haj Ahmad,7/23/2014,16,Jabalya R.C.,North Gaza,M
+Bilal Zayed Ahmad 'Alwan,7/23/2014,20,Jabalya R.C.,North Gaza,M
+Yusef Kamal Qadurah Hamuda,7/23/2014,23,Jabalya R.C.,North Gaza,M
+Yazid Sa'di Mustafa al-Batsh,7/23/2014,23,Jabalya R.C.,North Gaza,M
+Wael Bashir Yihya 'Assaf,7/23/2014,24,Jabalya R.C.,North Gaza,M
+Majed Mahmoud Muhammad Hamid,7/23/2014,28,Jabalya R.C.,North Gaza,M
+Mahmoud 'Awad 'Ali Ziyadah,7/23/2014,47,Jabalya R.C.,North Gaza,M
+Layla A'bbas Isma'il al-Wahidi,7/22/2014,61,Jabalya R.C.,North Gaza,F
+Hatem Zein Nayef al-Yazji,7/21/2014,2,Jabalya R.C.,North Gaza,M
+Yasmin Nayef Hatem al-Yazji,7/21/2014,4,Jabalya R.C.,North Gaza,F
+'Atiyyah Naser Hussein Dardunah,7/21/2014,26,Jabalya R.C.,North Gaza,M
+Safinaz Nabih 'Issa al-Yazji,7/21/2014,51,Jabalya R.C.,North Gaza,F
+Wajdi Mahmoud 'Ali al-Yazji,7/21/2014,54,Jabalya R.C.,North Gaza,M
+Mustafa Khamis Mustafa 'Alwan,7/20/2014,22,Jabalya R.C.,North Gaza,M
+'Abd a-Rahman Mustafa Diab al-Faqih,7/20/2014,26,Jabalya R.C.,North Gaza,M
+Wisam Majdi Muhammad Hamuda,7/20/2014,29,Jabalya R.C.,North Gaza,M
+Ghadah Ibrahim Suliman 'Udwan,7/20/2014,38,Jabalya R.C.,North Gaza,F
+Anas Yusef Ahmad Qandil,7/12/2014,17,Jabalya R.C.,North Gaza,M
+Muhammad Idris 'Abd al-Hamid Abu Sweilem,7/12/2014,20,Jabalya R.C.,North Gaza,M
+Muhammad 'Abdallah Muhammad a-Sharathah,7/12/2014,20,Jabalya R.C.,North Gaza,M
+Yusef Ahmad 'Abd al-Qader Qandil,7/12/2014,38,Jabalya R.C.,North Gaza,M
+'Abd a-Rahim Saleh 'Abd a-Rahim al-Khatib,7/12/2014,38,Jabalya R.C.,North Gaza,M
+Husam Dib 'Othman a-Razaynah,7/12/2014,39,Jabalya R.C.,North Gaza,M
+Ahmad Nael Nizar Mahdi,7/8/2014,14,Jabalya R.C.,North Gaza,M
+Anwar Muhammad 'Alian al-Mamluk,1/11/2013,19,Jabalya R.C.,North Gaza,M
+'Abir Talal Sa'di al-'Asali,11/21/2012,11,Jabalya R.C.,North Gaza,F
+Ayman Talal Sa'di al-'Asali,11/21/2012,19,Jabalya R.C.,North Gaza,M
+Mustafa 'Awad Mustafa Abu Hmeidan,11/21/2012,22,Jabalya R.C.,North Gaza,M
+Ibrahim Muhisen Muhammad Shihadah,11/21/2012,22,Jabalya R.C.,North Gaza,M
+Talal Sa'di Mahmoud al-'Asali,11/21/2012,48,Jabalya R.C.,North Gaza,M
+Bilal Muheisen Khalil al-Barawi,11/20/2012,21,Jabalya R.C.,North Gaza,M
+'Abd a-Rahman Mustafa 'Abd a-Rahman Hamad,11/20/2012,28,Jabalya R.C.,North Gaza,M
+Suhaib Fouad Khalil Hijazi,11/19/2012,2,Jabalya R.C.,North Gaza,M
+Muhammad Fouad Khalil Hijazi,11/19/2012,4,Jabalya R.C.,North Gaza,M
+Fouad Khalil Ibrahim Hijazi,11/19/2012,46,Jabalya R.C.,North Gaza,M
+Hussein Jalal Muhammad Naser,11/18/2012,6,Jabalya R.C.,North Gaza,M
+Jalal Muhammad Saleh Naser,11/18/2012,36,Jabalya R.C.,North Gaza,M
+Marwan 'Abd a-Rahman Muhammad Abu al-Qumsan,11/15/2012,52,Jabalya R.C.,North Gaza,M
+Muhammad Fouad Muhammad A'beid,11/11/2012,22,Jabalya R.C.,North Gaza,M
+Ashraf Nimer Harb Sabah,10/13/2012,36,Jabalya R.C.,North Gaza,M
+Hisham 'Ali 'Abd al-Karim a-Sa'idani,10/13/2012,43,Jabalya R.C.,North Gaza,M
+Hashem Musbah Salem Sa'ed,4/3/2012,17,Jabalya R.C.,North Gaza,M
+'Abdallah Khatab 'Omar a-Talbani,12/27/2011,22,Jabalya R.C.,North Gaza,M
+Samed 'Abd al-Mu'ti A'bed A'bed,8/19/2011,25,Jabalya R.C.,North Gaza,M
+Muhammad Na'im Muhammad al-Hamaydah,4/4/2009,20,Jabalya R.C.,North Gaza,M
+Jamil Muhammad 'Aref Qafah,4/4/2009,22,Jabalya R.C.,North Gaza,M
+Hammad Barrak Salem Salimeh,2/14/2009,13,Jabalya R.C.,North Gaza,M
+Fawzeyeh Fawaz Ahmad Saleh,1/17/2009,3,Jabalya R.C.,North Gaza,F
+Ahmad Fawaz Ahmad Saleh,1/17/2009,4,Jabalya R.C.,North Gaza,M
+Anwaar Marwan Fa'iq Shihadah,1/17/2009,13,Jabalya R.C.,North Gaza,F
+'Omar Mahmoud Ramadan al-Marnakh,1/16/2009,17,Jabalya R.C.,North Gaza,M
+'Issa Muhammad Jaber Abu 'Aydah,1/15/2009,15,Jabalya R.C.,North Gaza,M
+Hassan Hisham a-Saqa,1/14/2009,21,Jabalya R.C.,North Gaza,M
+Hamdi Saleh Muhammad Hamadah,1/14/2009,24,Jabalya R.C.,North Gaza,M
+Qassem Tal'at Jamil 'Abd a-Nabi,1/13/2009,6,Jabalya R.C.,North Gaza,M
+Bassem Tal'at Jamil 'Abd a-Nabi,1/13/2009,11,Jabalya R.C.,North Gaza,M
+Jebril 'Atiyyah Ibrahim Mansur,1/13/2009,18,Jabalya R.C.,North Gaza,M
+Sadam Jamil Salim 'Abd a-Nabi,1/13/2009,19,Jabalya R.C.,North Gaza,M
+Yasser Shihab a-Din 'Akashah,1/13/2009,27,Jabalya R.C.,North Gaza,M
+Fadel Allah 'Imad Hassan a-Najar,1/12/2009,1,Jabalya R.C.,North Gaza,M
+Nashaat Raed Zaki al-Feiri,1/12/2009,11,Jabalya R.C.,North Gaza,M
+Iyad Khamis 'Abed al-Bana,1/12/2009,21,Jabalya R.C.,North Gaza,M
+Faiz Ahmad Muhammad Abu Wardeh,1/12/2009,30,Jabalya R.C.,North Gaza,M
+'Anan Nimer Sha'ban Mansur,1/12/2009,43,Jabalya R.C.,North Gaza,M
+Dawood Muhammad Ghali 'Asaliyah,1/10/2009,35,Jabalya R.C.,North Gaza,M
+Ibrahim Muhammad Ghali 'Asaliyah,1/10/2009,42,Jabalya R.C.,North Gaza,M
+Ibrahim Muhammad Mustafa Abu Hmeidan,1/10/2009,74,Jabalya R.C.,North Gaza,M
+Tamer Jamal Mahmoud Abu Hleil,1/9/2009,23,Jabalya R.C.,North Gaza,M
+Basmah Yasser 'Abd Rabo al-Jilawi,1/8/2009,5,Jabalya R.C.,North Gaza,F
+Ihssan 'Alian 'Abd a-Rahman al-Ashqar,1/7/2009,24,Jabalya R.C.,North Gaza,M
+Muhammad 'Alian 'Abd a-Rahman al-Ashqar,1/7/2009,30,Jabalya R.C.,North Gaza,M
+Hazem 'Alian 'Abd a-Rahman al-Ashqar,1/7/2009,31,Jabalya R.C.,North Gaza,M
+Muhammad Muhammad Ahmad Abu Rakbah,1/7/2009,85,Jabalya R.C.,North Gaza,M
+Adam Maamun Saqer al-Kurdi,1/6/2009,3,Jabalya R.C.,North Gaza,M
+Muhammad Taysir Muhammad Zamlat,1/6/2009,10,Jabalya R.C.,North Gaza,M
+Ranin 'Abdallah Ahmad Saleh,1/6/2009,11,Jabalya R.C.,North Gaza,F
+Samia Fathi 'Abd al-Fatah Saleh,1/6/2009,18,Jabalya R.C.,North Gaza,F
+Hamdi Yusef Ibrahim Hammad,1/6/2009,33,Jabalya R.C.,North Gaza,M
+Taysir Muhammad 'Abd al-'Aziz Zamlat,1/6/2009,48,Jabalya R.C.,North Gaza,M
+Mahzeyah Shihadah Hassan Saleh,1/6/2009,50,Jabalya R.C.,North Gaza,F
+Isma'il Muhammad Mahmoud Abu Nasser,1/6/2009,54,Jabalya R.C.,North Gaza,M
+'Abdallah Ahmad Qadurah Saleh,1/6/2009,54,Jabalya R.C.,North Gaza,M
+Heijar Isma'il Yusef Nseiwi,1/6/2009,60,Jabalya R.C.,North Gaza,F
+Khadijeh 'Abd a-Razeq 'Abd al-Fatah Zamlat,1/6/2009,71,Jabalya R.C.,North Gaza,F
+Mahmoud Muhammad Khamis Abu Qamer,1/5/2009,14,Jabalya R.C.,North Gaza,M
+Hussein Khalil Ibrahim Jarad,1/5/2009,22,Jabalya R.C.,North Gaza,M
+Yunes Muhammad 'Abd al-Wahab al-Ghandur,1/5/2009,23,Jabalya R.C.,North Gaza,M
+Basel 'Abd al-Hamid Mahmoud Abu Ghaben,1/5/2009,39,Jabalya R.C.,North Gaza,M
+'Ali Salamah Diab al-Khatib,1/5/2009,41,Jabalya R.C.,North Gaza,M
+Wadi' Amin 'Omar 'Omar,1/4/2009,2,Jabalya R.C.,North Gaza,M
+'Abd a-Rahman Ahmad 'Abd Rabo al-'Atawneh,1/4/2009,15,Jabalya R.C.,North Gaza,M
+"Ousamah Muhammad ""Mesleh"" Rajab Suliman",1/4/2009,20,Jabalya R.C.,North Gaza,M
+Samir 'Aiyadah Yusef a-Sharafi,1/4/2009,47,Jabalya R.C.,North Gaza,M
+Hani Muhammad Musa a-Silawi,1/3/2009,6,Jabalya R.C.,North Gaza,M
+Muhammad Musa Isma'il a-Silawi,1/3/2009,11,Jabalya R.C.,North Gaza,M
+Hassan Nassim 'Amer Hiju,1/3/2009,15,Jabalya R.C.,North Gaza,M
+Ahmad As'ad Dib Tbeil,1/3/2009,15,Jabalya R.C.,North Gaza,M
+Rajeh Nahed Rajeh Ziyadah,1/3/2009,17,Jabalya R.C.,North Gaza,M
+Bahaa Bassam Hassan al-Ashqar,1/3/2009,19,Jabalya R.C.,North Gaza,M
+Raed 'Abd a-Rahman Muhammad al-Masamhah,1/3/2009,20,Jabalya R.C.,North Gaza,M
+Ahmad Isma'il Musa a-Silawi,1/3/2009,20,Jabalya R.C.,North Gaza,M
+Sa'id Salah Sa'id Battah,1/3/2009,22,Jabalya R.C.,North Gaza,M
+Yusef Ziad Ahmad Zaqut,1/3/2009,24,Jabalya R.C.,North Gaza,M
+Ahmad Hamed Hassan Abu 'Aytah,1/3/2009,24,Jabalya R.C.,North Gaza,M
+'Omar 'Abd al-Hafez Musa a-Silawi,1/3/2009,27,Jabalya R.C.,North Gaza,M
+Muhannad 'Abd al-Hafez Musa a-Tanani,1/3/2009,35,Jabalya R.C.,North Gaza,M
+Ibrahim Musa 'Issa a-Silawi,1/3/2009,44,Jabalya R.C.,North Gaza,M
+'Abd a-Rahman Muhammad Qteifan al-Masamhah,1/3/2009,46,Jabalya R.C.,North Gaza,M
+Muhammad 'Issam Muhammad Naser,1/2/2009,24,Jabalya R.C.,North Gaza,M
+Nael Hassan Matar Ramadan (Shuha),1/2/2009,27,Jabalya R.C.,North Gaza,M
+As'ad Nizar 'Abd al-Qader Rayan,1/1/2009,1,Jabalya R.C.,North Gaza,M
+Ousamah Nizar 'Abd al-Qader Rayan,1/1/2009,2,Jabalya R.C.,North Gaza,M
+'Eashah Nizar 'Abd al-Qader Rayan,1/1/2009,2,Jabalya R.C.,North Gaza,F
+Rim Nizar 'Abd al-Qader Rayan,1/1/2009,4,Jabalya R.C.,North Gaza,F
+Halimah Nizar 'Abd al-Qader Rayan,1/1/2009,4,Jabalya R.C.,North Gaza,F
+'Abd a-Rahman Nizar 'Abd al-Qader Rayan,1/1/2009,5,Jabalya R.C.,North Gaza,M
+Zeinab Nizar 'Abd al-Qader Rayan,1/1/2009,8,Jabalya R.C.,North Gaza,F
+Maryam Nizar 'Abd al-Qader Rayan,1/1/2009,9,Jabalya R.C.,North Gaza,F
+Aya Nizar 'Abd al-Qader Rayan,1/1/2009,11,Jabalya R.C.,North Gaza,F
+'Abd al-Qader Nizar 'Abd al-Qader Rayan,1/1/2009,11,Jabalya R.C.,North Gaza,M
+Ghassan Nizar 'Abd al-Qader Rayan,1/1/2009,16,Jabalya R.C.,North Gaza,M
+Shirin Sa'id Rayan,1/1/2009,25,Jabalya R.C.,North Gaza,F
+Nawal Isma'il Rayan,1/1/2009,40,Jabalya R.C.,North Gaza,F
+Iman Khalil Rayan,1/1/2009,45,Jabalya R.C.,North Gaza,F
+Hiyam 'Abd a-Rahman Rayan,1/1/2009,45,Jabalya R.C.,North Gaza,F
+Nizar 'Abd al-Qader Muhammad Rayan,1/1/2009,50,Jabalya R.C.,North Gaza,M
+Jawaher Anwaar Khalil Ba'lushah,12/29/2008,4,Jabalya R.C.,North Gaza,F
+Dina Anwaar Khalil Ba'lushah,12/29/2008,7,Jabalya R.C.,North Gaza,F
+Samar Anwaar Khalil Ba'lushah,12/29/2008,12,Jabalya R.C.,North Gaza,F
+'Imad Jamal Shehdeh Abu Khater,12/29/2008,14,Jabalya R.C.,North Gaza,M
+Ikram Anwaar Khalil Ba'lushah,12/29/2008,14,Jabalya R.C.,North Gaza,F
+Thaer Shaker Sha'ban Kermutt,12/29/2008,16,Jabalya R.C.,North Gaza,M
+Tareq Yasser Muhammad 'Afanah,12/29/2008,16,Jabalya R.C.,North Gaza,M
+Tahrir Anwaar Khalil Ba'lushah,12/29/2008,17,Jabalya R.C.,North Gaza,F
+Muhammad Muhyi a-Din Ahmad al-Madhun,12/29/2008,47,Jabalya R.C.,North Gaza,M
+Hamzah Taysir Yusef Shahin,12/26/2008,21,Jabalya R.C.,North Gaza,M
+Muhammad Hassan Muhammad 'Asaliyah,6/11/2008,65,Jabalya R.C.,North Gaza,M
+Majd Ziad Muhammad 'Okal,5/20/2008,11,Jabalya R.C.,North Gaza,M
+Ibrahim Hassan Ibrahim Salhah,5/14/2008,17,Jabalya R.C.,North Gaza,M
+Hamdi 'Abd al-Majid Shihadah Khader,5/14/2008,18,Jabalya R.C.,North Gaza,M
+Bassem Muhsen Mahmoud 'Ashur,5/14/2008,20,Jabalya R.C.,North Gaza,M
+Hamdi Muhammad Musa Shbeir,5/8/2008,26,Jabalya R.C.,North Gaza,M
+'Abdallah Muhammad 'Abdallah Abu al-Ghassin,4/15/2008,39,Jabalya R.C.,North Gaza,M
+Mahmoud 'Abd al-Khaleq Muhammad Abu 'Aytah,3/2/2008,19,Jabalya R.C.,North Gaza,M
+Raed Rizeq 'Eid Jneid,3/2/2008,30,Jabalya R.C.,North Gaza,M
+Na'im Ahmad Musa Hasnah,3/2/2008,47,Jabalya R.C.,North Gaza,M
+Salwa Zidan Muhammad Ghali 'Asaliyah,3/1/2008,13,Jabalya R.C.,North Gaza,F
+Muhammad Hani Hussein al-Mabhuh,3/1/2008,16,Jabalya R.C.,North Gaza,M
+Mahmoud Nayef Hamtu Haneideq,3/1/2008,16,Jabalya R.C.,North Gaza,M
+Ahmad Nimer 'Abd a-Latif Zaghrah,3/1/2008,16,Jabalya R.C.,North Gaza,M
+Samah Zidan Muhammad Ghali 'Asaliyah,3/1/2008,18,Jabalya R.C.,North Gaza,F
+Mustafa Sa'id Mustafa Abu Jalalah,3/1/2008,19,Jabalya R.C.,North Gaza,M
+Sari Fathi Muhammad A'beid,3/1/2008,20,Jabalya R.C.,North Gaza,M
+Hassan Rashad Mustafa Abu Safi,3/1/2008,20,Jabalya R.C.,North Gaza,M
+Yasser Isma'il Ibrahim Abu 'Odeh,3/1/2008,21,Jabalya R.C.,North Gaza,M
+Nuhad 'Abd al-Hadi Muhammad Daher,3/1/2008,21,Jabalya R.C.,North Gaza,F
+Mustafa Naser Mustafa Manun,3/1/2008,21,Jabalya R.C.,North Gaza,M
+Mahmoud Munzer 'Abd al-Qader Rayan,3/1/2008,21,Jabalya R.C.,North Gaza,M
+Sa'id Ahmad Sa'id al-Hashim,3/1/2008,22,Jabalya R.C.,North Gaza,M
+'Abd al-Hamid Hamadah Muhammad Hamadah,3/1/2008,24,Jabalya R.C.,North Gaza,M
+Saed Muhammad 'Ata a-Dabur,3/1/2008,25,Jabalya R.C.,North Gaza,M
+Mahmoud 'Abd al-Mu'ti Ahmad Islim,3/1/2008,28,Jabalya R.C.,North Gaza,M
+Ghadah al-'Abed Ahmad Saleh,3/1/2008,30,Jabalya R.C.,North Gaza,F
+Iyad 'Abd al-Karim Muhammad al-Ashram,2/29/2008,27,Jabalya R.C.,North Gaza,M
+'Ali Munir Muhammad Dardunah,2/28/2008,6,Jabalya R.C.,North Gaza,M
+Dardunah Dib Khalil Dardunah,2/28/2008,10,Jabalya R.C.,North Gaza,M
+Muhammad Na'im Mahmoud Hamuda,2/28/2008,13,Jabalya R.C.,North Gaza,M
+'Omar Hussein Muhammad Dardunah,2/28/2008,14,Jabalya R.C.,North Gaza,M
+Muhammad Khalil Suliman Hamadah,2/27/2008,13,Jabalya R.C.,North Gaza,M
+Bilal Kamel Fakhri Hijazi,2/27/2008,14,Jabalya R.C.,North Gaza,M
+Mnawar Rizeq 'Awad Abu Mandil,2/27/2008,36,Jabalya R.C.,North Gaza,M
+Hammad Murshed 'Atiyyah al-Masalhah,2/27/2008,52,Jabalya R.C.,North Gaza,M
+'Ali Jum'ah Ahmad Jum'ah,1/19/2008,26,Jabalya R.C.,North Gaza,M
+Ihab 'Ali Dawood al-Bana,1/19/2008,28,Jabalya R.C.,North Gaza,M
+Samir 'Awadallah Khalil Baker,12/18/2007,32,Jabalya R.C.,North Gaza,M
+Ousamah 'Ali 'Abd al-Majid Yasin,12/18/2007,32,Jabalya R.C.,North Gaza,M
+Muhammad Sa'id Mahmoud a-Taramsi,12/18/2007,34,Jabalya R.C.,North Gaza,M
+Husam Mahmoud Muhammad Abu Habel,12/18/2007,34,Jabalya R.C.,North Gaza,M
+Fadi 'Abd a-Sater Salman 'Assaf,11/26/2007,20,Jabalya R.C.,North Gaza,M
+Ashraf Zaher Salman al-'Ur,11/4/2007,17,Jabalya R.C.,North Gaza,M
+Muhammad Suliman Abu Harbid,11/4/2007,28,Jabalya R.C.,North Gaza,M
+Zaher Salman Salim al-'Ur,11/4/2007,36,Jabalya R.C.,North Gaza,M
+Yusef 'Odeh Salamah al-Walaydeh,10/26/2007,21,Jabalya R.C.,North Gaza,M
+Bilal Jamal Ramadan Abu Ishekian,10/1/2007,21,Jabalya R.C.,North Gaza,M
+Ahmad 'Ayesh Ahmad al-'Aamudi,10/1/2007,22,Jabalya R.C.,North Gaza,M
+Hatem Mahdi Muhammad Hamid,5/19/2007,17,Jabalya R.C.,North Gaza,M
+Anis Yusef 'Abd a-Rahman Musa,11/23/2006,24,Jabalya R.C.,North Gaza,M
+Iyad Nathir Ahmad Swelem,11/8/2006,24,Jabalya R.C.,North Gaza,M
+Raed 'Ali 'Abd al-Majid Yasin,11/3/2006,16,Jabalya R.C.,North Gaza,M
+Ahmad Fathi 'Abdallah Naji,11/3/2006,16,Jabalya R.C.,North Gaza,M
+Muhammad Nabil Salim Abu M'awad,11/3/2006,18,Jabalya R.C.,North Gaza,M
+Ayman 'Ali 'Abd al-Majid Yasin,11/3/2006,18,Jabalya R.C.,North Gaza,M
+Mustafa Ibrahim 'Abd al-Karim Habib,11/3/2006,26,Jabalya R.C.,North Gaza,M
+Suliman 'Abdallah Dib 'Alwan,11/3/2006,42,Jabalya R.C.,North Gaza,M
+Ahmad Shehdeh Muhammad al-Madhun,11/3/2006,42,Jabalya R.C.,North Gaza,M
+Shadi Jamal Mahmoud a-Sharif,11/2/2006,25,Jabalya R.C.,North Gaza,M
+Ghazi Hassan Shreiqi Abu Dahruj,10/18/2006,28,Jabalya R.C.,North Gaza,M
+Zaher Isma'il 'Abdallah a-Tanani,10/17/2006,20,Jabalya R.C.,North Gaza,M
+Sakher Faiz Muhammad Abu Jabal,10/14/2006,19,Jabalya R.C.,North Gaza,M
+Ahmad Hassan 'Abd al-Fatah Abu al-'Anin,10/14/2006,19,Jabalya R.C.,North Gaza,M
+Muhammad Faiz Mustafa Shaqurah,10/14/2006,21,Jabalya R.C.,North Gaza,M
+Rami 'Odeh Salem Abu Rashed,10/14/2006,22,Jabalya R.C.,North Gaza,M
+Suliman Hassan Fadel al-'Ur,10/14/2006,30,Jabalya R.C.,North Gaza,M
+Faiz 'Ali Fadel al-'Ur,10/14/2006,33,Jabalya R.C.,North Gaza,M
+Anas Khaled 'Abd a-Salam Zamlat,7/26/2006,11,Jabalya R.C.,North Gaza,M
+Ahmad 'Ata Zayed a-Z'anin,6/9/2006,21,Jabalya R.C.,North Gaza,M
+Basel 'Ata Zayed a-Z'anin,6/9/2006,27,Jabalya R.C.,North Gaza,M
+Khaled Yusef Ahmad a-Z'anin,6/9/2006,44,Jabalya R.C.,North Gaza,M
+'Imad Muhammad 'Ali 'Asaliyah,6/5/2006,26,Jabalya R.C.,North Gaza,M
+Majdi Taysir Hassan Hammad,6/5/2006,29,Jabalya R.C.,North Gaza,M
+Hassan 'Ali Harb 'Asfur,2/6/2006,24,Jabalya R.C.,North Gaza,M
+Rami Khamis Hassan Abd al-'Aziz (Hanun),2/6/2006,27,Jabalya R.C.,North Gaza,M
+Husam Nabil Ibrahim Abu Nada,12/14/2005,21,Jabalya R.C.,North Gaza,M
+Hamdan Mahmoud Mhanna,12/14/2005,21,Jabalya R.C.,North Gaza,M
+Rashad Muhammad 'Ali a-Zen,12/14/2005,25,Jabalya R.C.,North Gaza,M
+Muhammad Ahmad Muhammad Jiha,12/14/2005,25,Jabalya R.C.,North Gaza,M
+Iyad Hussein S'ud a-Najar,12/8/2005,30,Jabalya R.C.,North Gaza,M
+Iyad Muhammad Ibrahim Qadas,12/8/2005,33,Jabalya R.C.,North Gaza,M
+Khader Fouad Isma'il Rayan,12/8/2005,35,Jabalya R.C.,North Gaza,M
+Hassan 'Atiyyah Hassan al-Madhun,11/1/2005,31,Jabalya R.C.,North Gaza,M
+Fawzi Muhammad Shihadah Abu al-Qar'a,11/1/2005,36,Jabalya R.C.,North Gaza,M
+Karam Muhammad Muhammad Abu Naji,10/27/2005,13,Jabalya R.C.,North Gaza,M
+Saleh Sa'id Muhammad Abu Naji,10/27/2005,15,Jabalya R.C.,North Gaza,M
+Rami Riyad Ayman 'Assaf,10/27/2005,17,Jabalya R.C.,North Gaza,M
+Shadi Soheil Sakeb Mhanna,10/27/2005,26,Jabalya R.C.,North Gaza,M
+Muhammad Ahmad Muhammad Qandil,10/27/2005,47,Jabalya R.C.,North Gaza,M
+Faiz Hassan Musa Badran,10/27/2005,49,Jabalya R.C.,North Gaza,M
+Muhammad Rameih 'Abdallah al-Wahidi,10/27/2005,55,Jabalya R.C.,North Gaza,M
+Muhammad Khalil Ibrahim Abu Naser,12/22/2004,19,Jabalya R.C.,North Gaza,M
+Jihad Ibrahim Muhammad Abu Laylah,11/19/2004,33,Jabalya R.C.,North Gaza,M
+Raed Khalil Abu Seif,10/15/2004,20,Jabalya R.C.,North Gaza,M
+Wael Musa Mahmoud Saleh,10/15/2004,21,Jabalya R.C.,North Gaza,M
+Amin Khalil Ma'sud,10/15/2004,25,Jabalya R.C.,North Gaza,M
+Fatimah Muhammad Hussein,10/15/2004,65,Jabalya R.C.,North Gaza,F
+Muhyi a-Din Maher al-Madhun,10/14/2004,19,Jabalya R.C.,North Gaza,M
+Nidal Harb Hussein Ma'sud,10/14/2004,20,Jabalya R.C.,North Gaza,M
+Muhammad Zaki Abu Hleil,10/14/2004,25,Jabalya R.C.,North Gaza,M
+Yusef Mamduh Abu Seif,10/10/2004,21,Jabalya R.C.,North Gaza,M
+Sameh Zamel al-Wahidi,10/10/2004,22,Jabalya R.C.,North Gaza,M
+Maher Mahmoud Zaqut,10/10/2004,39,Jabalya R.C.,North Gaza,M
+Yasser Saleh al-Khatib,10/8/2004,18,Jabalya R.C.,North Gaza,M
+Muhammad Nabil Mutawe'a Subuh,10/8/2004,18,Jabalya R.C.,North Gaza,M
+Suliman al-'Abed Hussein Abu al-Foul,10/7/2004,14,Jabalya R.C.,North Gaza,M
+Raed Suliman Ahmad Abu Zeid,10/7/2004,16,Jabalya R.C.,North Gaza,M
+Hassan Jum'ah Yusef a-Sharathah,10/5/2004,13,Jabalya R.C.,North Gaza,M
+'Abdallah Fadi Dardunah,10/5/2004,25,Jabalya R.C.,North Gaza,M
+Islam Maher Fawzi Idwidar,10/4/2004,15,Jabalya R.C.,North Gaza,F
+Tahrir Hisham Sha'ban Abu al-Jidyan,10/4/2004,17,Jabalya R.C.,North Gaza,F
+Ramzi Shehdeh Hasaballah,10/4/2004,20,Jabalya R.C.,North Gaza,M
+Muhammad Musa Muhammad al-Hasi,10/4/2004,24,Jabalya R.C.,North Gaza,M
+Saber Ibrahim Iyad 'Asaliyah,10/3/2004,12,Jabalya R.C.,North Gaza,M
+Nidal Muhsen Mahmoud al-Madhun,10/3/2004,15,Jabalya R.C.,North Gaza,M
+Muhammad Ibrahim a-Sharafi,10/3/2004,20,Jabalya R.C.,North Gaza,M
+Rani Akram Qadas,10/3/2004,22,Jabalya R.C.,North Gaza,M
+Mesbah Hussein a-Rantisi,10/3/2004,22,Jabalya R.C.,North Gaza,M
+Maher Jamil Zaqut,10/3/2004,29,Jabalya R.C.,North Gaza,M
+Raed Suliman Abu Wadi,10/3/2004,36,Jabalya R.C.,North Gaza,M
+Mahmoud Diab Shihadah a-Najar,10/2/2004,13,Jabalya R.C.,North Gaza,M
+Yasser Muhammad Suliman Ghbeid,10/2/2004,20,Jabalya R.C.,North Gaza,M
+'Issam Ghazi Abu Ta'imah,10/2/2004,20,Jabalya R.C.,North Gaza,M
+Ibrahim Hassan Hamdan,10/2/2004,42,Jabalya R.C.,North Gaza,M
+'Eid Muhammad 'Afanah,10/2/2004,43,Jabalya R.C.,North Gaza,M
+Fathi 'Abd a-Rahman 'Afanah,10/2/2004,45,Jabalya R.C.,North Gaza,M
+Muhammad Tuhami Yusef Abu Seif,10/1/2004,15,Jabalya R.C.,North Gaza,M
+Wasim Mustafa Antil,10/1/2004,19,Jabalya R.C.,North Gaza,M
+Ibrahim Mahmoud Abu al-Qumsan,10/1/2004,21,Jabalya R.C.,North Gaza,M
+Wahid Talal 'Abd a-Rahman,10/1/2004,23,Jabalya R.C.,North Gaza,M
+Muhammad Ahmad Muhammad Abu Rafe'u,10/1/2004,25,Jabalya R.C.,North Gaza,M
+Jihad Mahmoud Abo al-Jiben,10/1/2004,26,Jabalya R.C.,North Gaza,M
+Mustafa Khalil Hamsh,10/1/2004,27,Jabalya R.C.,North Gaza,M
+Raed Muhammad al-Mabhuh,10/1/2004,28,Jabalya R.C.,North Gaza,M
+Nidal 'Omar Matar,10/1/2004,28,Jabalya R.C.,North Gaza,M
+Sultan Sa'id Lutfi al-Bishawi,9/30/2004,13,Jabalya R.C.,North Gaza,M
+Mu'taz 'Abd al-Malek Muhammad a-Taluli,9/30/2004,13,Jabalya R.C.,North Gaza,M
+Tamer 'Abd al-'Aziz Nihad Abu Shakyan,9/30/2004,14,Jabalya R.C.,North Gaza,M
+Nidal Sa'id Lutfi al-Bishawi,9/30/2004,14,Jabalya R.C.,North Gaza,M
+Muhammad Raafat Ahmad Rihan,9/30/2004,14,Jabalya R.C.,North Gaza,M
+'Alaa Diab 'Othman Shams,9/30/2004,14,Jabalya R.C.,North Gaza,M
+Muhammad Raafat Khaled a-Rifi,9/30/2004,16,Jabalya R.C.,North Gaza,M
+Muhammad 'Abd a-Salam Shalha,9/30/2004,16,Jabalya R.C.,North Gaza,M
+Diaa' A-Din Ahmad Isma'il al-Kahlut,9/30/2004,16,Jabalya R.C.,North Gaza,M
+Ahmad 'Adnan Yihya al-Bir'i,9/30/2004,16,Jabalya R.C.,North Gaza,M
+'Abdallah 'Adel 'Abdallah Abu 'Odeh,9/30/2004,16,Jabalya R.C.,North Gaza,M
+Yihya Akram Ahmad Hammad,9/30/2004,17,Jabalya R.C.,North Gaza,M
+Mahmoud Mu'in Mahmoud al-Madhun,9/30/2004,17,Jabalya R.C.,North Gaza,M
+Tareq 'Abdallah Zaqut,9/30/2004,19,Jabalya R.C.,North Gaza,M
+Muhammad 'Abd al-Karim al-Ja'bir,9/30/2004,19,Jabalya R.C.,North Gaza,M
+Mahmoud Muhammad Abu al-Jidyan,9/30/2004,23,Jabalya R.C.,North Gaza,M
+'Arafat Bilal Yasin,9/30/2004,24,Jabalya R.C.,North Gaza,M
+Raafat Rafiq Jaballah,9/30/2004,25,Jabalya R.C.,North Gaza,M
+Muhammad Mahmoud Abu Hasireh,9/30/2004,25,Jabalya R.C.,North Gaza,M
+Muhammad Jamil al-Austaz,9/30/2004,25,Jabalya R.C.,North Gaza,M
+Muqbal Khzeiq,9/30/2004,26,Jabalya R.C.,North Gaza,M
+Hazem Hussein Frajallah,9/30/2004,26,Jabalya R.C.,North Gaza,M
+Jadallah Ahmad Abu Saheleh,9/30/2004,27,Jabalya R.C.,North Gaza,M
+Hamzah As'ad Ahmad,9/30/2004,28,Jabalya R.C.,North Gaza,M
+Ibrahim 'Ali 'Asaliyah,9/30/2004,29,Jabalya R.C.,North Gaza,M
+Iyad Zaqut,9/30/2004,31,Jabalya R.C.,North Gaza,M
+Sufian Shafiq Abu al-Jidyan,9/30/2004,33,Jabalya R.C.,North Gaza,M
+'Adel Yasin Mahmoud Sharaf,9/30/2004,33,Jabalya R.C.,North Gaza,M
+Saed Muhammad Hod Abu al-'Eish,9/29/2004,14,Jabalya R.C.,North Gaza,M
+Hani Sa'id Khalil Mushtaha,9/29/2004,16,Jabalya R.C.,North Gaza,M
+Ahmad Ibrahim 'Abd al-Fatah Madi,9/29/2004,16,Jabalya R.C.,North Gaza,M
+Mus'ab Muhammad al-Bard'i,9/29/2004,21,Jabalya R.C.,North Gaza,M
+Fathi Ahmad a-Sawawin,9/29/2004,21,Jabalya R.C.,North Gaza,M
+Tawfiq Muhammad a-Sharafi,9/29/2004,24,Jabalya R.C.,North Gaza,M
+Khalil Khalil Abu Naji,9/29/2004,31,Jabalya R.C.,North Gaza,M
+'Abdallah Hisham 'Ashur Naser a-Zein,9/10/2004,16,Jabalya R.C.,North Gaza,M
+Saleh Taysir Saleh Abu Haza',9/10/2004,19,Jabalya R.C.,North Gaza,M
+Muhammad 'Ali Muhammad Musa al-Haj 'Ali,9/10/2004,23,Jabalya R.C.,North Gaza,M
+'Abd al-'Aziz 'Abd a-Latif Ibrahim al-Ashqar,9/10/2004,35,Jabalya R.C.,North Gaza,M
+'Ali 'Abd a-Rahim Ashraf Abu 'Alba,8/4/2004,12,Jabalya R.C.,North Gaza,M
+Qassem Saleh Musa al-Mtawaq,8/4/2004,18,Jabalya R.C.,North Gaza,M
+Wael Muhammad 'Atiyyah Abu al-Jidyan,8/4/2004,20,Jabalya R.C.,North Gaza,M
+Hamzah Nahed Hassan Habush,7/1/2004,14,Jabalya R.C.,North Gaza,M
+Isma'il Muhammad Ahmad Nabhan,7/1/2004,25,Jabalya R.C.,North Gaza,M
+Muhsen Haydar Muhammad a-Da'ur,1/22/2004,10,Jabalya R.C.,North Gaza,M
+Ibrahim 'Omar Hassan Abu Shikel,11/7/2003,17,Jabalya R.C.,North Gaza,M
+Shadi Rafiq Sa'id Habub,11/7/2003,18,Jabalya R.C.,North Gaza,M
+Karim 'Alian Hussein al-Kafarneh,10/27/2003,26,Jabalya R.C.,North Gaza,M
+Muhammad 'Abdallah Shehdeh Abu al-Husna,9/6/2003,17,Jabalya R.C.,North Gaza,M
+Hamuda Faraj 'Abd Rabo 'Abd Rabo,6/10/2003,18,Jabalya R.C.,North Gaza,M
+Muhammad Faiz Ahmad Saleh,6/10/2003,25,Jabalya R.C.,North Gaza,M
+Maryam Rajab Ibrahim 'Abd Rabo,6/10/2003,32,Jabalya R.C.,North Gaza,F
+Iyad Bick,5/9/2003,30,Jabalya R.C.,North Gaza,M
+Iyad Muhammad 'Alian,4/3/2003,26,Jabalya R.C.,North Gaza,M
+'Awad Ahmad 'Abdallah a-Sifi,3/11/2003,52,Jabalya R.C.,North Gaza,M
+Mufid Sa'id a-Da'ifi,3/8/2003,23,Jabalya R.C.,North Gaza,M
+Tareq Maher Ahmad a-Najar,3/6/2003,13,Jabalya R.C.,North Gaza,M
+Ihab Ahmad Nabhan,3/6/2003,23,Jabalya R.C.,North Gaza,M
+Muhsen 'Awad Abu 'Odeh,3/6/2003,30,Jabalya R.C.,North Gaza,M
+Muhammad Hassan Mahmoud a-Zinati,3/6/2003,36,Jabalya R.C.,North Gaza,M
+Muhammad Shihadah al-Biari,3/6/2003,61,Jabalya R.C.,North Gaza,M
+al-Mansi 'Abd Rabo Saleh al-Mabhuh,3/6/2003,84,Jabalya R.C.,North Gaza,M
+Mahmoud Abu Yasin,3/12/2002,15,Jabalya R.C.,North Gaza,M
+Ahmad Isma'il Qafin,3/12/2002,19,Jabalya R.C.,North Gaza,M
+Rami Bahajat 'Aziz,3/12/2002,20,Jabalya R.C.,North Gaza,M
+Fawzi Sabri 'Omar Abu Shams,3/12/2002,20,Jabalya R.C.,North Gaza,M
+Muhammad Salim Abu Saheleh,3/12/2002,21,Jabalya R.C.,North Gaza,M
+Sa'id Ahmad Hasunah,3/12/2002,22,Jabalya R.C.,North Gaza,M
+Nabil Muhammad Shihadah Abu al-Qar'a,3/12/2002,22,Jabalya R.C.,North Gaza,M
+Nabil Abu al-Aqra',3/12/2002,22,Jabalya R.C.,North Gaza,M
+Husam Hassan al-Barawi,3/12/2002,22,Jabalya R.C.,North Gaza,M
+Hamuda Nijem,3/12/2002,22,Jabalya R.C.,North Gaza,M
+Hani Abu Saheleh,3/12/2002,23,Jabalya R.C.,North Gaza,M
+Yusef Muhammad Abu al-Qumsan,3/12/2002,25,Jabalya R.C.,North Gaza,M
+Ya'qub 'Odeh 'Abd al-Fatah,3/12/2002,25,Jabalya R.C.,North Gaza,M
+Majdi a-Taluli,3/12/2002,25,Jabalya R.C.,North Gaza,M
+Iyad Ahmad Rajeb 'Issa,3/12/2002,25,Jabalya R.C.,North Gaza,M
+Hamed Rushdi 'Aqilan,3/12/2002,25,Jabalya R.C.,North Gaza,M
+Walid 'Abd a-Rahman 'Iz a-Din,3/12/2002,35,Jabalya R.C.,North Gaza,M
+Samir Shadi Sababa,3/12/2002,45,Jabalya R.C.,North Gaza,M
+'Abd a-Rahman Muhammad 'Iz a-Din,3/12/2002,55,Jabalya R.C.,North Gaza,M
+Majed Abu el-Ghidan,3/11/2002,29,Jabalya R.C.,North Gaza,M
+Iyad Abu Safiyeh,2/19/2002,23,Jabalya R.C.,North Gaza,M
+Muhammad 'Ali Hamdan,2/19/2002,25,Jabalya R.C.,North Gaza,M
+'Abed Yunes a-Sallam,2/16/2002,25,Jabalya R.C.,North Gaza,M
+Inas Ibrahim Saleh,2/13/2002,7,Jabalya R.C.,North Gaza,F
+Hassan Muhammad Hussein Mansur,8/6/2022,28,Jabalya,North Gaza,M
+Myasarah 'Abd a-Shakur Musbah al-'Ar'ir,5/20/2021,22,Jabalya,North Gaza,M
+'Omar Ahmad Muhammad Jundiyah,5/20/2021,23,Jabalya,North Gaza,M
+Dima Sa'ed 'Ali 'Asaliyah,5/19/2021,10,Jabalya,North Gaza,F
+'Ammar 'Abdallah Fawzi a-Nazer,5/19/2021,31,Jabalya,North Gaza,M
+Tareq Ziad Mustafa Abu Hmeidan,5/16/2021,19,Jabalya,North Gaza,M
+Muhammad Saber Ibrahim Suliman,5/10/2021,15,Jabalya,North Gaza,M
+Saber Ibrahim Mahmoud Suliman,5/10/2021,38,Jabalya,North Gaza,M
+Muhammad Majed Fadel Baker,5/15/2017,25,Jabalya,North Gaza,M
+Ousamah 'Issam Mustafa Judah,8/24/2014,6,Jabalya,North Gaza,M
+Muhammad 'Issam Mustafa Judah,8/24/2014,7,Jabalya,North Gaza,M
+Raghad 'Issam Mustafa Judah,8/24/2014,12,Jabalya,North Gaza,F
+Tasnim 'Issam Mustafa Judah,8/24/2014,14,Jabalya,North Gaza,F
+Rawyah Ibrahim Muhammad Judah,8/24/2014,43,Jabalya,North Gaza,F
+'Abdallah Salah Muhammad Safi,8/10/2014,24,Jabalya,North Gaza,M
+Haitham Ramadan Ibrahim al-'Awour,8/10/2014,28,Jabalya,North Gaza,M
+Saqer 'Abdallah Fouad Rihan,8/10/2014,35,Jabalya,North Gaza,M
+Zaher Muhammad Khalil al-Anqah,8/4/2014,24,Jabalya,North Gaza,M
+Suliman Muhammad 'Ali M'aruf,8/4/2014,24,Jabalya,North Gaza,M
+Ahmad Khaled Jalal Muqat,8/4/2014,25,Jabalya,North Gaza,M
+Hamadah Khaled Jalal Muqat,8/4/2014,29,Jabalya,North Gaza,M
+'Abdallah Musa Hussein Mubarak,8/4/2014,50,Jabalya,North Gaza,M
+Nur al-Huda Bahajat Hatem Wahdan,8/3/2014,3,Jabalya,North Gaza,F
+Mahmoud Ahmad Mahmoud al-Majdalawi,8/3/2014,7,Jabalya,North Gaza,M
+Rawan Ahmad Yusef al-Majdalawi,8/3/2014,8,Jabalya,North Gaza,F
+Rajab 'Abd a-Rahman Ahmad a-Sharafi,8/3/2014,9,Jabalya,North Gaza,M
+'Abdallah 'Abd al-Hadi Mahmoud al-Majdalawi,8/3/2014,13,Jabalya,North Gaza,M
+'Abd a-Razeq 'Abd al-Hadi Mahmoud al-Majdalawi,8/3/2014,18,Jabalya,North Gaza,M
+Seniora Diab 'Abd al-Karim Wahdan,8/3/2014,21,Jabalya,North Gaza,F
+Saaeb Sayed Khader al-Batsh,8/3/2014,22,Jabalya,North Gaza,M
+'Issa Muhammad Ibrahim Jneid,8/3/2014,23,Jabalya,North Gaza,M
+Mahmoud 'Abdallah Ahmad a-Sharafi,8/3/2014,25,Jabalya,North Gaza,M
+Jamileh Jamal Mahmoud Wahdan,8/3/2014,27,Jabalya,North Gaza,F
+Qassem Mahmoud Ahmad Qassem,8/3/2014,29,Jabalya,North Gaza,M
+Ahmad Hussein 'Abd a-Ra'uf al-Mabhuh,8/3/2014,33,Jabalya,North Gaza,M
+Muhammad Sa'di 'Abd al-Fatah Ahmad,8/3/2014,34,Jabalya,North Gaza,M
+Najah Rajab Mahmoud a-Sharafi,8/3/2014,48,Jabalya,North Gaza,F
+Hatem Zaki 'Abd a-Rahman Wahdan,8/3/2014,51,Jabalya,North Gaza,M
+Fouad Muhammad Mahmoud a-Daddah,8/2/2014,28,Jabalya,North Gaza,M
+Sa'id 'Awni Judah M'aruf,8/2/2014,33,Jabalya,North Gaza,M
+Luai Rizeq al-'Abed Shihadah,8/2/2014,35,Jabalya,North Gaza,M
+Dawood Zakaria Dawood Suliman,8/2/2014,54,Jabalya,North Gaza,M
+'Ali Ahmad Khaled Shahin,7/30/2014,15,Jabalya,North Gaza,M
+Nael Naji Muhammad Abu M'awad,7/30/2014,19,Jabalya,North Gaza,M
+Sha'ban 'Abd al-'Aziz Sha'ban al-Jamal,7/30/2014,24,Jabalya,North Gaza,M
+Samir Zakaria Muhammad Karim,7/30/2014,24,Jabalya,North Gaza,M
+'Alaa Judy 'Abd a-Rahman Khader,7/30/2014,24,Jabalya,North Gaza,M
+Luai Rajab Muhammad Abu Zeinah,7/30/2014,28,Jabalya,North Gaza,M
+'Awad Mustafa 'Awad Ghneim,7/30/2014,30,Jabalya,North Gaza,M
+Muhammad Wisam Kamel Dardunah,7/30/2014,31,Jabalya,North Gaza,M
+Mansur Muhammad Sha'ban Nabhan,7/30/2014,31,Jabalya,North Gaza,M
+Husam Muhammad Faraj a-Najar,7/30/2014,32,Jabalya,North Gaza,M
+Zakaria Muhammad Hassan Karim,7/30/2014,49,Jabalya,North Gaza,M
+Jud Yusef Ibrahim Abu 'Eida,7/29/2014,0,Jabalya,North Gaza,F
+Jamal Muhammad Jamal 'Abd Rabo,7/29/2014,1,Jabalya,North Gaza,M
+Halimah Muhammad Hussni Suliman,7/29/2014,1,Jabalya,North Gaza,F
+'Abd al-Karim Nazmi 'Abd al-Karim Balatah,7/29/2014,1,Jabalya,North Gaza,M
+Rahaf 'Alaa Jamal 'Abd Rabo,7/29/2014,3,Jabalya,North Gaza,F
+Baraa Muhammad Hussni Suliman,7/29/2014,6,Jabalya,North Gaza,M
+Yihya Na'im Nazmi Balatah,7/29/2014,8,Jabalya,North Gaza,M
+Tahrir Naser Ahmad Jaber,7/29/2014,11,Jabalya,North Gaza,F
+Aya Isma'il Muhammad al-Batsh,7/29/2014,11,Jabalya,North Gaza,F
+Israa Na'im Nazmi Balatah,7/29/2014,13,Jabalya,North Gaza,F
+Hanin Husam a-Din Khalil Hamuda,7/29/2014,13,Jabalya,North Gaza,F
+Alaa Na'im Nazmi Balatah,7/29/2014,14,Jabalya,North Gaza,F
+Muhammad 'Abd a-Naser Muhammad 'Ali al-Ghandur,7/29/2014,15,Jabalya,North Gaza,M
+Hadil 'Abd al-Karim Nazmi Balatah,7/29/2014,17,Jabalya,North Gaza,F
+'Izat Khamis Yusef Jneid,7/29/2014,18,Jabalya,North Gaza,M
+Muamen Ahmad Muhammad al-Barsh,7/29/2014,19,Jabalya,North Gaza,M
+Hanaa Na'im Nazmi Balatah,7/29/2014,19,Jabalya,North Gaza,F
+Ibrahim Jamal 'Ali 'Abd Rabo,7/29/2014,20,Jabalya,North Gaza,M
+Ibrahim 'Adli Hassan 'Asaliyah,7/29/2014,20,Jabalya,North Gaza,M
+Wafa Na'im Nazmi Balatah,7/29/2014,21,Jabalya,North Gaza,F
+Du'aa Na'im Nazmi Balatah,7/29/2014,22,Jabalya,North Gaza,F
+'Abdallah Jamal 'Ali 'Abd Rabo,7/29/2014,23,Jabalya,North Gaza,M
+Muhammad Jamal 'Ali 'Abd Rabo,7/29/2014,24,Jabalya,North Gaza,M
+Maryam Na'im Nazmi Balatah,7/29/2014,24,Jabalya,North Gaza,F
+Muhammad Khader 'Atiyyah Msallam,7/29/2014,26,Jabalya,North Gaza,M
+'Alaa Jamal 'Ali 'Abd Rabo,7/29/2014,29,Jabalya,North Gaza,M
+Nihad Khalil Sa'id Suliman,7/29/2014,38,Jabalya,North Gaza,F
+Munir Ibrahim Muhammad al-Hajar,7/29/2014,38,Jabalya,North Gaza,M
+Sahar Mutawe' Muhammad Balatah,7/29/2014,39,Jabalya,North Gaza,F
+Kaenat 'Adel Ahmad Hamuda,7/29/2014,39,Jabalya,North Gaza,F
+Na'im Nazmi Muhammad Balatah,7/29/2014,45,Jabalya,North Gaza,M
+Bashir Ibrahim Muhammad al-Hajar,7/29/2014,48,Jabalya,North Gaza,M
+Majedah Jamal Hassan Hamuda,7/29/2014,50,Jabalya,North Gaza,F
+Barakah Ibrahim Hassan 'Abd Rabo,7/29/2014,50,Jabalya,North Gaza,F
+Halimah Mahmoud Muhammad al-Batsh,7/29/2014,77,Jabalya,North Gaza,F
+Muhammad Shihadah 'Abdallah Loz,7/28/2014,22,Jabalya,North Gaza,M
+Isma'il Yunes 'Abdallah Khaleh,7/26/2014,21,Jabalya,North Gaza,M
+Nidal Muhammad Ahmad 'Abdallah,7/26/2014,23,Jabalya,North Gaza,M
+Saed 'Adnan Rizeq Jneid,7/26/2014,25,Jabalya,North Gaza,M
+Ashraf Ahmad Musa a-Silawi,7/20/2014,36,Jabalya,North Gaza,M
+Akram Mahmoud 'Abd a-Salam al-Mtawaq,7/19/2014,39,Jabalya,North Gaza,M
+Salman Muhammad Ahmad Sama'aneh,7/19/2014,62,Jabalya,North Gaza,M
+Husam Ibrahim Shehdeh a-Najar,7/13/2014,15,Jabalya,North Gaza,M
+Muhammad Rabi' Muhammad Abu Hmeidan,7/11/2014,64,Jabalya,North Gaza,M
+'Udai Rafiq Sa'id a-Sultan,7/10/2014,21,Jabalya,North Gaza,M
+Muhammad Kamal al-'Abed al-Kahlut,7/10/2014,21,Jabalya,North Gaza,M
+Mahmoud Tali' Sa'di Walud,7/10/2014,26,Jabalya,North Gaza,M
+Fadel Ahmad Muhammad al-Bana,7/10/2014,28,Jabalya,North Gaza,M
+Hazem Ibrahim Mahmoud Ba'lushah,7/10/2014,33,Jabalya,North Gaza,M
+Yasmin Muhammad Yusef al-Mutawaq,7/9/2014,3,Jabalya,North Gaza,F
+'Adnan Jamil Shehdeh Abu Khater,1/2/2014,16,Jabalya,North Gaza,M
+Husam Faiz Hamdan 'Abd al-Jawad,11/19/2012,30,Jabalya,North Gaza,M
+Muhammad Sa'id Muhammad Shkukani,11/10/2012,18,Jabalya,North Gaza,M
+Ayub 'Amer Muhammad 'Asaliyah,3/11/2012,12,Jabalya,North Gaza,M
+Muhammad Mansur 'Omar Baker,9/24/2010,19,Jabalya,North Gaza,M
+Ibrahim Saber Rabi' Jneid,1/18/2009,22,Jabalya,North Gaza,M
+Ibrahim Ahmad 'Abdallah 'Alwan,1/18/2009,32,Jabalya,North Gaza,M
+Sundus Sa'id Hassan Abu Sultan,1/17/2009,3,Jabalya,North Gaza,F
+Khaled Hafez Khaled a-Turk,1/17/2009,25,Jabalya,North Gaza,M
+Na'im Muhammad 'Abed Shihadah,1/17/2009,51,Jabalya,North Gaza,M
+Rawan Isma'il Muhammad a-Najar,1/16/2009,6,Jabalya,North Gaza,F
+Muhammad Ousamah 'Abd al-Fatah 'Aqilan,1/16/2009,21,Jabalya,North Gaza,M
+Mahmoud Khader 'Abed Bahar,1/16/2009,21,Jabalya,North Gaza,M
+Ousamah Jamal Muhammad A'beid,1/15/2009,20,Jabalya,North Gaza,M
+Amir 'Aziz Mahmoud Abu Rayaleh,1/15/2009,22,Jabalya,North Gaza,M
+Fadi Taysir Mustafa 'Abdallah,1/15/2009,23,Jabalya,North Gaza,M
+'Abd a-Rahman Khaled 'Abd a-Rahman a-Suwari,1/15/2009,23,Jabalya,North Gaza,M
+'Imad Hassan Muhammad a-Najar,1/15/2009,24,Jabalya,North Gaza,M
+Rajab Mahmoud Ahmad 'Alwan,1/15/2009,27,Jabalya,North Gaza,M
+Muhammad 'Issa Ahmad a-Sharafi,1/15/2009,27,Jabalya,North Gaza,M
+'Imad Sa'id Muhammad a-Najar,1/15/2009,32,Jabalya,North Gaza,M
+'Abd a-Latif Muhammad Muhammad a-Na'uq,1/15/2009,53,Jabalya,North Gaza,M
+Muhammad Ahmad Mahmoud 'Abdallah,1/15/2009,62,Jabalya,North Gaza,M
+Muhammad Muhammad Salem a-Na'uq,1/15/2009,73,Jabalya,North Gaza,M
+Miqbal 'Eid Salam Jarabi',1/15/2009,86,Jabalya,North Gaza,M
+'Aishah Ibrahim a-Sayed a-Najar,1/14/2009,3,Jabalya,North Gaza,F
+Bilal Jamal Isma'il Abu 'Awwad,1/14/2009,17,Jabalya,North Gaza,M
+Haitham 'Adnan Muhammad Abu al-Qumsan,1/14/2009,18,Jabalya,North Gaza,M
+Muhammad al-'Abed Muhammad Naser,1/14/2009,24,Jabalya,North Gaza,M
+Muhammad Ibrahim 'Abd al-Ghafar Jahjuj,1/14/2009,25,Jabalya,North Gaza,M
+Zayed Muhammad Muhammad Jneid,1/14/2009,30,Jabalya,North Gaza,M
+Kafa Muhammad 'Abd a-Rahman a-Neder,1/14/2009,39,Jabalya,North Gaza,F
+Kafa Muhammad 'Abd a-Rahman a-Nazer,1/14/2009,40,Jabalya,North Gaza,F
+Hanan Sha'ban 'Urabi a-Najar,1/14/2009,40,Jabalya,North Gaza,F
+Halimah Muhammad Muhammad Siyam,1/14/2009,77,Jabalya,North Gaza,F
+Ousamah Ahmad al-'Absi,1/13/2009,20,Jabalya,North Gaza,M
+Muhammad Khalil Ibrahim Abu Laylah,1/13/2009,20,Jabalya,North Gaza,M
+Ibrahim Isma'il Muhammad Dababsheh,1/13/2009,22,Jabalya,North Gaza,M
+Hassan Muhammad Muhammad Abu Zamar,1/13/2009,22,Jabalya,North Gaza,M
+Yusef 'Amar Muhammad Lubad,1/13/2009,23,Jabalya,North Gaza,M
+As'ad Sa'di 'Abd al-Fatah Ahmad,1/13/2009,24,Jabalya,North Gaza,M
+Mazen Faiz Muhammad a-Sharabasi,1/13/2009,25,Jabalya,North Gaza,M
+Nael Rajab Muhammad 'Ali,1/13/2009,34,Jabalya,North Gaza,M
+Nazirah Muhammad Khaled Abu al-Kas (al-Hilu),1/13/2009,60,Jabalya,North Gaza,F
+Rizeq Salim Hussein Abu al-Kas,1/13/2009,62,Jabalya,North Gaza,M
+Ayat Kamal Mahmoud al-Bana,1/12/2009,11,Jabalya,North Gaza,F
+Mustafa Jum'ah Ibrahim al-Basha,1/12/2009,20,Jabalya,North Gaza,M
+'Abdallah Malek a-Din al-Haj Ali,1/12/2009,21,Jabalya,North Gaza,M
+Muhammad Hassan Badawi al-Barawi,1/12/2009,22,Jabalya,North Gaza,M
+Firyal Kamal Mahmoud al-Bana,1/12/2009,23,Jabalya,North Gaza,F
+Yasser 'Arafat Sa'id Shbeir,1/12/2009,25,Jabalya,North Gaza,M
+'Issa 'Abd a-Rahim Saleh,1/12/2009,28,Jabalya,North Gaza,M
+Sabri Muhammad Hassan Salman,1/12/2009,55,Jabalya,North Gaza,M
+Tasnim Yasser Jaber a-Rafati,1/11/2009,1,Jabalya,North Gaza,F
+Hadil Jaber Diab a-Rafati,1/11/2009,8,Jabalya,North Gaza,F
+Amal Najib Muhammad 'Alush,1/11/2009,12,Jabalya,North Gaza,F
+Mus'ab 'Abd al-Muhsen 'Ali Khader,1/11/2009,13,Jabalya,North Gaza,M
+Iyad Taher Ahmad Shihadah,1/11/2009,16,Jabalya,North Gaza,M
+Bilal Yihya Muhammad Khalaf,1/11/2009,18,Jabalya,North Gaza,M
+Ibrahim 'Ayesh Taha Suliman,1/11/2009,21,Jabalya,North Gaza,M
+Bahaa Khaled 'Abd al-Mun'im A'bed,1/11/2009,25,Jabalya,North Gaza,M
+Ibrahim Muhammad Hussein Khalaf,1/11/2009,39,Jabalya,North Gaza,M
+'Ali Kamal 'Ali a-Neder,1/10/2009,10,Jabalya,North Gaza,M
+'Abd al-Hakim Khader Muhammad Sultan,1/10/2009,14,Jabalya,North Gaza,M
+'Amer Kamal 'Ali a-Neder,1/10/2009,15,Jabalya,North Gaza,M
+Samed Mahfuz Mahmoud 'Abd Rabo,1/10/2009,16,Jabalya,North Gaza,M
+Mustafa Ribhi 'Ali Hussein,1/10/2009,18,Jabalya,North Gaza,M
+Yusri Mahmoud Judah 'Abd Rabo,1/10/2009,19,Jabalya,North Gaza,M
+Ahmad Ibrahim Ahmad Jum'ah,1/10/2009,24,Jabalya,North Gaza,M
+Sami Muhammad Saleh 'Abd Rabo,1/10/2009,25,Jabalya,North Gaza,M
+Shadi Fathi Ahmad Jneid,1/10/2009,29,Jabalya,North Gaza,M
+Ramez Jamal 'Abd Rabo,1/10/2009,38,Jabalya,North Gaza,M
+Randah Jamal Faraj 'Abd Rabo,1/10/2009,43,Jabalya,North Gaza,F
+Sufian 'Abd al-Hai Jawdat 'Abd Rabo,1/10/2009,47,Jabalya,North Gaza,M
+Ghanimah Sultan Fawzi Halawah,1/9/2009,10,Jabalya,North Gaza,F
+Alaa Ahmad Fathi Jaber,1/9/2009,11,Jabalya,North Gaza,F
+Muhammad 'Atef Muhammad Abu al-Husna,1/9/2009,12,Jabalya,North Gaza,M
+Sumayah Jum'ah Sa'id Sa'ed,1/9/2009,19,Jabalya,North Gaza,F
+Hisham Mahmoud Dib Sinan,1/9/2009,22,Jabalya,North Gaza,M
+Ahmad Muhammad 'Odeh al-Kurd,1/9/2009,30,Jabalya,North Gaza,M
+Fatimah Sa'id Mustafa Sa'ed,1/9/2009,42,Jabalya,North Gaza,F
+Hussein Sa'id 'Abdallah a-Neder,1/8/2009,19,Jabalya,North Gaza,M
+Bassam Sha'ban Ibrahim Qutah,1/8/2009,28,Jabalya,North Gaza,M
+Rabi' Mesbah Mahmoud al-'Arini,1/8/2009,49,Jabalya,North Gaza,M
+Halimah Muhammad Hassan Badwan,1/8/2009,61,Jabalya,North Gaza,M
+Amal Khaled Muhammad Munib 'Abd Rabo,1/7/2009,2,Jabalya,North Gaza,F
+Su'ad Khalad Muhammad Munib 'Abd Rabo,1/7/2009,9,Jabalya,North Gaza,F
+Nur a-Din Muhammad Jamil Hamadah,1/7/2009,22,Jabalya,North Gaza,M
+Bilal Subhi Muhammad Nabhan,1/7/2009,26,Jabalya,North Gaza,M
+Adham Khamis Muhammad Nseir,1/7/2009,36,Jabalya,North Gaza,M
+Bader Muhammad Musa Abu Rashed,1/7/2009,72,Jabalya,North Gaza,F
+Nur Mu'in Shafiq Dib,1/6/2009,3,Jabalya,North Gaza,F
+Muhammad Bassem Ahmad Shaqurah,1/6/2009,8,Jabalya,North Gaza,M
+Lina 'Abd al-Mun'im Nafez Hassan,1/6/2009,9,Jabalya,North Gaza,F
+Asil Mu'in Shafiq Dib,1/6/2009,9,Jabalya,North Gaza,F
+'Abdallah Muhammad Shafiq 'Abdallah,1/6/2009,10,Jabalya,North Gaza,M
+Mustafa Mu'in Shafiq Dib,1/6/2009,13,Jabalya,North Gaza,M
+'Issam Samir Shafiq Dib,1/6/2009,13,Jabalya,North Gaza,M
+'Imad Muhammad Fouad Abu 'Askar,1/6/2009,13,Jabalya,North Gaza,M
+Bashar Samir Musa Naji,1/6/2009,13,Jabalya,North Gaza,M
+'Ahed Iyad Muhammad Qadas,1/6/2009,13,Jabalya,North Gaza,M
+Ibrahim Ahmad Hussein M'aruf,1/6/2009,14,Jabalya,North Gaza,M
+Isma'il 'Adnan Hassan Abu Hawilah,1/6/2009,15,Jabalya,North Gaza,M
+Muhammad Mu'in Shafiq Dib,1/6/2009,16,Jabalya,North Gaza,M
+Bilal Hamzah 'Ali A'beid,1/6/2009,17,Jabalya,North Gaza,M
+Khaled Muhammad Fouad Abu 'Askar,1/6/2009,19,Jabalya,North Gaza,M
+Alaa Mu'in Shafiq Dib,1/6/2009,19,Jabalya,North Gaza,F
+Muhammad Ramadan Hamad a-Debs,1/6/2009,20,Jabalya,North Gaza,M
+Iyad Jaber Ibrahim Aman,1/6/2009,20,Jabalya,North Gaza,M
+Fatimah Samir Shafiq Dib,1/6/2009,21,Jabalya,North Gaza,F
+'Abd a-Rahman Saleh 'Abd al-Hamid Yasin,1/6/2009,21,Jabalya,North Gaza,M
+Muhammad Samir Shafiq Dib,1/6/2009,23,Jabalya,North Gaza,M
+Iyad Hassan Muhammad 'Obeid,1/6/2009,23,Jabalya,North Gaza,M
+Amin 'Abed Muhammad Khader,1/6/2009,23,Jabalya,North Gaza,M
+Muhammad 'Ayesh Mansur Abu Naser,1/6/2009,24,Jabalya,North Gaza,M
+'Abd a-Rahim Yusef Musa a-Debs,1/6/2009,24,Jabalya,North Gaza,M
+'Abed Muhammad 'Abed Qadas,1/6/2009,25,Jabalya,North Gaza,M
+'Afaf Muhammad al-'Abed Dmeidah,1/6/2009,29,Jabalya,North Gaza,F
+Muhammad Farid Muhammad 'Abdallah,1/6/2009,30,Jabalya,North Gaza,M
+Muhammad 'Abdallah Muhammad 'Obeid,1/6/2009,31,Jabalya,North Gaza,M
+Raafat Fouad Sa'id Abu 'Askar,1/6/2009,33,Jabalya,North Gaza,M
+Ziad 'Atiyyah Hassan al-Madhun,1/6/2009,34,Jabalya,North Gaza,M
+Sa'id Mahmoud Hassan al-'Umari,1/6/2009,34,Jabalya,North Gaza,M
+Amal Matar Saleh Dib,1/6/2009,36,Jabalya,North Gaza,F
+Mufid Fathi 'Abdallah Abu S'adah,1/6/2009,37,Jabalya,North Gaza,M
+Khadrah 'Abd al-'Aziz 'Abd al-'Aziz 'Awad,1/6/2009,40,Jabalya,North Gaza,F
+Khader Ahmad Ibrahim Zidan,1/6/2009,40,Jabalya,North Gaza,M
+Samir Shafiq 'Abd al-Hamid Dib,1/6/2009,44,Jabalya,North Gaza,M
+Rihab 'Abd al-Men'em Ramadan 'Awad,1/6/2009,47,Jabalya,North Gaza,F
+Anwar Hassan Muhammad Lubad,1/6/2009,52,Jabalya,North Gaza,M
+'Atiyyah Hassan Mustafa al-Madhun,1/6/2009,58,Jabalya,North Gaza,M
+Mesbah Ayub Ibrahim Ayub,1/6/2009,63,Jabalya,North Gaza,M
+Shammah Salem Hussein Dib,1/6/2009,67,Jabalya,North Gaza,F
+Muhammad Salem 'Awwad a-Tarfawi,1/5/2009,4,Jabalya,North Gaza,M
+Nader Bassam Ibrahim Qadurah,1/5/2009,16,Jabalya,North Gaza,M
+Adham Na'im Muhammad 'Abd al-Malek (Mteir),1/5/2009,16,Jabalya,North Gaza,M
+Muhammad Nahed Muhammad 'Abd Rabo,1/5/2009,22,Jabalya,North Gaza,M
+Rami Yusef al-Ghandur,1/5/2009,29,Jabalya,North Gaza,M
+Shadi 'Issam Yusef Hamad,1/5/2009,32,Jabalya,North Gaza,M
+Bassam Mahmoud Muhammad Hamuda,1/5/2009,34,Jabalya,North Gaza,M
+Amjad Isma'il Muhammad Radwan,1/5/2009,36,Jabalya,North Gaza,M
+Salimeh Mesleh Subhi Salam,1/5/2009,77,Jabalya,North Gaza,F
+Mahmoud Sami Yihya 'Asaliyah,1/4/2009,3,Jabalya,North Gaza,M
+Isma'il 'Abd a-Rahim Rajab Suliman,1/4/2009,19,Jabalya,North Gaza,M
+'Adnan Muhammad 'Abd a-Latif a-Shalfouh,1/4/2009,21,Jabalya,North Gaza,M
+Muhammad Muti'a Muhammad a-Sharafi,1/4/2009,22,Jabalya,North Gaza,M
+Muhammad Ahmad Sa'id al-Hashim,1/4/2009,22,Jabalya,North Gaza,M
+Muhammad 'Abd al-Hadi Muhammad Daher,1/4/2009,23,Jabalya,North Gaza,M
+Muhammad Khamis Suliman 'Awad,1/4/2009,24,Jabalya,North Gaza,M
+Sa'id Ahmad Rashad al-'Asali,1/4/2009,25,Jabalya,North Gaza,M
+'Issa Ahmad Muhammad al-'Attut,1/4/2009,25,Jabalya,North Gaza,M
+Bilal 'Abd Rabo Muhammad Shihab,1/4/2009,25,Jabalya,North Gaza,M
+Ahmad Hussein 'Abd Rabo al-Mabhuh,1/4/2009,28,Jabalya,North Gaza,M
+Rakan Muhammad Musa al-'Ur,1/3/2009,4,Jabalya,North Gaza,M
+Shahd Hussein Nazmi Sultan,1/3/2009,6,Jabalya,North Gaza,F
+Ibrahim Muhammad Musa al-'Ur,1/3/2009,11,Jabalya,North Gaza,M
+Fidaa Muhammad Musa al-'Ur,1/3/2009,17,Jabalya,North Gaza,F
+Iman Nimer Suliman al-'Arur,1/3/2009,26,Jabalya,North Gaza,F
+Muhammad Musa Hassan al-'Ur,1/3/2009,43,Jabalya,North Gaza,M
+Nafez Muhammad 'Issa al-Mutawaq,1/2/2009,48,Jabalya,North Gaza,M
+Fatimah Salah Isma'il Salah,1/1/2009,42,Jabalya,North Gaza,F
+'Ali Hassan Ahmad al-Mabhuh,12/27/2008,20,Jabalya,North Gaza,M
+Muhammad a-Dasuqi Kamel 'Asaliyah,12/27/2008,27,Jabalya,North Gaza,M
+Ahmad Jamil Mahmoud a-Taluli,12/27/2008,28,Jabalya,North Gaza,M
+Ayman Hamed Ahmad Abu Amuna,12/27/2008,37,Jabalya,North Gaza,M
+Tal'at Mahmoud Salman Salman,12/27/2008,38,Jabalya,North Gaza,M
+Mahmoud Fouad Ahmad Abu Matar,12/27/2008,38,Jabalya,North Gaza,M
+Ayman Ahmad Hussein Ahmad,12/27/2008,40,Jabalya,North Gaza,M
+Bassem 'Omar 'Awad Jendiyeh,12/27/2008,43,Jabalya,North Gaza,M
+Khalil Mahmoud al-'Abed al-Kurd,12/27/2008,48,Jabalya,North Gaza,M
+'Abdallah Isma'il 'Abdallah a-Zein,12/27/2008,48,Jabalya,North Gaza,M
+Mahmoud Ahmad Hamtu a-Najar,12/27/2008,49,Jabalya,North Gaza,M
+Sarah 'Eid 'Ali al-Hawajri,12/27/2008,57,Jabalya,North Gaza,F
+Mu'taz Fouad 'Abd al-'Aziz Tafesh,6/16/2008,28,Jabalya,North Gaza,M
+Mahmoud Zaki 'Abd a-Rahman Khader,6/12/2008,18,Jabalya,North Gaza,M
+Musa Ahmad Muhammad Hamuda,6/12/2008,22,Jabalya,North Gaza,M
+Mustafa Sa'di Mustafa al-Batsh,6/12/2008,26,Jabalya,North Gaza,M
+Muhammad Musa Muhammad Musa,4/19/2008,18,Jabalya,North Gaza,M
+Hisham 'Abd a-Rahman Ibrahim Daher,4/19/2008,20,Jabalya,North Gaza,M
+Zaher 'Adel Harb Shameyah,4/19/2008,24,Jabalya,North Gaza,M
+Muhammad Hassan Ahmad 'Abd a-Rahman,4/19/2008,31,Jabalya,North Gaza,M
+Riyad 'Abdallah Muhammad a-Tanani,4/19/2008,33,Jabalya,North Gaza,M
+Muhammad Zaki Muhammad al-Masri,4/17/2008,17,Jabalya,North Gaza,M
+'Awad Mahmoud Muhammad a-Taharawi,4/9/2008,32,Jabalya,North Gaza,M
+Murad Muhammad Khalil Khader,3/29/2008,21,Jabalya,North Gaza,M
+Rabi' Ashraf Rabi' Muhsen,3/29/2008,22,Jabalya,North Gaza,M
+Muhammad 'Imad Fa'iq Hlewah,3/2/2008,15,Jabalya,North Gaza,M
+Luai Isma'il Ibrahim Taha,3/2/2008,15,Jabalya,North Gaza,M
+'Abd a-Rahim Muhammad 'Abd al-Fatah Saleh,3/2/2008,16,Jabalya,North Gaza,M
+Luai Jamal Farhat Jendiyeh,3/2/2008,17,Jabalya,North Gaza,M
+Wisam Faiz Ahmad Saleh,3/2/2008,20,Jabalya,North Gaza,M
+Yusef Muhammad Madi Abu Wardeh,3/2/2008,53,Jabalya,North Gaza,M
+Salsabil Majed Muhammad Abu Jalhum,3/1/2008,2,Jabalya,North Gaza,F
+Safa Ra'd 'Ali Abu Seif,3/1/2008,11,Jabalya,North Gaza,F
+Nael Zuheir Shukri Abu 'On,3/1/2008,12,Jabalya,North Gaza,M
+'Abd al-Karim Hussni 'Abd a-Latif al-Haw,3/1/2008,14,Jabalya,North Gaza,M
+Iyad Muhammad Hussni Abu Shbak,3/1/2008,15,Jabalya,North Gaza,M
+Muhammad Fouad Khalil Hijazi,3/1/2008,16,Jabalya,North Gaza,M
+Mahmoud Bassam A'bed A'beid,3/1/2008,16,Jabalya,North Gaza,M
+Khaled Munzer 'Abd al-Qader Rayan,3/1/2008,16,Jabalya,North Gaza,M
+Jacqueline Muhammad Hussni Abu Shbak,3/1/2008,16,Jabalya,North Gaza,F
+'Abd a-Ra'uf 'Abd al-Karim Mahmoud 'Odeh,3/1/2008,16,Jabalya,North Gaza,M
+Muhammad 'Abd al-Qader Hassan 'Aqilan,3/1/2008,17,Jabalya,North Gaza,M
+Mahmoud Na'im Ahmad al-'Attar,3/1/2008,17,Jabalya,North Gaza,M
+Isma'il 'Arafat Mustafa Abu Sultan,3/1/2008,17,Jabalya,North Gaza,M
+Ahmad Muhammad 'Abd al-Qader Rayan,3/1/2008,17,Jabalya,North Gaza,M
+'Abdallah 'Abd al-Karim Ibrahim Abu Sha'ira,3/1/2008,17,Jabalya,North Gaza,M
+'Abd al-Mu'ti Ousamah 'Abd al-Mu'ti Sa'ed,3/1/2008,17,Jabalya,North Gaza,M
+Muhammad 'Abd al-Halim Muhammad Abu Rayya,3/1/2008,18,Jabalya,North Gaza,M
+Hassan Ziyadah Khalil Jasser,3/1/2008,18,Jabalya,North Gaza,M
+Hassan Kamal 'Abd al-'Aziz Abu Harb,3/1/2008,18,Jabalya,North Gaza,M
+Jihad Hatem al-'Abed Abu Hleil,3/1/2008,19,Jabalya,North Gaza,M
+Bilal Ibrahim Suliman al-Jamal,3/1/2008,19,Jabalya,North Gaza,M
+Tamer Mahmoud Muhammad al-Weshahi,3/1/2008,20,Jabalya,North Gaza,M
+Muhannad 'Omar Muhammad a-Nashasi,3/1/2008,20,Jabalya,North Gaza,M
+Thabet Fathi Zaki Jneid,3/1/2008,21,Jabalya,North Gaza,M
+Hamzah Muhammad a-Shaf'i al-Jamal,3/1/2008,21,Jabalya,North Gaza,M
+Ghassan 'Abd al-Hai Jawdat 'Abd Rabo,3/1/2008,21,Jabalya,North Gaza,M
+'Ali Jaber Sa'id al-Katani,3/1/2008,21,Jabalya,North Gaza,M
+'Abdallah Ahmad Ibrahim a-Shanat,3/1/2008,21,Jabalya,North Gaza,M
+Mahmoud Suliman Shihadah Zaqut,3/1/2008,22,Jabalya,North Gaza,M
+Hussein Sami Kheir al-Batsh,3/1/2008,24,Jabalya,North Gaza,M
+'Abd a-Rahman Muhammad 'Abd al-Hadi Shihab,3/1/2008,24,Jabalya,North Gaza,M
+Tal'at Muhammad Muhammad Dardunah,3/1/2008,25,Jabalya,North Gaza,M
+Mu'tasem Muhammad Sharif Diab 'Abd Rabo,3/1/2008,25,Jabalya,North Gaza,M
+Mesleh Muhammad Mesleh Saleh,3/1/2008,25,Jabalya,North Gaza,M
+Mahmoud Rabi' 'Abdallah 'Abd Rabo,3/1/2008,25,Jabalya,North Gaza,M
+Ibrahim Sha'ban 'Abdallah al-Zein,3/1/2008,25,Jabalya,North Gaza,M
+'Abdallah Nabil 'Abdallah Faraj 'Abd Rabo,3/1/2008,29,Jabalya,North Gaza,M
+Bassam A'bed Muhammad A'beid,3/1/2008,45,Jabalya,North Gaza,M
+Ibrahim Sha'ban 'Abdallah al-Zein,2/29/2008,25,Jabalya,North Gaza,M
+Ousamah Faiz Yihya 'Assaf,2/7/2008,22,Jabalya,North Gaza,M
+Mahmoud Yusef al-'Abed Mustafa al-Mutawaq,2/7/2008,24,Jabalya,North Gaza,M
+Ahmad Muhammad Zakaria Abu Hameid,2/7/2008,25,Jabalya,North Gaza,M
+Saed 'Abdallah Nabhan Nabhan,2/7/2008,26,Jabalya,North Gaza,M
+Jawdat 'Abdallah Muhammad Nabhan,2/7/2008,29,Jabalya,North Gaza,M
+Saleh Ibrahim Yusef Nabhan,2/7/2008,34,Jabalya,North Gaza,M
+Hamuda Muhammad Zayed a-Sharafa,2/7/2008,40,Jabalya,North Gaza,M
+Soheil Raafat 'Ali al-Ghasin,2/6/2008,38,Jabalya,North Gaza,M
+Mahmoud Yusef 'Abed al-Ghandur,1/20/2008,18,Jabalya,North Gaza,M
+Mahmoud Ramadan al-'Abed al-Barsh,1/18/2008,16,Jabalya,North Gaza,M
+Isma'il Muhammad Isma'il Radwan,1/18/2008,20,Jabalya,North Gaza,M
+Majed 'Awad Matar Matar,12/6/2007,29,Jabalya,North Gaza,M
+Wahid Rabi' Saleh Saleh,11/14/2007,49,Jabalya,North Gaza,M
+Kamal Khaled 'Ali Sa'ed,6/6/2007,20,Jabalya,North Gaza,M
+'Omar Sha'ban Fouad Rihan,5/30/2007,21,Jabalya,North Gaza,M
+Mahmoud 'Issa 'Abdallah Hamuda,5/30/2007,23,Jabalya,North Gaza,M
+Mahmoud 'Adel Muhammad 'Awad,5/21/2007,23,Jabalya,North Gaza,M
+'Abd al-'Aziz Muhammad Khalil al-Hilu,5/21/2007,23,Jabalya,North Gaza,M
+Muhammad Fawzi Muhammad Abu Ni'mah,5/21/2007,31,Jabalya,North Gaza,M
+Majed Salman Ahmad al-Batsh,5/21/2007,33,Jabalya,North Gaza,M
+Muhammad Ahmad Abu Jabber,5/16/2007,25,Jabalya,North Gaza,M
+Rami Subhi Ma'sud Zaqauq,5/16/2007,29,Jabalya,North Gaza,M
+Kamal Kazem Muhammad 'Anan,4/22/2007,44,Jabalya,North Gaza,M
+Fouad Nabil Madin Abu Ma'ruf,4/7/2007,22,Jabalya,North Gaza,M
+'Abd al-'Aziz Salman Muhammad Salman,11/24/2006,8,Jabalya,North Gaza,M
+Ayman Muhammad Salem Judah,11/24/2006,21,Jabalya,North Gaza,M
+Naser Jamal Ahmad a-Nazer,11/23/2006,17,Jabalya,North Gaza,M
+Sami Anwaar Khamis a-Zebdah,11/22/2006,22,Jabalya,North Gaza,M
+Ahmad Hassan Ahmad al-Musah,11/21/2006,19,Jabalya,North Gaza,M
+Nimer Muhammad 'Ali Nadiah,11/8/2006,16,Jabalya,North Gaza,M
+'Abd al-Majid Jamal Diab al-Gharbawi,11/7/2006,19,Jabalya,North Gaza,M
+Nahlah Muhammad Dawood a-Shanti,11/7/2006,45,Jabalya,North Gaza,F
+Ramzi Morfeq Mahmoud a-Sharafi,11/6/2006,16,Jabalya,North Gaza,M
+Mahmoud Hussein Mustafa Abu Hamadah (Sharqat),11/6/2006,17,Jabalya,North Gaza,M
+Ousamah Saleh Salem Jaber,11/6/2006,19,Jabalya,North Gaza,M
+Najwa 'Awad Rajab Khalif,11/6/2006,24,Jabalya,North Gaza,F
+Ahmad Muti'a Badawi al-Husari,11/6/2006,24,Jabalya,North Gaza,M
+Muhammad Ibrahim 'Abed Ba'lushah,11/4/2006,15,Jabalya,North Gaza,M
+'Ali Muhammad Muhammad a-Na'uq,11/4/2006,24,Jabalya,North Gaza,M
+'Issa Muhammad Muhammad a-Na'uq,11/4/2006,27,Jabalya,North Gaza,M
+Iyad Suliman Yihya Abu al-Jidyan,11/4/2006,30,Jabalya,North Gaza,M
+Raed Helmi Hassan Siyam,11/4/2006,32,Jabalya,North Gaza,M
+Muhammad Samir Hussni Mahmoud,11/2/2006,17,Jabalya,North Gaza,M
+Hassan Saleh Ahmad Salah,11/2/2006,20,Jabalya,North Gaza,M
+Sami 'Abdallah Salem Abu Sala'h,11/2/2006,29,Jabalya,North Gaza,M
+'Alaa Saqer Dahruj Abu Dahruj,9/21/2006,15,Jabalya,North Gaza,M
+Muhammad Silmi Muhammad Masalha,9/21/2006,16,Jabalya,North Gaza,M
+Zidan Rafiq Muhammad Abu Rashed,9/21/2006,17,Jabalya,North Gaza,M
+'Omar Lafy 'Odeh Abu Jarad,9/20/2006,23,Jabalya,North Gaza,M
+Maryam Muhammad Ibrahim Farhudah,8/19/2006,64,Jabalya,North Gaza,F
+Kamleh Ahmad Rashid a-Najar,7/27/2006,75,Jabalya,North Gaza,F
+Shahd Samir 'Ata 'Okal,7/26/2006,0,Jabalya,North Gaza,F
+Maria Samir 'Ata 'Okal,7/26/2006,5,Jabalya,North Gaza,F
+Sumayah Samir 'Ata 'Okal,7/26/2006,14,Jabalya,North Gaza,F
+Asmaa 'Ali 'Abd a-Rasul 'Okal,7/26/2006,34,Jabalya,North Gaza,F
+Jaber Muhammad Ahmad Rihan,7/7/2006,45,Jabalya,North Gaza,M
+Bassem 'Awni 'Ali Rihan,7/6/2006,20,Jabalya,North Gaza,M
+Sha'ban 'Abd al-Men'em Yusef Manun,7/2/2006,33,Jabalya,North Gaza,M
+'Omar Mustafa Muhammad Abu Wardeh,5/26/2006,43,Jabalya,North Gaza,M
+Sa'id 'Abd al-Fatah Ibrahim Abu al-Jidyan,1/2/2006,39,Jabalya,North Gaza,M
+Akram Hassan Yusef Qadas,1/2/2006,46,Jabalya,North Gaza,M
+Muhammad Marzuq Ahmad 'Udwan,12/27/2004,22,Jabalya,North Gaza,M
+Khader Muhammad a-Taluli,10/13/2004,28,Jabalya,North Gaza,M
+'Abd a-Ra'uf Hussein Nabhan,10/9/2004,25,Jabalya,North Gaza,M
+Wafi Salem 'Asaliyah,10/5/2004,26,Jabalya,North Gaza,M
+Munir Anwaar Muhammad a-Daks,9/9/2004,10,Jabalya,North Gaza,M
+Sami Sharif Salim Thabet,9/9/2004,18,Jabalya,North Gaza,M
+Muhammad Yusef Ahmad 'Iz a-Din,9/9/2004,22,Jabalya,North Gaza,M
+Mahmoud Muhammad 'Abd a-Razeq Daraybeh,9/9/2004,31,Jabalya,North Gaza,M
+Naser 'Abd al-Qader Baker,6/2/2003,55,Jabalya,North Gaza,M
+Muhammad Sa'id Hadav,2/17/2003,25,Jabalya,North Gaza,M
+Khalil al-Bakri,2/17/2003,27,Jabalya,North Gaza,M
+Nahed Mubarak Abu Dahruj,1/29/2003,19,Jabalya,North Gaza,M
+Hassan Yusef Hassan Fayad,1/25/2003,19,Jabalya,North Gaza,M
+Muhammad Fakhri Brik,12/24/2002,14,Jabalya,North Gaza,M
+Yihya Mansur 'Ali Ghaban,5/13/2021,22,Erez (Industrial Zone),North Gaza,M
+Suhaib 'Abd a-Rahim 'Awad Ghanem,5/13/2021,24,Erez (Industrial Zone),North Gaza,M
+Ahmad Samir Harb Abu Habel,10/3/2018,15,Erez (Industrial Zone),North Gaza,M
+Ahmad Muhammad Muhsen Yusef 'Omar,9/18/2018,23,Erez (Industrial Zone),North Gaza,M
+Muhammad Ahmad Muhammad Abu Naji,9/18/2018,33,Erez (Industrial Zone),North Gaza,M
+Yihya 'Abd al-Qader Jaber Farhat,10/16/2015,24,Erez (Industrial Zone),North Gaza,M
+Maysaa Nimer Muhammad Fanunah,1/7/2008,22,Erez (Industrial Zone),North Gaza,F
+Bassam 'Abd Rabo Musa Abu Mustafa,1/7/2008,31,Erez (Industrial Zone),North Gaza,M
+Hasunah Jum'ah Hasunah al-Qayed,1/1/2008,20,Erez (Industrial Zone),North Gaza,M
+Khaldeyeh Ahmad Hamdan a-Talbani,12/30/2007,39,Erez (Industrial Zone),North Gaza,F
+Jaber Nafez Muhammad Khalil,11/26/2007,20,Erez (Industrial Zone),North Gaza,M
+Ghassan Khader Hussein al-'Elah,11/26/2007,21,Erez (Industrial Zone),North Gaza,M
+Ikrami Ghaleb Nimer Abu 'Amshah,8/8/2007,23,Erez (Industrial Zone),North Gaza,M
+Majed Mahmoud Muhammad a-Sheikh,7/10/2006,29,Erez (Industrial Zone),North Gaza,M
+'Imad Muhammad 'Abdallah al-'Athamneh,7/8/2006,26,Erez (Industrial Zone),North Gaza,M
+Anwaar Isma'il 'Abd al-Ghani 'Atallah,7/5/2006,12,Erez (Industrial Zone),North Gaza,M
+Fadi Zaa'l Subhi Qamar,1/5/2005,20,Erez (Industrial Zone),North Gaza,M
+Amjad Khaled Sami a-Najar,1/5/2005,20,Erez (Industrial Zone),North Gaza,M
+Samer Mahmoud a-Darini,10/1/2004,22,Erez (Industrial Zone),North Gaza,M
+Muhammad Rafiq Salem,10/1/2004,22,Erez (Industrial Zone),North Gaza,M
+Raed Musa al-Haj Ali,10/1/2004,23,Erez (Industrial Zone),North Gaza,M
+Ousamah Salah 'Abd Rabo al-A'araj,9/22/2004,20,Erez (Industrial Zone),North Gaza,M
+Hatem Mahmoud Ibrahim Tafesh,3/6/2004,17,Erez (Industrial Zone),North Gaza,M
+Muhatdi Muhammad Diab al-Mbayed,3/6/2004,24,Erez (Industrial Zone),North Gaza,M
+Ashraf Muhammad Ahmad Zaqut,2/26/2004,21,Erez (Industrial Zone),North Gaza,M
+Ayman Yusef 'Abd a-Rahman Sihweil,2/26/2004,22,Erez (Industrial Zone),North Gaza,M
+Ahmad Mufid 'Abd al-Fatah Halawah,9/8/2003,20,Erez (Industrial Zone),North Gaza,M
+Rami Muhammad al-Biq,6/8/2003,20,Erez (Industrial Zone),North Gaza,M
+Musa Ibrahim Hammad Sihweil,6/8/2003,21,Erez (Industrial Zone),North Gaza,M
+Muhammad Yusef Diab Abu Beid,6/8/2003,21,Erez (Industrial Zone),North Gaza,M
+Mustafa 'Abdallah al-Kafarneh,2/21/2003,20,Erez (Industrial Zone),North Gaza,M
+Sami Muhammad Muhsen,6/9/2002,28,Erez (Industrial Zone),North Gaza,M
+Wael Judy,4/20/2002,19,Erez (Industrial Zone),North Gaza,M
+Salem Abu Khusah,4/14/2002,31,Erez (Industrial Zone),North Gaza,M
+Nazmi Hamdan Yasin,4/12/2002,27,Erez (Industrial Zone),North Gaza,M
+Wisam Suliman Khalil Shabet,3/9/2002,19,Erez (Industrial Zone),North Gaza,M
+Fares 'Izzat Ibrahim Shabet,3/9/2002,25,Erez (Industrial Zone),North Gaza,M
+Muhammad 'Ali Judah,1/17/2002,20,Erez (Industrial Zone),North Gaza,M
+Fathi 'Issa a-Tal,11/10/2004,30,Dugit,North Gaza,M
+Hussni Bashir Ahmad 'Ali al-Hasi,6/24/2004,18,Dugit,North Gaza,M
+Muamen Nafez Ahmad al-Malfuh,6/24/2004,19,Dugit,North Gaza,M
+Muhammad Yusef Muhammad al-Ashqar,1/30/2004,25,Dugit,North Gaza,M
+Muhammad Hassan Khalaf al-Hassan,1/30/2004,25,Dugit,North Gaza,M
+Marwan Ahmad Ibrahim a-Najar,9/23/2003,19,Dugit,North Gaza,M
+Tareq Abu Rahma,2/21/2003,28,Dugit,North Gaza,M
+Wajdi Muhammad Ibrahim Salman,2/12/2003,18,Dugit,North Gaza,M
+'Abd a-Rahman Muhammad Rabi' Hamdiya,2/12/2003,20,Dugit,North Gaza,M
+Karam Muhammad Mustafa Abu 'Obeid,10/18/2002,17,Dugit,North Gaza,M
+Basel Ibrahim Naji,8/11/2002,20,Dugit,North Gaza,M
+Muhammad Yihya Encio,8/4/2002,22,Dugit,North Gaza,M
+Mahmoud Hassan al-'Abed,6/15/2002,23,Dugit,North Gaza,M
+'Ahed 'Ali a-Mabasher,6/7/2002,21,Dugit,North Gaza,M
+Sa'id Muhammad a-Sater,6/7/2002,30,Dugit,North Gaza,M
+'Iz a-Din a-Shamali,5/18/2002,21,Dugit,North Gaza,M
+Isma'il 'Eid,4/22/2002,19,Dugit,North Gaza,M
+Ahmad 'Omar Abu Salimah,4/17/2002,16,Dugit,North Gaza,M
+Naji al-'A'jrami,3/23/2002,19,Dugit,North Gaza,M
+'Issa a-Nader,3/23/2002,20,Dugit,North Gaza,M
+'Izu Abu Dalal,11/18/2001,32,Dugit,North Gaza,M
+Muhammad Hussein Ibrahim,11/18/2001,35,Dugit,North Gaza,M
+Fouad Mustafa Fouad a-Dahshan,10/26/2001,17,Dugit,North Gaza,M
+'Othman Dib a-Razinah,10/26/2001,22,Dugit,North Gaza,M
+Iyad Rabi' Muhammad al-Batsh,10/26/2001,22,Dugit,North Gaza,M
+Muhammad Ahmad 'Abd al-Fatah Nasrallah,8/5/2022,25,Beit Lahiya,North Gaza,M
+Hashem Shaher Muhammad a-Shurafa,5/20/2021,26,Beit Lahiya,North Gaza,M
+Muhammad Nazir Muhammad Abu 'On,5/17/2021,18,Beit Lahiya,North Gaza,M
+Ahmad Ziad Hussein Sabah,5/17/2021,28,Beit Lahiya,North Gaza,M
+Muhammad Zein Muhammad Mahmoud al-'Attar,5/14/2021,0,Beit Lahiya,North Gaza,M
+Amirah Muhammad Mahmoud al-'Attar,5/14/2021,6,Beit Lahiya,North Gaza,F
+Islam Muhammad Mahmoud al-'Attar,5/14/2021,8,Beit Lahiya,North Gaza,M
+Yusef Hatem Mahmoud al-Mansi,5/14/2021,22,Beit Lahiya,North Gaza,M
+Lamyaa Hassan Muhammad al-'Attar,5/14/2021,26,Beit Lahiya,North Gaza,F
+Ahmad Muhammad 'Abd al-'Aziz Sabah,5/14/2021,28,Beit Lahiya,North Gaza,M
+Ahmad Hatem Mahmoud al-Mansi,5/14/2021,34,Beit Lahiya,North Gaza,M
+Fayzah Ahmad Muhammad Salamah,5/14/2021,44,Beit Lahiya,North Gaza,F
+Muhammad Raafat Muhammad Isma'il a-Tanani,5/13/2021,2,Beit Lahiya,North Gaza,M
+Adham Raafat Muhammad Isma'il a-Tanani,5/13/2021,4,Beit Lahiya,North Gaza,M
+Amir Raafat Muhammad Isma'il a-Tanani,5/13/2021,6,Beit Lahiya,North Gaza,M
+Isma'il Raafat Muhammad Isma'il a-Tanani,5/13/2021,7,Beit Lahiya,North Gaza,M
+Hadil Muhammad Ibrahim Aman,5/13/2021,18,Beit Lahiya,North Gaza,F
+Warda Muhammad Ibrahim Aman,5/13/2021,22,Beit Lahiya,North Gaza,F
+Walaa Muhammad Ibrahim Aman,5/13/2021,24,Beit Lahiya,North Gaza,F
+Rawyah Fathi Hassan a-Tanani,5/13/2021,36,Beit Lahiya,North Gaza,F
+Raafat Muhammad Isma'il 'Ata a-Tanani,5/13/2021,39,Beit Lahiya,North Gaza,M
+Muhammad Ibrahim Muhammad Aman,5/13/2021,51,Beit Lahiya,North Gaza,M
+'Abd a-Rahim Muhammad 'Abdallah al-Madhun,5/13/2021,63,Beit Lahiya,North Gaza,M
+Halimah 'Ali Muhammad al-Madhun,5/13/2021,66,Beit Lahiya,North Gaza,F
+Jihad Amin Ahmad Abu Khater,11/12/2019,23,Beit Lahiya,North Gaza,M
+Ibrahim Ahmad 'Abd a-Latif a-Dabus,11/12/2019,25,Beit Lahiya,North Gaza,M
+Rani Fayez Rajab Abu a-Naser,11/12/2019,35,Beit Lahiya,North Gaza,M
+Wael 'Abd al-'Aziz 'Abdallah 'Abd a-Nabi,11/12/2019,43,Beit Lahiya,North Gaza,M
+Muhammad Farid Suliman Abu Namus,8/17/2019,21,Beit Lahiya,North Gaza,M
+Mahmoud 'Adel Sa'ed al-Walaydeh,8/17/2019,24,Beit Lahiya,North Gaza,M
+Muhammad Samir 'Abd al-Jawad a-Taramsi,8/17/2019,26,Beit Lahiya,North Gaza,M
+Maria Ahmad Ramadan al-Ghazali,5/5/2019,0,Beit Lahiya,North Gaza,F
+'Abd a-Rahman Talal 'Atiyyah Abu al-Jidyan,5/5/2019,11,Beit Lahiya,North Gaza,M
+'Abdallah 'Abd a-Rahim Mustafa al-Madhun,5/5/2019,21,Beit Lahiya,North Gaza,M
+Iman 'Abdallah Musa Asraf (al-Ghazali),5/5/2019,29,Beit Lahiya,North Gaza,F
+Ahmad Ramadan Rajab al-Ghazali,5/5/2019,30,Beit Lahiya,North Gaza,M
+Fadi Ragheb Yusef Badran,5/5/2019,33,Beit Lahiya,North Gaza,M
+Amani 'Atfat Sha'ban al-Madhun,5/5/2019,36,Beit Lahiya,North Gaza,F
+Raghdah Muhammad Mahmoud Abu al-Jidyan,5/5/2019,46,Beit Lahiya,North Gaza,F
+Talal 'Atiyyah Muhammad Abu al-Jidyan,5/5/2019,48,Beit Lahiya,North Gaza,M
+'Abd a-Rahim Mustafa Taha al-Madhun,5/5/2019,60,Beit Lahiya,North Gaza,M
+Khaled Muhammad Silmi Abu Qleiq,5/4/2019,24,Beit Lahiya,North Gaza,M
+Khaled Riyad Ahmad a-Sultan,11/13/2018,26,Beit Lahiya,North Gaza,M
+Khaled Akram Yusef M'aruf,11/13/2018,28,Beit Lahiya,North Gaza,M
+Muhammad Zuhdi Hassan 'Odeh,11/12/2018,22,Beit Lahiya,North Gaza,M
+Muhammad Zakaria Isma'il a-Tatari,11/12/2018,27,Beit Lahiya,North Gaza,M
+Naji Jamal Muhammad a-Z'anin,10/17/2018,25,Beit Lahiya,North Gaza,M
+'Ali Yusef Muhammad al-Ghandur,8/9/2018,34,Beit Lahiya,North Gaza,M
+Muhammad Ma'sud Ahmad 'Abdallah a-Radi',5/28/2018,30,Beit Lahiya,North Gaza,M
+Isma'il Saleh Muhammad Abu Ryalah,2/25/2018,18,Beit Lahiya,North Gaza,M
+Israa Salman Musa Abu Khusah,3/12/2016,6,Beit Lahiya,North Gaza,F
+Yasin Salman Musa Abu Khusah,3/12/2016,9,Beit Lahiya,North Gaza,M
+Musa As'ad Salman Abu Z'eiter,1/13/2016,21,Beit Lahiya,North Gaza,M
+Muhammad Hamed 'Adel al-Masri,7/31/2015,16,Beit Lahiya,North Gaza,M
+Tamer Midhat Hassan Hamad,8/26/2014,24,Beit Lahiya,North Gaza,M
+Muhammad 'Abd a-Rahman 'Abd al-Qader Daher,8/26/2014,49,Beit Lahiya,North Gaza,M
+Amneh Raddad Ahmad Tanburah,8/25/2014,13,Beit Lahiya,North Gaza,F
+Ahmad Raddad Ahmad Tanburah,8/25/2014,15,Beit Lahiya,North Gaza,M
+Raddad Ahmad Salim Tanburah,8/25/2014,36,Beit Lahiya,North Gaza,M
+Farhanah Ibrahim Taleb al-'Attar,8/25/2014,48,Beit Lahiya,North Gaza,F
+Muhammad Ibrahim Muhammad a-Luqah,8/24/2014,21,Beit Lahiya,North Gaza,M
+Hassan Srur Muhammad Tamburah,8/21/2014,13,Beit Lahiya,North Gaza,M
+Srur Muhammad Jamil Tamburah,8/21/2014,35,Beit Lahiya,North Gaza,M
+Mustafa Sufian Darwish Muheisen,8/20/2014,29,Beit Lahiya,North Gaza,M
+Sufian Darwish Muhammad Muheisen,8/20/2014,48,Beit Lahiya,North Gaza,M
+Raed Samir Mahmoud al-Halabi,8/10/2014,36,Beit Lahiya,North Gaza,M
+Faraj Hussein Khamis Abu Rabi',8/10/2014,45,Beit Lahiya,North Gaza,M
+'Amru Khader 'Atiyyah Mohjez,8/4/2014,22,Beit Lahiya,North Gaza,M
+Walid Tawfiq 'Abd al-Hadi Darabiyah,8/4/2014,24,Beit Lahiya,North Gaza,M
+'Ahed Sa'id Mahmoud Bader,8/3/2014,20,Beit Lahiya,North Gaza,M
+Fares Ahmad Hussein Dawood,8/3/2014,23,Beit Lahiya,North Gaza,M
+Sama Nael Bassam al-Barawi,8/1/2014,0,Beit Lahiya,North Gaza,F
+Su'ad 'Ali Muhammad al-Bahri,8/1/2014,73,Beit Lahiya,North Gaza,F
+Maryam Muhammad Muhammad Abu Jalalah,7/31/2014,24,Beit Lahiya,North Gaza,F
+Muhammad Taysir Sa'id Sababah,7/30/2014,22,Beit Lahiya,North Gaza,M
+Muhammad Ya'qub Isma'il Suliman,7/30/2014,23,Beit Lahiya,North Gaza,M
+Hassan Ibrahim Muhammad Habush,7/30/2014,25,Beit Lahiya,North Gaza,M
+Jamal Shehdeh 'Abd al-'Aziz Abu Shadaq,7/30/2014,41,Beit Lahiya,North Gaza,M
+'Abd al-Jalil Muhammad Kamel Abu Shadaq,7/30/2014,41,Beit Lahiya,North Gaza,M
+Soheil Hussein 'Abd al-Karim 'Abd Rabo,7/29/2014,35,Beit Lahiya,North Gaza,M
+'Alaa Maher Jum'ah Tantish,7/26/2014,19,Beit Lahiya,North Gaza,M
+Mahmoud Husam Muhammad Mansur,7/26/2014,22,Beit Lahiya,North Gaza,M
+'Ammar Mustafa Rashid Hamdunah,7/26/2014,22,Beit Lahiya,North Gaza,M
+'Abdallah 'Abdallah 'Abed Abu Ful,7/26/2014,24,Beit Lahiya,North Gaza,M
+Wisam Sufian 'Omar al-Kilani,7/26/2014,26,Beit Lahiya,North Gaza,M
+Muhammad Sa'id Sha'ban Baba,7/26/2014,40,Beit Lahiya,North Gaza,M
+Muhammad Salamah Hammad Abu Khusah,7/26/2014,76,Beit Lahiya,North Gaza,M
+Rami Feisal Matar a-Shish,7/24/2014,34,Beit Lahiya,North Gaza,M
+Khader Khalil Khader a-Loh,7/24/2014,52,Beit Lahiya,North Gaza,M
+Salma Salem Rajab a-Radi',7/23/2014,2,Beit Lahiya,North Gaza,F
+Rabi' Qassem Rabi' Abu Ras,7/23/2014,9,Beit Lahiya,North Gaza,M
+'Izat Aumayyah 'Izat a-Sayed,7/23/2014,17,Beit Lahiya,North Gaza,M
+Raed Salem Rajab a-Radi',7/23/2014,19,Beit Lahiya,North Gaza,M
+Wisam Bahajat Muhammad Rajab,7/23/2014,20,Beit Lahiya,North Gaza,M
+Ahmad Nabil Ahmad Abu Murad,7/23/2014,20,Beit Lahiya,North Gaza,M
+Ousamah Bahajat Muhammad Rajab,7/23/2014,22,Beit Lahiya,North Gaza,M
+Bilal 'Ali Ahmad Abu 'Athrah,7/23/2014,22,Beit Lahiya,North Gaza,M
+Ziad Ghaleb Rajab a-Radi',7/23/2014,23,Beit Lahiya,North Gaza,M
+Muhammad Dawood 'Abd a-Latif Hamuda,7/23/2014,23,Beit Lahiya,North Gaza,M
+Ahmad 'Adel 'Ali Hmedah,7/23/2014,23,Beit Lahiya,North Gaza,M
+'Abd al-Karim Naser Saleh Abu Jirmi,7/23/2014,25,Beit Lahiya,North Gaza,M
+Muhammad Ahmad As'ad al-Baddi,7/22/2014,0,Beit Lahiya,North Gaza,M
+Shahd Mu'in 'Ali Qishtah,7/22/2014,8,Beit Lahiya,North Gaza,F
+Ibrahim Subhi Yusef al-Feiri,7/22/2014,25,Beit Lahiya,North Gaza,M
+Ahmad As'ad Rashad al-Baddi,7/22/2014,27,Beit Lahiya,North Gaza,M
+'Arafah Sultan Muhammad M'aruf,7/21/2014,72,Beit Lahiya,North Gaza,M
+Dina 'Omar 'Abdallah 'Aziz,7/20/2014,7,Beit Lahiya,North Gaza,F
+Aya Bahajat Hassan Abu Sultan,7/20/2014,19,Beit Lahiya,North Gaza,F
+'Aishah 'Ali Mahmoud Zayed,7/20/2014,53,Beit Lahiya,North Gaza,F
+'Abd Rabo Ahmad Muhammad Zayed,7/20/2014,57,Beit Lahiya,North Gaza,M
+Muhammad Ziad Saleh a-Rahel,7/19/2014,5,Beit Lahiya,North Gaza,M
+'Omar Jamil Subhi Hamuda,7/19/2014,10,Beit Lahiya,North Gaza,M
+Yusef Jamil Subhi Hamuda,7/19/2014,15,Beit Lahiya,North Gaza,M
+Muhammad Rafiq Ahmad a-Rahel,7/19/2014,17,Beit Lahiya,North Gaza,M
+Muhammad Rizeq Muhammad Hamuda,7/19/2014,18,Beit Lahiya,North Gaza,M
+Mahmoud As'ad Muhammad Ghaben,7/19/2014,23,Beit Lahiya,North Gaza,M
+Muhammad 'Abd a-Rahman Mahmoud Abu Hamad,7/19/2014,25,Beit Lahiya,North Gaza,M
+Raed Mansur 'Abd al-Karim Nayfeh,7/19/2014,43,Beit Lahiya,North Gaza,M
+Ahmad Isma'il Muhammad Abu Msalam,7/18/2014,10,Beit Lahiya,North Gaza,M
+Walaa Isma'il Muhammad Abu Msalam,7/18/2014,14,Beit Lahiya,North Gaza,M
+Muhammad Isma'il Muhammad Abu Msalam,7/18/2014,15,Beit Lahiya,North Gaza,M
+Muhammad 'Awad Matar Matar,7/18/2014,38,Beit Lahiya,North Gaza,M
+Turkiyyah al-'Abed Muhammad al-Biss,7/18/2014,77,Beit Lahiya,North Gaza,F
+Ahmad Rajab Abu Jibbah Abu Rihan,7/17/2014,24,Beit Lahiya,North Gaza,M
+Hamzah Raed Muhammad Thari,7/16/2014,5,Beit Lahiya,North Gaza,M
+Saher Salman 'Ali Abu Namus,7/11/2014,2,Beit Lahiya,North Gaza,M
+Sufian Muhammad Mahmoud al-Hadad,7/11/2014,50,Beit Lahiya,North Gaza,M
+'Abdallah Ramadan Jamil Abu Ghazal,7/10/2014,4,Beit Lahiya,North Gaza,M
+Fakhr 'Aref Muhammad al-'Ajuri,7/8/2014,21,Beit Lahiya,North Gaza,M
+'Ali 'Abd a-Latif Ahmad al-'Awour,6/11/2014,10,Beit Lahiya,North Gaza,M
+Muhammad Ahmad 'Abd a-Latif al-'Awour,6/11/2014,33,Beit Lahiya,North Gaza,M
+Muhammad 'Adnan Mahmoud al-Ashqar,11/21/2012,24,Beit Lahiya,North Gaza,M
+Fadi Musa Samir al-Qatnani,11/21/2012,28,Beit Lahiya,North Gaza,M
+Yihya Muhammad Yihya 'Awad,11/20/2012,13,Beit Lahiya,North Gaza,M
+Yihya Akram Muhammad M'aruf,11/20/2012,20,Beit Lahiya,North Gaza,M
+al-'Abed Muhammad al-'Abed al-'Attar,11/19/2012,49,Beit Lahiya,North Gaza,M
+Jomanah Salamah Ibrahim Ise'ifan,11/18/2012,1,Beit Lahiya,North Gaza,F
+Tamer Salamah Ibrahim Ise'ifan,11/18/2012,3,Beit Lahiya,North Gaza,M
+'Ashur Soheil 'Ashur Hamadah,11/18/2012,10,Beit Lahiya,North Gaza,M
+Soheil 'Ashur Muhammad Hamadah,11/18/2012,41,Beit Lahiya,North Gaza,M
+Tahrir Ziad Muhammad Salman,11/16/2012,22,Beit Lahiya,North Gaza,F
+Muhammad Talal Sa'id Salman,11/16/2012,27,Beit Lahiya,North Gaza,M
+Khaled 'Abd a-Rahman Abu Naser,11/15/2012,19,Beit Lahiya,North Gaza,M
+Rani Mahmoud 'Abd a-Rahman Hammad,11/15/2012,29,Beit Lahiya,North Gaza,M
+Luai 'Abd al-Hakim Mustafa Abu Jarad,10/23/2012,25,Beit Lahiya,North Gaza,M
+'Abd a-Rahman Darwish Mustafa Abu Jalalah,10/22/2012,24,Beit Lahiya,North Gaza,M
+Fahmi Saleh Fahmi Abu Riyash,9/28/2012,22,Beit Lahiya,North Gaza,M
+Yasser 'Abdallah 'Awad al-Far,7/13/2012,27,Beit Lahiya,North Gaza,M
+Khaled Naser a-Din Muhammad al-Bura'i,6/23/2012,23,Beit Lahiya,North Gaza,M
+Fayzeh Muhammad Mustafa al-Hassumi,3/12/2012,35,Beit Lahiya,North Gaza,F
+Muhammad Mustafa 'Awad al-Hassumi,3/12/2012,71,Beit Lahiya,North Gaza,M
+Mahmoud Isma'il Mustafa Nijm,3/10/2012,22,Beit Lahiya,North Gaza,M
+Muhammad Yihya Muhammad al-Maghari,3/10/2012,24,Beit Lahiya,North Gaza,M
+Naser Ibrahim Dhib 'Alian,11/3/2011,23,Beit Lahiya,North Gaza,M
+Muhammad 'Amer Muhammad Abu Halimah,11/3/2011,23,Beit Lahiya,North Gaza,M
+Salamah 'Abd a-Rahman Ibrahim al-Masri,8/25/2011,18,Beit Lahiya,North Gaza,M
+'Alaa 'Adnan Muhammad al-Jakhbir,8/25/2011,22,Beit Lahiya,North Gaza,M
+Haitham Ahmad Mustafa M'aruf,8/21/2011,13,Beit Lahiya,North Gaza,M
+Muhammad Ziad Khamis Shalha,4/5/2011,21,Beit Lahiya,North Gaza,M
+Sabri Hashem Muhammad 'Asaliyah,3/27/2011,19,Beit Lahiya,North Gaza,M
+Radwan Ahmad Muhammad a-Nimroti,3/27/2011,32,Beit Lahiya,North Gaza,M
+'Omar 'Arafah 'Abd a-Latif M'aruf,2/28/2011,20,Beit Lahiya,North Gaza,M
+Jihad Fathi Muhammad Khalaf,2/17/2011,21,Beit Lahiya,North Gaza,M
+Ashraf 'Abd a-Latif Rashid Eqtifan,2/17/2011,33,Beit Lahiya,North Gaza,M
+Tal'at Muhammad Salamah a-Rawagh,2/17/2011,41,Beit Lahiya,North Gaza,M
+Salamah Huza'a Mesleh Abu Hashish,12/23/2010,18,Beit Lahiya,North Gaza,M
+'Alaa Muhammad Dib al-Ghannam,6/1/2010,20,Beit Lahiya,North Gaza,M
+'Arafat Muslem 'Abd al-Karim Abu 'Eid,6/1/2010,22,Beit Lahiya,North Gaza,M
+Hayel Hassan 'Abdallah al-Qadi,6/1/2010,25,Beit Lahiya,North Gaza,M
+Muhammad Ashraf 'Abd Rabo Ghaben,3/1/2010,17,Beit Lahiya,North Gaza,M
+Sa'id 'Ata Muhammad al-Hassumi,8/24/2009,16,Beit Lahiya,North Gaza,M
+Mahmoud Sami Hassan Fatuh,3/7/2009,27,Beit Lahiya,North Gaza,M
+Sabrin Muhammad Subhi Abu Samahah,1/18/2009,17,Beit Lahiya,North Gaza,F
+Ghanimah Ma'sud Nimer Abu Halimah,1/18/2009,60,Beit Lahiya,North Gaza,F
+Fatimah 'Awad Khalil Ghaben,1/18/2009,62,Beit Lahiya,North Gaza,F
+Muhammad Muhammad Shehdeh al-Ashqar,1/17/2009,3,Beit Lahiya,North Gaza,M
+Bilal Muhammad Shehdeh al-Ashqar,1/17/2009,5,Beit Lahiya,North Gaza,M
+Mithqal Jamal 'Ata a-Radi',1/17/2009,22,Beit Lahiya,North Gaza,M
+Rami Nahed Mahmoud Abu 'Obeid,1/17/2009,25,Beit Lahiya,North Gaza,M
+Malak Salamah 'Abd al-Hai Abu 'Aytah,1/16/2009,2,Beit Lahiya,North Gaza,F
+Anwar Salman Rushdi Abu 'Aytah,1/16/2009,7,Beit Lahiya,North Gaza,M
+Ahmad Salamah 'Abd al-Hai Abu 'Aytah,1/16/2009,15,Beit Lahiya,North Gaza,M
+Zakiyyeh 'Abd al-Hai 'Ali Abu 'Aytah,1/16/2009,50,Beit Lahiya,North Gaza,F
+Arij 'Ata Hassan Irmeilat,1/15/2009,0,Beit Lahiya,North Gaza,F
+Baraa 'Ata Hassan Irmeilat,1/15/2009,1,Beit Lahiya,North Gaza,M
+Sabrin 'Ata Hassan Irmeilat,1/15/2009,15,Beit Lahiya,North Gaza,F
+'Ammar Muhammad Ahmad Hasunah,1/15/2009,19,Beit Lahiya,North Gaza,M
+Yihya Mahmoud al-'Abed al-Qoqa,1/15/2009,24,Beit Lahiya,North Gaza,M
+Amal 'Ayad 'Odeh Irmeilat,1/15/2009,33,Beit Lahiya,North Gaza,F
+'Aishah 'Ayad 'Eid Irmeilat,1/15/2009,67,Beit Lahiya,North Gaza,F
+Luai Jaber 'Ata Hussein,1/14/2009,20,Beit Lahiya,North Gaza,M
+Soheil Ahmad Rashad al-'Asali,1/14/2009,24,Beit Lahiya,North Gaza,M
+Rajaa Muhammad Ramadan Ghaben,1/14/2009,37,Beit Lahiya,North Gaza,F
+Akram Khader 'Abd al-Qader M'aruf,1/14/2009,46,Beit Lahiya,North Gaza,M
+Kamel Jamil Kamel a-Sarhi,1/13/2009,21,Beit Lahiya,North Gaza,M
+Ahmad Muhammad Ayub Khilleh,1/13/2009,22,Beit Lahiya,North Gaza,M
+Amjad Fadel 'Abdallah Abu Rayan,1/13/2009,23,Beit Lahiya,North Gaza,M
+Ahmad Kamal Hamuda a-Dalu,1/13/2009,23,Beit Lahiya,North Gaza,M
+Hani Muhammad 'Abdallah Abu Rayan,1/13/2009,25,Beit Lahiya,North Gaza,M
+Murad Rizeq Jamil Tanburah,1/13/2009,27,Beit Lahiya,North Gaza,M
+Ousamah 'Abdallah Ahmad Khilleh,1/13/2009,29,Beit Lahiya,North Gaza,M
+Muhammad 'Adel Khalil al-Ashqar,1/13/2009,29,Beit Lahiya,North Gaza,M
+Rami Mahmoud Rajab al-Qadrah,1/13/2009,30,Beit Lahiya,North Gaza,M
+'Iz a-Din 'Ali Muhammad al-Ashqar,1/13/2009,32,Beit Lahiya,North Gaza,M
+Na'im 'Abdallah 'Ali Abu Rayan,1/13/2009,54,Beit Lahiya,North Gaza,M
+Yunes Muhammad Yunes a-Sharabasi,1/12/2009,23,Beit Lahiya,North Gaza,M
+Haitham Yasser Yusef M'aruf,1/11/2009,10,Beit Lahiya,North Gaza,M
+Khawlah Ahmad Ramadan Ghaben,1/11/2009,14,Beit Lahiya,North Gaza,F
+Fatimah Muhammad Rushdi M'aruf,1/11/2009,14,Beit Lahiya,North Gaza,F
+'Abd a-Rahman Muhammad 'Atiyyah Ghaben,1/11/2009,14,Beit Lahiya,North Gaza,M
+Maha Yasser Yusef M'aruf,1/11/2009,15,Beit Lahiya,North Gaza,F
+Sahar Ahmad Ramadan Ghaben,1/11/2009,16,Beit Lahiya,North Gaza,F
+Mudallaleh Ahmad Muhammad Abu Rakbah,1/11/2009,82,Beit Lahiya,North Gaza,F
+Muhammad Yihya Sa'id al-Baba,1/10/2009,11,Beit Lahiya,North Gaza,M
+Amineh Nafez Muhammad al-Hilu,1/10/2009,14,Beit Lahiya,North Gaza,F
+Muhammad Jaber Muhammad 'Alian,1/10/2009,15,Beit Lahiya,North Gaza,M
+Wisam Ibrahim Mesbah Nabhan,1/10/2009,16,Beit Lahiya,North Gaza,M
+Muhammad Nafez Muhammad al-Hilu,1/10/2009,21,Beit Lahiya,North Gaza,M
+'Abd al-Mu'ti Rateb 'Abd al-Mu'ti Salman,1/10/2009,21,Beit Lahiya,North Gaza,M
+Rami Jamal Ramadan Salman,1/10/2009,23,Beit Lahiya,North Gaza,M
+Ousamah Muhammad Ahmad Jum'ah,1/10/2009,32,Beit Lahiya,North Gaza,M
+In'am 'Abed Darwish al-Baba,1/10/2009,32,Beit Lahiya,North Gaza,F
+Sami 'Omar Sa'id Salman,1/10/2009,36,Beit Lahiya,North Gaza,M
+Rula Faiz Nur Salhah,1/9/2009,1,Beit Lahiya,North Gaza,F
+Bahaa a-Din Faiz Nur Salhah,1/9/2009,4,Beit Lahiya,North Gaza,M
+Rana Faiz Nur Salhah,1/9/2009,11,Beit Lahiya,North Gaza,F
+Diaa' A-Din Faiz Nur Salhah,1/9/2009,13,Beit Lahiya,North Gaza,M
+Ahmad Ibrahim Sami Abu Qleiq,1/9/2009,17,Beit Lahiya,North Gaza,M
+Fatimah Faiz Muhammad al-Hilu,1/9/2009,21,Beit Lahiya,North Gaza,F
+Amal Ahmad Yasin al-Madhun,1/9/2009,21,Beit Lahiya,North Gaza,F
+Randah Faiz Muhammad Salhah,1/9/2009,34,Beit Lahiya,North Gaza,F
+Halimah Isma'il Ibrahim Saleh,1/9/2009,58,Beit Lahiya,North Gaza,F
+Muhammad Mubarak al-'Abed Saleh,1/9/2009,65,Beit Lahiya,North Gaza,M
+Baraa Iyad Samih Shalha,1/8/2009,6,Beit Lahiya,North Gaza,F
+Bayan Khaled Ibrahim Khleif,1/8/2009,12,Beit Lahiya,North Gaza,M
+Ousamah Sa'id Muhammad Lubad,1/8/2009,17,Beit Lahiya,North Gaza,M
+'Abd a-Naser Khalil Hassan 'Odeh,1/8/2009,20,Beit Lahiya,North Gaza,M
+Anwar Jaber 'Abd al-Hafiz Abu Salem,1/8/2009,23,Beit Lahiya,North Gaza,M
+Muhammad Nafez Dib al-Hindi,1/8/2009,25,Beit Lahiya,North Gaza,M
+Raed Nafez Ahmad al-Malfuh,1/8/2009,27,Beit Lahiya,North Gaza,M
+Nujud Rajab Swelem Ghaben,1/8/2009,29,Beit Lahiya,North Gaza,F
+Dima Sa'id Ahmad a-Rahel,1/7/2009,5,Beit Lahiya,North Gaza,F
+Tawfiq Khaled Isma'il al-Kahlut,1/7/2009,11,Beit Lahiya,North Gaza,M
+Husam Raed Rajab Subuh,1/7/2009,11,Beit Lahiya,North Gaza,M
+Habib Khaled Isma'il al-Kahlut,1/7/2009,13,Beit Lahiya,North Gaza,M
+Muhammad Khaled Isma'il al-Kahlut,1/7/2009,14,Beit Lahiya,North Gaza,M
+Ibrahim 'Abd a-Rahim Rajab Suliman,1/7/2009,17,Beit Lahiya,North Gaza,M
+'Abd al-Karim Shafiq Hussein Hassan,1/7/2009,18,Beit Lahiya,North Gaza,M
+Hassan Khalil Ahmad al-Kahlut,1/7/2009,19,Beit Lahiya,North Gaza,M
+Bilal 'Abd al-Karim 'Ali al-Haj Ali,1/7/2009,21,Beit Lahiya,North Gaza,M
+Jihad Rashad Muhammad al-'Asali,1/7/2009,22,Beit Lahiya,North Gaza,M
+Khaled Isma'il Muhammad al-Kahlut,1/7/2009,43,Beit Lahiya,North Gaza,M
+Yusef Sa'ed Yusef al-Kahlut,1/6/2009,17,Beit Lahiya,North Gaza,M
+Huzaifah Jihad Khaled al-Kahlut,1/6/2009,17,Beit Lahiya,North Gaza,M
+Shteiwi Sa'ed Musharaf a-Sheikh Mana',1/6/2009,62,Beit Lahiya,North Gaza,M
+Hakmeh 'Abd a-Rahman Mustafa al-'Attar,1/6/2009,72,Beit Lahiya,North Gaza,F
+Nada Radwan Na'im Mardi,1/5/2009,5,Beit Lahiya,North Gaza,F
+Ahmad Jihad Muhammad Abu Skheleh,1/5/2009,20,Beit Lahiya,North Gaza,M
+Ahmad Mahmoud Hussein a-Shaf'i,1/5/2009,21,Beit Lahiya,North Gaza,M
+Shahd Sa'dallah Matar Abu Halimah,1/4/2009,1,Beit Lahiya,North Gaza,F
+Hamzah Sa'dallah Matar Abu Halimah,1/4/2009,7,Beit Lahiya,North Gaza,M
+Ibrahim Kamal Subhi 'Awajeh,1/4/2009,8,Beit Lahiya,North Gaza,M
+Zeid Sa'dallah Matar Abu Halimah,1/4/2009,10,Beit Lahiya,North Gaza,M
+'Abd a-Rahim Sa'dallah Matar Abu Halimah,1/4/2009,13,Beit Lahiya,North Gaza,M
+'Ali Musa Samir al-Qatnani,1/4/2009,15,Beit Lahiya,North Gaza,M
+Muhammad Hikmat Matar Abu Halimah,1/4/2009,16,Beit Lahiya,North Gaza,M
+Iyad Nabil 'Abd a-Rahman Saleh,1/4/2009,16,Beit Lahiya,North Gaza,M
+Matar Sa'ed Matar Abu Halimah,1/4/2009,17,Beit Lahiya,North Gaza,M
+Luai Yihya Salman Abu Halimah,1/4/2009,17,Beit Lahiya,North Gaza,M
+Muhammad Naser 'Atiyyah Hamdunah,1/4/2009,18,Beit Lahiya,North Gaza,M
+Nuh Hamuda Shihadah Abu Sultan,1/4/2009,19,Beit Lahiya,North Gaza,M
+Muhammad Mu'in 'Atiyyah Abu al-Jidyan,1/4/2009,19,Beit Lahiya,North Gaza,M
+Muhammad Khader Yusef Hamuda,1/4/2009,19,Beit Lahiya,North Gaza,M
+Ghadah Riyad Rajab Abu Halimah,1/4/2009,21,Beit Lahiya,North Gaza,F
+Ghassan 'Ali 'Ali Abu al-'Imrin,1/4/2009,22,Beit Lahiya,North Gaza,M
+a-Sayed Hamuda Shihadah Abu Sultan,1/4/2009,26,Beit Lahiya,North Gaza,M
+Bilal Muhammad Ghaben,1/4/2009,27,Beit Lahiya,North Gaza,M
+Muhammad Ahmad Muhammad a-Da'ur,1/4/2009,31,Beit Lahiya,North Gaza,M
+'Alaa a-Din Yihya Muhammad Zaqut,1/4/2009,32,Beit Lahiya,North Gaza,M
+Muhammad Hassan Ahmad al-Baba,1/4/2009,33,Beit Lahiya,North Gaza,M
+Mu'in 'Ata Hussein,1/4/2009,40,Beit Lahiya,North Gaza,M
+Ibtesam Ahmad Muhammad al-Qanu',1/4/2009,40,Beit Lahiya,North Gaza,F
+'Aead 'Abd al-Hadi 'Abd al-Khaleq Abu Nada,1/4/2009,40,Beit Lahiya,North Gaza,M
+Safeyeh Salem Hussein Haydar,1/4/2009,41,Beit Lahiya,North Gaza,F
+'Arafah Hani 'Arafat 'Abd a-Dayem,1/4/2009,41,Beit Lahiya,North Gaza,M
+Sa'dallah Matar Ma'sud Abu Halimah,1/4/2009,45,Beit Lahiya,North Gaza,M
+Shawqi 'Abd al-Jawad Mitqal al-'Attar,1/4/2009,46,Beit Lahiya,North Gaza,M
+Sami Khalil Sa'id Lazan,1/4/2009,49,Beit Lahiya,North Gaza,M
+Isma'il Musa Isma'il a-Susi,1/4/2009,49,Beit Lahiya,North Gaza,M
+'Abd a-Rahim Helmi al-'Abed al-Ashqar,1/4/2009,52,Beit Lahiya,North Gaza,M
+Hamuda Shihadah Khader Abu Sultan,1/4/2009,53,Beit Lahiya,North Gaza,M
+Ahmad Muhammad Mahmoud Adham,1/4/2009,55,Beit Lahiya,North Gaza,M
+Na'im Hussein Mustafa A'bbas,1/4/2009,58,Beit Lahiya,North Gaza,M
+Jamileh 'Abd al-'Aziz Salem a-Da'ur,1/4/2009,61,Beit Lahiya,North Gaza,F
+Ahmad Shaher Fa'iq Khdeir,1/3/2009,12,Beit Lahiya,North Gaza,M
+Mahmoud Salah Ahmad al-Ghul,1/3/2009,17,Beit Lahiya,North Gaza,M
+Salem Muhammad Silmi Abu Qleiq,1/3/2009,25,Beit Lahiya,North Gaza,M
+Akram Fares Jaber al-Ghul,1/3/2009,47,Beit Lahiya,North Gaza,M
+Sami Ibrahim Ibrahim Lubad,1/2/2009,29,Beit Lahiya,North Gaza,M
+Hussein Na'im Hussein A'bbas,12/30/2008,31,Beit Lahiya,North Gaza,M
+Shadi Yusef Ramadan Ghaben,12/29/2008,13,Beit Lahiya,North Gaza,M
+Ahmad 'Afif Ahmad Abu al-Ma'azah,12/23/2008,18,Beit Lahiya,North Gaza,M
+Raed Walid Jum'ah a-Radi',12/23/2008,19,Beit Lahiya,North Gaza,M
+Muhammad Akram Yusef M'aruf,12/23/2008,20,Beit Lahiya,North Gaza,M
+'Ali 'Alian 'Ali Hijazi,12/20/2008,25,Beit Lahiya,North Gaza,M
+Salah 'Abd al-Hadi 'Abd al-Qader Abu 'Okal,12/17/2008,40,Beit Lahiya,North Gaza,M
+Ghassan Yasser Kamal a-Taramsi,11/5/2008,18,Beit Lahiya,North Gaza,M
+Muhammad Jamal Ghazi Dawlah,6/12/2008,19,Beit Lahiya,North Gaza,M
+Khaled Ahmad Mesleh Zuhd,6/12/2008,24,Beit Lahiya,North Gaza,M
+Hisham Najib Hassan Shomar,5/6/2008,23,Beit Lahiya,North Gaza,M
+Maryam Tal'at Mustafa M'aruf,4/26/2008,14,Beit Lahiya,North Gaza,F
+Ibrahim Mahmoud Muhammad Shalash,4/21/2008,18,Beit Lahiya,North Gaza,M
+'Othman Ahmad Muhammad Abu Hajar,4/21/2008,19,Beit Lahiya,North Gaza,M
+Fadi Jamal Mamduh Salem,4/21/2008,19,Beit Lahiya,North Gaza,M
+Mu'in Mahmoud Darwish Hamdunah,4/19/2008,36,Beit Lahiya,North Gaza,M
+Hani Salah Muhammad Zo'rub,4/16/2008,34,Beit Lahiya,North Gaza,M
+Ibrahim Mahmoud Ibrahim Abu 'Alba,4/14/2008,43,Beit Lahiya,North Gaza,M
+Tamer Raed Mahmoud Dawas,3/28/2008,16,Beit Lahiya,North Gaza,M
+Nidal Haydar Ahmad Shaqurah,3/18/2008,23,Beit Lahiya,North Gaza,M
+Mahmoud Yusef 'Ali Hamuda,3/15/2008,19,Beit Lahiya,North Gaza,M
+Nader 'Adel Ahmad Abu Dayer,3/6/2008,19,Beit Lahiya,North Gaza,M
+Muhammad 'Abd a-Rahim Ma'bad Mhanna,3/4/2008,23,Beit Lahiya,North Gaza,M
+Khalil Jamal Khalil 'Iz a-Din,3/2/2008,20,Beit Lahiya,North Gaza,M
+Tal'at Saleh 'Othman a-Nmeilat,2/28/2008,21,Beit Lahiya,North Gaza,M
+'Amer 'Abd a-Rahman Mahmoud Kermutt,2/4/2008,39,Beit Lahiya,North Gaza,M
+Isma'il Ahmad Isma'il al-'Attar,1/23/2008,59,Beit Lahiya,North Gaza,M
+Muhammad Saleh Ahmad a-Rahel,1/17/2008,22,Beit Lahiya,North Gaza,M
+Ra'd Shehdeh Muhammad Abu al-Foul,1/17/2008,29,Beit Lahiya,North Gaza,M
+Fathiya Yusef 'Omar al-Hassumi,1/17/2008,36,Beit Lahiya,North Gaza,F
+Maryam Ahmad Muhammad a-Rahel,1/17/2008,54,Beit Lahiya,North Gaza,F
+Amjad Sha'ban Muhammad 'Abd a-Dayem,1/9/2008,28,Beit Lahiya,North Gaza,M
+Iyad 'Abd al-Wahab 'Abd a-Rahman 'Aziz,12/5/2007,28,Beit Lahiya,North Gaza,M
+Muhammad ('Ali) Suliman Yusef Subuh,12/5/2007,36,Beit Lahiya,North Gaza,M
+Islam 'Abd al-Qader 'Abdallah 'Abd a-Nabi,12/3/2007,18,Beit Lahiya,North Gaza,M
+Muhammad 'Abd al-Fatah 'Abdallah Abu Mahadi,12/3/2007,21,Beit Lahiya,North Gaza,M
+'Aziz Sabri Dib Thari,12/3/2007,22,Beit Lahiya,North Gaza,M
+Mus'ab 'Abd al-Karim Jum'ah al-Ja'bir,11/26/2007,22,Beit Lahiya,North Gaza,M
+Muhammad 'Issa 'Abd a-Razeq al-Kurdi,10/25/2007,23,Beit Lahiya,North Gaza,M
+'Abd al-Fatah Fawzi 'Abd al-Fatah 'Askar,10/24/2007,14,Beit Lahiya,North Gaza,M
+Muhammad 'Atiyyah Hassan Kallub,10/24/2007,16,Beit Lahiya,North Gaza,M
+Kamal Suliman Salah Salah,8/1/2007,18,Beit Lahiya,North Gaza,M
+Sa'ed Rajab Muhammad Subuh,8/1/2007,22,Beit Lahiya,North Gaza,M
+Tamer Mahmoud Muhammad al-Khatib,7/28/2007,19,Beit Lahiya,North Gaza,M
+Yihya Zakaria Muhammad Barakat,7/28/2007,23,Beit Lahiya,North Gaza,M
+Mustafa Na'im Hussein A'bbas,7/22/2007,19,Beit Lahiya,North Gaza,M
+Muhammad Rubin Najib M'aruf,7/22/2007,19,Beit Lahiya,North Gaza,M
+Zaher Jaber Muhammad al-Majdalawi,6/1/2007,13,Beit Lahiya,North Gaza,M
+Ahmad Sabri Suliman 'Ali Abu Zabeidah,6/1/2007,14,Beit Lahiya,North Gaza,M
+Sa'id Nadi Saleh al-'Attar,5/24/2007,28,Beit Lahiya,North Gaza,M
+Hamzah Amin al-Hafez Fuzan al-Masri,5/20/2007,16,Beit Lahiya,North Gaza,M
+Sa'id Saber Ahmad Abu Wardeh,3/28/2007,16,Beit Lahiya,North Gaza,M
+Ahmad Hassan Muhammad Lubad,11/25/2006,19,Beit Lahiya,North Gaza,M
+Muhammad Mahmoud Rajab al-Jarjawi,11/23/2006,19,Beit Lahiya,North Gaza,M
+'Alaa 'Omar Ramadan Khalil,11/23/2006,20,Beit Lahiya,North Gaza,M
+Mus'ad Ahmad 'Eid Abu Me'teq,11/22/2006,33,Beit Lahiya,North Gaza,M
+Ibtesam Hassan Muhammad Abu Marseh,11/22/2006,44,Beit Lahiya,North Gaza,F
+Thaer Hassan 'Abed al-Masri,11/18/2006,16,Beit Lahiya,North Gaza,M
+Muhammad Sayed Dib Abu Jalhum,11/18/2006,19,Beit Lahiya,North Gaza,M
+Musa Ahmad Musleh Zuhd,11/12/2006,14,Beit Lahiya,North Gaza,M
+Nader al-'Abed Abu al-'Imrin,11/7/2006,20,Beit Lahiya,North Gaza,M
+Raed Muhammad Mustafa al-Qaram,11/7/2006,22,Beit Lahiya,North Gaza,M
+Hamdi Ibrahim 'Ashur al-Batsh,11/7/2006,22,Beit Lahiya,North Gaza,M
+Mahmoud Muhammad Ibrahim Abu Habel,11/7/2006,23,Beit Lahiya,North Gaza,M
+Bader Najib Subhi Feisal,11/7/2006,24,Beit Lahiya,North Gaza,M
+Ousamah Muhammad Salamah al-Habil,11/7/2006,29,Beit Lahiya,North Gaza,M
+'Alaa Tawfiq Mustafa Siyam,11/6/2006,24,Beit Lahiya,North Gaza,M
+'Atef 'Abd a-Rahman Muhammad al-Kahlut,11/5/2006,32,Beit Lahiya,North Gaza,M
+Basel Muhammad Salim 'Ashur,11/3/2006,22,Beit Lahiya,North Gaza,M
+Muhammad Jamil Mahmoud a-Taluli,10/13/2006,18,Beit Lahiya,North Gaza,M
+'Imad Nayef Mahmoud al-Maqusi,10/13/2006,28,Beit Lahiya,North Gaza,M
+Rasem Fathi Muhammad Daher,10/13/2006,34,Beit Lahiya,North Gaza,M
+Husam Nafez 'Abd Rabo Abu Rakbah,8/29/2006,23,Beit Lahiya,North Gaza,M
+'Aref Ahmad 'Eid Abu Qaydah,8/1/2006,14,Beit Lahiya,North Gaza,M
+Mirvat Faiz 'Abdallah al-Mamluk (Abu Sharkh),8/1/2006,24,Beit Lahiya,North Gaza,F
+Nadi Habib 'Abdallah al-'Attar,7/24/2006,11,Beit Lahiya,North Gaza,M
+Khairieh Hashem Muhammad al-'Attar,7/24/2006,58,Beit Lahiya,North Gaza,F
+Mu'taz Muhammad Sa'id al-Feiri,7/7/2006,18,Beit Lahiya,North Gaza,M
+Wael Hisham 'Ashur Naser,7/7/2006,21,Beit Lahiya,North Gaza,M
+Thaer Ta'meh Tawfiq a-Tanani,7/7/2006,21,Beit Lahiya,North Gaza,M
+Mesbah Faiz Mesbah al-'Attar,7/7/2006,25,Beit Lahiya,North Gaza,M
+Muhammad Ahmad Salem al-'Attar,7/6/2006,21,Beit Lahiya,North Gaza,M
+Ahmad Fouad Sa'id Abu 'Askar,7/6/2006,21,Beit Lahiya,North Gaza,M
+Nazmi Fathi Nazmi 'Abd Rabo,7/6/2006,22,Beit Lahiya,North Gaza,M
+Khaled Faraj Ahmad Naser,7/6/2006,22,Beit Lahiya,North Gaza,M
+Shadi Hamed Khalil a-Sakani,7/6/2006,25,Beit Lahiya,North Gaza,M
+'Adel Muhammad Mahmoud al-'Atleh,7/6/2006,25,Beit Lahiya,North Gaza,M
+Adham Saleh Hussein a-Diri,7/6/2006,32,Beit Lahiya,North Gaza,M
+Salem Muhammad Zaki a-Radi',6/11/2006,20,Beit Lahiya,North Gaza,M
+Muhammad Baker Musa al-Masri,6/11/2006,21,Beit Lahiya,North Gaza,M
+Sabri Muhammad Silmi Abu Qleiq,5/30/2006,23,Beit Lahiya,North Gaza,M
+Muhammad 'Omar Khalil Matar,5/29/2006,20,Beit Lahiya,North Gaza,M
+Yusef Khalil Isma'il Abu al-Me'za,5/29/2006,25,Beit Lahiya,North Gaza,M
+'Abd a-Rahman Ibrahim 'Abed Abu Shanab,5/29/2006,32,Beit Lahiya,North Gaza,M
+Hassan Hussein Khader a-Shaf'i,5/7/2006,49,Beit Lahiya,North Gaza,M
+Musa Salim 'Awad a-Sawarkah,5/6/2006,68,Beit Lahiya,North Gaza,M
+Mamduh Muhammad Khalil A'beid,4/17/2006,15,Beit Lahiya,North Gaza,M
+Hadil Muhammad Rabi' Ghaben,4/10/2006,7,Beit Lahiya,North Gaza,F
+'Abdallah Isma'il a-Da'alseh,4/4/2006,46,Beit Lahiya,North Gaza,M
+Mu'taz Ahmad 'Abd a-Razeq al-Maslami (Hamdunah),12/31/2005,20,Beit Lahiya,North Gaza,M
+Hamzah Jihad Muhammad Hamdunah,12/31/2005,21,Beit Lahiya,North Gaza,M
+Luqman Muhammad Hammad Abu Zakri,12/17/2005,22,Beit Lahiya,North Gaza,M
+'Alaa Sa'di Mustafa Hasunah,1/13/2005,30,Beit Lahiya,North Gaza,M
+Rajeh Ghassan Kamel Ghaben,1/4/2005,9,Beit Lahiya,North Gaza,M
+Mahmoud Kamel Muhammad Ghaben,1/4/2005,12,Beit Lahiya,North Gaza,M
+Jaber 'Abdallah Muhammad Ghaben,1/4/2005,14,Beit Lahiya,North Gaza,M
+Bassam Kamel Muhammad Ghaben,1/4/2005,14,Beit Lahiya,North Gaza,M
+Hani Kamel Muhammad Ghaben,1/4/2005,15,Beit Lahiya,North Gaza,M
+Muhammad Hassan Musa Ghaben,1/4/2005,16,Beit Lahiya,North Gaza,M
+Jebril 'Abd al-Fatah Ibrahim al-Kaseih,1/4/2005,16,Beit Lahiya,North Gaza,M
+Muhammad Kamel Muhammad Ghaben,1/4/2005,17,Beit Lahiya,North Gaza,M
+Ramzi Isma'il Abu Shaqfah,10/13/2004,25,Beit Lahiya,North Gaza,M
+Muhammad Akram Ashraf M'aruf,10/13/2004,25,Beit Lahiya,North Gaza,M
+Muhammad Sa'id Muhammad al-Masri,10/13/2004,29,Beit Lahiya,North Gaza,M
+Rizeq Hassan 'Abdallah a-Zeiti,10/13/2004,38,Beit Lahiya,North Gaza,M
+Jihad Amin Abu Musa,10/11/2004,37,Beit Lahiya,North Gaza,M
+Ashraf Majdi Hassan Zaher,10/9/2004,27,Beit Lahiya,North Gaza,M
+Sufian Musa Mahmoud Salem,10/9/2004,28,Beit Lahiya,North Gaza,M
+Amin Mahmoud Salem,10/9/2004,35,Beit Lahiya,North Gaza,M
+'Abdallah Hussein 'Abdallah Qahman,10/6/2004,15,Beit Lahiya,North Gaza,M
+Hamuda Hamdan Faraj A'beid,10/6/2004,27,Beit Lahiya,North Gaza,M
+Hamdan Faraj A'beid,10/6/2004,50,Beit Lahiya,North Gaza,M
+Musa 'Abd al-Hai Darwish,10/5/2004,24,Beit Lahiya,North Gaza,M
+Hassan 'Abd al-Hai Darwish,10/5/2004,30,Beit Lahiya,North Gaza,M
+Rumal Muhammad al-Baradi,10/4/2004,20,Beit Lahiya,North Gaza,M
+Fares 'Omar al-Masri,10/4/2004,21,Beit Lahiya,North Gaza,M
+Isma'il Ibrahim Fahman,10/4/2004,22,Beit Lahiya,North Gaza,M
+Muhammad Saber al-Baba,10/4/2004,23,Beit Lahiya,North Gaza,M
+'Atef Jamal Rajab al-Ashqar,9/30/2004,27,Beit Lahiya,North Gaza,M
+Muhammad Yusef al-Habel,9/30/2004,65,Beit Lahiya,North Gaza,M
+Mus'ad Ibrahim Muhammad a-Sawarqah,5/17/2004,20,Beit Lahiya,North Gaza,M
+Ibrahim Shafiq Hassan Shahin,5/17/2004,20,Beit Lahiya,North Gaza,M
+'Abd al-'Aziz Fathi Ghazi al-Qilani,5/17/2004,20,Beit Lahiya,North Gaza,M
+Khaled Bahajat Jaber Abu 'Alba,5/1/2004,14,Beit Lahiya,North Gaza,M
+Musa Ibrahim Talab al-Muqayed,4/26/2004,14,Beit Lahiya,North Gaza,M
+Muhammad Rasem Ahmad al-Malfuh,4/22/2004,14,Beit Lahiya,North Gaza,M
+Yusef Taleb 'Abd al-'Aziz a-Da'ur,4/21/2004,14,Beit Lahiya,North Gaza,M
+Radwan Samarah Ya'qub Hamtu,4/21/2004,15,Beit Lahiya,North Gaza,M
+Muhammad 'Abd al-Mutaleb 'Abd al-Hamid al-'Ajuri,4/21/2004,16,Beit Lahiya,North Gaza,M
+Ayub Muhammad Ayub Kars'a,4/21/2004,18,Beit Lahiya,North Gaza,M
+Muhammad Khader Muhammad a-Rantisi,4/21/2004,22,Beit Lahiya,North Gaza,M
+"'Omar Jawwad Mahmoud 'Ali ""Ahmad""",4/21/2004,23,Beit Lahiya,North Gaza,M
+Soheil 'Abd al-Karim Mahmoud al-Haresh,4/21/2004,27,Beit Lahiya,North Gaza,M
+Raafat Subhi Yusef Abu Hasireh,4/21/2004,28,Beit Lahiya,North Gaza,M
+Ziad Ahmad Hassan Abu Hamadah,4/21/2004,30,Beit Lahiya,North Gaza,M
+Karam Hassan 'Ali a-Shami,4/21/2004,60,Beit Lahiya,North Gaza,M
+Khaldun Ziad Hassan Abu Jarad,4/20/2004,16,Beit Lahiya,North Gaza,M
+Ahmad Jihad Ahmad al-Khawaldeh,4/20/2004,16,Beit Lahiya,North Gaza,M
+Ibrahim Bashir Isma'il Rayan,4/20/2004,17,Beit Lahiya,North Gaza,M
+Mu'tasem Rafiq Muhammad Nseir,4/20/2004,18,Beit Lahiya,North Gaza,M
+Muhammad Ibrahim 'Ata a-Tanali,4/20/2004,18,Beit Lahiya,North Gaza,M
+Ramez Mansur Hassan a-Sadudi,3/17/2003,19,Beit Lahiya,North Gaza,M
+'Alaa Muhammad al-Kahlut,3/17/2003,22,Beit Lahiya,North Gaza,M
+Shadi Harb 'Abdallah Kharis,3/17/2003,23,Beit Lahiya,North Gaza,M
+Mahmoud Saleh Muhammad a-Na'rani,12/1/2002,32,Beit Lahiya,North Gaza,M
+'Ashur Dib,12/1/2002,69,Beit Lahiya,North Gaza,M
+Hassan 'Ali al-'Aasi,8/7/2002,23,Beit Lahiya,North Gaza,M
+'Adel Rizeq Ghaben,8/7/2002,26,Beit Lahiya,North Gaza,M
+Mahmoud Shehdeh al-Jakhbir,8/7/2002,31,Beit Lahiya,North Gaza,M
+Maher Fouad Hemda,3/6/2002,20,Beit Lahiya,North Gaza,M
+Frij Abu Taher,3/6/2002,28,Beit Lahiya,North Gaza,M
+'Eid Khalil al-Qum'a,3/6/2002,35,Beit Lahiya,North Gaza,M
+Jamil Samih Jamil Sabah,3/6/2002,37,Beit Lahiya,North Gaza,M
+Muhammad Abd al-Wahed al-Bakri,2/26/2002,43,Beit Lahiya,North Gaza,M
+Ahmad Muhammad Hassan Banat,12/30/2001,15,Beit Lahiya,North Gaza,M
+Muhammad 'Abd a-Rahman Ahmad al-Madhun,12/30/2001,16,Beit Lahiya,North Gaza,M
+Muhammad Ahmad Mahmoud Lubad,12/30/2001,17,Beit Lahiya,North Gaza,M
+Nur a-Din Hussein 'Ali a-Zwiedi,8/6/2022,18,Beit Hanoun,North Gaza,M
+Ibrahim Shehdeh Salah Abu Salah,8/6/2022,42,Beit Hanoun,North Gaza,M
+Raed Zakaria Muhammad Hamad,5/19/2021,32,Beit Hanoun,North Gaza,M
+Muhammad 'Awni 'Abdallah a-Z'anin,5/16/2021,25,Beit Hanoun,North Gaza,M
+Mu'az Nabil Muhammad a-Z'anin,5/16/2021,27,Beit Hanoun,North Gaza,M
+Muhammad Yusef Mahmoud al-Kafarneh,5/16/2021,30,Beit Hanoun,North Gaza,M
+Khaled 'Imad Khaled al-Qanu',5/13/2021,17,Beit Hanoun,North Gaza,M
+Firas 'Alaa Muhammad al-Bahri,5/13/2021,20,Beit Hanoun,North Gaza,M
+Muhammad 'Abdallah Fayad,5/10/2021,26,Beit Hanoun,North Gaza,M
+Muhammad Ahmad 'Abed Abu 'Amshah,5/10/2021,35,Beit Hanoun,North Gaza,M
+Muayad Ahmad Muhammad Hamdan,5/10/2021,36,Beit Hanoun,North Gaza,M
+Marwan Khaled Abd al-Ghani Naser,8/11/2019,26,Beit Hanoun,North Gaza,M
+Mahmoud Ahmad Sabri al-Adham,7/11/2019,27,Beit Hanoun,North Gaza,M
+'Imad Muhammad Rajab Nasir,5/4/2019,22,Beit Hanoun,North Gaza,M
+Habib Hamzah 'Abd al-Fatah al-Masri,3/23/2019,24,Beit Hanoun,North Gaza,M
+Sa'di Sa'id Fahmi Abu Salah,5/14/2018,16,Beit Hanoun,North Gaza,M
+Muhammad Ashraf Muhammad Abu Sitah,5/14/2018,25,Beit Hanoun,North Gaza,M
+Hamdan Isma'il Saber Abu 'Amshah,3/30/2018,24,Beit Hanoun,North Gaza,M
+Sari Walid Muhammad Abu 'Odeh,3/30/2018,27,Beit Hanoun,North Gaza,M
+Zakaria Adham Hussein al-Kafarneh,12/22/2017,20,Beit Hanoun,North Gaza,M
+Muhammad Majdi Muhammad a-Shawish,8/26/2014,24,Beit Hanoun,North Gaza,M
+Ibrahim Isma'il Ibrahim Abu 'Odeh,8/14/2014,64,Beit Hanoun,North Gaza,M
+Anas Taysir 'Abd al-Karim al-hinawi,8/11/2014,21,Beit Hanoun,North Gaza,M
+Anwar Ahmad Mustafa a-Z'anin,8/10/2014,43,Beit Hanoun,North Gaza,M
+Muhammad Subhi 'Ayesh al-Masri,8/5/2014,21,Beit Hanoun,North Gaza,M
+Muhammad Mahmoud 'Abdallah Abu 'Odeh,8/5/2014,25,Beit Hanoun,North Gaza,M
+Basel Diab Ahmad al-Bassiuni,7/29/2014,37,Beit Hanoun,North Gaza,M
+Tamer Mu'in Ibrahim Nseir,7/28/2014,22,Beit Hanoun,North Gaza,M
+Hadi Isma'il 'Abd a-Rahman Naser,7/27/2014,21,Beit Hanoun,North Gaza,M
+Suhaib Mustafa Mahmoud 'Akashah,7/27/2014,22,Beit Hanoun,North Gaza,M
+Shadi Naser Shehdeh al-Madhun,7/27/2014,22,Beit Hanoun,North Gaza,M
+Ghina Yunes Bashir Saqer,7/26/2014,2,Beit Hanoun,North Gaza,F
+Hussein Hatem Zaki Wahdan,7/26/2014,9,Beit Hanoun,North Gaza,M
+Du'aa Sami Ibrahim Sa'adah,7/26/2014,11,Beit Hanoun,North Gaza,F
+Ahmad Hatem Zaki Wahdan,7/26/2014,13,Beit Hanoun,North Gaza,M
+Taher Isma'il 'Abd a-Rahman Naser,7/26/2014,18,Beit Hanoun,North Gaza,M
+Saed Munir Shehdeh Abu Khater,7/26/2014,19,Beit Hanoun,North Gaza,M
+Nidal Khaled Muhammad Khalil,7/26/2014,19,Beit Hanoun,North Gaza,M
+Muamen Mustafa Mahmoud 'Akashah,7/26/2014,19,Beit Hanoun,North Gaza,M
+Ousamah Muhammad Naser al-Kafarneh,7/26/2014,20,Beit Hanoun,North Gaza,M
+Muhammad Maher Ibrahim Abu Jarad,7/26/2014,20,Beit Hanoun,North Gaza,M
+Muhammad Hussein Hassan al-Masri,7/26/2014,20,Beit Hanoun,North Gaza,M
+Ihab Sa'di Muhammad Naser,7/26/2014,21,Beit Hanoun,North Gaza,M
+Wasim Salah 'Abd a-Razeq al-Masri,7/26/2014,22,Beit Hanoun,North Gaza,M
+Sumoud Hatem Zaki Wahdan,7/26/2014,22,Beit Hanoun,North Gaza,F
+Hamzah Hazem Khalil Madi,7/26/2014,22,Beit Hanoun,North Gaza,M
+Mus'ab Mustafa Rajab 'Ali,7/26/2014,23,Beit Hanoun,North Gaza,M
+Mahmoud Na'im Ahmad Hasnah,7/26/2014,23,Beit Hanoun,North Gaza,M
+'Abd a-Rahman Yusef Ahmad Sa'adat,7/26/2014,23,Beit Hanoun,North Gaza,M
+Tamer Talal 'Abd al-Karim Naser,7/26/2014,24,Beit Hanoun,North Gaza,M
+Tareq Muhammad Muhsen al-'A'jrami,7/26/2014,25,Beit Hanoun,North Gaza,M
+Sharif Rafiq Muhammad al-Hamdin,7/26/2014,25,Beit Hanoun,North Gaza,M
+'Alaa 'Abd a-Rahman Muhammad Naser,7/26/2014,25,Beit Hanoun,North Gaza,M
+Zeinab Hatem Zaki Wahdan,7/26/2014,27,Beit Hanoun,North Gaza,F
+Muhammad 'Abdallah Hussein al-Hawajri,7/26/2014,28,Beit Hanoun,North Gaza,M
+Iyas Ahmad Muhammad Abu 'Odeh,7/26/2014,28,Beit Hanoun,North Gaza,M
+Yihya Jamal Musa Shabat,7/26/2014,29,Beit Hanoun,North Gaza,M
+Nader Majdi 'Abd a-Rahman Qassem,7/26/2014,29,Beit Hanoun,North Gaza,M
+Muhammad Ibrahim Ahmad a-Zwiedi,7/26/2014,30,Beit Hanoun,North Gaza,M
+Khaled 'Abdallah Mahmoud 'Udwan,7/26/2014,30,Beit Hanoun,North Gaza,M
+Nader Muhammad Fawzi Halawah,7/26/2014,33,Beit Hanoun,North Gaza,M
+Munzer Talal 'Abd al-Karim Naser,7/26/2014,33,Beit Hanoun,North Gaza,M
+'Abd al-Jawad 'Ali 'Abd al-Jawad al-Houm,7/26/2014,34,Beit Hanoun,North Gaza,M
+Baghdad Ahmad Hussein Wahdan,7/26/2014,50,Beit Hanoun,North Gaza,F
+Ne'meh Muhammad Hassan Abu 'Amshah,7/26/2014,63,Beit Hanoun,North Gaza,F
+Su'ad Isma'il Muhammad Wahdan,7/26/2014,67,Beit Hanoun,North Gaza,F
+Fawzi Ahmad Ahmad Abu 'Amshah,7/26/2014,67,Beit Hanoun,North Gaza,M
+Zaki 'Abd a-Rahman Muhammad Wahdan,7/26/2014,69,Beit Hanoun,North Gaza,M
+'Aead Mahmoud Ahmad al-Bura'i,7/25/2014,28,Beit Hanoun,North Gaza,M
+Suha 'Abd Rabo Muhammad Musleh,7/24/2014,1,Beit Hanoun,North Gaza,F
+'Ali Shaybub Ahmad a-Shanbari,7/24/2014,9,Beit Hanoun,North Gaza,M
+Amneh Jihad Salim Matar,7/24/2014,10,Beit Hanoun,North Gaza,F
+Muhammad Jihad Salim Matar,7/24/2014,12,Beit Hanoun,North Gaza,M
+Maryam Shaybub Ahmad a-Shanbari,7/24/2014,12,Beit Hanoun,North Gaza,F
+Muhammad Akram 'Abd al-'Aziz al-Kafarneh,7/24/2014,15,Beit Hanoun,North Gaza,M
+'Abd Rabo Shaybub Ahmad a-Shanbari,7/24/2014,16,Beit Hanoun,North Gaza,M
+Du'aa Raed Yusef Abu 'Odeh,7/24/2014,17,Beit Hanoun,North Gaza,F
+'Abd Rabo Jamal Ayub a-Shanbari,7/24/2014,17,Beit Hanoun,North Gaza,M
+Yihya Ibrahim Sa'id Abu Harbid,7/24/2014,18,Beit Hanoun,North Gaza,M
+Bilal Ahmad Tawfiq a-Shambari,7/24/2014,21,Beit Hanoun,North Gaza,M
+Ikram Ahmad Tawfiq a-Shambari,7/24/2014,22,Beit Hanoun,North Gaza,F
+'Awad 'Abd al-Majid Hassan Abu 'Odeh,7/24/2014,39,Beit Hanoun,North Gaza,M
+Falastin Hussein Hassan a-Shanbari,7/24/2014,40,Beit Hanoun,North Gaza,F
+Fatimah Muhammad Ayub a-Shanbari,7/24/2014,47,Beit Hanoun,North Gaza,F
+Hassan 'Abdallah Mustafa al-'Athamneh,7/24/2014,58,Beit Hanoun,North Gaza,M
+Tamam Muhammad 'Abd a-Rahman Hamad,7/24/2014,66,Beit Hanoun,North Gaza,F
+Ahmad Rami 'Adel Ekhrawat,7/22/2014,0,Beit Hanoun,North Gaza,M
+Muna Rami 'Adel Ekhrawat,7/22/2014,1,Beit Hanoun,North Gaza,F
+Mahmoud Salim Mustafa Derj,7/22/2014,21,Beit Hanoun,North Gaza,M
+Suha Na'im Muhammad Ekhrawat,7/22/2014,23,Beit Hanoun,North Gaza,F
+Rafiq Muhammad 'Abd al-Qader Abu Kalub,7/22/2014,44,Beit Hanoun,North Gaza,M
+Kamal Talal Hassan al-Masri,7/21/2014,22,Beit Hanoun,North Gaza,M
+Muhammad Talal Hassan al-Masri,7/21/2014,26,Beit Hanoun,North Gaza,M
+Nagham Mahmoud 'Abd al-Hamid a-Zwiedi,7/19/2014,2,Beit Hanoun,North Gaza,F
+Ruayah Mahmoud 'Abd al-Hamid a-Zwiedi,7/19/2014,6,Beit Hanoun,North Gaza,F
+Muhammad Khaled Jamil a-Zwiedi,7/19/2014,19,Beit Hanoun,North Gaza,M
+Mustafa Muhammad Mahmoud Fayad,7/19/2014,24,Beit Hanoun,North Gaza,M
+Muhammad 'Atallah 'Odeh Sa'adat,7/19/2014,25,Beit Hanoun,North Gaza,M
+Mahmoud 'Abd al-Hamid Hussein a-Zwiedi,7/19/2014,26,Beit Hanoun,North Gaza,M
+Manwa 'Abd al-Basset Ahmad al-Bu',7/19/2014,30,Beit Hanoun,North Gaza,F
+Ahmad Mahmoud Hussein 'Aziz,7/19/2014,34,Beit Hanoun,North Gaza,M
+Dalia 'Abd al-Hamid Hussein a-Zwiedi,7/19/2014,37,Beit Hanoun,North Gaza,F
+Musa 'Abd a-Rahman Musa Abu Jarad,7/18/2014,0,Beit Hanoun,North Gaza,M
+Samih Na'im Musa Abu Jarad,7/18/2014,1,Beit Hanoun,North Gaza,M
+Haniyeh 'Abd a-Rahman Musa Abu Jarad,7/18/2014,2,Beit Hanoun,North Gaza,F
+Samar Musa Khalil Abu Jarad,7/18/2014,13,Beit Hanoun,North Gaza,F
+Ahlam Musa Khalil Abu Jarad,7/18/2014,17,Beit Hanoun,North Gaza,F
+Na'im Musa Khalil Abu Jarad,7/18/2014,23,Beit Hanoun,North Gaza,M
+Rajaa 'Alian Khalil Abu Jarad,7/18/2014,30,Beit Hanoun,North Gaza,F
+Karam Mahmoud Hussein Nseir,7/18/2014,31,Beit Hanoun,North Gaza,M
+Nassim Mahmoud Hussein Nseir,7/18/2014,32,Beit Hanoun,North Gaza,M
+'Abd a-Rahman Musa Khalil Abu Jarad,7/18/2014,32,Beit Hanoun,North Gaza,M
+Amal Khader Ibrahim Dabbour,7/17/2014,41,Beit Hanoun,North Gaza,F
+Qassem Talal 'Ali Hamdan,7/13/2014,22,Beit Hanoun,North Gaza,M
+Muhammad Ibrahim Fayeq al-Masri,7/9/2014,14,Beit Hanoun,North Gaza,M
+Asil Ibrahim Fayeq al-Masri,7/9/2014,16,Beit Hanoun,North Gaza,F
+Ibrahim Hani Saleh Hamad,7/9/2014,19,Beit Hanoun,North Gaza,M
+Amjad Zaher Musa Hamdan,7/9/2014,23,Beit Hanoun,North Gaza,M
+Asmaa Hani Saleh Hamad,7/9/2014,27,Beit Hanoun,North Gaza,F
+Sahar Hassan 'Ali al-Masri,7/9/2014,39,Beit Hanoun,North Gaza,F
+Hani Saleh Muhammad Hamad,7/9/2014,59,Beit Hanoun,North Gaza,M
+Dina Mahdi Muhammad Hamad,7/8/2014,21,Beit Hanoun,North Gaza,F
+Suha Hamad Ahmad Hamad,7/8/2014,31,Beit Hanoun,North Gaza,F
+Ibrahim Muhammad Ahmad Hamad,7/8/2014,35,Beit Hanoun,North Gaza,M
+Hafez Muhammad Ahmad Hamad,7/8/2014,37,Beit Hanoun,North Gaza,M
+Mahdi Muhammad Ahmad Hamad,7/8/2014,40,Beit Hanoun,North Gaza,M
+Rasmiya Khalil Mahmoud Hamad,7/8/2014,67,Beit Hanoun,North Gaza,F
+Sharif Yusef Ahmad Naser,3/3/2014,21,Beit Hanoun,North Gaza,M
+Mus'ab Musa Saber a-Z'anin,3/3/2014,21,Beit Hanoun,North Gaza,M
+Ahmad Muhammad Jum'ah Khalil a-Z'anin,1/22/2014,21,Beit Hanoun,North Gaza,M
+Muhammad Yusef Ahmad a-Z'anin,1/22/2014,23,Beit Hanoun,North Gaza,M
+'Odeh Jihad 'Odeh Hamad,12/20/2013,27,Beit Hanoun,North Gaza,M
+Hweishel Isma'il Hweishel al-Hanajreh,9/30/2013,35,Beit Hanoun,North Gaza,M
+Ayman Rafiq Muhammad Abu Rashed,11/20/2012,28,Beit Hanoun,North Gaza,M
+Fares Ahmad Diab al-Bassiuni,11/15/2012,8,Beit Hanoun,North Gaza,M
+'Udai Jamal 'Abd al-Karim Naser,11/15/2012,15,Beit Hanoun,North Gaza,M
+Isma'il 'Issa Matar a-Talli,10/23/2012,27,Beit Hanoun,North Gaza,M
+Yusef Muhammad Ibrahim Abu Jalhum,10/23/2012,28,Beit Hanoun,North Gaza,M
+Yasser Jum'ah Jkheideb a-Tarabin,10/22/2012,34,Beit Hanoun,North Gaza,M
+Tareq Soheil Ibrahim al-Kafarneh,9/6/2012,22,Beit Hanoun,North Gaza,M
+Akram Sami Ahmad a-Z'anin,9/6/2012,22,Beit Hanoun,North Gaza,M
+Ihab Sami Ahmad a-Z'anin,9/6/2012,26,Beit Hanoun,North Gaza,M
+Isma'il Muhammad 'Abdallah Abu 'Odeh,6/18/2012,20,Beit Hanoun,North Gaza,M
+'Abdallah Hassan Ahmad a-Z'anin,6/18/2012,22,Beit Hanoun,North Gaza,M
+Jihad Kamel Muhammad Abu Shabab,6/18/2012,23,Beit Hanoun,North Gaza,M
+Muhammad Rafiq Ahmad Shabat,6/18/2012,25,Beit Hanoun,North Gaza,M
+Mahmoud Muhammad Yihya Zaqut,3/30/2012,18,Beit Hanoun,North Gaza,M
+Ahmad Khaled Muhammad a-Z'anin,1/18/2012,18,Beit Hanoun,North Gaza,M
+Muhammad Shaker Ahmad Abu 'Odeh,1/18/2012,23,Beit Hanoun,North Gaza,M
+Amjad Sami Ahmad a-Z'anin,1/18/2011,18,Beit Hanoun,North Gaza,M
+Muhammad Shaker Kermutt,1/10/2011,65,Beit Hanoun,North Gaza,M
+Jihad Subhi Taha 'Afanah,10/27/2010,20,Beit Hanoun,North Gaza,M
+Isma'il Walid Muhammad Abu 'Odeh,9/12/2010,16,Beit Hanoun,North Gaza,M
+Husam Khaled Ibrahim Abu Sa'id,9/12/2010,16,Beit Hanoun,North Gaza,M
+Ibrahim 'Abdallah Suliman Abu Sa'id,9/12/2010,91,Beit Hanoun,North Gaza,M
+Qassem Muhammad Kamal a-Shanbari,7/21/2010,18,Beit Hanoun,North Gaza,M
+Muhammad Hatem Sabri al-Kafarneh,7/21/2010,21,Beit Hanoun,North Gaza,M
+Mahmoud Jum'ah Ibrahim a-Sharathah,12/26/2009,18,Beit Hanoun,North Gaza,M
+Hani Salem Muhammad Abu Ghazal,12/26/2009,20,Beit Hanoun,North Gaza,M
+Bashir Suliman Musa Abu Duheil,12/26/2009,20,Beit Hanoun,North Gaza,M
+Ghazi Maher Ghazi a-Z'anin,9/4/2009,12,Beit Hanoun,North Gaza,M
+Khaled Rafiq Diab al-Kafarneh,2/8/2009,21,Beit Hanoun,North Gaza,M
+Miqbal Yusef Muhammad Abu 'Odeh,2/8/2009,22,Beit Hanoun,North Gaza,M
+Angham Raafat 'Atallah al-Masri,1/18/2009,10,Beit Hanoun,North Gaza,F
+Intesar Farid Suliman al-Masri,1/18/2009,36,Beit Hanoun,North Gaza,F
+Fatimah Mahmoud 'Obeid 'Abdallah,1/17/2009,55,Beit Hanoun,North Gaza,F
+Fathi Muhammad 'Abdallah 'Obeid,1/17/2009,63,Beit Hanoun,North Gaza,M
+Nariman Ahmad 'Abd al-Karim Abu 'Odeh,1/9/2009,15,Beit Hanoun,North Gaza,F
+Tareq Muhammad Nimer Abu 'Amshah,1/8/2009,22,Beit Hanoun,North Gaza,M
+Jamal Ahmad Hussein Nashwan,1/8/2009,42,Beit Hanoun,North Gaza,M
+Musa Muhammad Suliman al-Jattali,1/6/2009,34,Beit Hanoun,North Gaza,M
+'Arafat Muhammad 'Arafat 'Abd a-Dayem,1/5/2009,12,Beit Hanoun,North Gaza,M
+Islam Jaber 'Arafat 'Abd a-Dayem,1/5/2009,16,Beit Hanoun,North Gaza,M
+Ahmad Samih Ahmad al-Kafarneh,1/5/2009,17,Beit Hanoun,North Gaza,M
+Muhammad Akram Muhammad Abu Harbid,1/5/2009,20,Beit Hanoun,North Gaza,M
+Wafa Nabil 'Ali Abu Jarad,1/5/2009,21,Beit Hanoun,North Gaza,F
+Akram Muhammad Isma'il Abu Jarad,1/5/2009,21,Beit Hanoun,North Gaza,M
+Seif al-Islam Ahmad Muhammad 'Udwan,1/5/2009,22,Beit Hanoun,North Gaza,M
+Nafez Jamal Sa'id 'Abd a-Dayem,1/5/2009,22,Beit Hanoun,North Gaza,M
+Sa'id Jamal Sa'id 'Abd a-Dayem,1/5/2009,28,Beit Hanoun,North Gaza,M
+Maher Yunes Ramadan 'Abd a-Dayem,1/5/2009,32,Beit Hanoun,North Gaza,M
+Wiam Jamal Mahmoud al-Kafarneh,1/4/2009,2,Beit Hanoun,North Gaza,F
+Fadi Naser Musa Shabat,1/1/2009,24,Beit Hanoun,North Gaza,M
+Ibrahim Shafiq 'Ali 'Abd al-Hadi,12/27/2008,23,Beit Hanoun,North Gaza,M
+Myasarah Muhammad Muhammad 'Udwan,12/27/2008,47,Beit Hanoun,North Gaza,F
+Mus'ad Ahmad 'Eid Abu Me'teq,4/28/2008,0,Beit Hanoun,North Gaza,M
+Hanaa Ahmad 'Eid Abu Me'teq,4/28/2008,2,Beit Hanoun,North Gaza,F
+Saleh Ahmad 'Eid Abu Me'teq,4/28/2008,4,Beit Hanoun,North Gaza,M
+Ruwaydah Ahmad 'Eid Abu Me'teq,4/28/2008,5,Beit Hanoun,North Gaza,F
+Mu'az Muhammad 'Ata al-Akhras,4/28/2008,21,Beit Hanoun,North Gaza,M
+Ibrahim Salem Suliman Hajuj,4/28/2008,21,Beit Hanoun,North Gaza,M
+Meyasar Mutlaq Rashid Abu Me'teq,4/28/2008,40,Beit Hanoun,North Gaza,F
+Dawood Jaber Muhammad al-Kafarneh,4/24/2008,53,Beit Hanoun,North Gaza,M
+'Akramah Munir 'Abd a-Rahman Abu 'Odeh,4/21/2008,20,Beit Hanoun,North Gaza,M
+Muhammad Muhammad 'Abdallah Abu Hajar,3/3/2008,20,Beit Hanoun,North Gaza,M
+Ramez Mustafa Hassan Naser,2/28/2008,19,Beit Hanoun,North Gaza,M
+'Abdallah Muhammad Ahmad a-Zwiedi,2/26/2008,31,Beit Hanoun,North Gaza,M
+Muhammad Talal Muhammad a-Z'anin,2/23/2008,20,Beit Hanoun,North Gaza,M
+Muhammad Ibrahim Mustafa Hasanein,2/23/2008,20,Beit Hanoun,North Gaza,M
+Ibrahim Ahmad Zidan Abu Jarad,2/23/2008,20,Beit Hanoun,North Gaza,M
+Ziad Khader Jamil Abu Taqeyyah,1/15/2008,21,Beit Hanoun,North Gaza,M
+Imam Hassan Ibrahim Ahmad,1/15/2008,26,Beit Hanoun,North Gaza,M
+Muhammad Maher Taha al-Kafarneh,1/9/2008,15,Beit Hanoun,North Gaza,M
+Khadrah Ahmad 'Ali Wahdan,1/9/2008,51,Beit Hanoun,North Gaza,F
+Muhammad Ahmad 'Abd al-'Aziz Abu 'Odeh,1/5/2008,33,Beit Hanoun,North Gaza,M
+Muhammad 'Awad Hussein al-Kafarneh,1/4/2008,26,Beit Hanoun,North Gaza,M
+Ahmad Naser Ahmad al-Kafarneh,1/4/2008,28,Beit Hanoun,North Gaza,M
+Husam Zaki Saleh Nashwan,12/11/2007,26,Beit Hanoun,North Gaza,M
+Raafat Salamah 'Abdallah Abu Shagheibah,11/23/2007,43,Beit Hanoun,North Gaza,M
+Talal Salamah 'Abdallah Abu Shagheibah,11/23/2007,45,Beit Hanoun,North Gaza,M
+Muhammad Sami Zaki al-Qishawi,11/15/2007,20,Beit Hanoun,North Gaza,M
+'Aead Ibrahim Muhammad al-Biari,11/15/2007,20,Beit Hanoun,North Gaza,M
+Muhammad Yusef 'Abd al-Karim Hamad,10/29/2007,26,Beit Hanoun,North Gaza,M
+Farid Ibrahim Hamad Abu 'Odeh,10/29/2007,43,Beit Hanoun,North Gaza,M
+Hussein Khader Mahmoud Na'im,10/13/2007,20,Beit Hanoun,North Gaza,M
+Muhammad Sha'ban Muhammad Abu Rakbah,9/27/2007,21,Beit Hanoun,North Gaza,M
+Raji Nabil 'Ali Hamdan,9/27/2007,23,Beit Hanoun,North Gaza,M
+Husam As'ad 'Abd a-Rahman al-Hwihi,9/27/2007,25,Beit Hanoun,North Gaza,M
+Yusef Talal 'Abd al-Qader al-Bassiuni,9/26/2007,16,Beit Hanoun,North Gaza,M
+Ahmad Ousamah Muhammad 'Udwan,9/26/2007,19,Beit Hanoun,North Gaza,M
+Thaer 'Abd al-Wahab Hassan al-Bassiuni,9/26/2007,20,Beit Hanoun,North Gaza,M
+Kheirallah Musa Ahmad Hamdan,9/26/2007,27,Beit Hanoun,North Gaza,M
+Sarah Suliman 'Abdallah Abu Ghazal,8/29/2007,8,Beit Hanoun,North Gaza,F
+Mahmoud Musa Hassan Abu Ghazal,8/29/2007,8,Beit Hanoun,North Gaza,M
+Yihya Ramadan 'Atiyyah Abu Ghazal,8/29/2007,11,Beit Hanoun,North Gaza,M
+Fadi Mansur Yusef al-Kafarneh,8/21/2007,10,Beit Hanoun,North Gaza,M
+'Abd al-Qader Yusef 'Abed 'Ashur,8/21/2007,14,Beit Hanoun,North Gaza,M
+Muhammad Hisham Ibrahim Abu Seif,7/22/2007,20,Beit Hanoun,North Gaza,M
+'Abd a-Rahman Jamil 'Abd al-Majid al-Kafarneh,7/22/2007,21,Beit Hanoun,North Gaza,M
+Maher Hamad 'Abed Abu Hashish,5/19/2007,15,Beit Hanoun,North Gaza,M
+Muhammad 'Abd al-Fatah Ahmad Abu Mutee',5/19/2007,16,Beit Hanoun,North Gaza,M
+Samir 'Abd al-Fatah Ahmad Abu Mutee',5/19/2007,19,Beit Hanoun,North Gaza,M
+Ramez 'Awadallah Musa a-Z'anin,4/4/2007,24,Beit Hanoun,North Gaza,M
+Mahmoud Jum'ah Suliman al-Bassiuni,11/23/2006,29,Beit Hanoun,North Gaza,M
+Ahmad Darwish Ahmad Abu al-Qumsan,11/23/2006,32,Beit Hanoun,North Gaza,M
+Fa'iq Ahmad Ahmad Abu al-Qumsan,11/23/2006,41,Beit Hanoun,North Gaza,M
+Maysaa Ramez Ma'sud al-'Athamneh,11/8/2006,0,Beit Hanoun,North Gaza,F
+Maram Ramez Ma'sud al-'Athamneh,11/8/2006,3,Beit Hanoun,North Gaza,F
+Sa'ed Majdi Sa'ed al-'Athamneh,11/8/2006,9,Beit Hanoun,North Gaza,M
+Mahmoud Amjad Sa'ed al-'Athamneh,11/8/2006,10,Beit Hanoun,North Gaza,M
+Muhammad Sa'ed 'Abdallah al-'Athamneh,11/8/2006,15,Beit Hanoun,North Gaza,M
+Mahdi Sa'ed 'Abdallah al-'Athamneh,11/8/2006,16,Beit Hanoun,North Gaza,M
+Fatimah Ma'sud 'Abdallah al-'Athamneh,11/8/2006,16,Beit Hanoun,North Gaza,F
+'Arafat Sa'ed 'Abdallah al-'Athamneh,11/8/2006,19,Beit Hanoun,North Gaza,M
+Samir Ma'sud 'Abdallah al-'Athamneh,11/8/2006,26,Beit Hanoun,North Gaza,M
+Muhammad Ramadan Hussein al-'Athamneh,11/8/2006,29,Beit Hanoun,North Gaza,M
+Manal Muhammad Muhammad al-'Athamneh,11/8/2006,29,Beit Hanoun,North Gaza,F
+Sanaa Ahmad 'Abdallah al-'Athamneh,11/8/2006,33,Beit Hanoun,North Gaza,F
+Nihad Muhammad 'Abdallah al-'Athamneh,11/8/2006,33,Beit Hanoun,North Gaza,F
+Bassem 'Abd al-Hadi 'Abd al-Majid al-Kafarneh,11/8/2006,40,Beit Hanoun,North Gaza,M
+Sabah Mahmoud Hassan al-'Athamneh,11/8/2006,44,Beit Hanoun,North Gaza,F
+Saqer Muhammad Ibrahim 'Udwan,11/8/2006,45,Beit Hanoun,North Gaza,M
+Ma'sud 'Abdallah Muhammad al-'Athamneh,11/8/2006,55,Beit Hanoun,North Gaza,M
+Ne'meh Ahmad Muhammad al-'Athamneh (Abu Rukbeh),11/8/2006,57,Beit Hanoun,North Gaza,F
+Fatimah Ahmad Saleh al-'Athamneh,11/8/2006,84,Beit Hanoun,North Gaza,F
+Muhammad Ahmad Salim 'Ashur,11/5/2006,19,Beit Hanoun,North Gaza,M
+Husam Muhammad 'Abd a-Rahman A'beid,11/5/2006,27,Beit Hanoun,North Gaza,M
+Walaa Talal 'Abd al-Karim Naser,11/4/2006,13,Beit Hanoun,North Gaza,F
+'Ammar Rizeq Muhammad 'Omar,11/4/2006,17,Beit Hanoun,North Gaza,M
+Mazen Hani Isma'il Shabat,11/4/2006,25,Beit Hanoun,North Gaza,M
+Marwan Muhammad Ibrahim Abu Harbid,11/4/2006,48,Beit Hanoun,North Gaza,M
+Ahmad Yusef 'Abd a-Rahman Sihweil,11/3/2006,16,Beit Hanoun,North Gaza,M
+Ibrahim Jamal Hassan al-Bassiuni,11/3/2006,17,Beit Hanoun,North Gaza,M
+Hamzah Muhammad Ayub Karsu'a,11/3/2006,17,Beit Hanoun,North Gaza,M
+Hamdi Ramadan Muhammad 'Abd al-Dayem,11/3/2006,17,Beit Hanoun,North Gaza,M
+Mahmoud Ahmad Mahmoud Sabah,11/3/2006,19,Beit Hanoun,North Gaza,M
+Muhammad 'Abdallah Ibrahim al-Maqhaz,11/3/2006,21,Beit Hanoun,North Gaza,M
+Tsahib Rafiq Hassan 'Udwan,11/3/2006,23,Beit Hanoun,North Gaza,M
+'Alaa Samir Muhammad al-'Umari,11/3/2006,24,Beit Hanoun,North Gaza,M
+Ibtesam Yusef Ahmad Ma'sud,11/3/2006,44,Beit Hanoun,North Gaza,F
+Rawdah Ibrahim Salem Jaber,11/3/2006,45,Beit Hanoun,North Gaza,F
+Baraa Riyad Muhammad Fayad,11/2/2006,3,Beit Hanoun,North Gaza,M
+Yusef Rohi Muhammad 'Aqel,11/2/2006,18,Beit Hanoun,North Gaza,M
+Bassem Muhammad 'Odeh al-Jamal,11/2/2006,24,Beit Hanoun,North Gaza,M
+'Issam Muhammad 'Odeh Abu 'Odeh,11/2/2006,31,Beit Hanoun,North Gaza,M
+Diab Ahmad Jaber al-Bassiuni,11/2/2006,71,Beit Hanoun,North Gaza,M
+Ahmad Zuheir Muhammad 'Udwan,11/1/2006,20,Beit Hanoun,North Gaza,M
+Tareq Mustafa Hassan Naser,11/1/2006,22,Beit Hanoun,North Gaza,M
+Khalil Naser Muhammad Hamad,11/1/2006,22,Beit Hanoun,North Gaza,M
+Muhammad Saleh 'Abd a-Razeq Musleh,11/1/2006,23,Beit Hanoun,North Gaza,M
+Ahmad Yusef Ahmad Sa'adat,11/1/2006,23,Beit Hanoun,North Gaza,M
+Husam Muhammad Saleh Abu Harbid,11/1/2006,24,Beit Hanoun,North Gaza,M
+Faiz Muhammad Ahmad a-Zwiedi,11/1/2006,25,Beit Hanoun,North Gaza,M
+Soheil 'Abd a-Razeq Hassan al-Majdalawi,10/26/2006,34,Beit Hanoun,North Gaza,M
+Ibrahim Fouad 'Abd a-Latif a-Shanbari,10/23/2006,17,Beit Hanoun,North Gaza,M
+Muhammad Fouad 'Abd a-Latif a-Shanbari,10/23/2006,18,Beit Hanoun,North Gaza,M
+Rami Musa Muhammad Hamdan,10/23/2006,22,Beit Hanoun,North Gaza,M
+Kamal 'Adnan Kamal a-Shanbari,10/23/2006,31,Beit Hanoun,North Gaza,M
+'Ata Kamal 'Ali a-Shanbari,10/23/2006,31,Beit Hanoun,North Gaza,M
+Khaled Kamal 'Ali a-Shanbari,10/23/2006,35,Beit Hanoun,North Gaza,M
+Riyad Kamal 'Ali a-Shanbari,10/23/2006,38,Beit Hanoun,North Gaza,M
+Ne'meh Hassan Hassan 'Udwan,10/23/2006,64,Beit Hanoun,North Gaza,F
+Mahmoud Jamal Ahmad Naser,10/9/2006,14,Beit Hanoun,North Gaza,M
+Hamam 'Abd al-Ghani Muhammad Hamdan,9/29/2006,13,Beit Hanoun,North Gaza,M
+Anwaar 'Abd al-Ghani Muhammad Hamdan,9/29/2006,16,Beit Hanoun,North Gaza,M
+Hanan Muhammad Isma'il Abu 'Odeh,9/2/2006,15,Beit Hanoun,North Gaza,F
+Isma'il Muhammad Isma'il Abu 'Odeh,9/2/2006,27,Beit Hanoun,North Gaza,M
+Muhammad Isma'il Ibrahim Abu 'Odeh,9/2/2006,56,Beit Hanoun,North Gaza,M
+Ahmad Yusef 'Abed al-Kafarneh,8/14/2006,13,Beit Hanoun,North Gaza,M
+Zuheir Muhammad Shihadah al-Kafarneh,8/14/2006,50,Beit Hanoun,North Gaza,M
+'Othman Hassan al-Bu' al-Kafarneh,8/14/2006,50,Beit Hanoun,North Gaza,M
+Nahed Muhammad Fawzi a-Shanbari,7/31/2006,15,Beit Hanoun,North Gaza,M
+Ahmad Isma'il Saber Abu 'Amshah,7/27/2006,18,Beit Hanoun,North Gaza,M
+Khitam Muhammad Ribhi Tayeh,7/24/2006,11,Beit Hanoun,North Gaza,F
+Muhannad Sa'ed Ahmad Musleh,7/17/2006,16,Beit Hanoun,North Gaza,M
+Muhammad Mahmoud 'Abd al-Mu'ti al-Kafarneh,7/17/2006,20,Beit Hanoun,North Gaza,M
+Muhammad Subhi 'Abd a-Latif Abu 'Odeh,7/17/2006,25,Beit Hanoun,North Gaza,M
+'Abd a-Latif 'Othman Muhammad A'beid,7/16/2006,19,Beit Hanoun,North Gaza,M
+Shihadah Zuheir Muhammad al-Kafarneh,7/16/2006,22,Beit Hanoun,North Gaza,M
+'Ali Maher Yusef 'Atallah,7/16/2006,22,Beit Hanoun,North Gaza,M
+Mu'az Hamzah 'Abdallah 'Udwan,7/16/2006,23,Beit Hanoun,North Gaza,M
+'Abd al-Karim Yusef 'Abd al-Karim Hamad,7/16/2006,25,Beit Hanoun,North Gaza,M
+Ahmad Muhammad Ahmad Shahin,7/11/2006,29,Beit Hanoun,North Gaza,M
+Mahfuz Farid Saber Nseir,7/10/2006,15,Beit Hanoun,North Gaza,M
+Raji 'Omar Jaber Difallah,7/10/2006,16,Beit Hanoun,North Gaza,M
+Ahmad Ghaleb Nimer Abu 'Amshah,7/10/2006,16,Beit Hanoun,North Gaza,M
+Ahmad Fathi 'Odeh Shabat,7/10/2006,16,Beit Hanoun,North Gaza,M
+'Abd al-Karim Jaber 'Ali Duraj,7/3/2006,30,Beit Hanoun,North Gaza,M
+'Abd al-Mu'ti Shukri Zayed al-'Ur,5/29/2006,26,Beit Hanoun,North Gaza,M
+Yasser Hassan Suliman Abu Jarad,4/9/2006,30,Beit Hanoun,North Gaza,M
+Husam Salah a-Din Ahmad Abu 'Iyada,3/27/2006,20,Beit Hanoun,North Gaza,M
+Tareq Ishaq Mahmoud Abu Harbid,2/9/2006,18,Beit Hanoun,North Gaza,M
+Musa A'bed Salem Shaluf,2/9/2006,29,Beit Hanoun,North Gaza,M
+Majd Ibrahim Ahmad Natnat,10/29/2005,31,Beit Hanoun,North Gaza,M
+Muhammad Yusef Muhammad al-Ghandur,1/3/2005,23,Beit Hanoun,North Gaza,M
+Jihad 'Abd al-Hai 'Abd a-Rahman Abu Salameh,11/10/2004,21,Beit Hanoun,North Gaza,M
+Muhammad 'Abd a-Rahman Muhammad al-Mabhuh,11/10/2004,23,Beit Hanoun,North Gaza,M
+Muhammad Ahmad Luai Hamed,10/19/2004,27,Beit Hanoun,North Gaza,M
+Muhammad Kamal Muhammad a-Shawa,10/19/2004,30,Beit Hanoun,North Gaza,M
+Ahmad Zaki Ramadan Hamad,10/10/2004,22,Beit Hanoun,North Gaza,M
+Muhammad Yihya Suliman 'Udwan,10/9/2004,20,Beit Hanoun,North Gaza,M
+'Arafat Fouad 'Abd al-Hadi Naser,10/9/2004,20,Beit Hanoun,North Gaza,M
+Samah Samir 'Ammar Nassar,10/8/2004,9,Beit Hanoun,North Gaza,F
+Salamah Isma'il Abu Sala'h,10/8/2004,27,Beit Hanoun,North Gaza,M
+Luai Jamal Hamad,10/7/2004,27,Beit Hanoun,North Gaza,M
+Fadi Farid Ahmad a-Z'anin,10/3/2004,23,Beit Hanoun,North Gaza,M
+Ousamah Muhammad al-Barsh,9/30/2004,21,Beit Hanoun,North Gaza,M
+'Abd al-Hai a-Najar,9/30/2004,24,Beit Hanoun,North Gaza,M
+Musa Mansur Muhsen Abu Mashi,8/16/2004,20,Beit Hanoun,North Gaza,M
+Muhammad Suliman Muhammad Abu Hashish,8/16/2004,22,Beit Hanoun,North Gaza,M
+Husam Helmi Mahmoud Naser,7/24/2004,16,Beit Hanoun,North Gaza,M
+Hamed Ahmad 'Abd al-'Aziz Abu 'Odeh,7/8/2004,28,Beit Hanoun,North Gaza,M
+Zaher Rajeh Abu Harbid,7/8/2004,30,Beit Hanoun,North Gaza,M
+Naser a-Din Muhammad Abu Harbid,7/8/2004,39,Beit Hanoun,North Gaza,M
+Na'im Mesbah al-Kafarneh,7/8/2004,44,Beit Hanoun,North Gaza,M
+Nahed 'Abd a-Rahman 'Abdallah Abu 'Odeh,7/8/2004,44,Beit Hanoun,North Gaza,M
+Jamileh 'Abd al-Hadi 'Abd Rabo Hamad,7/8/2004,44,Beit Hanoun,North Gaza,F
+Yusef Ahmad Musa a-Z'anin,7/8/2004,52,Beit Hanoun,North Gaza,M
+'Adnan Hassan Hussein Mansur,7/4/2004,17,Beit Hanoun,North Gaza,M
+Ihab 'Abd al-Karim Ahmad Shatat,7/3/2004,9,Beit Hanoun,North Gaza,M
+Ishaq Mu'in Ishaq Abu Taleb,7/3/2004,15,Beit Hanoun,North Gaza,M
+Muhammad Ahmad Jaber Difallah,7/2/2004,21,Beit Hanoun,North Gaza,M
+'Atiyyah Muhammad Muhsen al-'A'jrami,6/30/2004,19,Beit Hanoun,North Gaza,M
+Ibrahim Muhammad Ahmad Abu Sa'adah,6/23/2004,21,Beit Hanoun,North Gaza,M
+Khaled Jamal Ayub a-Shanbari,6/22/2004,20,Beit Hanoun,North Gaza,M
+Ibrahim 'Abd a-Rahman Muhammad Salhah,6/22/2004,21,Beit Hanoun,North Gaza,M
+Walid 'Awad 'Abed 'Ashur,6/9/2004,21,Beit Hanoun,North Gaza,M
+Shadi Mazen Muhammad Nseir,5/29/2004,19,Beit Hanoun,North Gaza,M
+Muna Hamdi Shihadah Abu Tabaq,4/22/2004,10,Beit Hanoun,North Gaza,F
+Ahmad Faiz Yihya 'Assaf,11/22/2003,20,Beit Hanoun,North Gaza,M
+Raafat Ahmad Hassan a-Z'anin,6/15/2003,29,Beit Hanoun,North Gaza,M
+Zaher Khaled Muhammad Abu Jarad,5/15/2003,14,Beit Hanoun,North Gaza,M
+Muhammad Nabil Muhammad a-Z'anin,5/15/2003,15,Beit Hanoun,North Gaza,M
+Khaled Ziad Naser,5/15/2003,16,Beit Hanoun,North Gaza,M
+Khaled Ibrahim a-Zaq,5/15/2003,21,Beit Hanoun,North Gaza,M
+'Abd al-Qader Abu Qaas,5/15/2003,21,Beit Hanoun,North Gaza,M
+Nidal Muhammad Karim,5/15/2003,24,Beit Hanoun,North Gaza,M
+Khalil Muhammad Kermutt,5/15/2003,33,Beit Hanoun,North Gaza,M
+Ahmad 'Issam Muhammad Judah,5/7/2003,16,Beit Hanoun,North Gaza,M
+Ahmad Abu al-Qumsan,4/9/2003,16,Beit Hanoun,North Gaza,M
+'Abd al-Mun'im Muhammad Nijem,4/9/2003,20,Beit Hanoun,North Gaza,M
+'Imad 'Adnan al-Hiyudi,4/9/2003,21,Beit Hanoun,North Gaza,M
+Ramez Nafez a-Talmas,4/9/2003,27,Beit Hanoun,North Gaza,M
+'Ali Hussein al-Mushirfa,4/9/2003,36,Beit Hanoun,North Gaza,M
+Ihab Sa'di Mahmoud Jerisi,3/27/2003,21,Beit Hanoun,North Gaza,M
+Iyad Khalil Fayad,3/27/2003,31,Beit Hanoun,North Gaza,M
+'Abdallah al-Kafarneh,2/23/2003,-1,Beit Hanoun,North Gaza,M
+Muhammad Ramadan Yusef al-Kahlut,2/23/2003,15,Beit Hanoun,North Gaza,M
+Baraa Faiz Ahmad al-'Afifi,2/23/2003,15,Beit Hanoun,North Gaza,M
+Ahmad 'Eid Muhammad 'Afanah,2/23/2003,16,Beit Hanoun,North Gaza,M
+Muhammad Sarhan Hawilah,2/23/2003,27,Beit Hanoun,North Gaza,M
+Wael al-Gharbawi,2/23/2003,31,Beit Hanoun,North Gaza,M
+Ayman Abu Sharar,2/23/2003,32,Beit Hanoun,North Gaza,M
+'Abd al-Karim Sha'ban Bakrun,2/18/2003,25,Beit Hanoun,North Gaza,M
+Muhammad Yusef al-Ghul,2/18/2003,28,Beit Hanoun,North Gaza,M
+'Ali Thaher Nassar,1/12/2003,45,Beit Hanoun,North Gaza,M
+'Abd al-Karim Shabat,12/16/2002,19,Beit Hanoun,North Gaza,M
+Muhammad Mahmoud 'Udwan,12/16/2002,26,Beit Hanoun,North Gaza,M
+Anwaar Muhammad Fayad,7/23/2002,24,Beit Hanoun,North Gaza,M
+Khalil al-Jamasi,3/2/2002,28,Beit Hanoun,North Gaza,M
+Mahmoud Hassan Ahmad a-Talalkah,3/1/2002,7,Beit Hanoun,North Gaza,M
+Amjad Hamad Yasser,2/13/2002,24,Beit Hanoun,North Gaza,M
+Salem Musa Abu Shenar,2/13/2002,27,Beit Hanoun,North Gaza,M
+Muhammad Mahmoud Saleh,12/30/2001,19,Beit Hanoun,North Gaza,M
+'Ali As'ad Muhanna,12/30/2001,21,Beit Hanoun,North Gaza,M
+Isma'il Ahmad Abu al-Qumsan,12/30/2001,31,Beit Hanoun,North Gaza,M
+Yusef Shawqi a-Najar,12/15/2001,11,Beit Hanoun,North Gaza,M
+Mahmoud Muhammad Ahmad,12/15/2001,17,Beit Hanoun,North Gaza,M
+'Amer Muhammad al-Jaliz,12/15/2001,18,Beit Hanoun,North Gaza,M
+Shadi Msallam,12/15/2001,24,Beit Hanoun,North Gaza,M
+Jawdat 'Abd al-Hadi Jum'ah,10/19/2001,21,Beit Hanoun,North Gaza,M
+'Eid Zayed Abu Sharkh,10/8/2001,25,Beit Hanoun,North Gaza,M
+Mahmoud Nabil Khaled Matar,8/2/2004,20,Alei Sinai,North Gaza,M
+'Issam 'Adnan Ahmad al-Marnakh,8/2/2004,21,Alei Sinai,North Gaza,M
+'Ali Musa 'Ali Samur,8/2/2004,21,Alei Sinai,North Gaza,M
+Tareq Ziad Duas,1/1/2003,16,Alei Sinai,North Gaza,M
+Muhammad 'Atiyyah Duas,1/1/2003,16,Alei Sinai,North Gaza,M
+Jihad Jum'ah A'bed,1/1/2003,16,Alei Sinai,North Gaza,M
+Bahaa Abu Sultan,9/26/2002,20,Alei Sinai,North Gaza,M
+Kamal Rajab,3/15/2002,19,Alei Sinai,North Gaza,M
+Masalmeh al-'Araj,12/2/2001,-1,Alei Sinai,North Gaza,M
+Jihad al-Masri,12/2/2001,17,Alei Sinai,North Gaza,M
+Muhammad Salamah Muhammad Abu Diyah,5/13/2021,0,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,M
+Fawzeyeh Naser Muhammad Abu Fares,5/13/2021,17,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,F
+Hashem Muhammad 'Ayed a-Zgheibi,5/13/2021,20,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,M
+Nisrin Naser Muhammad Abu Fares,5/13/2021,25,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,F
+Sabrin Naser Muhammad Abu Fares (Abu Diyah),5/13/2021,27,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,F
+Ni'mah Saleh Salamah 'Ayash,5/13/2021,47,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,F
+Zaki 'Adnan Muhammad Ghanam,11/12/2019,25,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,M
+Sa'id Salem Suliman Hajjaj,11/18/2006,20,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,M
+Ahmad 'Abd a-Rahman Salam Abu Ghararah,7/28/2006,41,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,M
+Sayed Saleh Salem Abu Safra,11/28/2003,32,al-Qarayah al-Badwiyah al-Maslakh,North Gaza,M
+Yusef Anwaar Sha'ban Dakah,1/14/2009,22,al-'Atatrah,North Gaza,M
+Jaber Muhammad Muhammad a-Dawawseh,1/6/2009,21,al-'Atatrah,North Gaza,M
+Ayman Ahmad 'Amer al-Kurd,1/5/2009,28,al-'Atatrah,North Gaza,M
+Kamleh 'Ali Mustafa al-'Attar,1/5/2009,82,al-'Atatrah,North Gaza,F
+Amjad Majed Subhi al-'Attar,1/3/2009,23,al-'Atatrah,North Gaza,M
+Wael Khalil Mesbah al-'Attar,1/3/2009,34,al-'Atatrah,North Gaza,M
+Ahmad Ghazi A'bbas Abu Jabal,1/29/2019,29,a-Sayfa,North Gaza,M
+Nawaf Ahmad Muhammad al-'Attar,11/14/2018,23,a-Sayfa,North Gaza,M
+Muhammad 'Abd al-Hai Ahmad Abu 'Abadi,10/29/2018,25,a-Sayfa,North Gaza,M
+Sadam al-'Abed Muhammad Shalash,10/15/2018,27,a-Sayfa,North Gaza,M
+Muhammad Fayez Salim Abu a-Sadeq,9/24/2018,21,a-Sayfa,North Gaza,M
+Hani Muhammad 'Odeh al-Majdalawi,8/20/2018,28,a-Sayfa,North Gaza,M
+Ahmad 'Abdallah Jum'ah Murjan,8/7/2018,23,a-Sayfa,North Gaza,M
+'Abd al-Hafez Muhammad 'Abd al-Hafez a-Silawi,8/7/2018,23,a-Sayfa,North Gaza,M
+Bilal Samir Ahmad 'Aweidah,1/24/2014,19,a-Sayfa,North Gaza,M
+'Abdallah 'Awad Sakeb al-Balbisi,11/12/2019,26,'Izbat Beit Hanoun,North Gaza,M
+'Abd a-Salam Ramadan Ahmad Ahmad,11/12/2019,28,'Izbat Beit Hanoun,North Gaza,M
+Mahdi Muhammad Khaled al-Hamadin,11/5/2006,23,'Izbat Beit Hanoun,North Gaza,M
+Saleh Ibrahim 'Abd a-Ra'uf Naser,7/24/2006,14,'Izbat Beit Hanoun,North Gaza,M
+Sa'di Ahmad Mahmoud Na'im,7/24/2006,29,'Izbat Beit Hanoun,North Gaza,M
+Sadeq 'Abd a-Ra'uf Ahmad Naser,7/24/2006,33,'Izbat Beit Hanoun,North Gaza,M

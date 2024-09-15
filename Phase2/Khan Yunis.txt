@@ -1,0 +1,1348 @@
+Name,Date,Age,Location,District,Gender
+Saqer Musa Ahmad Saqer,10/9/2004,23,Tofah Checkpoint,Khan Yunis,M
+'Imad Yihya Khalil Bader,10/9/2004,24,Tofah Checkpoint,Khan Yunis,M
+Muhammad 'Ata Hafez a-Sha'er,5/8/2003,22,Tofah Checkpoint,Khan Yunis,M
+Siham Bashir Ahmad Sha'th,7/31/2014,22,Qizan a-Najar,Khan Yunis,F
+Muna Jihad Ibrahim a-Najar,7/29/2014,0,Qizan a-Najar,Khan Yunis,F
+Muhammad 'Ata Muhammad a-Najar,7/29/2014,2,Qizan a-Najar,Khan Yunis,M
+Rafif 'Ata Muhammad a-Najar,7/29/2014,3,Qizan a-Najar,Khan Yunis,F
+Samaa Muhammad 'Ata a-Najar,7/29/2014,14,Qizan a-Najar,Khan Yunis,F
+Maysaa 'Abd a-Sami' Musa a-Najar,7/29/2014,18,Qizan a-Najar,Khan Yunis,F
+Ibtesam 'Abd a-Sami' Harb a-Najar,7/29/2014,20,Qizan a-Najar,Khan Yunis,F
+Khaled 'Omar Hamed a-Najar,7/29/2014,21,Qizan a-Najar,Khan Yunis,M
+'Issam Muhammad 'Ata a-Najar,7/29/2014,23,Qizan a-Najar,Khan Yunis,M
+Hamad Yusef Hassan a-Najar,7/29/2014,23,Qizan a-Najar,Khan Yunis,M
+Aya Ibrahim Hassan Abu Sitah,7/29/2014,23,Qizan a-Najar,Khan Yunis,F
+Jihad Ibrahim Hassan a-Najar,7/29/2014,25,Qizan a-Najar,Khan Yunis,M
+'Ata Muhammad 'Ata a-Najar,7/29/2014,28,Qizan a-Najar,Khan Yunis,M
+Muhammad Zaki Hassan a-Najar,7/29/2014,29,Qizan a-Najar,Khan Yunis,M
+Muna Isma'il Khamis a-Najar,7/29/2014,42,Qizan a-Najar,Khan Yunis,F
+Muhammad 'Ata Mahmoud a-Najar,7/29/2014,48,Qizan a-Najar,Khan Yunis,M
+Fawzeyeh Qassem Hanun a-Najar,7/29/2014,81,Qizan a-Najar,Khan Yunis,F
+Muhammad Subhi Salim 'Abdin,7/23/2014,22,Qizan a-Najar,Khan Yunis,M
+Ahmad Subhi 'Awad Shihab,7/7/2005,17,Morag,Khan Yunis,M
+'Alaa Hamdi Hassan a-Sha'er,1/12/2005,17,Morag,Khan Yunis,M
+Shaker Jamal Muhammad Judah,1/12/2005,22,Morag,Khan Yunis,M
+Yusef 'Abdallah Muhammad 'Omar,9/23/2004,20,Morag,Khan Yunis,M
+'Ammar 'Atwah 'Odeh Abu Samhadaneh,9/23/2004,21,Morag,Khan Yunis,M
+Muhammad Zuheir Sa'id al-'Azazi,9/23/2004,22,Morag,Khan Yunis,M
+Muhammad Khaled Mansur Rashwan,8/6/2004,20,Morag,Khan Yunis,M
+Ibrahim Sabah Muhammad Abu al-Batikh,6/28/2004,40,Morag,Khan Yunis,M
+Yasser 'Izat Muhammad Sultan,3/23/2004,20,Morag,Khan Yunis,M
+Muhammad Ahmad Murshed al-Qadi,3/23/2004,22,Morag,Khan Yunis,M
+Samir Ibrahim Muhammad al-Biyuq,10/12/2003,30,Morag,Khan Yunis,M
+Sa'id Hussein Jeribo'a Abu 'Azzum,10/5/2003,26,Morag,Khan Yunis,M
+Muhsen Fouad Jaber,12/21/2002,22,Morag,Khan Yunis,M
+Khaled Ghattar,4/6/2002,22,Morag,Khan Yunis,M
+Shadi Abu Hasnah,4/6/2002,28,Morag,Khan Yunis,M
+Ziad 'Abd a-Latif Suliman Wadi,3/28/2002,40,Morag,Khan Yunis,M
+Muhammad Marwan Jamil al-Agha,10/30/2017,21,Kissufim Checkpoint,Khan Yunis,M
+Musbah Fayeq Musbah Shbeir,10/30/2017,27,Kissufim Checkpoint,Khan Yunis,M
+'Omar Nassar Muhammad al-Falit,10/30/2017,30,Kissufim Checkpoint,Khan Yunis,M
+Ahmad Mahmoud Ibrahim Abu 'Armaneh,10/30/2017,30,Kissufim Checkpoint,Khan Yunis,M
+Husam Jihad 'Abdallah a-Smeiri,10/30/2017,31,Kissufim Checkpoint,Khan Yunis,M
+Hassan Ramadan Hassan Abu Hasanein,10/30/2017,35,Kissufim Checkpoint,Khan Yunis,M
+'Arafat 'Abdallah Abu Murshid,10/30/2017,48,Kissufim Checkpoint,Khan Yunis,M
+Muhammad Khalil Jebril al-Ja'bari,6/9/2007,23,Kissufim Checkpoint,Khan Yunis,M
+'Ali Muhammad Mahmoud Abu Ful,3/31/2009,19,Kissufim,Khan Yunis,M
+'Abdallah Mahmoud Salem Isbetan,3/31/2009,20,Kissufim,Khan Yunis,M
+Salim Jum'ah 'Odeh al-Hamedi,7/10/2008,22,Kissufim,Khan Yunis,M
+Nazir Walid Nathir Mushtaha,9/6/2007,18,Kissufim,Khan Yunis,M
+Muhammad 'Adnan Mustafa al-Hasi,9/6/2007,19,Kissufim,Khan Yunis,M
+Hamzah Muhammad Muhammad Naser,9/6/2007,20,Kissufim,Khan Yunis,M
+Mustafa S'ud Zakaria a-Lababidy,9/6/2007,23,Kissufim,Khan Yunis,M
+Mahmoud Sufian Mustafa Salamah,9/6/2007,23,Kissufim,Khan Yunis,M
+Tal'at Muhammad Ayub al-Khatib,9/6/2007,24,Kissufim,Khan Yunis,M
+Yusef Muhammad 'Issa Qablan,10/5/2006,18,Kissufim,Khan Yunis,M
+'Iz a-Din 'Abd al-Khaleq Mahmoud al-Astal,9/2/2006,22,Kissufim,Khan Yunis,M
+Ziad Salman Hassan Abu Magheseb,7/11/2006,27,Kissufim,Khan Yunis,M
+Sufian Ahmad Salman Abu Gharabah,3/23/2006,19,Kissufim,Khan Yunis,M
+Muhammad Salah Sa'di 'Ayad,3/23/2006,19,Kissufim,Khan Yunis,M
+Aya Muhammad Suliman al-Astal,1/26/2006,8,Kissufim,Khan Yunis,F
+Bassam Hassan Suliman Abu Gharabah,10/9/2005,15,Kissufim,Khan Yunis,M
+'Issa Suliman 'Abd Rabo al-'Amur,10/9/2005,19,Kissufim,Khan Yunis,M
+Muhammad Suliman Muhammad Abu 'Adwan,10/9/2005,20,Kissufim,Khan Yunis,M
+Yihya Ra'ees Suliman Abu Taha,7/24/2005,21,Kissufim,Khan Yunis,M
+Nidal 'Abd al-Hakim Najib Sadeq,1/17/2005,17,Kissufim,Khan Yunis,M
+Ahmad Mahmoud Zidan Barbakh,1/17/2005,19,Kissufim,Khan Yunis,M
+Ashraf Muhammad Salim Ba'lushah,12/15/2004,19,Kissufim,Khan Yunis,M
+Hassan Musa al-Bana,12/15/2004,20,Kissufim,Khan Yunis,M
+Khalil Muhammad Ahmad Shihadah,11/21/2004,19,Kissufim,Khan Yunis,M
+'Alian Jawwad Salem al-Wadiyah,10/18/2004,19,Kissufim,Khan Yunis,M
+Ibrahim Rafiq Muhammad 'Abd al-Hadi,7/6/2004,20,Kissufim,Khan Yunis,M
+'Ammar 'Abd al-Ghafar Khalil al-Jadbah,7/6/2004,20,Kissufim,Khan Yunis,M
+Nael Muhammad Mahmoud 'Omar,4/18/2004,22,Kissufim,Khan Yunis,M
+Ousamah Mufid Suliman al-Afandi,3/21/2004,20,Kissufim,Khan Yunis,M
+Ahmad Khalil Ibrahim Ghabayen,3/21/2004,21,Kissufim,Khan Yunis,M
+Mwafaq Muhammad Sha'ban al-A'araj,2/19/2004,20,Kissufim,Khan Yunis,M
+Muhannad Fa'iq Muhammad Abu Khatab,2/19/2004,20,Kissufim,Khan Yunis,M
+Muhammad Ma'sud Muhammad Mustafa,12/22/2003,22,Kissufim,Khan Yunis,M
+As'ad Ibrahim Muhammad al-Ghata,12/22/2003,26,Kissufim,Khan Yunis,M
+Rami Isma'il 'Ali 'Alian,10/26/2003,20,Kissufim,Khan Yunis,M
+Bilal Sa'id Hamuda,10/23/2003,20,Kissufim,Khan Yunis,M
+Ahmad Muhammad Mahmoud Salim,2/11/2003,24,Kissufim,Khan Yunis,M
+Suliman a-Daghameh,9/3/2002,20,Kissufim,Khan Yunis,M
+Mahdi Hatem 'Aqel,6/10/2002,22,Kissufim,Khan Yunis,M
+Ahmad 'Ata Barakeh,4/10/2002,-1,Kissufim,Khan Yunis,M
+Yusef Salman Mhanna,4/10/2002,28,Kissufim,Khan Yunis,M
+Muhammad Mahmoud Abu 'Obeid,3/18/2002,27,Kissufim,Khan Yunis,M
+Mahmoud Humeidan Abu Halib,11/9/2001,36,Kissufim,Khan Yunis,M
+Ousamah Ashraf Muhammad Abu Raidah,5/18/2021,22,Khuza'ah,Khan Yunis,M
+'Abdallah Ahmad Naser Abu Naser,12/17/2019,38,Khuza'ah,Khan Yunis,M
+Fahed Muhammad Walid al-Astal,11/29/2019,16,Khuza'ah,Khan Yunis,M
+'Alaa Hani Hamadah al-'Abasi,10/11/2019,14,Khuza'ah,Khan Yunis,M
+Badr a-Din Nabil Musa Abu Musa,8/30/2019,22,Khuza'ah,Khan Yunis,M
+Ahmad Muhammad 'Abdallah al-Qara,7/26/2019,22,Khuza'ah,Khan Yunis,M
+Raed Khalil Mahmoud Abu Teir,5/3/2019,18,Khuza'ah,Khan Yunis,M
+Bilal Mahmoud Sha'ban a-Najar,3/30/2019,16,Khuza'ah,Khan Yunis,M
+Tamer Hashem 'Issa Abu al-Kheir,3/30/2019,19,Khuza'ah,Khan Yunis,M
+Fares Yusef Fares Abu Hajras,3/30/2019,25,Khuza'ah,Khan Yunis,M
+Bassam Sami 'Othman Safi,2/22/2019,22,Khuza'ah,Khan Yunis,M
+Hassan Iyad 'Abd al-Fatah Shalabi,2/8/2019,13,Khuza'ah,Khan Yunis,M
+Karam Muhammad Nu'man Fayad,12/28/2018,26,Khuza'ah,Khan Yunis,M
+Ahmad Yasser Sabri Abu 'Abed,12/7/2018,4,Khuza'ah,Khan Yunis,M
+Nassar Iyad Nassar Abu Tayyem,10/26/2018,19,Khuza'ah,Khan Yunis,M
+'Ayesh Ghassan 'Ayesh Sha'th,10/26/2018,21,Khuza'ah,Khan Yunis,M
+Ahmad Khaled Salman a-Najar,10/26/2018,21,Khuza'ah,Khan Yunis,M
+Ahmad Sa'id 'Abd al-'Aziz Abu Libdah,10/26/2018,22,Khuza'ah,Khan Yunis,M
+Anwar Muhammad Zayed Qdeih,10/19/2018,33,Khuza'ah,Khan Yunis,M
+Hussein Fathi Hussein a-Raqab,10/5/2018,18,Khuza'ah,Khan Yunis,M
+Naser 'Azmi Muhammad Musbeh,9/28/2018,11,Khuza'ah,Khan Yunis,M
+Muhammad 'Ali Muhammad Anshasi,9/28/2018,18,Khuza'ah,Khan Yunis,M
+Suhaib 'Abd a-Salam Muhammad Abu Kashef,8/3/2018,16,Khuza'ah,Khan Yunis,M
+Ghazi Muhammad Mustafa Abu Mustafa,7/27/2018,43,Khuza'ah,Khan Yunis,M
+Sha'ban Rajab Muhammad Abu Khater,7/20/2018,26,Khuza'ah,Khan Yunis,M
+Muhammad Riyad Muhammad Abu Farhanah,7/20/2018,31,Khuza'ah,Khan Yunis,M
+Muhammad Naser Muhammad Shurab,7/13/2018,18,Khuza'ah,Khan Yunis,M
+Yasser Amjad Musa Abu a-Naja,6/29/2018,11,Khuza'ah,Khan Yunis,M
+Ousamah Khalil Qassem Abu Khater,6/22/2018,27,Khuza'ah,Khan Yunis,M
+Ahmad Ziad Tawfiq al-'Aasi,6/8/2018,21,Khuza'ah,Khan Yunis,M
+Karam Ibrahim 'Ali Abu 'Arafat,6/8/2018,26,Khuza'ah,Khan Yunis,M
+Ziad Jadallah 'Abd al-Qader al-Barim,6/8/2018,27,Khuza'ah,Khan Yunis,M
+Ramzi Muhammad Salem a-Najar,6/4/2018,29,Khuza'ah,Khan Yunis,M
+Ruzan Ashraf 'Abd al-Qader a-Najar,6/1/2018,20,Khuza'ah,Khan Yunis,F
+Ahmad 'Adel Musa a-Sha'er,5/14/2018,15,Khuza'ah,Khan Yunis,M
+Mahmoud Rabah 'Alian Abu Mu'amar,5/14/2018,27,Khuza'ah,Khan Yunis,M
+Jaber Salem 'Abdallah Abu Mustafa,5/11/2018,39,Khuza'ah,Khan Yunis,M
+Muhammad Khaled Ahmad Abu Raidah,5/6/2018,20,Khuza'ah,Khan Yunis,M
+Bahaa 'Abd a-Rahman Musleh Qdeih,5/6/2018,22,Khuza'ah,Khan Yunis,M
+'Abd a-Dayem Isma'il 'Abd a-Dayem Abu Msameh,5/6/2018,23,Khuza'ah,Khan Yunis,M
+'Azzam Hilal Riyad 'Aweidah,4/27/2018,15,Khuza'ah,Khan Yunis,M
+'Abd a-Salam 'Eid Zuhdi Baker,4/27/2018,32,Khuza'ah,Khan Yunis,M
+Sa'ed 'Abd al-Majid 'Abd al-'Aal Abu Taha,4/20/2018,31,Khuza'ah,Khan Yunis,M
+'Abdallah Muhammad 'Abdallah a-Shihri,4/12/2018,28,Khuza'ah,Khan Yunis,M
+Yasser 'Abd a-Rahman Mustafa Murtaja,4/6/2018,30,Khuza'ah,Khan Yunis,M
+Ousamah Khamis Muslem Qdeih,4/6/2018,38,Khuza'ah,Khan Yunis,M
+Tahrir Mahmoud Sa'id Wahbah,4/1/2018,18,Khuza'ah,Khan Yunis,M
+Fares Mahmoud Muhammad a-Raqab,3/30/2018,25,Khuza'ah,Khan Yunis,M
+Jihad Zuheir Salman Abu Jamus,3/30/2018,29,Khuza'ah,Khan Yunis,M
+Marwan 'Awwad Hamad Qdeih,3/30/2018,44,Khuza'ah,Khan Yunis,M
+Muhammad 'Ata 'Abd al-Mawla Abu Jame',3/3/2018,58,Khuza'ah,Khan Yunis,M
+Fadi Ibrahim Isma'il a-Najar,6/6/2017,34,Khuza'ah,Khan Yunis,M
+'Omar Jum'ah Ahmad Abu Jamus,8/5/2014,23,Khuza'ah,Khan Yunis,M
+'Issam Muhammad Ibrahim Abu Salah,8/3/2014,19,Khuza'ah,Khan Yunis,M
+Muhammad Ahmad Suliman Rjeileh,8/3/2014,25,Khuza'ah,Khan Yunis,M
+Mahmoud Ahmad Suliman Rjeileh,8/3/2014,25,Khuza'ah,Khan Yunis,M
+Rashad Ahmad Rashad a-Najar,8/3/2014,26,Khuza'ah,Khan Yunis,M
+Rami Naji Mahmoud Abu Daqah,8/3/2014,27,Khuza'ah,Khan Yunis,M
+Muhammad Sa'id Muhammad Fseifes,8/3/2014,27,Khuza'ah,Khan Yunis,M
+Ghaliah al-'Abed Ahmad Abu Raidah,8/3/2014,73,Khuza'ah,Khan Yunis,F
+Shadi 'Ali al-'Abed Abu Teir,8/1/2014,20,Khuza'ah,Khan Yunis,M
+Ibrahim Hamed Ahmad Barakah,8/1/2014,20,Khuza'ah,Khan Yunis,M
+Amir Salah a-Din Hussein a-Raqab,8/1/2014,20,Khuza'ah,Khan Yunis,M
+'Imad Jawdat Muhammad Abu al-'Ula,8/1/2014,21,Khuza'ah,Khan Yunis,M
+Bilal Ahmad Suliman a-Najar,8/1/2014,21,Khuza'ah,Khan Yunis,M
+Ousamah Rajab Ibrahim Qdeih,8/1/2014,22,Khuza'ah,Khan Yunis,M
+'Abd a-Rahman Muhammad 'Abd al-Hamid al-Mughrabi,8/1/2014,22,Khuza'ah,Khan Yunis,M
+Ousamah Samir Isma'il Abu al-'Ula,8/1/2014,23,Khuza'ah,Khan Yunis,M
+Muslem Shawqi Muslem a-Najar,8/1/2014,23,Khuza'ah,Khan Yunis,M
+Khalil Taysir Khalil Qdeih,8/1/2014,23,Khuza'ah,Khan Yunis,M
+Thaer Walid Shehdeh Abu Teir,8/1/2014,24,Khuza'ah,Khan Yunis,M
+Muhammad Kamal Salem Qdeih,8/1/2014,24,Khuza'ah,Khan Yunis,M
+Mu'taz Husam Ahmad Abu Raidah,8/1/2014,25,Khuza'ah,Khan Yunis,M
+Hassan Khaled Ibrahim a-Najar,8/1/2014,27,Khuza'ah,Khan Yunis,M
+'Ammar Ibrahim 'Abd al-'Aziz a-Najar,8/1/2014,32,Khuza'ah,Khan Yunis,M
+Kamel Muhammad Salem a-Najar,8/1/2014,62,Khuza'ah,Khan Yunis,M
+Muhammad Suliman Hussein Banawi,8/1/2014,94,Khuza'ah,Khan Yunis,M
+Mahmoud 'Abd Rabo Suliman Abu Daqah,7/31/2014,21,Khuza'ah,Khan Yunis,M
+Iyad Radi Zaki Abu Raidah,7/29/2014,27,Khuza'ah,Khan Yunis,M
+'Aliyyah Hussein Muhammad Qanan,7/29/2014,112,Khuza'ah,Khan Yunis,F
+'Abdallah Fawzi Ibrahim a-Najar,7/28/2014,22,Khuza'ah,Khan Yunis,M
+Bilal Suliman Ibrahim Qdeih,7/27/2014,23,Khuza'ah,Khan Yunis,M
+Muhammad Fawaz Ibrahim Abu Rjeileh,7/27/2014,25,Khuza'ah,Khan Yunis,M
+Mu'tasem Muhammad Ahmad a-Najar,7/26/2014,5,Khuza'ah,Khan Yunis,M
+Wasfi Muhammad Khalil a-Najar,7/26/2014,25,Khuza'ah,Khan Yunis,M
+Tamer Muhammad Salem Tabash,7/26/2014,29,Khuza'ah,Khan Yunis,M
+Salmah Salman Muhammad Radwan,7/26/2014,82,Khuza'ah,Khan Yunis,F
+Ghadir Ibrahim Suliman Abu Rjeileh,7/25/2014,18,Khuza'ah,Khan Yunis,F
+Ahmad Salem Hussein Qdeih,7/25/2014,18,Khuza'ah,Khan Yunis,M
+Muhammad Majed 'Alian Abu Teir,7/25/2014,21,Khuza'ah,Khan Yunis,M
+Muhammad Tawfiq Muhammad Qdeih,7/25/2014,64,Khuza'ah,Khan Yunis,M
+Salem Hussein Ibrahim Qdeih,7/25/2014,67,Khuza'ah,Khan Yunis,M
+Anas Hatem Suliman Qdeih,7/24/2014,7,Khuza'ah,Khan Yunis,M
+Rami Raed Taleb Qdeih,7/24/2014,19,Khuza'ah,Khan Yunis,M
+'Imad Rasmi Suliman a-Najar,7/24/2014,19,Khuza'ah,Khan Yunis,M
+A'bbas Helmi Muhammad Abu Rjeileh,7/24/2014,19,Khuza'ah,Khan Yunis,M
+Raafat Suliman 'Abed Abu Rjeileh,7/24/2014,21,Khuza'ah,Khan Yunis,M
+Shadi Yusef Ibrahim a-Najar,7/24/2014,22,Khuza'ah,Khan Yunis,M
+Dawlat Nafez Salman Qdeih,7/24/2014,22,Khuza'ah,Khan Yunis,F
+Ahmad Muhammad Kamel Qdeih,7/24/2014,23,Khuza'ah,Khan Yunis,M
+Muanis Muhammad Ahmad Abu Rjeileh,7/24/2014,24,Khuza'ah,Khan Yunis,M
+Muhammad Rasmi Salem a-Najar,7/24/2014,26,Khuza'ah,Khan Yunis,M
+'Alaa Naser Khalil Abu Rjeileh,7/24/2014,26,Khuza'ah,Khan Yunis,M
+Nahed Helmi Muhammad Abu Rjeileh,7/24/2014,37,Khuza'ah,Khan Yunis,F
+Nafez Salman Suliman Qdeih,7/24/2014,45,Khuza'ah,Khan Yunis,M
+Rasmi Salim Hussein Abu Raidah,7/24/2014,54,Khuza'ah,Khan Yunis,M
+Isma'il Hassan Khalil Abu Rjeileh,7/24/2014,55,Khuza'ah,Khan Yunis,M
+Salman Mahmoud Ahmad a-Najar,7/24/2014,65,Khuza'ah,Khan Yunis,M
+Helmi Muhammad 'Abd a-Rahman Abu Rjeileh,7/24/2014,67,Khuza'ah,Khan Yunis,M
+Suliman Salim Salman a-Najar,7/24/2014,78,Khuza'ah,Khan Yunis,M
+Mahmoud Taysir Mahmoud Qdeih,7/23/2014,18,Khuza'ah,Khan Yunis,M
+Ahmad 'Abd a-Rahman Salim Qdeih,7/23/2014,18,Khuza'ah,Khan Yunis,M
+Muhammad Wasfi Khamis Qdeih,7/23/2014,23,Khuza'ah,Khan Yunis,M
+Jihad Salman Suliman Qdeih,7/23/2014,24,Khuza'ah,Khan Yunis,M
+Muhammad Barham 'Ali Abu Darraz,7/23/2014,31,Khuza'ah,Khan Yunis,M
+Iman Mahmoud 'Abdallah Qdeih,7/23/2014,41,Khuza'ah,Khan Yunis,F
+Akram Suliman Muhammad Qdeih,7/23/2014,43,Khuza'ah,Khan Yunis,M
+Muhammad Ahmad Suliman a-Najar,7/23/2014,55,Khuza'ah,Khan Yunis,M
+Suliman Muhammad Khalil Qdeih,7/23/2014,73,Khuza'ah,Khan Yunis,M
+Ahmad Iskandar Ahmad Abu Zarifah,7/21/2014,20,Khuza'ah,Khan Yunis,M
+Wael Hamed Muhammad Abu 'Abed,7/21/2014,29,Khuza'ah,Khan Yunis,M
+'Issam Muhammad Hussni Abu Yusef,7/21/2014,30,Khuza'ah,Khan Yunis,M
+Ziad Maher Muhammad a-Najar,7/14/2014,16,Khuza'ah,Khan Yunis,M
+Amneh 'Atiyyah Mahmoud Qdeih,2/28/2014,58,Khuza'ah,Khan Yunis,F
+Samaher Khalil Mahmoud Qdeih,11/17/2012,28,Khuza'ah,Khan Yunis,F
+'Abdallah Mahmoud Muhammad al-Qara,4/8/2011,19,Khuza'ah,Khan Yunis,M
+Mu'taz Jamal Muhammad Abu Jame',4/8/2011,22,Khuza'ah,Khan Yunis,M
+Hassan Muhammad Midyef Qdeih,12/28/2010,19,Khuza'ah,Khan Yunis,M
+Mus'ab 'Issa 'Ali Abu Ruk,12/26/2010,20,Khuza'ah,Khan Yunis,M
+Mahmoud Yusef Shihdeh a-Najar,12/26/2010,21,Khuza'ah,Khan Yunis,M
+Fouad Riyad Faiz Hamdan,2/5/2009,23,Khuza'ah,Khan Yunis,M
+Maher 'Abd al-'Azim Yusef Abu Rjeileh,1/18/2009,24,Khuza'ah,Khan Yunis,M
+Muhammad Jamil 'Abdallah Qdeih,1/13/2009,14,Khuza'ah,Khan Yunis,M
+Alaa Khaled Khalil a-Najar,1/13/2009,15,Khuza'ah,Khan Yunis,F
+Mamduh Mus'ad Muhammad Qdeih,1/13/2009,17,Khuza'ah,Khan Yunis,M
+Nidal Muhammad Hassan Abu Raidah,1/13/2009,18,Khuza'ah,Khan Yunis,M
+Suliman Jum'ah 'Amesh,1/13/2009,19,Khuza'ah,Khan Yunis,M
+Mamduh Lutfi 'Abed Abu Ruk,1/13/2009,21,Khuza'ah,Khan Yunis,M
+'Alaa Ahmad Muhammad Abu Raidah,1/13/2009,21,Khuza'ah,Khan Yunis,M
+Ghassan Ibrahim Mahmoud Abu Zer,1/13/2009,24,Khuza'ah,Khan Yunis,M
+Ahmad Jum'ah Ahmad Abu Jimus,1/13/2009,27,Khuza'ah,Khan Yunis,M
+Yasser Mansi 'Abdallah Qdeih,1/13/2009,34,Khuza'ah,Khan Yunis,M
+Akram Muhammad Matar a-Siqali,1/13/2009,53,Khuza'ah,Khan Yunis,M
+Khalil Hamdan Ahmad a-Najar,1/13/2009,75,Khuza'ah,Khan Yunis,M
+Rawheyeh Ahmad Suliman a-Najar,1/12/2009,47,Khuza'ah,Khan Yunis,F
+Mahmoud Suliman Mahmoud a-Najar,1/12/2009,56,Khuza'ah,Khan Yunis,M
+'Abdallah Muhammad Hamdan Abu Ruk,1/11/2009,16,Khuza'ah,Khan Yunis,M
+Nur Muhammad Nur a-Din 'Amesh,1/11/2009,24,Khuza'ah,Khan Yunis,M
+Hanan Fathi 'Abd al-Ghani a-Najar,1/10/2009,41,Khuza'ah,Khan Yunis,F
+Thaer Jihad Ahmad a-Najar,12/31/2008,20,Khuza'ah,Khan Yunis,M
+Nabil Mahmoud Muhammad Abu Ta'imah,12/28/2008,16,Khuza'ah,Khan Yunis,M
+Yusra Ibrahim Msallam Qdeih,5/29/2008,66,Khuza'ah,Khan Yunis,F
+Husam Muhammad Salim a-Najar,5/4/2008,41,Khuza'ah,Khan Yunis,M
+Maher Muhammad Salim a-Najar,5/4/2008,44,Khuza'ah,Khan Yunis,M
+Bahajat Muhammad Barakah Abu Daqah,12/7/2007,30,Khuza'ah,Khan Yunis,M
+Baker Hussein a-Najar,3/8/2002,18,Khuza'ah,Khan Yunis,M
+Marwan Salman Abu Mutluq,3/8/2002,22,Khuza'ah,Khan Yunis,M
+Husam Shihadah Abu Dir,3/8/2002,22,Khuza'ah,Khan Yunis,M
+Ibrahim Yihya Abu Daqah,3/8/2002,23,Khuza'ah,Khan Yunis,M
+Ihab 'Abd al-Karim a-Talatini,3/8/2002,26,Khuza'ah,Khan Yunis,M
+Hamad Tawfiq Abu Rida,3/8/2002,27,Khuza'ah,Khan Yunis,M
+Ayman Ibrahim Abu Dir,3/8/2002,27,Khuza'ah,Khan Yunis,M
+Riyad Muhammad Abu Rida,3/8/2002,30,Khuza'ah,Khan Yunis,M
+Mahmoud Shihadah a-Qadih,3/8/2002,32,Khuza'ah,Khan Yunis,M
+Khalil Zirai a-Qadih,3/8/2002,33,Khuza'ah,Khan Yunis,M
+Ashraf Salman a-Najar,3/8/2002,33,Khuza'ah,Khan Yunis,M
+Khaled Ibrahim a-Qadih,3/8/2002,35,Khuza'ah,Khan Yunis,M
+'Arif Ramadan Hirzallah,3/8/2002,36,Khuza'ah,Khan Yunis,M
+Riyad al-Qassas,3/8/2002,43,Khuza'ah,Khan Yunis,M
+Musa Muhammad a-Najar,3/8/2002,47,Khuza'ah,Khan Yunis,M
+Ahmad Hassan Mufraj,3/8/2002,62,Khuza'ah,Khan Yunis,M
+Mahmoud Muhammad Tawfiq Dahlan,7/31/2014,28,Khan Yunis R.C.,Khan Yunis,M
+Samih Kamal Ahmad Abu al-Kheir,7/31/2014,51,Khan Yunis R.C.,Khan Yunis,M
+Wasim Rida Mustafa Salhiyeh,7/19/2014,15,Khan Yunis R.C.,Khan Yunis,M
+Muhammad Bassam Muhammad a-Sari,7/19/2014,16,Khan Yunis R.C.,Khan Yunis,M
+Yihya Bassam Muhammad a-Sari,7/19/2014,19,Khan Yunis R.C.,Khan Yunis,M
+Mustafa Rida Mustafa Salhiyeh,7/19/2014,20,Khan Yunis R.C.,Khan Yunis,M
+Muhammad Rida Mustafa Salhiyeh,7/19/2014,21,Khan Yunis R.C.,Khan Yunis,M
+Rushdi Khaled Fares Naser,7/19/2014,24,Khan Yunis R.C.,Khan Yunis,M
+Muhammad 'Awad Fares Naser,7/19/2014,25,Khan Yunis R.C.,Khan Yunis,M
+Ibrahim Jamal Fares Naser,7/19/2014,26,Khan Yunis R.C.,Khan Yunis,M
+Muhammad Mustafa Darwish Salhiyeh,7/19/2014,30,Khan Yunis R.C.,Khan Yunis,M
+Muayad Khaled 'Ali al-A'araj,7/13/2014,2,Khan Yunis R.C.,Khan Yunis,M
+Fatimah Mahmoud Lutfi al-Haj,7/10/2014,14,Khan Yunis R.C.,Khan Yunis,F
+Sa'ed Mahmoud Lutfi al-Haj,7/10/2014,16,Khan Yunis R.C.,Khan Yunis,M
+Tareq Mahmoud Lutfi al-Haj,7/10/2014,18,Khan Yunis R.C.,Khan Yunis,M
+'Omar Mahmoud Lutfi al-Haj,7/10/2014,20,Khan Yunis R.C.,Khan Yunis,M
+Asmaa Mahmoud Lutfi al-Haj,7/10/2014,22,Khan Yunis R.C.,Khan Yunis,F
+Najlaa Mahmoud Lutfi al-Haj,7/10/2014,29,Khan Yunis R.C.,Khan Yunis,F
+Mahmoud Lutfi Mahmoud al-Haj,7/10/2014,51,Khan Yunis R.C.,Khan Yunis,M
+Basemah 'Abd al-Qader Muhammad al-Haj,7/10/2014,51,Khan Yunis R.C.,Khan Yunis,F
+Musa Muhammad Taher al-Astal,7/9/2014,14,Khan Yunis R.C.,Khan Yunis,M
+Suliman Salim Musa al-Astal,7/9/2014,17,Khan Yunis R.C.,Khan Yunis,M
+Muhammad Ihssan Muhammad Faruna,7/9/2014,18,Khan Yunis R.C.,Khan Yunis,M
+Ahmad Salim Musa al-Astal,7/9/2014,18,Khan Yunis R.C.,Khan Yunis,M
+Hamdi Badi'a Kamel Sawali,7/9/2014,20,Khan Yunis R.C.,Khan Yunis,M
+Salim Badi'a Kamel Sawali,7/9/2014,23,Khan Yunis R.C.,Khan Yunis,M
+Muhammad Khalil Isma'il Qanan,7/9/2014,25,Khan Yunis R.C.,Khan Yunis,M
+Ibrahim Badi'a Kamel Sawali,7/9/2014,27,Khan Yunis R.C.,Khan Yunis,M
+Ibrahim Khalil Isma'il Qanan,7/9/2014,28,Khan Yunis R.C.,Khan Yunis,M
+Hassan Rateb Muhammad Sem'aan,1/7/2009,18,Khan Yunis R.C.,Khan Yunis,M
+Salem Hamid Salem Abu Musa,1/7/2009,23,Khan Yunis R.C.,Khan Yunis,M
+Muhammad 'Abd a-Razeq al-Hileh,1/4/2009,21,Khan Yunis R.C.,Khan Yunis,M
+Fadi 'Abd al-Qader Salman Abu Mustafa,6/1/2007,22,Khan Yunis R.C.,Khan Yunis,M
+Muhammad Yihya Khalil Abu a-Sa'id,12/30/2004,16,Khan Yunis R.C.,Khan Yunis,M
+Ahmad Muhammad Ibrahim Toman,12/30/2004,16,Khan Yunis R.C.,Khan Yunis,M
+Yihya Jum'ah Marzuq Abu Bakrah,12/30/2004,18,Khan Yunis R.C.,Khan Yunis,M
+Sami Muhammad Hussein Abu Khdeir,12/30/2004,20,Khan Yunis R.C.,Khan Yunis,M
+'Ammar Salem Muhammad 'Aram,12/30/2004,21,Khan Yunis R.C.,Khan Yunis,M
+'Arafat Khalil Mahmoud al-Bardawil,12/30/2004,22,Khan Yunis R.C.,Khan Yunis,M
+Ousamah Muhammad Salamah Abu Musa,12/30/2004,23,Khan Yunis R.C.,Khan Yunis,M
+Amjad Subhi Ahmad 'Aram,12/30/2004,23,Khan Yunis R.C.,Khan Yunis,M
+Muhammad Ashraf Ramzi al-Jardali,12/22/2004,18,Khan Yunis R.C.,Khan Yunis,M
+Ibrahim Hamdi Ibrahim al-Biyuq,12/22/2004,30,Khan Yunis R.C.,Khan Yunis,M
+Salim Muhammad 'Abd al-Hadi a-Ser,12/22/2004,32,Khan Yunis R.C.,Khan Yunis,M
+Sa'id Muhammad al-Madhun,9/27/2004,55,Khan Yunis R.C.,Khan Yunis,M
+Hussein Sa'id 'Abdallah Abu 'Aker,5/1/2004,7,Khan Yunis R.C.,Khan Yunis,M
+'Alian Bashiti,5/7/2003,1,Khan Yunis R.C.,Khan Yunis,M
+Ayman Muhammad Haneideq,1/8/2003,30,Khan Yunis R.C.,Khan Yunis,M
+Majd a-Salibi,1/7/2003,35,Khan Yunis R.C.,Khan Yunis,M
+'Adnan Darib,8/21/2002,26,Khan Yunis R.C.,Khan Yunis,M
+Khader Barbakh,4/30/2002,24,Khan Yunis R.C.,Khan Yunis,M
+Mhareb Abu Sahlul,4/30/2002,65,Khan Yunis R.C.,Khan Yunis,M
+'Atiyyah Abu Namus,3/23/2002,37,Khan Yunis R.C.,Khan Yunis,M
+Hamed Ahmad 'Ali Abu Sahlul,11/14/2001,53,Khan Yunis R.C.,Khan Yunis,M
+Mahmoud Walid Mahmoud 'Abd al-Jawad,5/11/2023,25,Khan Yunis,Khan Yunis,M
+Mahmoud Hassan Muhammad Ghali,5/11/2023,33,Khan Yunis,Khan Yunis,M
+'Ali Hassan Muhammad Ghali,5/11/2023,49,Khan Yunis,Khan Yunis,M
+Tamim Ghassan 'Abdallah Hijazi,8/6/2022,23,Khan Yunis,Khan Yunis,M
+Ousamah 'Abd a-Rahman Hussein a-Suri,8/6/2022,27,Khan Yunis,Khan Yunis,M
+Layan Musleh Hamdi a-Sha'er,8/5/2022,10,Khan Yunis,Khan Yunis,F
+Fadel Mustafa Ajaryu Zo'rub,8/5/2022,28,Khan Yunis,Khan Yunis,M
+Muhammad Hassan Musa al-Byuk,8/5/2022,34,Khan Yunis,Khan Yunis,M
+Huda Salah Rabi' al-Khazandar,5/20/2021,35,Khan Yunis,Khan Yunis,F
+Hadil Khaled Mahmoud 'Arafah,5/12/2021,28,Khan Yunis,Khan Yunis,F
+Mayami 'Abdallah Musa 'Arafah,5/12/2021,49,Khan Yunis,Khan Yunis,F
+Salim Muhammad Salim al-Farra,5/10/2021,37,Khan Yunis,Khan Yunis,M
+Haitham Hafez Muhammad al-Bakri,11/13/2019,22,Khan Yunis,Khan Yunis,M
+Muhammad 'Abdallah Suliman Shurab,11/13/2019,28,Khan Yunis,Khan Yunis,M
+Mahmoud Muhammad Sa'id al-Agha,12/18/2015,23,Khan Yunis,Khan Yunis,M
+Mazen Kamal Sa'id a-Dali,8/13/2014,35,Khan Yunis,Khan Yunis,M
+Ihssan Mahrus Zakaria al-Agha,8/10/2014,20,Khan Yunis,Khan Yunis,M
+Hassan Hussein Suliman Kaware',8/10/2014,23,Khan Yunis,Khan Yunis,M
+'Omar Muhammad 'Awad Jarghon,8/10/2014,29,Khan Yunis,Khan Yunis,M
+Mahmoud Zaki Saleh a-Laham,8/4/2014,25,Khan Yunis,Khan Yunis,M
+Ahmad 'Abd al-Hakim Muhammad al-Astal,8/4/2014,25,Khan Yunis,Khan Yunis,M
+Taysir Fathi Jum'ah Sleih,8/3/2014,20,Khan Yunis,Khan Yunis,M
+Lujayn Bassem 'Abd al-Malek al-Farra,8/1/2014,4,Khan Yunis,Khan Yunis,F
+Yara Mahmoud 'Abd a-Salam al-Farra,8/1/2014,8,Khan Yunis,Khan Yunis,F
+'Abd a-Rahman Bassem 'Abd al-Malek al-Farra,8/1/2014,8,Khan Yunis,Khan Yunis,M
+Muhammad Mahmoud 'Abd a-Salam al-Farra,8/1/2014,12,Khan Yunis,Khan Yunis,M
+'Omar Shaker Rashad Barbakh,8/1/2014,15,Khan Yunis,Khan Yunis,M
+Nadin Mahmoud 'Abd a-Salam al-Farra,8/1/2014,15,Khan Yunis,Khan Yunis,F
+Fadi Naser Isma'il al-Qawasmeh,8/1/2014,16,Khan Yunis,Khan Yunis,M
+Wajih Muhammad Wajih Sha'th,8/1/2014,24,Khan Yunis,Khan Yunis,M
+'Imad Nasrallah 'Abd al-Hafez al-Farra,8/1/2014,28,Khan Yunis,Khan Yunis,M
+'Awatef 'Aziz a-Din 'Abd a-Shafi al-Farra,8/1/2014,30,Khan Yunis,Khan Yunis,F
+Ousamah 'Abd al-Malek 'Abd a-Salam al-Farra,8/1/2014,34,Khan Yunis,Khan Yunis,M
+'Abd al-Malek 'Abd a-Salam Muhammad al-Farra,8/1/2014,59,Khan Yunis,Khan Yunis,M
+Mahmoud Fouad Khamis a-Najar,7/31/2014,21,Khan Yunis,Khan Yunis,M
+Muhammad Jum'ah Mahmoud a-Najar,7/31/2014,32,Khan Yunis,Khan Yunis,M
+Maher 'Awwad Khamis a-Najar,7/31/2014,39,Khan Yunis,Khan Yunis,M
+Salah Musa Ibrahim Hijazi,7/30/2014,13,Khan Yunis,Khan Yunis,M
+Ramadan Manar Ramadan Abu Taha,7/30/2014,18,Khan Yunis,Khan Yunis,M
+Isma'il Mahmoud Isma'il al-Ghalban,7/30/2014,18,Khan Yunis,Khan Yunis,M
+Ramzi Ibrahim 'Ali al-Astal,7/30/2014,19,Khan Yunis,Khan Yunis,M
+'Iz a-Din Muhammad Jaber al-Astal,7/30/2014,19,Khan Yunis,Khan Yunis,M
+Khalil Ibrahim 'Ali al-Astal,7/30/2014,21,Khan Yunis,Khan Yunis,M
+Suhaib Saleh 'Odeh Salamah,7/30/2014,22,Khan Yunis,Khan Yunis,M
+'Ali Mahmoud 'Ali al-Astal,7/30/2014,22,Khan Yunis,Khan Yunis,M
+Ahmad Ibrahim 'Ali al-Astal,7/30/2014,22,Khan Yunis,Khan Yunis,M
+'Odeh Ahmad 'Ali al-Astal,7/30/2014,23,Khan Yunis,Khan Yunis,M
+Khaled Salim Muhammad al-Astal,7/30/2014,23,Khan Yunis,Khan Yunis,M
+'Abdallah Faiz Ibrahim Fayad,7/30/2014,23,Khan Yunis,Khan Yunis,M
+Muhammad Salim Muhammad al-Astal,7/30/2014,24,Khan Yunis,Khan Yunis,M
+Muhammad Mahmoud Muhammad al-Astal,7/30/2014,24,Khan Yunis,Khan Yunis,M
+'Ali 'Abd al-Majid 'Ali al-Astal,7/30/2014,28,Khan Yunis,Khan Yunis,M
+Ahmad Mahmoud Suliman al-Astal,7/30/2014,28,Khan Yunis,Khan Yunis,M
+Ibrahim Yusef Ahmad al-Astal,7/30/2014,35,Khan Yunis,Khan Yunis,M
+Subhiya Ibrahim Mustafa al-Ghalban,7/30/2014,51,Khan Yunis,Khan Yunis,F
+Zeinab Mahmoud Ahmad Abu Jazar,7/30/2014,52,Khan Yunis,Khan Yunis,F
+Maryam Ahmad Muhammad Abu Hijazi,7/30/2014,75,Khan Yunis,Khan Yunis,F
+Ibrahim Mustafa Ibrahim Abu Hijazi,7/30/2014,78,Khan Yunis,Khan Yunis,M
+Sarah Ahmad Sedqi 'Abd a-Ghafur,7/29/2014,1,Khan Yunis,Khan Yunis,F
+Lama Ahmad Faiz Breikah,7/29/2014,1,Khan Yunis,Khan Yunis,F
+Jana Ahmad Faiz Breikah,7/29/2014,2,Khan Yunis,Khan Yunis,F
+Hala Ahmad Marzuq M'amer,7/29/2014,2,Khan Yunis,Khan Yunis,F
+Yazan Ahmad Marzuq M'amer,7/29/2014,3,Khan Yunis,Khan Yunis,M
+Suliman Ahmad Suliman Abu 'Amer,7/29/2014,3,Khan Yunis,Khan Yunis,M
+Layali Wael Jamil a-Najar,7/29/2014,3,Khan Yunis,Khan Yunis,F
+Marwah Ahmad Suliman Abu 'Amer,7/29/2014,5,Khan Yunis,Khan Yunis,F
+'Iz a-Din Wadah Hassan Abu 'Amer,7/29/2014,5,Khan Yunis,Khan Yunis,M
+'Issa Wadah Hassan Abu 'Amer,7/29/2014,7,Khan Yunis,Khan Yunis,M
+Yasser Ahmad Suliman Abu 'Amer,7/29/2014,8,Khan Yunis,Khan Yunis,M
+'Imad Wadah Hassan Abu 'Amer,7/29/2014,9,Khan Yunis,Khan Yunis,M
+Aya Sami Anwar a-Ramlawi,7/29/2014,9,Khan Yunis,Khan Yunis,F
+Marah Ahmad Suliman Abu 'Amer,7/29/2014,10,Khan Yunis,Khan Yunis,F
+Abd al-Ghani Wadah Hassan Abu 'Amer,7/29/2014,10,Khan Yunis,Khan Yunis,M
+Muhammad Ahmad Suliman Abu 'Amer,7/29/2014,11,Khan Yunis,Khan Yunis,M
+'Omar Wadah Hassan Abu 'Amer,7/29/2014,12,Khan Yunis,Khan Yunis,M
+Muhammad Jamil Ahmad a-Najar,7/29/2014,12,Khan Yunis,Khan Yunis,M
+Khaled Ziad Sa'id al-Hindi,7/29/2014,14,Khan Yunis,Khan Yunis,M
+Ousamah Faiz Ahmad Breikah,7/29/2014,16,Khan Yunis,Khan Yunis,M
+Mus'ab Ahmad Musa Isleih,7/29/2014,17,Khan Yunis,Khan Yunis,M
+Du'aa Jamil Ahmad a-Najar,7/29/2014,17,Khan Yunis,Khan Yunis,F
+Muhammad Hassan Ahmad Abu 'Amer,7/29/2014,19,Khan Yunis,Khan Yunis,M
+Aya Jamil Ahmad a-Najar,7/29/2014,19,Khan Yunis,Khan Yunis,F
+'Ayidah 'Iz a-Din 'Omar 'Abd a-Ghafur,7/29/2014,20,Khan Yunis,Khan Yunis,F
+Muhammad 'Abd a-Satart Muhammad al-'Abadleh,7/29/2014,21,Khan Yunis,Khan Yunis,M
+Walaa Jamil Ahmad a-Najar,7/29/2014,22,Khan Yunis,Khan Yunis,F
+'Ali Muhammad Mahmoud Abu Ma'ruf,7/29/2014,23,Khan Yunis,Khan Yunis,M
+Ahmad 'Ali Muhammad Farwaneh,7/29/2014,23,Khan Yunis,Khan Yunis,M
+Fahed Mahmoud Jaber al-Agha,7/29/2014,24,Khan Yunis,Khan Yunis,M
+Ahmad Mahmoud Yasin al-Majaydeh,7/29/2014,24,Khan Yunis,Khan Yunis,M
+Wael Jamil Ahmad a-Najar,7/29/2014,25,Khan Yunis,Khan Yunis,M
+Mustafa Ahmad Hassan al-Agha,7/29/2014,30,Khan Yunis,Khan Yunis,M
+Hend Marzuq Nadi M'amer,7/29/2014,30,Khan Yunis,Khan Yunis,F
+'Ammar Shu'eib 'Abd Rabo al-'Adini,7/29/2014,30,Khan Yunis,Khan Yunis,M
+Ahmad Faiz Ahmad Breikah,7/29/2014,31,Khan Yunis,Khan Yunis,M
+Ahmad Marzuq Nadi M'amer,7/29/2014,32,Khan Yunis,Khan Yunis,M
+Basemah Salem Salim Breikah,7/29/2014,35,Khan Yunis,Khan Yunis,F
+Ahmad Hassan Ahmad Abu 'Amer,7/29/2014,35,Khan Yunis,Khan Yunis,M
+Wadah Hassan Ahmad Abu 'Amer,7/29/2014,39,Khan Yunis,Khan Yunis,M
+Muna Hajjaj Ibrahim Abu 'Amer,7/29/2014,40,Khan Yunis,Khan Yunis,F
+Ahmad Suliman Ahmad Abu 'Amer,7/29/2014,40,Khan Yunis,Khan Yunis,M
+'Orubah Suliman Ahmad Abu 'Amer,7/29/2014,41,Khan Yunis,Khan Yunis,F
+Siham Raji Khalil a-Najar,7/29/2014,45,Khan Yunis,Khan Yunis,F
+Jamil Ahmad Hamed a-Najar,7/29/2014,47,Khan Yunis,Khan Yunis,M
+Ahmad Hassan Mustafa al-Agha,7/29/2014,54,Khan Yunis,Khan Yunis,M
+Subhiya Muanis Mahmoud Breikah,7/29/2014,58,Khan Yunis,Khan Yunis,F
+Fadel Nader 'Ata al-Agha,7/28/2014,11,Khan Yunis,Khan Yunis,M
+Dunia Nader 'Ata al-Agha,7/28/2014,13,Khan Yunis,Khan Yunis,F
+Iyad Nader 'Ata al-Agha,7/28/2014,15,Khan Yunis,Khan Yunis,M
+Nidal Majdi 'Ata al-Agha,7/28/2014,17,Khan Yunis,Khan Yunis,M
+Dalia Nader 'Ata al-Agha,7/28/2014,17,Khan Yunis,Khan Yunis,F
+Ahmad Nader 'Ata al-Agha,7/28/2014,20,Khan Yunis,Khan Yunis,M
+Mahmoud Ousamah Hamdan al-Qassas,7/28/2014,23,Khan Yunis,Khan Yunis,M
+'Ata Majdi 'Ata al-Agha,7/28/2014,23,Khan Yunis,Khan Yunis,M
+'Abd al-Hamid Fadel 'Ata al-Agha,7/28/2014,23,Khan Yunis,Khan Yunis,M
+Muhammad Fadel 'Ata al-Agha,7/28/2014,25,Khan Yunis,Khan Yunis,M
+Muhammad Jum'ah Ahmad Sha'th,7/28/2014,30,Khan Yunis,Khan Yunis,M
+'Awwad Mustafa 'Awwad al-Qassas,7/28/2014,31,Khan Yunis,Khan Yunis,M
+Shadi 'Abd a-Rahman Muhammad Farwaneh,7/28/2014,35,Khan Yunis,Khan Yunis,M
+Nariman Khalil Nayef al-Agha,7/28/2014,38,Khan Yunis,Khan Yunis,F
+Nader 'Ata Fadel al-Agha,7/28/2014,45,Khan Yunis,Khan Yunis,M
+Marwah Jamil Shaker al-Agha,7/28/2014,45,Khan Yunis,Khan Yunis,F
+Yihya Muhammad 'Abdallah al-'Aqad,7/28/2014,49,Khan Yunis,Khan Yunis,M
+Samir Hussein Samir a-Najar,7/26/2014,1,Khan Yunis,Khan Yunis,M
+Ghaliah Muhammad Samir a-Najar,7/26/2014,1,Khan Yunis,Khan Yunis,F
+Amirah Hamuda Khaled Abu Shahlah,7/26/2014,1,Khan Yunis,Khan Yunis,F
+Amir Hamuda Khaled Abu Shahlah,7/26/2014,2,Khan Yunis,Khan Yunis,M
+Islam Hamuda Khaled Abu Shahlah,7/26/2014,4,Khan Yunis,Khan Yunis,F
+Mu'taz Hussein Samir a-Najar,7/26/2014,5,Khan Yunis,Khan Yunis,M
+Hani Suliman Muhammad a-Najar,7/26/2014,7,Khan Yunis,Khan Yunis,M
+Baraa Salah Mahmoud a-Raqab,7/26/2014,11,Khan Yunis,Khan Yunis,F
+Ahmad Khaled Muhammad a-Najar,7/26/2014,13,Khan Yunis,Khan Yunis,M
+Rawan Khaled Muhammad a-Najar,7/26/2014,16,Khan Yunis,Khan Yunis,F
+Majed Samir Hussein a-Najar,7/26/2014,18,Khan Yunis,Khan Yunis,M
+Kifah Samir Hussein a-Najar,7/26/2014,22,Khan Yunis,Khan Yunis,F
+Iman Salah Mahmoud a-Najar,7/26/2014,23,Khan Yunis,Khan Yunis,F
+Riham Faiz Muhammad a-Najar,7/26/2014,25,Khan Yunis,Khan Yunis,F
+Ikhlas Samir Hussein Abu Shahlah,7/26/2014,30,Khan Yunis,Khan Yunis,F
+'Ali Muhammad 'Ali al-Astal,7/26/2014,32,Khan Yunis,Khan Yunis,M
+Sumayah Harb Yusef a-Najar,7/26/2014,49,Khan Yunis,Khan Yunis,F
+Samir Hussein Hamad a-Najar,7/26/2014,52,Khan Yunis,Khan Yunis,M
+Ghaliah Muhammad Ahmad a-Najar,7/26/2014,56,Khan Yunis,Khan Yunis,F
+Khalil Muhammad Ahmad a-Najar,7/26/2014,59,Khan Yunis,Khan Yunis,M
+Rahaf Suliman 'Awad Abu Jame',7/25/2014,4,Khan Yunis,Khan Yunis,F
+Salem Mustafa Zaki al-Hadhidi,7/25/2014,17,Khan Yunis,Khan Yunis,M
+Wasim Naser 'Abdu Shurab,7/25/2014,22,Khan Yunis,Khan Yunis,M
+Iyad Naser 'Abdu Shurab,7/25/2014,24,Khan Yunis,Khan Yunis,M
+Muhammad Ibrahim 'Abd al-Hadi al-Khatib,7/25/2014,28,Khan Yunis,Khan Yunis,M
+Yasin Mustafa Muhammad al-Astal,7/25/2014,37,Khan Yunis,Khan Yunis,M
+Yusra Salem Hassan al-Barim,7/25/2014,65,Khan Yunis,Khan Yunis,F
+Amin Thaer 'Umran al-Astal,7/24/2014,3,Khan Yunis,Khan Yunis,M
+Nada Thaer 'Umran al-Astal,7/24/2014,5,Khan Yunis,Khan Yunis,F
+Zaher Mahmoud Sa'ed a-Najar,7/24/2014,7,Khan Yunis,Khan Yunis,M
+Nabil Mahmoud Muhammad al-Astal,7/24/2014,12,Khan Yunis,Khan Yunis,M
+Mahmoud Jihad Nayef 'Abdin,7/24/2014,12,Khan Yunis,Khan Yunis,M
+Tamer Ahmad Ibrahim a-Najar,7/24/2014,14,Khan Yunis,Khan Yunis,M
+Ibrahim Ahmad Ibrahim a-Najar,7/24/2014,15,Khan Yunis,Khan Yunis,M
+Mahmoud Suliman Muhammad al-Astal,7/24/2014,17,Khan Yunis,Khan Yunis,M
+Ahmad Muhammad 'Abdallah a-Najar,7/24/2014,17,Khan Yunis,Khan Yunis,M
+Ashraf Ibrahim Hassan a-Najar,7/24/2014,22,Khan Yunis,Khan Yunis,M
+Hisham Muhammad Farhan Abu Jazar,7/24/2014,23,Khan Yunis,Khan Yunis,M
+Malak Amin Ahmad al-Astal,7/24/2014,24,Khan Yunis,Khan Yunis,F
+Muhammad Rateb Shihadah Abu Jazar,7/24/2014,25,Khan Yunis,Khan Yunis,M
+Ashraf Mahmoud Muhammad al-Astal,7/24/2014,27,Khan Yunis,Khan Yunis,M
+Milad 'Umran Khamis al-Astal,7/24/2014,29,Khan Yunis,Khan Yunis,M
+Thaer 'Umran Khamis al-Astal,7/24/2014,31,Khan Yunis,Khan Yunis,M
+Shadi Suliman Salim Kaware',7/24/2014,31,Khan Yunis,Khan Yunis,M
+Isma'il Mamduh 'Abdallah Abu 'Obeid,7/24/2014,31,Khan Yunis,Khan Yunis,M
+Muhammad 'Umran Khamis al-Astal,7/24/2014,32,Khan Yunis,Khan Yunis,M
+Ahmad Talal 'Abd a-Rahman a-Najar,7/24/2014,37,Khan Yunis,Khan Yunis,M
+Sanaa Hassan 'Ali al-Astal,7/24/2014,45,Khan Yunis,Khan Yunis,F
+Muhammad Farhan Muhammad Abu Jazar,7/24/2014,48,Khan Yunis,Khan Yunis,M
+Ahmad 'Abd al-Karim Ahmad Hassan,7/24/2014,51,Khan Yunis,Khan Yunis,M
+Muhammad Isma'il 'Ali Khader,7/24/2014,54,Khan Yunis,Khan Yunis,M
+Muhammad 'Abdallah Muhammad a-Najar,7/24/2014,59,Khan Yunis,Khan Yunis,M
+'Ali Mansur Hamdi al-Bshiti,7/23/2014,1,Khan Yunis,Khan Yunis,M
+Muhammad Mansur Hamdi al-Bshiti,7/23/2014,7,Khan Yunis,Khan Yunis,M
+Muhammad Akram Ahmad Abu Shaqrah,7/23/2014,16,Khan Yunis,Khan Yunis,M
+Muhammad Farid Tawfiq al-Astal,7/23/2014,22,Khan Yunis,Khan Yunis,M
+'Abd a-Rahman Ibrahim Ahmad Abu Shaqrah,7/23/2014,22,Khan Yunis,Khan Yunis,M
+Jandal Salman 'Abd al-Karim Mhanna,7/23/2014,25,Khan Yunis,Khan Yunis,M
+Ahmad Muhammad Ahmad a-Saqa,7/23/2014,25,Khan Yunis,Khan Yunis,M
+Muhammad Sami Hussein 'Umran,7/23/2014,26,Khan Yunis,Khan Yunis,M
+Nariman Khalil Suliman al-Bshiti,7/23/2014,27,Khan Yunis,Khan Yunis,F
+'Ali Hamed Muhammad al-Astal,7/23/2014,28,Khan Yunis,Khan Yunis,M
+Ibrahim 'Omar Ibrahim al-Halaq,7/23/2014,40,Khan Yunis,Khan Yunis,M
+Manal Muhammad Mahmoud al-Astal,7/23/2014,44,Khan Yunis,Khan Yunis,F
+'Issam Isma'il Shaker Abu Shaqrah,7/23/2014,45,Khan Yunis,Khan Yunis,M
+Tawfiq Jbarah Muhammad al-Agha,7/23/2014,61,Khan Yunis,Khan Yunis,M
+Khalil Hamad 'Abd a-Rahman Abu Jame',7/23/2014,74,Khan Yunis,Khan Yunis,M
+Wisam 'Alaa Adib a-Najar,7/22/2014,17,Khan Yunis,Khan Yunis,M
+Mus'ab Saleh 'Odeh Salamah,7/22/2014,18,Khan Yunis,Khan Yunis,M
+Ahmad Ibrahim Subhi Shbeir,7/22/2014,22,Khan Yunis,Khan Yunis,M
+Ahmad 'Abdallah Muhammad Abu Salah,7/22/2014,24,Khan Yunis,Khan Yunis,M
+Rasmiya Muhammad Yusef Salamah,7/22/2014,55,Khan Yunis,Khan Yunis,F
+Mujahed Walid Hassan al-'Aqad,7/21/2014,20,Khan Yunis,Khan Yunis,M
+Sadam Ibrahim 'Odet Allah Abu 'Aasi,7/21/2014,23,Khan Yunis,Khan Yunis,M
+Muhammad Hafez Ragheb a-Zini,7/21/2014,25,Khan Yunis,Khan Yunis,M
+Muhammad Ayman Salah a-Sha'er,7/20/2014,5,Khan Yunis,Khan Yunis,M
+Hibat Allah Akram Saleh a-Sha'er,7/20/2014,6,Khan Yunis,Khan Yunis,F
+Layla Hassan Mahmoud a-Sha'er,7/20/2014,30,Khan Yunis,Khan Yunis,F
+Salah Saleh Muhammad a-Sha'er,7/20/2014,56,Khan Yunis,Khan Yunis,M
+Muhammad Fathi Ibrahim al-Ghalban,7/19/2014,23,Khan Yunis,Khan Yunis,M
+Raed Walid 'Ali Laqan,7/19/2014,32,Khan Yunis,Khan Yunis,M
+Salem 'Ali Suliman Abu Sa'adah,7/19/2014,63,Khan Yunis,Khan Yunis,M
+Amjad Salem Khamis Sha'th,7/18/2014,14,Khan Yunis,Khan Yunis,M
+Muhammad Salem Khamis Sha'th,7/18/2014,20,Khan Yunis,Khan Yunis,M
+Munzer Nabil Mahmoud Radwan,7/18/2014,21,Khan Yunis,Khan Yunis,M
+Bilal Muhammad Mahmoud Radwan,7/18/2014,21,Khan Yunis,Khan Yunis,M
+Ahmad Salem Khamis Sha'th,7/18/2014,22,Khan Yunis,Khan Yunis,M
+Iyad Mufid 'Abd al-Mun'im al-Farra,7/18/2014,23,Khan Yunis,Khan Yunis,M
+Fadi Muhammad Yusef Abu 'Odeh,7/18/2014,23,Khan Yunis,Khan Yunis,M
+Mahmoud Fawzi Hamad Radwan,7/18/2014,25,Khan Yunis,Khan Yunis,M
+Bassem Muhammad Sa'id al-Agha,7/18/2014,25,Khan Yunis,Khan Yunis,M
+Ghassan Salem Musa Abu 'Azab,7/18/2014,27,Khan Yunis,Khan Yunis,M
+Walaa Jihad Muhammad al-Qara,7/18/2014,29,Khan Yunis,Khan Yunis,M
+Muhammad 'Abd al-Hamid Muhammad Sha'th,7/18/2014,29,Khan Yunis,Khan Yunis,M
+Ahmad Fawzi Hamad Radwan,7/18/2014,29,Khan Yunis,Khan Yunis,M
+Rahaf Khalil Hamadah al-Jabur,7/17/2014,3,Khan Yunis,Khan Yunis,F
+Yasmin Mahmoud Hussein al-Astal,7/16/2014,4,Khan Yunis,Khan Yunis,F
+Ousamah Mahmoud Hussein al-Astal,7/16/2014,8,Khan Yunis,Khan Yunis,M
+Muhammad Taysir Yusef Shurab,7/16/2014,22,Khan Yunis,Khan Yunis,M
+Hussein 'Abd a-Naser Hussein al-Astal,7/16/2014,23,Khan Yunis,Khan Yunis,M
+Akram Muhammad Muhammad Abu 'Amer,7/16/2014,32,Khan Yunis,Khan Yunis,M
+Kamal Muhammad Muhammad Abu 'Amer,7/16/2014,38,Khan Yunis,Khan Yunis,M
+Kawthar Hussein Hassan al-Astal,7/16/2014,58,Khan Yunis,Khan Yunis,F
+Zeinab Sa'id Muhammad al-'Abadleh,7/16/2014,71,Khan Yunis,Khan Yunis,F
+Isma'il Salim 'Abd al-Karim a-Najar,7/15/2014,47,Khan Yunis,Khan Yunis,M
+Muhammad Ahmad Ibrahim a-Najar,7/15/2014,49,Khan Yunis,Khan Yunis,M
+'Ata Haj 'Amirah 'Omar al-'Amur,7/15/2014,58,Khan Yunis,Khan Yunis,M
+Subhi 'Abd al-Hamid Hussein Musa,7/15/2014,78,Khan Yunis,Khan Yunis,M
+'Abdallah Muhammad 'Abdallah al-'Arjani,7/14/2014,19,Khan Yunis,Khan Yunis,M
+Siraj Iyad 'Ali 'Abd al-'Aal,7/8/2014,7,Khan Yunis,Khan Yunis,M
+Basel Salem Hussein Kaware',7/8/2014,9,Khan Yunis,Khan Yunis,M
+Qassem Jaber 'Udwan 'Odeh,7/8/2014,11,Khan Yunis,Khan Yunis,M
+Hussein Yusef Hussein Kaware',7/8/2014,11,Khan Yunis,Khan Yunis,M
+Muhammad 'Ali Faraj Kaware',7/8/2014,14,Khan Yunis,Khan Yunis,M
+'Abdallah Muhammad Ahmad Kaware',7/8/2014,17,Khan Yunis,Khan Yunis,M
+Sami 'Abdallah Ahmad Judah,7/8/2014,18,Khan Yunis,Khan Yunis,M
+'Ammar Muhammad Ahmad Judah,7/8/2014,18,Khan Yunis,Khan Yunis,M
+Muhammad Ibrahim 'Odeh Kaware',7/8/2014,52,Khan Yunis,Khan Yunis,M
+'Omar Mahmoud Muhammad al-Astal,11/19/2012,14,Khan Yunis,Khan Yunis,M
+'Abdallah Harb Salem Abu Khater,11/19/2012,21,Khan Yunis,Khan Yunis,M
+Mahmoud Sa'id Suliman Abu Khater,11/19/2012,34,Khan Yunis,Khan Yunis,M
+Ibrahim Muhammad Suliman al-Astal,11/19/2012,48,Khan Yunis,Khan Yunis,M
+Isma'il Khatab 'Omar Qandil,11/16/2012,23,Khan Yunis,Khan Yunis,M
+'Abdallah Mahmoud 'Abd al-Fatah 'Asqoul,11/16/2012,24,Khan Yunis,Khan Yunis,M
+Hisham Muhammad Ahmad al-Ghalban,11/15/2012,25,Khan Yunis,Khan Yunis,M
+Wael Haydar Sa'id al-Ghalban,11/15/2012,26,Khan Yunis,Khan Yunis,M
+Habes Hassan 'Awad Mesmeh,11/15/2012,29,Khan Yunis,Khan Yunis,M
+Yasser Muhammad Sakher Ibrahim al-'Attal,10/14/2012,22,Khan Yunis,Khan Yunis,M
+Khaled Ousamah Ibrahim Sahmoud,9/6/2011,21,Khan Yunis,Khan Yunis,M
+Talal Rabi' 'Issa Abu Taha,4/8/2011,56,Khan Yunis,Khan Yunis,M
+Muhammad Jamil Musa a-Najar,1/11/2011,23,Khan Yunis,Khan Yunis,M
+Bassam Barham Suliman a-Daghameh,8/16/2010,22,Khan Yunis,Khan Yunis,M
+Sharif 'Abd al-Hadi Isma'il Bdeir,8/4/2010,21,Khan Yunis,Khan Yunis,M
+Muhammad Amin Muhammad Shahawan,6/1/2010,17,Khan Yunis,Khan Yunis,M
+'Abd a-Rahman 'Omar 'Abd al-Hamid al-Astal,6/1/2010,18,Khan Yunis,Khan Yunis,M
+Rizeq Muhammad Ibrahim al-Masri,9/30/2009,35,Khan Yunis,Khan Yunis,M
+Naser Yusef Muhammad al-Ja'ran (Abu Seif),9/30/2009,43,Khan Yunis,Khan Yunis,M
+Hussein Faiz Hussein Shameyah,1/27/2009,25,Khan Yunis,Khan Yunis,M
+Ibrahim Muhammad Kassab Shurab,1/17/2009,17,Khan Yunis,Khan Yunis,M
+Kassab Muhammad Kassab Shurab,1/17/2009,28,Khan Yunis,Khan Yunis,M
+Husam Muhammad 'Ali Abu Daqah,1/16/2009,25,Khan Yunis,Khan Yunis,M
+Mahmoud Sa'id Muhammad a-Sha'er,1/13/2009,47,Khan Yunis,Khan Yunis,M
+'Abd Rabo Iyad 'Abd Rabo al-Astal,1/2/2009,8,Khan Yunis,Khan Yunis,M
+Muhammad Iyad 'Abd Rabo al-Astal,1/2/2009,11,Khan Yunis,Khan Yunis,M
+'Abd a-Satart Walid 'Abd a-Rahman al-Astal,1/2/2009,11,Khan Yunis,Khan Yunis,M
+Ahmad As'ad 'Abd al-Karim Fayad,12/28/2008,22,Khan Yunis,Khan Yunis,M
+Khaled Sami Tarraf al-Astal,12/27/2008,14,Khan Yunis,Khan Yunis,M
+Hamadah Ahmad Muslem Abu Daqah,12/27/2008,22,Khan Yunis,Khan Yunis,M
+Ahmad Maher Ahmad Abu Musa,12/27/2008,22,Khan Yunis,Khan Yunis,M
+Muhammad (Nur) Muhammad Rizeq al-Fayumi,12/27/2008,24,Khan Yunis,Khan Yunis,M
+Khaled Radwan 'Ali Anshasi,12/27/2008,24,Khan Yunis,Khan Yunis,M
+Muhammad Khalil Jaryo Zo'rub,12/27/2008,26,Khan Yunis,Khan Yunis,M
+'Omar Suliman Salim Darawsheh,12/27/2008,27,Khan Yunis,Khan Yunis,M
+Ahmad Muhammad Mahmoud al-Astal,12/27/2008,27,Khan Yunis,Khan Yunis,M
+Ibrahim 'Abd a-Rahman Arjabil Zo'rub,12/27/2008,28,Khan Yunis,Khan Yunis,M
+Salman Fahmi Hassan al-Astal,12/27/2008,29,Khan Yunis,Khan Yunis,M
+Wael 'Abd al-Karim Shehdeh a-Raqab,12/27/2008,32,Khan Yunis,Khan Yunis,M
+Hashem Fares Hashem 'Aweid,12/27/2008,33,Khan Yunis,Khan Yunis,M
+'Odeh Hammad 'Odeh Abu al-Fityeh,12/27/2008,34,Khan Yunis,Khan Yunis,M
+Ayman Yusef Khalil al-Majaydeh,12/27/2008,36,Khan Yunis,Khan Yunis,M
+Yusef Murshed Ahmad a-Najar,12/27/2008,37,Khan Yunis,Khan Yunis,M
+Muhammad 'Abd a-Shafuq Sa'id al-'Abadleh,12/27/2008,39,Khan Yunis,Khan Yunis,M
+Hassan 'Atallah Muhammad 'Abdallah,12/27/2008,40,Khan Yunis,Khan Yunis,M
+Nabil Ahmad Mahmoud al-Birm,12/27/2008,43,Khan Yunis,Khan Yunis,M
+Hamdan Qassem 'Abdallah Safi,12/27/2008,43,Khan Yunis,Khan Yunis,M
+Khaled Salim Salam Zo'rub,12/27/2008,44,Khan Yunis,Khan Yunis,M
+Ibrahim Muhammad 'Ali Mahfuz,12/27/2008,46,Khan Yunis,Khan Yunis,M
+Muhsen Musa Ihmidan al-Qadrah,11/12/2008,23,Khan Yunis,Khan Yunis,M
+Mahmoud Na'im Muhammad Siyam,11/12/2008,26,Khan Yunis,Khan Yunis,M
+Rami 'Omar Khalil Fareinah,11/12/2008,36,Khan Yunis,Khan Yunis,M
+Isma'il Muhammad 'Ali Abu al-'Ula,11/12/2008,38,Khan Yunis,Khan Yunis,M
+Wajed Nizam a-Din Hamzah Muhareb,11/5/2008,19,Khan Yunis,Khan Yunis,M
+'Omar Salim Khader al-'Almi,11/5/2008,20,Khan Yunis,Khan Yunis,M
+Mahmoud Taha 'Abd a-Rahman Ba'lushah,11/5/2008,21,Khan Yunis,Khan Yunis,M
+Muhammad 'Abdallah Muhammad 'Awad,11/5/2008,26,Khan Yunis,Khan Yunis,M
+Mahmoud Salem Hassan Abu Shab,6/16/2008,19,Khan Yunis,Khan Yunis,M
+'Alaa Rohi Ahmad al-Barim,6/16/2008,19,Khan Yunis,Khan Yunis,M
+Yasser Faiz Hamdan Abu 'Alayan,6/16/2008,22,Khan Yunis,Khan Yunis,M
+Aya Hamdan Hamdan a-Najar,6/5/2008,8,Khan Yunis,Khan Yunis,F
+Ahmad Muhammad Khalil al-'Amur,5/28/2008,22,Khan Yunis,Khan Yunis,M
+Muhammad Munir Muhammad Abu Habib,5/14/2008,23,Khan Yunis,Khan Yunis,M
+'Omar Dawood Musa a-Ser,5/9/2008,21,Khan Yunis,Khan Yunis,M
+Muhammad Ramadan Hassan Abu 'Odeh,5/9/2008,26,Khan Yunis,Khan Yunis,M
+Samir Jamil Hussein Wafi,5/9/2008,30,Khan Yunis,Khan Yunis,M
+Muhammad Msallam Salim Abu Daqah,5/1/2008,58,Khan Yunis,Khan Yunis,M
+Amin Mahmoud Hussein a-Najar,4/11/2008,26,Khan Yunis,Khan Yunis,M
+Muhammad Mustafa Muhammad a-Najar,4/11/2008,28,Khan Yunis,Khan Yunis,M
+Hassan Ibrahim Hassan Abu a-Naja,3/1/2008,24,Khan Yunis,Khan Yunis,M
+Raafat Yasin 'Abd al-'Aziz Hamad,3/1/2008,38,Khan Yunis,Khan Yunis,M
+Muhammad Suliman Mahmoud Shameyah,2/28/2008,21,Khan Yunis,Khan Yunis,M
+Hassan Nur Ahmad al-Mtawaq,2/27/2008,19,Khan Yunis,Khan Yunis,M
+Muhammad Majdi Muhammad Abu al-Hussein,2/27/2008,21,Khan Yunis,Khan Yunis,M
+'Aziz Jawdat Muhammad Ma'sud,2/27/2008,21,Khan Yunis,Khan Yunis,M
+'Abdallah Muhammad Yihya 'Udwan,2/27/2008,22,Khan Yunis,Khan Yunis,M
+'Omar 'Atiyyah Salamah Abu 'Aker,2/27/2008,26,Khan Yunis,Khan Yunis,M
+Mansur Salah Muhammad al-Barim,1/12/2008,19,Khan Yunis,Khan Yunis,M
+'Aead Sa'dallah 'Eid Abu 'Abed,1/12/2008,21,Khan Yunis,Khan Yunis,M
+Mahmoud Suliman Isma'il Abu Mustafa,12/11/2007,22,Khan Yunis,Khan Yunis,M
+'Issam Sa'di Sbieh Hamdan,11/28/2007,19,Khan Yunis,Khan Yunis,M
+Rami Hussein Sa'id Abu a-Rus,11/28/2007,23,Khan Yunis,Khan Yunis,M
+Muhammad Zaki Jum'ah a-Najar,11/20/2007,19,Khan Yunis,Khan Yunis,M
+Nidal Muhammad Salman a-Najar,11/20/2007,37,Khan Yunis,Khan Yunis,M
+Hazem Jamal Muhammad 'Asfur,10/17/2007,20,Khan Yunis,Khan Yunis,M
+Sa'id 'Abd al-Majid 'Atiyyah al-'Amur,10/3/2007,23,Khan Yunis,Khan Yunis,M
+Mahmoud 'Ali Mahmoud Abu Daqah,7/26/2007,26,Khan Yunis,Khan Yunis,M
+Sharif Hussein Hussein Brreis,7/26/2007,33,Khan Yunis,Khan Yunis,M
+Raed Fouad Shaker al-Ghannam,6/30/2007,21,Khan Yunis,Khan Yunis,M
+Muhammad Anwaar Khamis a-Ra'i,6/30/2007,21,Khan Yunis,Khan Yunis,M
+Ziad Shaker Diab al-Ghannam,6/30/2007,43,Khan Yunis,Khan Yunis,M
+Mahdi Fouad 'Ali al-Hamami,6/27/2007,23,Khan Yunis,Khan Yunis,M
+Husam 'Abdallah Muhammad Abu Ta'imah,6/27/2007,23,Khan Yunis,Khan Yunis,M
+Diaa' Muhammad Mahmoud Abu Daqah,6/27/2007,24,Khan Yunis,Khan Yunis,M
+Suliman Ibrahim Suliman Abu Khashan,6/20/2007,17,Khan Yunis,Khan Yunis,M
+Khaled Muhammad Khaled al-Farra,6/20/2007,20,Khan Yunis,Khan Yunis,M
+Ahmad 'Awni Yihya al-'Abadleh,6/20/2007,20,Khan Yunis,Khan Yunis,M
+A'beid Sami A'beid Sha'th,6/20/2007,20,Khan Yunis,Khan Yunis,M
+Muhammad Suliman Silmi a-Lulahi,5/17/2007,14,Khan Yunis,Khan Yunis,M
+Yusef Suliman Silmi a-Lulahi,5/17/2007,17,Khan Yunis,Khan Yunis,M
+Zaki Hamdan Hamdan a-Najar,10/31/2006,18,Khan Yunis,Khan Yunis,M
+Shadi Khaled Khalil a-Najar,10/31/2006,21,Khan Yunis,Khan Yunis,M
+Muhammad Wahid Muhammad a-Najar,10/31/2006,21,Khan Yunis,Khan Yunis,M
+Barakah 'Ayesh Hamdan al-'Amur,10/21/2006,48,Khan Yunis,Khan Yunis,M
+'Omar Saleh Salem a-Zaqzuq,10/4/2006,28,Khan Yunis,Khan Yunis,M
+Yasser Yusef Mahdi al-Bana,10/4/2006,34,Khan Yunis,Khan Yunis,M
+Naji Khaled Isma'il al-Bardawil,10/3/2006,14,Khan Yunis,Khan Yunis,M
+Ziad al-'Abed Mahmoud Abu Sa'adah,9/9/2006,22,Khan Yunis,Khan Yunis,M
+Isma'il Majed Hamdan Abu Ruk,9/6/2006,15,Khan Yunis,Khan Yunis,M
+Naser Muhammad Muhammad Musbeh,9/6/2006,20,Khan Yunis,Khan Yunis,M
+Muhammad Fawzi Salem Abu Raidah,9/6/2006,21,Khan Yunis,Khan Yunis,M
+Khaled 'Ali Muhammad a-Shawaf,9/6/2006,23,Khan Yunis,Khan Yunis,M
+Mustafa Hassan Ahmad Mansur,8/23/2006,17,Khan Yunis,Khan Yunis,M
+Ibrahim Hussein Radwan Sha'th,8/16/2006,46,Khan Yunis,Khan Yunis,M
+Hussein Radwan Shahin Sha'th,8/16/2006,70,Khan Yunis,Khan Yunis,M
+Tamer Jamal Suliman Mhareb,7/12/2006,20,Khan Yunis,Khan Yunis,M
+Ahmad Salem Ahmad Kaware',7/12/2006,20,Khan Yunis,Khan Yunis,M
+Muhammad Khamis Ahmad al-Masri,7/12/2006,21,Khan Yunis,Khan Yunis,M
+Jum'ah Ibrahim Muhammad Islim,7/12/2006,23,Khan Yunis,Khan Yunis,M
+Majzarah Sha'ban 'Abd al-Qader Ahmad,6/21/2006,0,Khan Yunis,Khan Yunis,F
+Khaled Nidal 'Abd al-Karim Wahbah,6/21/2006,1,Khan Yunis,Khan Yunis,M
+Fatimah Ahmad Muhammad Ahmad,6/21/2006,35,Khan Yunis,Khan Yunis,F
+Zakaria Ahmad Muhammad Ahmad,6/21/2006,48,Khan Yunis,Khan Yunis,M
+Muhammad 'Abdallah Muhammad 'Abd al-Hadi,4/8/2006,17,Khan Yunis,Khan Yunis,M
+Hassan Sa'ed 'Ali al-Hossieni,4/8/2006,17,Khan Yunis,Khan Yunis,M
+Muhammad Sami Ahmad Hamdan,4/8/2006,18,Khan Yunis,Khan Yunis,M
+Huzaifah Suliman Nayef Shbeir,4/8/2006,21,Khan Yunis,Khan Yunis,M
+Muhammad Sa'ed 'Ali al-Hossieni,4/8/2006,22,Khan Yunis,Khan Yunis,M
+Ibrahim Mar'i Jaber 'Abd al-Hadi,4/8/2006,30,Khan Yunis,Khan Yunis,M
+Bilal Muhammad Rida a-Najar,2/19/2006,18,Khan Yunis,Khan Yunis,M
+Ousamah Fawzi Ahmad Brreis,2/19/2006,19,Khan Yunis,Khan Yunis,M
+Sayed 'Abd al-Hadi Hamdan Abu Libdah,12/2/2005,15,Khan Yunis,Khan Yunis,M
+Bilal Waked Ibrahim a-Sha'er,11/12/2005,17,Khan Yunis,Khan Yunis,M
+Sa'id 'Issa Jaber Siyam,7/17/2005,32,Khan Yunis,Khan Yunis,M
+Ahmad Mustafa Muhammad Shahawan,5/18/2005,24,Khan Yunis,Khan Yunis,M
+Ibrahim Suliman Khalil a-Shawaf,1/28/2005,38,Khan Yunis,Khan Yunis,M
+'Abdallah Suliman 'Abdallah 'Aram,1/16/2005,30,Khan Yunis,Khan Yunis,M
+Fidda 'Atiyyah Hassan 'Aram,1/16/2005,53,Khan Yunis,Khan Yunis,F
+Rizeq Ziad Rizeq Musleh,12/31/2004,16,Khan Yunis,Khan Yunis,M
+Muhammad Mahmoud Hassan Kharis,12/31/2004,22,Khan Yunis,Khan Yunis,M
+Khaled Khamis Hassan Abu 'Odeh,12/31/2004,40,Khan Yunis,Khan Yunis,M
+Najah Mahmoud Nayef Zo'rub,12/28/2004,16,Khan Yunis,Khan Yunis,F
+Ziad Kamel Nabhan Abu 'Aker,12/23/2004,23,Khan Yunis,Khan Yunis,M
+'Abd al-Karim Muhammad 'Abed Abu Namus,12/23/2004,24,Khan Yunis,Khan Yunis,M
+Rami Kamel Nabhan Abu 'Aker,12/23/2004,26,Khan Yunis,Khan Yunis,M
+Ahmad Musa a-Sayed Abu Mustafa,12/21/2004,16,Khan Yunis,Khan Yunis,M
+Muhammad Mansur Muhammad Jarghon,12/18/2004,18,Khan Yunis,Khan Yunis,M
+Ibrahim 'Abd al-Hamid al-Farra,12/18/2004,22,Khan Yunis,Khan Yunis,M
+Ahmad Muhammad Ahmad Abu Ramadan,12/18/2004,26,Khan Yunis,Khan Yunis,M
+Jihad Ramadan Muhammad Abu O'mar,12/17/2004,16,Khan Yunis,Khan Yunis,M
+Khaled 'Abd a-Rahman Ibrahim Abu 'Obeid,12/17/2004,18,Khan Yunis,Khan Yunis,M
+Hamed 'Issam Hamed a-Rantisi,12/17/2004,18,Khan Yunis,Khan Yunis,M
+Shadi Khaled al-Hadad,12/17/2004,19,Khan Yunis,Khan Yunis,M
+Islam Muhammad 'Abd al-'Aziz a-Nabrisi,12/17/2004,20,Khan Yunis,Khan Yunis,M
+'Iz a-Din Sa'id Mahmoud Hamdan,12/17/2004,21,Khan Yunis,Khan Yunis,M
+Rami Ghazi Hussein Abu S'adah,12/17/2004,26,Khan Yunis,Khan Yunis,M
+Sa'id 'Aref 'Abdallah Abu a-Sa'id,12/17/2004,41,Khan Yunis,Khan Yunis,M
+Rana 'Omar 'Abd al-Hadi Siyam,12/10/2004,6,Khan Yunis,Khan Yunis,F
+Rania Iyad Ahmad 'Aram,10/28/2004,7,Khan Yunis,Khan Yunis,F
+Mahmoud As'ad Mahmoud al-Mana'mah,10/26/2004,23,Khan Yunis,Khan Yunis,M
+Hisham Hassan Hussni 'Ashur,10/25/2004,10,Khan Yunis,Khan Yunis,M
+Sa'id Muhammad Sa'id a-Najar,10/25/2004,16,Khan Yunis,Khan Yunis,M
+'Abd a-Rahman Isma'il Hassan Abu Nimer,10/25/2004,17,Khan Yunis,Khan Yunis,M
+Muhammad Khader Muhammad Abu Sultan,10/25/2004,18,Khan Yunis,Khan Yunis,M
+Mahmoud Muhammad Salim al-Bshiti,10/25/2004,18,Khan Yunis,Khan Yunis,M
+Suliman Burham 'Awad Zo'rub,10/25/2004,19,Khan Yunis,Khan Yunis,M
+Haitham Nabil 'Abd al-'Aziz a-Nabrisi,10/25/2004,19,Khan Yunis,Khan Yunis,M
+Ibrahim Saber Ibrahim al-kudra,10/25/2004,20,Khan Yunis,Khan Yunis,M
+Hussein Hassan Muhammad Abu Namus,10/25/2004,23,Khan Yunis,Khan Yunis,M
+Muhammad Fawzi Barham Zo'rub,10/25/2004,24,Khan Yunis,Khan Yunis,M
+Sami Nasrallah Yusef Zo'rub,10/25/2004,25,Khan Yunis,Khan Yunis,M
+Sami Jawdat Zaki Barbakh,10/25/2004,30,Khan Yunis,Khan Yunis,M
+Iyad Shehdeh Suliman Abu Lihyah,10/25/2004,32,Khan Yunis,Khan Yunis,M
+Ahmad Musa Mustafa al-Biyuq,10/25/2004,37,Khan Yunis,Khan Yunis,M
+'Omar Salman Salamah Abu Mustafa,10/24/2004,20,Khan Yunis,Khan Yunis,M
+Husam 'Adel Ahmad al-Barim,10/24/2004,21,Khan Yunis,Khan Yunis,M
+Amin 'Ata Mustafa Jabur,10/24/2004,28,Khan Yunis,Khan Yunis,M
+Ziad Salman Salamah Abu Mustafa,10/24/2004,30,Khan Yunis,Khan Yunis,M
+Ahmad Diab 'Abd a-Rahman al-Hadad,10/22/2004,20,Khan Yunis,Khan Yunis,M
+Iyad Muhammad Isma'il a-Sir,10/22/2004,26,Khan Yunis,Khan Yunis,M
+Ghadir Jaber Hussein Mukheimar,10/12/2004,9,Khan Yunis,Khan Yunis,F
+Khaled 'Abd al-'Aziz Mahmoud Abu Ta'imah,10/7/2004,25,Khan Yunis,Khan Yunis,M
+Luai Ayman Muhammad a-Najar,10/4/2004,4,Khan Yunis,Khan Yunis,M
+Najah Zaki Wadi' a-Shawa,10/4/2004,40,Khan Yunis,Khan Yunis,F
+'Alaa a-Din Hamdan Suliman a-Sha'er,9/28/2004,34,Khan Yunis,Khan Yunis,M
+Ahmad 'Ali Abu 'Abdallah,9/25/2004,57,Khan Yunis,Khan Yunis,M
+Raghdah 'Adnan 'Abd al-Mu'ti al-'Assar,9/22/2004,9,Khan Yunis,Khan Yunis,F
+Husam Muhammad 'Ali Abu Zarkah,8/30/2004,16,Khan Yunis,Khan Yunis,M
+Yasser 'Abd a-Rahman Khalil a-Najar,8/30/2004,33,Khan Yunis,Khan Yunis,M
+Ne'meh Ibrahim Salman Abu Sahlul,8/2/2004,50,Khan Yunis,Khan Yunis,F
+Mahmoud Tharwat Muhammad 'Abd al-Qader,7/30/2004,12,Khan Yunis,Khan Yunis,M
+Muhammad Mahmoud Muhammad Halfallah,7/30/2004,15,Khan Yunis,Khan Yunis,M
+Sarah Mahmoud Musa Zo'rub,7/26/2004,11,Khan Yunis,Khan Yunis,F
+Ibrahim Mahmoud Muhammad Halfallah,7/12/2004,72,Khan Yunis,Khan Yunis,M
+'Alaa Hamadah Muhammad a-Sha'er,7/6/2004,15,Khan Yunis,Khan Yunis,M
+Muhammad Salem 'Abd al-Karim Abu 'Obeidah,6/29/2004,14,Khan Yunis,Khan Yunis,M
+Musleh Salem Dawood 'Abd al-'Aal,6/28/2004,49,Khan Yunis,Khan Yunis,M
+Muhammad Hussein Rizeq a-Shurbaji,6/27/2004,11,Khan Yunis,Khan Yunis,M
+Ashraf Ayub Muhammad a-Sabagh,6/27/2004,38,Khan Yunis,Khan Yunis,M
+Muhammad Fathi Ibrahim 'Azab,6/19/2004,16,Khan Yunis,Khan Yunis,M
+Jamal Walid Muhammad Abu Mustafa,5/4/2004,16,Khan Yunis,Khan Yunis,M
+Bilal Muhammad 'Abdallah Hamdan,5/4/2004,25,Khan Yunis,Khan Yunis,M
+Iman Muhammad Khalil Talbiyah,4/10/2004,12,Khan Yunis,Khan Yunis,F
+Mus'ab Hussein Muhammad al-Ghalban,3/22/2004,12,Khan Yunis,Khan Yunis,M
+Muhammad Rohi 'Omar a-Dush,3/22/2004,21,Khan Yunis,Khan Yunis,M
+Thunai 'Alian Hassan Qdeih,3/21/2004,21,Khan Yunis,Khan Yunis,M
+'Abd a-Rahman 'Abd al-Muli a-Dawisha,3/21/2004,22,Khan Yunis,Khan Yunis,M
+Raafat Saleh Abu Ta'imah,3/21/2004,24,Khan Yunis,Khan Yunis,M
+Thana 'Abd al-Hadi Hammad Qdeih,3/21/2004,34,Khan Yunis,Khan Yunis,F
+Bassem Salem Suliman Qdeih,3/21/2004,39,Khan Yunis,Khan Yunis,M
+Fatimah Muhammad Sharifi al-Jalad,3/19/2004,7,Khan Yunis,Khan Yunis,F
+Khaled Suliman Muhammad Madi,3/8/2004,15,Khan Yunis,Khan Yunis,M
+Fadel Fawzi Mahmoud a-Najar,12/30/2003,22,Khan Yunis,Khan Yunis,M
+'Adnan 'Abd a-Rahman Salem Abu Jawi'ad,12/25/2003,27,Khan Yunis,Khan Yunis,M
+Muhammad Tawfiq Suliman a-Najar,11/7/2003,21,Khan Yunis,Khan Yunis,M
+Nazmi Fawzi Ibrahim a-Najar,11/7/2003,28,Khan Yunis,Khan Yunis,M
+Subhi Saleh 'Issa Sharir,10/26/2003,54,Khan Yunis,Khan Yunis,M
+Mustafa 'Abd al-Qader Isma'il al-Badrasawi,10/2/2003,1,Khan Yunis,Khan Yunis,M
+Aya Mahmoud Nu'man Fayad,8/30/2003,8,Khan Yunis,Khan Yunis,F
+Hamdi Hassan 'Abd a-Rahman Qalekh,8/28/2003,35,Khan Yunis,Khan Yunis,M
+Nivin Ahmad 'Abd al-Malek Abu Rjeileh,6/25/2003,19,Khan Yunis,Khan Yunis,F
+Akram 'Ali Shihadah Farhan,6/25/2003,34,Khan Yunis,Khan Yunis,M
+Amjad Nabil 'Abd al-'Aziz a-Nabrisi,6/10/2003,19,Khan Yunis,Khan Yunis,M
+Jihad Jaber Hasanein Jasser,6/10/2003,27,Khan Yunis,Khan Yunis,M
+Muhammad Suliman 'Awwad Abu 'Amrah,6/1/2003,24,Khan Yunis,Khan Yunis,M
+'Ali Muhammad Salim Abu Namus,5/18/2003,18,Khan Yunis,Khan Yunis,M
+Hassan Ahmad Muhammad al-Astal,5/12/2003,16,Khan Yunis,Khan Yunis,M
+Nidal Muhammad 'Odeh Salamah,4/29/2003,36,Khan Yunis,Khan Yunis,M
+'Awni Sarhan,4/29/2003,39,Khan Yunis,Khan Yunis,M
+Wael Jum'ah Hamdan Barhum,3/18/2003,25,Khan Yunis,Khan Yunis,M
+Muhammad 'Issa 'Abd al-Hadi,3/16/2003,17,Khan Yunis,Khan Yunis,M
+Ahmad Ahmad a-Najar,3/16/2003,43,Khan Yunis,Khan Yunis,M
+'Abd a-Rahman Mustafa Muhammad Jadallah,3/2/2003,9,Khan Yunis,Khan Yunis,M
+Mahmoud Mar'i 'Abd al-Hadi,3/2/2003,25,Khan Yunis,Khan Yunis,M
+'Abd Rabo Dib 'Abd Rabo al-'Assar,3/2/2003,50,Khan Yunis,Khan Yunis,M
+Mahmoud Muhammad 'Odeh Abu Zaher,2/23/2003,15,Khan Yunis,Khan Yunis,M
+Mustafa Ibrahim Abu 'Adwan,2/7/2003,10,Khan Yunis,Khan Yunis,M
+'Ammar 'Alian,1/20/2003,25,Khan Yunis,Khan Yunis,M
+Hamadah 'Abd a-Rahman a-Najar,1/12/2003,13,Khan Yunis,Khan Yunis,M
+Muhammad Kaware',1/12/2003,14,Khan Yunis,Khan Yunis,M
+'Abd a-Latif Wadi,1/11/2003,30,Khan Yunis,Khan Yunis,M
+Hassan Abu 'Obeid,12/31/2002,38,Khan Yunis,Khan Yunis,M
+Hanin Abu Suliman,12/28/2002,11,Khan Yunis,Khan Yunis,F
+Nabil Mahmoud Kaware',12/23/2002,38,Khan Yunis,Khan Yunis,M
+Jawwad Zidan,12/17/2002,16,Khan Yunis,Khan Yunis,M
+Hassan Shaluleh,12/16/2002,22,Khan Yunis,Khan Yunis,M
+Yasser Yasin al-Agha,12/10/2002,24,Khan Yunis,Khan Yunis,M
+Hassan Khalil Zo'rub,11/3/2002,36,Khan Yunis,Khan Yunis,M
+Muhammad Hussein Hashem al-Astal,10/7/2002,13,Khan Yunis,Khan Yunis,M
+Nidal Kapah Barbakh,10/7/2002,16,Khan Yunis,Khan Yunis,M
+Mahmoud Jadallah al-Astal,10/7/2002,16,Khan Yunis,Khan Yunis,M
+Ahmad 'Abd a-Ra'uf Hassan al-Astal,10/7/2002,16,Khan Yunis,Khan Yunis,M
+'Abdallah Walid Sabah,10/7/2002,16,Khan Yunis,Khan Yunis,M
+Jamal Fathi Barbakh,10/7/2002,17,Khan Yunis,Khan Yunis,M
+Fares 'Abd a-Naser a-Zaquzeq,10/7/2002,17,Khan Yunis,Khan Yunis,M
+Muhammad Mustafa Sadeq,10/7/2002,20,Khan Yunis,Khan Yunis,M
+Iman Muhammad Saqer,10/7/2002,20,Khan Yunis,Khan Yunis,M
+Muhammad Farhat Shaluleh,10/7/2002,21,Khan Yunis,Khan Yunis,M
+Ihab Helmi Khalaf,10/7/2002,22,Khan Yunis,Khan Yunis,M
+Haitham Musa Abu a-Naja,10/7/2002,25,Khan Yunis,Khan Yunis,M
+Tareq 'Abd al-Karim Qdeih,10/7/2002,28,Khan Yunis,Khan Yunis,M
+Ousamah Muhammad 'Ali 'Abdin,10/7/2002,30,Khan Yunis,Khan Yunis,M
+Muhammad Hashem al-Astal,10/7/2002,35,Khan Yunis,Khan Yunis,M
+'Abd al-Fatah 'Ali Suliman a-Salut,10/7/2002,41,Khan Yunis,Khan Yunis,M
+Rahima Hassan 'Ali Salamah,10/7/2002,50,Khan Yunis,Khan Yunis,F
+Ayman Zo'rub,8/20/2002,15,Khan Yunis,Khan Yunis,M
+Ayman Bassem Fares,8/15/2002,6,Khan Yunis,Khan Yunis,M
+Husam Ahmad Muhammad Hamdan,8/7/2002,28,Khan Yunis,Khan Yunis,M
+Asmaa Tahsin Ahmad Ahmad,8/1/2002,9,Khan Yunis,Khan Yunis,F
+Khamis Sharab,7/5/2002,49,Khan Yunis,Khan Yunis,M
+Hazem Saleh Zo'rub,5/31/2002,24,Khan Yunis,Khan Yunis,M
+Zuheir Hussein Qawareh,3/12/2002,25,Khan Yunis,Khan Yunis,M
+Rif'at Mahmoud al-Bashiti,3/12/2002,25,Khan Yunis,Khan Yunis,M
+Muhammad Jum'ah al-Bashiti,3/12/2002,25,Khan Yunis,Khan Yunis,M
+Ahmad Jum'ah al-Bashiti,3/12/2002,28,Khan Yunis,Khan Yunis,M
+Muna al-Bahabsah,2/18/2002,10,Khan Yunis,Khan Yunis,F
+'Abd al-Wahab Ziad a-Najar,2/18/2002,19,Khan Yunis,Khan Yunis,M
+Maryam 'Awad al-Bahabsah,2/18/2002,30,Khan Yunis,Khan Yunis,F
+'Adli Baker Hamdan,1/25/2002,27,Khan Yunis,Khan Yunis,M
+Muhammad Jam'an Mahmoud Haneideq,12/17/2001,15,Khan Yunis,Khan Yunis,M
+Ahmad Khamis al-Masri,12/13/2001,17,Khan Yunis,Khan Yunis,M
+Sa'id Abu Sitah,12/12/2001,20,Khan Yunis,Khan Yunis,M
+Yasser Hassan Abu Namus,12/12/2001,21,Khan Yunis,Khan Yunis,M
+As'ad 'Abd al-Karim Abu Sitah,12/12/2001,24,Khan Yunis,Khan Yunis,M
+Fadel Muhammad Abu 'Obeidah,12/12/2001,25,Khan Yunis,Khan Yunis,M
+Wisam Majdi Mhareb,12/12/2001,27,Khan Yunis,Khan Yunis,M
+Wael 'Ali Radwan,11/23/2001,15,Khan Yunis,Khan Yunis,M
+Akram Na'im 'Abd al-Karim al-Astal,11/22/2001,6,Khan Yunis,Khan Yunis,M
+Muhammad Salim al-Astal,11/22/2001,11,Khan Yunis,Khan Yunis,M
+Anis Idris al-Astal,11/22/2001,11,Khan Yunis,Khan Yunis,M
+'Omar Idris al-Astal,11/22/2001,13,Khan Yunis,Khan Yunis,M
+Muhammad Na'im 'Abd al-Karim al-Astal,11/22/2001,14,Khan Yunis,Khan Yunis,M
+Soheil 'Abed a-Rahman Abu Saleh,11/14/2001,27,Khan Yunis,Khan Yunis,M
+Ahmad Abu Mustafa,11/12/2001,13,Khan Yunis,Khan Yunis,M
+Muhammad Taskin,11/8/2001,23,Khan Yunis,Khan Yunis,M
+Basel Salim Muhammad al-Mubshir,10/19/2001,13,Khan Yunis,Khan Yunis,M
+Ahmad Mahmoud Hamdan Abu Daqah,5/11/2023,43,Bani Suheila,Khan Yunis,M
+Mahmoud Ahmad Muhammad Abu 'Amer,5/12/2021,37,Bani Suheila,Khan Yunis,M
+Majed 'Abd Rabo Mahmoud Abu Sa'adah,5/12/2021,57,Bani Suheila,Khan Yunis,M
+'Alaa a-Din Fawzi Muhammad Fseifes,11/11/2018,19,Bani Suheila,Khan Yunis,M
+'Omar Naji Muslem Abu Khater,11/11/2018,20,Bani Suheila,Khan Yunis,M
+Mustafa Hassan Muhammad Abu 'Odeh,11/11/2018,21,Bani Suheila,Khan Yunis,M
+Muhammad Majed Muhammad al-Qara,11/11/2018,23,Bani Suheila,Khan Yunis,M
+Mahmoud 'Atallah Ahmad Musbeh,11/11/2018,24,Bani Suheila,Khan Yunis,M
+Khaled Muhammad 'Ali Qweider,11/11/2018,29,Bani Suheila,Khan Yunis,M
+Nur a-Din Muhammad Salamah Barakah,11/11/2018,37,Bani Suheila,Khan Yunis,M
+Amani al-'Abed Mahmoud Barakah,8/10/2014,33,Bani Suheila,Khan Yunis,F
+Haitham Ahmad Salman Abu Samur,8/9/2014,24,Bani Suheila,Khan Yunis,M
+Jihad Muhammad 'Abd al-Karim Abu Jame',8/5/2014,19,Bani Suheila,Khan Yunis,M
+Khaled Marwan 'Ata Laqan,8/2/2014,24,Bani Suheila,Khan Yunis,M
+Maysoun Raafat Salman al-Barim,8/1/2014,7,Bani Suheila,Khan Yunis,F
+Ranin 'Ali 'Abdallah al-Qara,8/1/2014,14,Bani Suheila,Khan Yunis,F
+Husam Salman Rida al-Madni,8/1/2014,18,Bani Suheila,Khan Yunis,M
+Sami Salman Rida al-Madni,8/1/2014,20,Bani Suheila,Khan Yunis,M
+'Abdallah 'Awad 'Abed al-Barim,8/1/2014,23,Bani Suheila,Khan Yunis,M
+Muhammad Zayed Salem al-Barim,8/1/2014,25,Bani Suheila,Khan Yunis,M
+Muhammad Salman al-'Abed al-Barim,8/1/2014,25,Bani Suheila,Khan Yunis,M
+Raed 'Abd a-Latif 'Abed al-Qara,8/1/2014,39,Bani Suheila,Khan Yunis,M
+Yasser Yusef Hassan Abu Sa'id,8/1/2014,40,Bani Suheila,Khan Yunis,M
+'Omar 'Awad 'Abed al-Barim,7/30/2014,19,Bani Suheila,Khan Yunis,M
+'Omar Faiz Ahmad Abu 'Alayan,7/30/2014,20,Bani Suheila,Khan Yunis,M
+'Issam Ahmad Muhammad Barakah,7/30/2014,24,Bani Suheila,Khan Yunis,M
+'Alaa 'Abd al-Karim Jaber al-Qara,7/30/2014,24,Bani Suheila,Khan Yunis,M
+'Abd al-'Aziz Hassan Ibrahim Abu Hajras,7/30/2014,25,Bani Suheila,Khan Yunis,M
+Jihad Salah Muhammad al-Barim,7/30/2014,27,Bani Suheila,Khan Yunis,M
+Muhammad Salman 'Abd a-Latif al-Qara,7/30/2014,31,Bani Suheila,Khan Yunis,M
+Kamal Muhammad Ahmad al-Barim,7/30/2014,57,Bani Suheila,Khan Yunis,M
+Mahdiyah Suliman Naser a-Raqab,7/30/2014,68,Bani Suheila,Khan Yunis,F
+Muhammad Mustafa Isma'il Abu Hamad,7/29/2014,14,Bani Suheila,Khan Yunis,M
+Muhannad Ashraf Isma'il al-Qara,7/29/2014,17,Bani Suheila,Khan Yunis,M
+Muhammad Shawqi Mustafa Abu Hamad,7/29/2014,26,Bani Suheila,Khan Yunis,M
+Ahmad Isma'il Muhammad Abu Hamad,7/29/2014,31,Bani Suheila,Khan Yunis,M
+Fayez Isma'il Muhammad Abu Hamad,7/29/2014,33,Bani Suheila,Khan Yunis,M
+Rami Khaled Yunes a-Raqab,7/28/2014,15,Bani Suheila,Khan Yunis,M
+Hussein Yasser Mahmoud Abu Saqer,7/28/2014,16,Bani Suheila,Khan Yunis,M
+Naji Ahmad Mardi a-Raqab,7/28/2014,38,Bani Suheila,Khan Yunis,M
+Musa Ahmad Muslem Abu Sa'adah,7/27/2014,39,Bani Suheila,Khan Yunis,M
+'Issam Ibrahim Hussein Abu Shab,7/27/2014,41,Bani Suheila,Khan Yunis,M
+'Issam 'Abd al-Karim 'Alian Abu Sa'adah,7/27/2014,44,Bani Suheila,Khan Yunis,M
+Ahmad Mahmoud al-'Abed Abu Naja,7/27/2014,45,Bani Suheila,Khan Yunis,M
+Hussein Hassan Khalil Abu Naja,7/27/2014,55,Bani Suheila,Khan Yunis,M
+Muhammad Khalil Muhammad al-Barim,7/25/2014,24,Bani Suheila,Khan Yunis,M
+Ousamah Salem 'Abd a-Rahman Shahin,7/25/2014,27,Bani Suheila,Khan Yunis,M
+Ahmad Suliman Isma'il Abu Yunes,7/25/2014,31,Bani Suheila,Khan Yunis,M
+Kamal Kamel Ahmad a-Naqah,7/25/2014,34,Bani Suheila,Khan Yunis,M
+Muhammad Kamel Ahmad a-Naqah,7/25/2014,39,Bani Suheila,Khan Yunis,M
+Najat Ibrahim Hamdan a-Najar,7/25/2014,42,Bani Suheila,Khan Yunis,F
+Muhammad Salman Hussein Abu Samur,7/25/2014,53,Bani Suheila,Khan Yunis,M
+Mahmoud Isma'il Muhammad al-Astal,7/24/2014,16,Bani Suheila,Khan Yunis,M
+Muhammad Saleh Muhammad al-Astal,7/24/2014,19,Bani Suheila,Khan Yunis,M
+Basel Muhammad Ibrahim al-Barim,7/24/2014,20,Bani Suheila,Khan Yunis,M
+Ahmad Isma'il Muhammad al-Astal,7/24/2014,20,Bani Suheila,Khan Yunis,M
+Shehdeh Ahmad Ibrahim Abu Jame',7/24/2014,36,Bani Suheila,Khan Yunis,M
+Muhammad Hassan 'Abd al-Qader al-Astal,7/24/2014,42,Bani Suheila,Khan Yunis,M
+Isma'il Muhammad 'Abd a-Razeq al-Astal,7/24/2014,44,Bani Suheila,Khan Yunis,M
+Yihya Saber Ramadan a-Salut,7/23/2014,19,Bani Suheila,Khan Yunis,M
+Hassan Majdi Mahmoud Radwan,7/23/2014,19,Bani Suheila,Khan Yunis,M
+Muhammad Ahmad 'Abd al-Karim Abu Jame',7/23/2014,21,Bani Suheila,Khan Yunis,M
+Ahmad 'Abd al-Hakim 'Abdallah 'Asfur,7/23/2014,29,Bani Suheila,Khan Yunis,M
+Husam Ahmad Salamah al-Qara,7/23/2014,32,Bani Suheila,Khan Yunis,M
+Sha'ban Musa Muhammad Abu Hayah,7/23/2014,64,Bani Suheila,Khan Yunis,M
+Shamah 'Imad 'Alian Abu Raidah,7/22/2014,20,Bani Suheila,Khan Yunis,F
+Muhammad Radi Mahmoud Abu Raidah,7/22/2014,22,Bani Suheila,Khan Yunis,M
+Naji Jamal Muhammad al-Fajam,7/22/2014,26,Bani Suheila,Khan Yunis,M
+Fadi Sami Salem Barakah,7/21/2014,14,Bani Suheila,Khan Yunis,M
+Jihad Mahmoud 'Abd al-Hamid al-Mughrabi,7/21/2014,22,Bani Suheila,Khan Yunis,M
+Muhammad Mahmoud 'Abd al-Hamid al-Mughrabi,7/21/2014,23,Bani Suheila,Khan Yunis,M
+Muhammad 'Abd Rabo 'Ali al-Qara,7/21/2014,23,Bani Suheila,Khan Yunis,M
+Nidal 'Ali Muhammad Abu Daqah,7/21/2014,25,Bani Suheila,Khan Yunis,M
+Karam Ibrahim 'Abd a-Rahman Barham,7/21/2014,25,Bani Suheila,Khan Yunis,M
+Ibrahim As'ad 'Abd al-Qader al-Qara,7/21/2014,25,Bani Suheila,Khan Yunis,M
+'Abd al-Hamid Muhammad 'Abd al-Hamid al-Mughrabi,7/21/2014,30,Bani Suheila,Khan Yunis,M
+Nidal Jum'ah Muhammad Abu 'Aasi,7/21/2014,42,Bani Suheila,Khan Yunis,M
+Nujud Taysir Ahmad Abu Jame',7/20/2014,0,Bani Suheila,Khan Yunis,F
+Rinad Taysir Ahmad Abu Jame',7/20/2014,1,Bani Suheila,Khan Yunis,F
+Bisan Bassam Ahmad Abu Jame',7/20/2014,1,Bani Suheila,Khan Yunis,F
+Soheila Bassam Ahmad Abu Jame',7/20/2014,2,Bani Suheila,Khan Yunis,F
+Siraa Yasser Ahmad Abu Jame',7/20/2014,2,Bani Suheila,Khan Yunis,F
+Batul Bassam Ahmad Abu Jame',7/20/2014,3,Bani Suheila,Khan Yunis,F
+Siraj Yasser Ahmad Abu Jame',7/20/2014,4,Bani Suheila,Khan Yunis,M
+Rayan Taysir Ahmad Abu Jame',7/20/2014,4,Bani Suheila,Khan Yunis,M
+Tawfiq Tawfiq Ahmad Abu Jame',7/20/2014,5,Bani Suheila,Khan Yunis,M
+Sajed Yasser Ahmad Abu Jame',7/20/2014,5,Bani Suheila,Khan Yunis,M
+Husam Husam Muhammad Abu Qeins,7/20/2014,6,Bani Suheila,Khan Yunis,M
+Ayub Taysir Ahmad Abu Jame',7/20/2014,6,Bani Suheila,Khan Yunis,M
+Fatimah Taysir Ahmad Abu Jame',7/20/2014,7,Bani Suheila,Khan Yunis,F
+Ahmad Tawfiq Ahmad Abu Jame',7/20/2014,7,Bani Suheila,Khan Yunis,M
+Haifaa Tawfiq Ahmad Abu Jame',7/20/2014,9,Bani Suheila,Khan Yunis,F
+Aya Tawfiq Ahmad Abu Jame',7/20/2014,10,Bani Suheila,Khan Yunis,F
+Jawdat Tawfiq Ahmad Abu Jame',7/20/2014,13,Bani Suheila,Khan Yunis,M
+Razan Tawfiq Ahmad Abu Jame',7/20/2014,14,Bani Suheila,Khan Yunis,F
+Yasmin Ahmad Salamah Abu Jame',7/20/2014,25,Bani Suheila,Khan Yunis,F
+Fatimah Riyad 'Abd a-Rahman Abu Jame',7/20/2014,25,Bani Suheila,Khan Yunis,F
+Ahmad 'Abd a-Rahman Ahmad Abu Tayyem,7/20/2014,26,Bani Suheila,Khan Yunis,M
+Yasser Ahmad Muhammad Abu Jame',7/20/2014,27,Bani Suheila,Khan Yunis,M
+Shahinaz Walid Muhammad Abu Jame',7/20/2014,28,Bani Suheila,Khan Yunis,F
+Suliman 'Ali Ahmad Abu Fseifes,7/20/2014,30,Bani Suheila,Khan Yunis,M
+Ahmad Suliman Mahmoud Abu Sahmoud,7/20/2014,34,Bani Suheila,Khan Yunis,M
+Sabah Tawfiq Mahmoud Abu Jame',7/20/2014,39,Bani Suheila,Khan Yunis,F
+Fatimah Mahmoud Ahmad Abu Jame',7/20/2014,64,Bani Suheila,Khan Yunis,F
+Ahmad Walid Nasrallah Samur,7/19/2014,7,Bani Suheila,Khan Yunis,M
+Muhammad Isma'il Hussein Samur,7/19/2014,21,Bani Suheila,Khan Yunis,M
+Iyad Isma'il Suliman a-Raqab,7/19/2014,36,Bani Suheila,Khan Yunis,M
+Muhammad Sa'ed Mahmoud Abu Sa'adah,7/18/2014,26,Bani Suheila,Khan Yunis,M
+Muhammad Hamdan 'Abd al-Karim a-Shami,7/18/2014,27,Bani Suheila,Khan Yunis,M
+Hammad 'Abd al-Karim Hammad Abu Lihyah,7/18/2014,32,Bani Suheila,Khan Yunis,M
+Hani As'ad 'Abd al-Karim a-Shami,7/18/2014,35,Bani Suheila,Khan Yunis,M
+Salah Saleh Ramadan a-Shaf'i,7/17/2014,24,Bani Suheila,Khan Yunis,M
+Ibrahim Ramadan Hassan Abu Daqah,7/16/2014,9,Bani Suheila,Khan Yunis,M
+'Amru Ramadan Hassan Abu Daqah,7/16/2014,26,Bani Suheila,Khan Yunis,M
+Khadrah al-'Abed Salamah Abu Daqah,7/16/2014,79,Bani Suheila,Khan Yunis,F
+Isma'il Hassan 'Eid Abu Jame',7/10/2014,16,Bani Suheila,Khan Yunis,M
+Hassan 'Eid Hassan Abu Jame',7/10/2014,79,Bani Suheila,Khan Yunis,M
+Raafat Khalil Hamdan Abu al-'Alla,1/17/2009,46,Bani Suheila,Khan Yunis,M
+Muhammad Yunes Nseir Abu Jame',1/11/2009,17,Bani Suheila,Khan Yunis,M
+'Alaa Hamed Muhammad Abu Jame',1/11/2009,19,Bani Suheila,Khan Yunis,M
+Muhammad Isma'il 'Abed Abu Daqah,12/31/2008,17,Bani Suheila,Khan Yunis,M
+Nafez Kamal 'Abd al-Jawad Abu Sabt,12/31/2008,24,Bani Suheila,Khan Yunis,M
+Ibrahim Suliman Muhammad Barakah,12/29/2008,11,Bani Suheila,Khan Yunis,M
+Munir Ibrahim Ahmad Barham,1/3/2008,22,Bani Suheila,Khan Yunis,M
+Barham Fahmi Barham Abu Lihyah,1/3/2008,31,Bani Suheila,Khan Yunis,M
+Saed Jawad 'Abed Farwaneh,5/9/2023,27,al-Qararah,Khan Yunis,M
+Wael Muhammad Sabri al-Agha,5/9/2023,33,al-Qararah,Khan Yunis,M
+Malek Isma'il Ahmad Hamdan,5/10/2021,21,al-Qararah,Khan Yunis,M
+Munib Mahmoud Ahmad Hamdan,5/10/2021,23,al-Qararah,Khan Yunis,M
+Taha Mahmoud Taher al-'Aqad,5/10/2021,26,al-Qararah,Khan Yunis,M
+Mus'ab Muhammad Jamil Abu Hajaj,5/10/2021,26,al-Qararah,Khan Yunis,M
+Muhammad Musa Saleh a-Zinati,5/10/2021,27,al-Qararah,Khan Yunis,M
+Munib Majed Ibrahim Abu Mustafa,5/10/2021,28,al-Qararah,Khan Yunis,M
+'Abd a-Salam Sa'ed Isma'il al-'Ajili,5/10/2021,29,al-Qararah,Khan Yunis,M
+Muhammad Sabri Hussein Abu 'Obeidah,5/10/2021,30,al-Qararah,Khan Yunis,M
+Mahmoud Kamal Ibrahim Kulab,5/10/2021,31,al-Qararah,Khan Yunis,M
+Naji Jamil Hassan Abu 'Aasi,9/17/2018,16,al-Qararah,Khan Yunis,M
+'Alaa Ziad Jamil Abu 'Aasi,9/17/2018,19,al-Qararah,Khan Yunis,M
+'Atiyyah Muhammad 'Atwah al-'Amawi,4/29/2018,22,al-Qararah,Khan Yunis,M
+Yusef Ahmad 'Atwah al-'Amawi,4/29/2018,23,al-Qararah,Khan Yunis,M
+'Omar Wahid Nasrallah Abu Samur,3/30/2018,26,al-Qararah,Khan Yunis,M
+Taysir Yusef Muslem a-Smeiri,12/24/2014,34,al-Qararah,Khan Yunis,M
+Muhammad Husam Ahmad al-Barim,8/26/2014,13,al-Qararah,Khan Yunis,M
+'Omar Husam Ahmad al-Barim,8/26/2014,16,al-Qararah,Khan Yunis,M
+Yihya Farhan Ahmad Abu Jaber,8/26/2014,44,al-Qararah,Khan Yunis,M
+Musa Ahmad Qassem al-'Abadleh,8/22/2014,23,al-Qararah,Khan Yunis,M
+Ahmad Qassem Musa al-'Abadleh,8/22/2014,58,al-Qararah,Khan Yunis,M
+Mahmoud Muhammad Saleh Abu Hadaf,8/8/2014,8,al-Qararah,Khan Yunis,M
+Muhammad Saleh 'Ayesh Abu Hadaf,8/8/2014,9,al-Qararah,Khan Yunis,M
+Mahmoud Khaled Musa Abu Hadaf,8/8/2014,15,al-Qararah,Khan Yunis,M
+Suliman Samir Suliman Abu Hadaf,8/8/2014,19,al-Qararah,Khan Yunis,M
+'Udai Muhammad Qassem al-Astal,8/6/2014,22,al-Qararah,Khan Yunis,M
+Muhammad Helmi Ahmad al-'Abadleh,8/6/2014,22,al-Qararah,Khan Yunis,M
+Fadi Jihad Kamel Hamdan,8/6/2014,33,al-Qararah,Khan Yunis,M
+Muhammad Yihya 'Ali al-Astal,8/4/2014,18,al-Qararah,Khan Yunis,M
+Tawfiq Khalil Muhammad Islim,8/2/2014,19,al-Qararah,Khan Yunis,M
+Salah Jum'ah 'Ayash Islim,8/2/2014,25,al-Qararah,Khan Yunis,M
+Jum'ah 'Abdallah Jum'ah Islim,8/2/2014,34,al-Qararah,Khan Yunis,M
+'Imad Hassan Salman Mhanna,8/1/2014,23,al-Qararah,Khan Yunis,M
+Ahmad Isma'il Hassan al-Madhun,8/1/2014,23,al-Qararah,Khan Yunis,M
+al-Hassan Bin 'Ali Naji 'Antar al-Agha,8/1/2014,24,al-Qararah,Khan Yunis,M
+'Alaa Jamal 'Ali Abu Shamaleh,8/1/2014,25,al-Qararah,Khan Yunis,M
+Muhammad Yusef 'Abed al-'Abadleh,7/31/2014,21,al-Qararah,Khan Yunis,M
+Saaeb Talal Muhammad al-'Abadleh,7/30/2014,23,al-Qararah,Khan Yunis,M
+Ahmad 'Ali Muhammad Faruna,7/29/2014,23,al-Qararah,Khan Yunis,M
+Mustafa 'Abd al-Hai Muhammad al-'Abadleh,7/28/2014,27,al-Qararah,Khan Yunis,M
+Fadi Mahmoud Sa'ed al-Masri,7/26/2014,22,al-Qararah,Khan Yunis,M
+Rabah Rashed Muslem Fayad,7/26/2014,39,al-Qararah,Khan Yunis,M
+Muhammad Ahmad Matar al-'Abadleh,7/25/2014,32,al-Qararah,Khan Yunis,M
+Ahmad Musa Mustafa 'Awad,7/24/2014,32,al-Qararah,Khan Yunis,M
+Haitham Ahmad 'Abd a-Latif a-Smeiri,7/23/2014,12,al-Qararah,Khan Yunis,M
+Mahmoud Yusef Khaled al-'Abadleh,7/23/2014,21,al-Qararah,Khan Yunis,M
+Nur a-Din 'Abd a-Rahim Mustafa 'Abdallah,7/23/2014,22,al-Qararah,Khan Yunis,M
+Ahmad Maher Yusef Sihweil,7/23/2014,22,al-Qararah,Khan Yunis,M
+Wael Maher 'Abd a-Rahman 'Awwad,7/23/2014,25,al-Qararah,Khan Yunis,M
+Nur a-Din 'Adel Ahmad Mhanna,7/23/2014,27,al-Qararah,Khan Yunis,M
+Hassan Khalil Salah Abu Jamus,7/23/2014,29,al-Qararah,Khan Yunis,M
+'Adel Ahmad Salamah Mhanna,7/23/2014,54,al-Qararah,Khan Yunis,M
+Walid Suliman Salem Abu Dhaher,7/22/2014,20,al-Qararah,Khan Yunis,M
+Fadi Bashir 'Abdallah al-'Abadleh,7/21/2014,21,al-Qararah,Khan Yunis,M
+Muhammad Sa'id 'Abed 'Abd a-Ghafur,7/21/2014,22,al-Qararah,Khan Yunis,M
+Muhammad Ibrahim Salim Abu Hadaf,7/21/2014,22,al-Qararah,Khan Yunis,M
+Haitham Samir Khalil al-Agha,7/21/2014,24,al-Qararah,Khan Yunis,M
+'Abdallah 'Awni 'Abdallah al-Farra,7/21/2014,25,al-Qararah,Khan Yunis,M
+Sameh Zuheir Helmi a-Sawafiry,7/21/2014,28,al-Qararah,Khan Yunis,M
+Muhammad 'Abd al-Karim 'Atiyyah al-Masri,7/21/2014,30,al-Qararah,Khan Yunis,M
+Muhammad Musa Ibrahim Abu Fayad,7/21/2014,35,al-Qararah,Khan Yunis,M
+Muhammad Ahmad Muhammad a-Sa'idi,7/19/2014,18,al-Qararah,Khan Yunis,M
+Muhammad Na'im Muhammad Abu Lihyah,7/19/2014,26,al-Qararah,Khan Yunis,M
+'Abdallah Jamal Jum'ah a-Smeiri,7/18/2014,17,al-Qararah,Khan Yunis,M
+Mahmoud Muhammad Ahmad Fayad,7/18/2014,24,al-Qararah,Khan Yunis,M
+Muhammad 'Abd al-Fatah Rashed Fayad,7/18/2014,27,al-Qararah,Khan Yunis,M
+Iyad Yusef Ibrahim a-Sadi,7/18/2014,34,al-Qararah,Khan Yunis,M
+Hamzah Hassan 'Ali al-'Abadleh,7/17/2014,29,al-Qararah,Khan Yunis,M
+Kamal 'Atef Yusef Abu Taha,7/14/2014,19,al-Qararah,Khan Yunis,M
+Isma'il Nabil Ahmad Abu Hatab,7/14/2014,20,al-Qararah,Khan Yunis,M
+Muhammad Shakib 'Othman al-Agha,7/14/2014,22,al-Qararah,Khan Yunis,M
+Yusef Ibrahim Hassan al-Astal,7/14/2014,23,al-Qararah,Khan Yunis,M
+Ahmad Yunes Suliman Abu Yusef,7/14/2014,27,al-Qararah,Khan Yunis,M
+Muhammad Yunes Suliman Abu Yusef,7/14/2014,29,al-Qararah,Khan Yunis,M
+Ranim Jawdat 'Abd al-Karim 'Abd a-Ghafur,7/9/2014,1,al-Qararah,Khan Yunis,F
+Amal Yusef 'Abed 'Abd a-Ghafur,7/9/2014,33,al-Qararah,Khan Yunis,F
+Walid Mahmoud 'Abd al-Fatah 'Abdallah,11/15/2012,2,al-Qararah,Khan Yunis,M
+Salman Kamel Salman al-Qara,10/28/2012,27,al-Qararah,Khan Yunis,M
+Raafat Jawwad Adib Abu 'Eid,3/12/2012,24,al-Qararah,Khan Yunis,M
+'Abdallah 'Eid Hassan Mhanna,11/5/2011,27,al-Qararah,Khan Yunis,M
+Mahmoud Ahmad Difallah 'Abd a-Ghafur,1/5/2010,21,al-Qararah,Khan Yunis,M
+Jihad 'Abd a-Rahim Ahmad a-Smeiri,1/5/2010,22,al-Qararah,Khan Yunis,M
+'Iz a-Din 'Adel Khaled al-Farra,1/14/2009,13,al-Qararah,Khan Yunis,M
+Jamal Hussein Muslem a-Smeiri,1/9/2009,21,al-Qararah,Khan Yunis,M
+Maathar Muhammad Salem Zneid,1/8/2009,23,al-Qararah,Khan Yunis,F
+Faten 'Abd al-'Aziz Silmi Zneid,1/8/2009,31,al-Qararah,Khan Yunis,F
+Jihad 'Awwad 'Odeh Abu Mudif,1/8/2009,56,al-Qararah,Khan Yunis,M
+'Atwah 'Awwad 'Odeh Abu Mudif,1/8/2009,66,al-Qararah,Khan Yunis,M
+Ahmad Mubarak Hussein al-Shereihi,1/8/2009,75,al-Qararah,Khan Yunis,M
+Hamed Muhyi a-Din Hassan a-Smeiri,1/7/2009,50,al-Qararah,Khan Yunis,M
+Ahmad Muhammad Msallam Abu Hatab,12/31/2008,25,al-Qararah,Khan Yunis,M
+'Ammar Salim Darwish Salhiyeh,11/5/2008,21,al-Qararah,Khan Yunis,M
+Muhammad 'Amer Muhammad 'Asaliyah,6/17/2008,20,al-Qararah,Khan Yunis,M
+Nidal Khaled Sa'id a-Sadudi,6/17/2008,21,al-Qararah,Khan Yunis,M
+Mahmoud Muhammad Hassan a-Shanadi,6/17/2008,25,al-Qararah,Khan Yunis,M
+Mu'taz Muhammad Jum'ah Dughmosh,6/17/2008,27,al-Qararah,Khan Yunis,M
+Musa Fawzi Salman al-'Adini,6/17/2008,35,al-Qararah,Khan Yunis,M
+Hadil 'Abd al-Karim Suliman a-Smeiri,6/11/2008,6,al-Qararah,Khan Yunis,M
+Ibrahim Mahmoud Sa'ed al-Masri,6/11/2008,20,al-Qararah,Khan Yunis,M
+Yasser Muhammad 'Eid Abu Halib,6/11/2008,26,al-Qararah,Khan Yunis,M
+Tahrir Ziad 'Abd al-Hamid 'Abd a-Ghafur,5/13/2008,19,al-Qararah,Khan Yunis,M
+Muhammad Faiz Hussein Shameyah,4/9/2008,21,al-Qararah,Khan Yunis,M
+Bilal 'Abd Rabo Musa al-Astal,3/28/2008,16,al-Qararah,Khan Yunis,M
+Yusef Muhammad Hammad Abu Daher,3/24/2008,56,al-Qararah,Khan Yunis,M
+Hussein Hamdan Muhammad Abu 'Abed,3/20/2008,71,al-Qararah,Khan Yunis,M
+Saed 'Ali Salem Abu Hadaf,3/6/2008,19,al-Qararah,Khan Yunis,M
+Fadi Ahmad Suliman Abu Hadaf,3/6/2008,19,al-Qararah,Khan Yunis,M
+Zakaria Suliman 'Atwah al-'Amawi,3/6/2008,21,al-Qararah,Khan Yunis,M
+Amirah Khaled Faraj Abu 'Aser,3/4/2008,0,al-Qararah,Khan Yunis,F
+Yusef Suliman Hussein a-Smeiri,3/4/2008,47,al-Qararah,Khan Yunis,M
+Hassan Salman 'Ali Abu Sabt,2/26/2008,31,al-Qararah,Khan Yunis,M
+'Alaa 'Adnan Muhammad Abu Hadaf,2/12/2008,21,al-Qararah,Khan Yunis,M
+Muhammad Khdeir 'Abd a-Rahman Fayad,1/3/2008,17,al-Qararah,Khan Yunis,M
+Asmaa Hamdan 'Abd a-Rahim Fayad,1/3/2008,27,al-Qararah,Khan Yunis,F
+Sami Hamdan 'Abd a-Rahim Fayad,1/3/2008,28,al-Qararah,Khan Yunis,M
+Ahmad Hamdan 'Abd a-Rahim Fayad,1/3/2008,32,al-Qararah,Khan Yunis,M
+Karimah 'Abd a-Rahman Ahmad Fayad,1/3/2008,62,al-Qararah,Khan Yunis,F
+Hani Hassan 'Odeh Abu Rumeyyeh,11/29/2007,18,al-Qararah,Khan Yunis,M
+'Abdallah Amin Ahmad al-Astal,11/29/2007,22,al-Qararah,Khan Yunis,M
+Muhammad Samir al-'Abed Abu Libdah,9/6/2007,24,al-Qararah,Khan Yunis,M
+Muhammad Kamel Suliman Barakah,9/6/2007,24,al-Qararah,Khan Yunis,M
+Ghassan Mustafa S'ud a-Saqa,9/6/2007,25,al-Qararah,Khan Yunis,M
+Muhammad 'Abd al-Fatah Mustafa 'Abdallah,9/6/2007,30,al-Qararah,Khan Yunis,M
+Muhammad Ahmad Khalil Abu Salem,8/21/2007,22,al-Qararah,Khan Yunis,M
+Shadi Mustafa Ma'sud a-Saqa,8/21/2007,23,al-Qararah,Khan Yunis,M
+'Awadallah Ibrahim Ahmad Shatat,8/21/2007,26,al-Qararah,Khan Yunis,M
+Ashraf 'Abdallah 'Awwad Abu Daher,7/25/2006,25,al-Qararah,Khan Yunis,M
+Salamah Ahmad Ibrahim al-Bshiti,7/12/2006,20,al-Qararah,Khan Yunis,M
+Hisham Radwan Hussein Abu Nserah,7/12/2006,37,al-Qararah,Khan Yunis,M
+Kamel Hassan Musa al-Astal,8/24/2004,19,al-Qararah,Khan Yunis,M
+Ghalyah Hammad Muhammad Yunes,7/26/2004,50,al-Qararah,Khan Yunis,F
+Nahed Muhammad Swelem Abu Hadaf,5/9/2004,22,al-Qararah,Khan Yunis,M
+Ibrahim Muhammad Ahmad Hammad,5/2/2004,20,al-Qararah,Khan Yunis,M
+Feisal Muhammad Khalil Abu Nqeirah,5/2/2004,20,al-Qararah,Khan Yunis,M
+Muhammad Jihad al-Qadrah,5/29/2003,23,al-Qararah,Khan Yunis,M
+Ahmad Muhammad 'Abdallah a-Shihri,11/2/2019,27,al-Mawasi,Khan Yunis,M
+Salah a-Din Maher 'Ali Abu Sabhah,8/3/2014,23,al-Mawasi,Khan Yunis,M
+Raja Ahmad Darwish a-Sha'er,8/2/2014,49,al-Mawasi,Khan Yunis,M
+Yasser Zaki Madi Abu Madi,8/1/2014,21,al-Mawasi,Khan Yunis,M
+'Abd al-Karim Salah 'Abd al-Qader al-Ghazawi,8/1/2014,29,al-Mawasi,Khan Yunis,M
+Muhammad Samir 'Abd al-'Aal a-Najar,7/26/2014,25,al-Mawasi,Khan Yunis,M
+Baker Muhammad Khadura,1/6/2003,24,al-Mawasi,Khan Yunis,M
+Nassim Hassan Abu Maliah,1/6/2003,25,al-Mawasi,Khan Yunis,M
+Iyad Muhammad Abu Zayed,1/6/2003,26,al-Mawasi,Khan Yunis,M
+Duniana 'Adnan 'Atiyyah al-'Amur,8/5/2022,22,al-Fukhari,Khan Yunis,F
+'Abd al-'Aziz 'Abd al-Hamid 'Abd al-'Ati Abu Ta'imah,5/13/2021,24,al-Fukhari,Khan Yunis,M
+'Ammar Taysir Muhammad al-'Amur,5/12/2021,10,al-Fukhari,Khan Yunis,M
+Hamadah 'Atiyyah A'bed al-'Amur,5/12/2021,13,al-Fukhari,Khan Yunis,M
+Wael Mahmoud Ibrahim Sleih,5/10/2021,23,al-Fukhari,Khan Yunis,M
+Muhammad Yunes Ibrahim Abu Hijazi,5/10/2021,23,al-Fukhari,Khan Yunis,M
+Amjad Fouad Ahmad Kaware',5/10/2021,23,al-Fukhari,Khan Yunis,M
+Muhammad Rashid Khamis a-Najar,5/10/2021,25,al-Fukhari,Khan Yunis,M
+Muamen 'Omar Suliman Abu a-Naja,5/10/2021,26,al-Fukhari,Khan Yunis,M
+Fahed Jamal Hussein al-Farra,5/10/2021,26,al-Fukhari,Khan Yunis,M
+Tareq Musa 'Abdallah Abu Mustafa,5/10/2021,27,al-Fukhari,Khan Yunis,M
+'Abd a-Rahman Nazem Khaled a-Najar,5/10/2021,27,al-Fukhari,Khan Yunis,M
+'Abdallah Ahmad Ibrahim Abu Khater,5/10/2021,32,al-Fukhari,Khan Yunis,M
+Hussein Samir Hussein al-'Amur,5/27/2018,22,al-Fukhari,Khan Yunis,M
+Nassim Marwan Ibrahim al-'Amur,5/27/2018,25,al-Fukhari,Khan Yunis,M
+'Abd al-Halim 'Abd al-Karim a-Naqah,5/27/2018,27,al-Fukhari,Khan Yunis,M
+Zanah 'Atiyyah Muhammad al-'Amur,5/5/2016,59,al-Fukhari,Khan Yunis,F
+Mamduh Mlahi Suliman Abu Naja,7/26/2014,24,al-Fukhari,Khan Yunis,M
+Ashraf Qassem Mansur Wafi,7/26/2014,24,al-Fukhari,Khan Yunis,M
+Suliman Zaki 'Abd al-Wali a-Dardisi,7/26/2014,26,al-Fukhari,Khan Yunis,M
+Ahmad Shawqi Muhammad Abu Sa'adah,7/26/2014,26,al-Fukhari,Khan Yunis,M
+Ayman Akram Isma'il al-Ghalban,7/26/2014,27,al-Fukhari,Khan Yunis,M
+Ahmad Barham 'Alian Abu Daqah,7/26/2014,34,al-Fukhari,Khan Yunis,M
+Thaer Naji 'Amira al-'Amur,7/25/2014,21,al-Fukhari,Khan Yunis,M
+Salman Hamed Salman al-'Amur,7/25/2014,21,al-Fukhari,Khan Yunis,M
+Hamzah Fawzi Suliman Qdeih,7/23/2014,23,al-Fukhari,Khan Yunis,M
+Rif'at Nabil Ramadan 'Aweidah,7/23/2014,27,al-Fukhari,Khan Yunis,M
+Bahaa Rabi' Tawfiq 'Aweidah,7/23/2014,36,al-Fukhari,Khan Yunis,M
+Taysir Muhammad 'Ayesh a-Najar,7/23/2014,38,al-Fukhari,Khan Yunis,M
+'Itaf Kamel Muhammad Abu Daqah,7/23/2014,54,al-Fukhari,Khan Yunis,F
+Salman 'Abd al-Karim Suliman Abu 'Eid,7/23/2014,79,al-Fukhari,Khan Yunis,M
+Hamadah 'Abdallah Muhammad al-Bshiti,7/18/2014,20,al-Fukhari,Khan Yunis,M
+Ahmad Hassan Saleh al-Ghalban,7/18/2014,22,al-Fukhari,Khan Yunis,M
+Farid Mahmoud 'Ali Abu Daqah,7/16/2014,32,al-Fukhari,Khan Yunis,M
+Yusef Rohi Mahmoud Abu 'Abdu,10/31/2011,21,al-Fukhari,Khan Yunis,M
+'Ali 'Abdallah Hussein al-'Aqad,10/31/2011,25,al-Fukhari,Khan Yunis,M
+'Abd al-Hamid Muhammad 'Abd al-'Aziz Abu Daher,10/28/2018,13,a-Sureij,Khan Yunis,M
+Khaled Bassam Mahmoud Abu Sa'id,10/28/2018,14,a-Sureij,Khan Yunis,M
+Muhammad Ibrahim 'Abdallah a-Satari,10/28/2018,15,a-Sureij,Khan Yunis,M
+Muntasser Muhammad Isma'il al-Baz,10/23/2018,18,a-Sureij,Khan Yunis,M
+Muhammad Yusef Hussni Abu Ta'imah,5/10/2023,25,'Abasan al-Kabirah,Khan Yunis,M
+'Alaa Maher Yasin Abu Ta'imah,5/10/2023,28,'Abasan al-Kabirah,Khan Yunis,M
+Walid Zuheir Muhammad Abu Shab,5/14/2021,23,'Abasan al-Kabirah,Khan Yunis,M
+Mahmoud 'Abd al-Majid Salem al-Masri,12/8/2017,29,'Abasan al-Kabirah,Khan Yunis,M
+Salamah Musa Muhammad Abu Jame',11/6/2015,23,'Abasan al-Kabirah,Khan Yunis,M
+Marwan Hisham Na'im Barbakh,10/10/2015,10,'Abasan al-Kabirah,Khan Yunis,M
+Khalil 'Omar Musa 'Othman,10/10/2015,18,'Abasan al-Kabirah,Khan Yunis,M
+Hamuda Hisham Muhammad Muhsein (a-Raqab),10/9/2015,18,'Abasan al-Kabirah,Khan Yunis,M
+Jihad Zayed Salem A'beid,10/9/2015,20,'Abasan al-Kabirah,Khan Yunis,M
+'Adnan Musa Ahmad Abu 'Alayan,10/9/2015,23,'Abasan al-Kabirah,Khan Yunis,M
+Munzer Salman Suliman Qdeih,8/7/2014,23,'Abasan al-Kabirah,Khan Yunis,M
+Nabil Hassan Muhammad a-Najar,8/2/2014,18,'Abasan al-Kabirah,Khan Yunis,M
+Ahmad Kamal Ibrahim Abu Teir,8/2/2014,18,'Abasan al-Kabirah,Khan Yunis,M
+Huzaifah Nazmi Ahmad Abu Teir,8/2/2014,30,'Abasan al-Kabirah,Khan Yunis,M
+Kamal Ibrahim Suliman Abu Teir,8/2/2014,46,'Abasan al-Kabirah,Khan Yunis,M
+Ahmad Tawfiq Ahmad Abu Daqah,8/1/2014,29,'Abasan al-Kabirah,Khan Yunis,M
+Hanan Yusef Saleh Abu Ta'imah,7/31/2014,28,'Abasan al-Kabirah,Khan Yunis,F
+Naji 'Abdallah 'Abd a-Razeq Abu Mustafa,7/31/2014,30,'Abasan al-Kabirah,Khan Yunis,M
+Majdi Muhammad Ahmad Fseifes,7/31/2014,33,'Abasan al-Kabirah,Khan Yunis,M
+Hani 'Abd al-Qader Nasrallah Abu Mustafa,7/31/2014,33,'Abasan al-Kabirah,Khan Yunis,M
+Ashraf 'Abd al-'Aziz Mahmoud Abu Ta'imah,7/31/2014,45,'Abasan al-Kabirah,Khan Yunis,M
+Isma'il Walid Muhammad Abu Teir,7/30/2014,18,'Abasan al-Kabirah,Khan Yunis,M
+Anwar 'Adel Marzuq Abu Naser,7/30/2014,18,'Abasan al-Kabirah,Khan Yunis,M
+'Imad Faiz Suliman Qdeih,7/29/2014,24,'Abasan al-Kabirah,Khan Yunis,M
+Sharif Muhammad Salim Abu Hassan,7/27/2014,25,'Abasan al-Kabirah,Khan Yunis,M
+Khaled 'Abd a-Satart Muhammad Abu Sahmoud,7/26/2014,20,'Abasan al-Kabirah,Khan Yunis,M
+Jihad Naji Ahmad Abu 'Amer,7/26/2014,21,'Abasan al-Kabirah,Khan Yunis,M
+Hazem Fayez Salah Abu Shamaleh,7/26/2014,32,'Abasan al-Kabirah,Khan Yunis,M
+Mamduh Ibrahim Muhammad a-Shawaf,7/25/2014,24,'Abasan al-Kabirah,Khan Yunis,M
+Ibrahim Suliman Qablan Abu Qablan,7/24/2014,34,'Abasan al-Kabirah,Khan Yunis,M
+Hanafi Mahmoud Kamel Abu Yusef,7/24/2014,39,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Ibrahim Shihadah Abu Daqah,7/24/2014,41,'Abasan al-Kabirah,Khan Yunis,M
+'Adli Khalil Salem Abu Daqah,7/24/2014,44,'Abasan al-Kabirah,Khan Yunis,M
+Sami Musa Salem Abu Daqah,7/24/2014,45,'Abasan al-Kabirah,Khan Yunis,M
+Anwar Ahmad 'Abd al-Majid Abu Daqah,7/24/2014,45,'Abasan al-Kabirah,Khan Yunis,M
+Akram Ibrahim Shihadah Abu Daqah,7/24/2014,50,'Abasan al-Kabirah,Khan Yunis,M
+Zeinab Ahmad Ibrahim Abu Teir,7/24/2014,77,'Abasan al-Kabirah,Khan Yunis,F
+Zeinab Safwat 'Abed Abu Teir,7/23/2014,4,'Abasan al-Kabirah,Khan Yunis,F
+Muhammad Na'im Saleh Abu Ta'imah,7/23/2014,12,'Abasan al-Kabirah,Khan Yunis,M
+Nur Safwat 'Abed Abu Teir,7/23/2014,19,'Abasan al-Kabirah,Khan Yunis,F
+Maher 'Abd a-Rahman Musa Abu Darraz,7/23/2014,21,'Abasan al-Kabirah,Khan Yunis,M
+Shadi Hafez Muhammad Abu 'Amer,7/23/2014,27,'Abasan al-Kabirah,Khan Yunis,M
+Salem 'Abdallah Musa Abu Ta'imah,7/23/2014,36,'Abasan al-Kabirah,Khan Yunis,M
+Isma'il Mahmoud Muhammad Abu Zarifah,7/23/2014,58,'Abasan al-Kabirah,Khan Yunis,M
+Mahmoud Suliman Mahmoud Abu Sabhah,7/22/2014,58,'Abasan al-Kabirah,Khan Yunis,M
+Zikri Salman Shihadah Abu Daqah,7/21/2014,69,'Abasan al-Kabirah,Khan Yunis,M
+Zakaria Suliman Shihadah Abu Daqah,7/21/2014,69,'Abasan al-Kabirah,Khan Yunis,M
+Tamer Salem Muslem Qdeih,7/14/2014,36,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad 'Issam 'Omar al-Qassas,11/1/2013,23,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Rashid Hussein Dawood,11/1/2013,26,'Abasan al-Kabirah,Khan Yunis,M
+Khaled Muhammad Jum'ah Abu Bakrah,11/1/2013,34,'Abasan al-Kabirah,Khan Yunis,M
+Rabi' Khalil Suliman Abu Barakah,10/31/2013,21,'Abasan al-Kabirah,Khan Yunis,M
+Anwar 'Abd al-Hadi Muslem Qdeih,11/23/2012,19,'Abasan al-Kabirah,Khan Yunis,M
+Amirah Ahmad Ibrahim Abu Naser,11/21/2012,14,'Abasan al-Kabirah,Khan Yunis,F
+Ibrahim Mahmoud Naser Abu Naser,11/21/2012,79,'Abasan al-Kabirah,Khan Yunis,M
+Ahmad Yunes Khader Abu Daqah,11/8/2012,12,'Abasan al-Kabirah,Khan Yunis,M
+Suraqah Rashad Shihadah Qdeih,6/1/2012,17,'Abasan al-Kabirah,Khan Yunis,M
+Ahmad Ahmad Naser Abu Naser,6/1/2012,18,'Abasan al-Kabirah,Khan Yunis,M
+Naji Fawzi Fares Qdeih,6/1/2012,30,'Abasan al-Kabirah,Khan Yunis,M
+Hamadah Salman Ahmad Abu Mutlaq,3/12/2012,19,'Abasan al-Kabirah,Khan Yunis,M
+Mansur Kamal Muhammad Abu Nserah,3/10/2012,20,'Abasan al-Kabirah,Khan Yunis,M
+Hussein Salim Hussein Barham,3/10/2012,52,'Abasan al-Kabirah,Khan Yunis,M
+Nidal Ibrahim Hamdan Qdeih,4/8/2011,18,'Abasan al-Kabirah,Khan Yunis,F
+Najah Harb Salem Qdeih,4/8/2011,40,'Abasan al-Kabirah,Khan Yunis,F
+'Ali 'Abd al-Bari Ibrahim al-Qadrah,2/13/2009,28,'Abasan al-Kabirah,Khan Yunis,M
+Ousamah Khaled Hussein Abu Rjeileh,1/11/2009,16,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Akram Ibrahim Abu Daqah,1/8/2009,14,'Abasan al-Kabirah,Khan Yunis,M
+Ibrahim Akram Ibrahim Abu Daqah,1/8/2009,15,'Abasan al-Kabirah,Khan Yunis,M
+Ibrahim Muhammad Ibrahim Abu Teir,1/8/2009,56,'Abasan al-Kabirah,Khan Yunis,M
+Marwan Hassan 'Abd al-Maazun Qdeih,1/6/2009,4,'Abasan al-Kabirah,Khan Yunis,M
+Mu'az Yasser 'Abed Abu Teir,12/29/2008,6,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Jalal Shehdeh Abu Teir,12/29/2008,20,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad 'Abd al-'Aziz Khalil al-Qara,12/29/2008,23,'Abasan al-Kabirah,Khan Yunis,M
+Ziad al-'Abed Ahmad Abu Teir,12/29/2008,31,'Abasan al-Kabirah,Khan Yunis,M
+Yasser al-'Abed Ahmad Abu Teir,12/29/2008,31,'Abasan al-Kabirah,Khan Yunis,M
+Raafat Ahmad Rizeq Qdeih,2/5/2008,20,'Abasan al-Kabirah,Khan Yunis,M
+Ousamah 'Ali 'Ali Abu Sa'adah,2/5/2008,20,'Abasan al-Kabirah,Khan Yunis,M
+Ahmad Isma'il Ibrahim Mesbeh,2/5/2008,20,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Musa Muhammad Abu Sa'adah,2/5/2008,21,'Abasan al-Kabirah,Khan Yunis,M
+Wafi Hamad Muhammad Abu Yusef,2/5/2008,23,'Abasan al-Kabirah,Khan Yunis,M
+Mu'taz 'Abd a-Razeq A'bed Abu Shahla,2/5/2008,26,'Abasan al-Kabirah,Khan Yunis,M
+'Abd a-Naser Ibrahim Mahmoud Abu Naser,2/5/2008,32,'Abasan al-Kabirah,Khan Yunis,M
+Hani Ramzi Mahmoud Abu 'Eid,12/27/2007,19,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Faraj Shatat al-Masri,12/27/2007,21,'Abasan al-Kabirah,Khan Yunis,M
+Haitham Talal 'Abd al-'Aziz Abu al-'Alla,12/27/2007,21,'Abasan al-Kabirah,Khan Yunis,M
+'Awad Naji Muhammad al-Fajam,12/21/2007,21,'Abasan al-Kabirah,Khan Yunis,M
+Jihad Fawzi Suliman Qdeih,12/1/2007,19,'Abasan al-Kabirah,Khan Yunis,M
+Tamer Mahmoud Muhammad Abu Jame',12/1/2007,21,'Abasan al-Kabirah,Khan Yunis,M
+Ibrahim As'ad Hamdan al-Barim,12/1/2007,21,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Suliman Ibrahim Abu 'Anza,12/1/2007,23,'Abasan al-Kabirah,Khan Yunis,M
+Ziad Suliman Ibrahim Abu 'Anza,12/1/2007,39,'Abasan al-Kabirah,Khan Yunis,M
+Mahmoud Jamal Ahmad Radwan,10/30/2007,20,'Abasan al-Kabirah,Khan Yunis,M
+Isma'il Suliman Salem Qdeih,10/30/2007,22,'Abasan al-Kabirah,Khan Yunis,M
+Bilal Ibrahim Yusef Abu 'Awwad,10/30/2007,22,'Abasan al-Kabirah,Khan Yunis,M
+Maher Shehdeh Ibrahim Abu Teir,10/30/2007,24,'Abasan al-Kabirah,Khan Yunis,M
+Yasser Naser a-Din Salam 'Asfur,10/26/2007,27,'Abasan al-Kabirah,Khan Yunis,M
+Ahmad Suliman Ahmad Abu Hassan (Tabsh),10/25/2007,23,'Abasan al-Kabirah,Khan Yunis,M
+Ayman Salah Muhammad Fseifes,10/25/2007,24,'Abasan al-Kabirah,Khan Yunis,M
+Tsahib 'Adel Zar'i Qdeih,10/12/2006,11,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Ramadan Suliman Barakah,10/12/2006,18,'Abasan al-Kabirah,Khan Yunis,M
+Salah Rashad Shehdeh Qdeih,10/12/2006,20,'Abasan al-Kabirah,Khan Yunis,M
+'Abd a-Rahman 'Abdallah Muhammad Qdeih,10/12/2006,21,'Abasan al-Kabirah,Khan Yunis,M
+Nael Fawzi Suliman Qdeih,10/12/2006,22,'Abasan al-Kabirah,Khan Yunis,M
+'Adel Zar'i Mahmoud Qdeih,10/12/2006,40,'Abasan al-Kabirah,Khan Yunis,M
+Yusef Muhammad Salim Abu Daqah,8/24/2006,53,'Abasan al-Kabirah,Khan Yunis,M
+Mu'tasem Salman Fares Qdeih,8/15/2006,19,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Jamil Muhammad Khalifah,7/10/2006,18,'Abasan al-Kabirah,Khan Yunis,M
+Raafat Musa Salman Salma,7/10/2006,23,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Sabri Shehdeh Abu Teir,7/6/2006,20,'Abasan al-Kabirah,Khan Yunis,M
+Muhammad Suliman 'Ali a-Najar,7/6/2006,24,'Abasan al-Kabirah,Khan Yunis,M
+'Arafat Salim 'Abd a-Rahman Qdeih,10/12/2002,20,'Abasan al-Kabirah,Khan Yunis,M
+Jamal Muhammad Abu Hamad,3/6/2002,27,'Abasan al-Kabirah,Khan Yunis,M
+Mufideh Muhammad Abu Daqah,3/6/2002,47,'Abasan al-Kabirah,Khan Yunis,F
+'Abd al-Ghani 'Abd a-Rahman Abu Daqah,3/6/2002,57,'Abasan al-Kabirah,Khan Yunis,M
+Nayef Khaled Nayef al-'Odat,8/6/2022,10,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Fayez Hassan 'Arafat,5/16/2021,28,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Bashar Ahmad Ibrahim Samur,5/12/2021,17,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad 'Ali Hassan a-Na'em,2/23/2020,27,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Kamel Jihad Kamel Muhanna,5/14/2018,19,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Anas Hamdan Salem Qdeih,5/14/2018,20,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Ghassan Muhammad Abu Farhanah,5/14/2018,23,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Mahmoud Saber Hamad Abu Ta'imah,5/14/2018,23,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Iz a-Din Nahed Salman al-'Uweiti,5/14/2018,23,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Hassan Mustafa al-'Abadleh,5/14/2018,24,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Bilal Ahmad Saleh Abu Daqah,5/14/2018,25,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Salem 'Alian al-Jarf,5/14/2018,26,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Muhammad Ibrahim Hamdan,5/14/2018,27,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad 'Abd a-Rahman 'Ali Miqdad,5/14/2018,28,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Jihad Mufid 'Abd al-Mun'im al-Farra,5/14/2018,29,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Fadi Hassan Salman Abu Silmi,5/14/2018,29,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Wisam Yusef 'Abdallah Hijazi,5/14/2018,30,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Obaydah Salem 'Abd Rabo Farhan,5/14/2018,30,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Mahmoud Suliman Ibrahim 'Aqel,5/14/2018,32,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Abd a-Salam Yusef 'Abd a-Rahman 'Abd al-Wahab,5/14/2018,38,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Hammad Muhammad a-Dughmah,8/2/2014,30,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Huzaifah Ahmad 'Abd al-'Aziz Abu 'Alayan,7/30/2014,19,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Ali Muhammad 'Abd al-'Aziz Abu 'Anza,7/30/2014,27,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Khalil 'Abd al-Karim Abu 'Anza,7/30/2014,32,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Imad 'Ali Muhammad 'Asfur,7/30/2014,37,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Shadi 'Abdallah Musa Abu 'Anza,7/30/2014,38,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad 'Abdallah Musa Abu 'Anza,7/30/2014,42,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Suliman Mahmoud Barakah,7/30/2014,53,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Hani Jalal Ibrahim 'Asfur,7/24/2014,34,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Yusef Muhammad al-Qara,7/24/2014,38,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Ali Muhammad 'Ali 'Asfur,7/24/2014,58,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Rif'at Hassan a-Raqab,7/23/2014,23,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Salman Salman al-'Abed al-Barim,7/23/2014,27,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Raed Khalil Hamdan Abu Ta'imah,7/23/2014,33,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Ibrahim Hamdan Abu Ta'imah,7/23/2014,35,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Bassam Khaled Khalil Abu Shahla,7/23/2014,43,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Hamzah Ziad Suliman Abu 'Anza,7/22/2014,18,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Talal Ibrahim al-Jarf,7/22/2014,22,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Suliman Ahmad Suliman Abu Jame',7/20/2014,19,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Bahdar Khalil a-Daghameh,7/20/2014,25,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Mahmoud Musa 'Abdallah Abu 'Anza,7/20/2014,25,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Jihad Muhammad al-Qara,7/19/2014,29,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Bilal Isma'il Muhammad Abu Daqah,7/18/2014,30,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ibrahim Khalil Suliman Qablan,7/18/2014,37,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Rajaa Hammad Muhammad a-Daghameh,7/17/2014,36,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Abdallah Mahmoud Salman Abu Barakah,7/14/2014,25,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad 'Awad Mahmoud Abu 'Alayan,11/15/2012,14,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Jihad 'Ata Suliman a-Daghameh,3/26/2010,17,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Suliman 'Abd al-Hakim 'Aref 'Arafat,3/26/2010,20,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Haitham 'Abd al-Hakim 'Aref 'Arafat,3/26/2010,21,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Zaki Ahmad Abu 'Odeh,1/13/2009,19,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Rasha Ahmad Khalil a-Smeiri,1/13/2009,20,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,F
+Muamen Ahmad Jum'ah a-Smeiri,1/13/2009,21,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Musa Ahmad 'Arafat,1/6/2009,29,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Sami Jamil 'Abd al-'Aziz Abu 'Anza,5/7/2008,16,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muntasser Muhammad Jum'ah Abu 'Anza,5/7/2008,16,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Mahmoud Walid Dawood Abu Msalam,5/7/2008,19,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Wafa Shaker Muhammad a-Daghameh,5/7/2008,35,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,F
+Hani 'Abd a-Ra'uf Hussein Abu Salah,2/25/2008,18,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Thaer Ibrahim Yusef Musbeh,2/25/2008,21,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Imad Khalil Hassan Abu Ta'imah,11/29/2007,23,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Shaher 'Abd al-Karim Muhammad Shahin,11/29/2007,24,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ahmad Kamal Muhammad al-Qara,8/14/2007,18,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Muhammad Yusef Muhammad Msameh,8/14/2007,21,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Mus'ab Ahmad Ibrahim Abu Jame',8/14/2007,26,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Samir Muhammad Msallam 'Asfur,8/14/2007,27,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+'Omar Muhammad Hussein al-Qara,8/14/2007,30,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Ibrahim 'Abd al-Karim Muhammad a-Shami,8/14/2007,39,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Sabha Suliman Salman al-Qara,8/14/2007,69,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,F
+Ahmad Kamal Muhammad al-Barim,10/26/2006,17,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Lami Hmeidan Suliman Abu Lihyah,10/26/2006,27,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Zaher Ahmad Jum'ah Qdeih,10/13/2006,30,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,F
+Rami 'Ata Abu Shab,2/3/2003,25,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M
+Salem A'bed Qdeih,2/3/2003,65,'Abasan al-Jadidah (a-Saghirah),Khan Yunis,M

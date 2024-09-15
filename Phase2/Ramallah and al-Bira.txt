@@ -1,0 +1,280 @@
+Name,Date,Age,Location,District,Gender
+Muhammad Fouad 'Ata Bayed,7/21/2023,16,Um Safa,Ramallah and al-Bira,M
+'Abd al-Jawad Hamdan 'Abd al-Jawad Dar Saleh,7/7/2023,24,Um Safa,Ramallah and al-Bira,M
+Bassem Abu Shhadeh,3/24/2002,-1,Um Safa,Ramallah and al-Bira,M
+'Omar Hisham 'Abdallah Jbarah,6/21/2023,24,Turmusaya,Ramallah and al-Bira,M
+'Amer 'Abd a-Rahim Ahmad Snobar,10/25/2020,16,Turmusaya,Ramallah and al-Bira,M
+Muhammad Munir Hassan Saleh,11/17/2015,24,Turmusaya,Ramallah and al-Bira,M
+Saleh 'Omar Saleh Barghuthi,12/12/2018,28,Surda,Ramallah and al-Bira,M
+Yusef Nawaf Hussein Muhareb,5/14/2021,22,Sinjil,Ramallah and al-Bira,M
+Nashaat Jamal 'Abd a-Razeq 'Asfur,12/18/2015,34,Sinjil,Ramallah and al-Bira,M
+Muhammad Jasser Ibrahim Karakrah,4/8/2015,28,Sinjil,Ramallah and al-Bira,M
+Ahmad Hassan 'Abd al-Jalil Kahalah,1/15/2023,45,Silwad,Ramallah and al-Bira,M
+Muhammad 'Abdallah Salah Suliman,6/24/2022,16,Silwad,Ramallah and al-Bira,M
+'Omar Muhammad 'Alian Khalaylah,4/13/2022,19,Silwad,Ramallah and al-Bira,M
+Ayman Ahmad 'Othman Hamed,1/25/2019,17,Silwad,Ramallah and al-Bira,M
+Iyad Zakaria Muhammad Hamed,8/26/2016,36,Silwad,Ramallah and al-Bira,M
+A'bed Raed 'Abdallah Hamed,2/19/2016,19,Silwad,Ramallah and al-Bira,M
+Mahdiyah Muhammad Ibrahim Hammad,12/25/2015,39,Silwad,Ramallah and al-Bira,F
+Muhammad 'Abd a-Rahman Ahmad 'Ayad,12/18/2015,21,Silwad,Ramallah and al-Bira,M
+Anas Bassam 'Abd a-Rahim Hammad,12/4/2015,21,Silwad,Ramallah and al-Bira,M
+'Urwah 'Abd al-Wahab Abd al-Ghani Khaleq,10/24/2014,14,Silwad,Ramallah and al-Bira,M
+Muhammad Hussein 'Abd al-Qader Hamed,12/28/2008,18,Silwad,Ramallah and al-Bira,M
+Muhammad (Suliman) Muhammad 'Abdallah Hamed,5/17/2004,20,Silwad,Ramallah and al-Bira,M
+Raed Yusef Rashed Jadallah,8/31/2021,39,Saffa,Ramallah and al-Bira,M
+'Udai Nafez Fakhri Jaber,8/1/2014,19,Saffa,Ramallah and al-Bira,M
+Luai Mahmoud Khader Isteiti,3/14/2002,20,Rimmonim,Ramallah and al-Bira,M
+Khalil Bader Hussein al-Ghruz,3/14/2002,29,Rimmonim,Ramallah and al-Bira,M
+Mahdi Samir Muhammad Bayadsah,6/9/2023,29,Rantis,Ramallah and al-Bira,M
+Rashad Dhib Hassan Shawakhah,3/27/2012,27,Rammun,Ramallah and al-Bira,M
+Qassem Muhammad 'Ali 'Abasi,12/20/2018,17,Ramallah,Ramallah and al-Bira,M
+Muhammad 'Ali Mesbah Jabarin,9/17/2007,16,Ramallah,Ramallah and al-Bira,M
+'Omar Muhammad Mustafa 'Abd al-halim (Abu Zafer),5/29/2007,23,Ramallah,Ramallah and al-Bira,M
+Khaldun Jum'ah Taleb Shumann,2/2/2007,31,Ramallah,Ramallah and al-Bira,M
+Muhammad 'Ata 'Abd al-Qader Abu 'Arab,2/2/2007,33,Ramallah,Ramallah and al-Bira,M
+'Alaa Fawaz Muhammad Hamran,1/4/2007,16,Ramallah,Ramallah and al-Bira,M
+Yusef Muhammad 'Abd al-Qader 'Adur,1/4/2007,24,Ramallah,Ramallah and al-Bira,M
+Jamal Jamil 'Abd al-Jalil Jweiles,1/4/2007,29,Ramallah,Ramallah and al-Bira,M
+Khalil Mustafa Darwish al-Bayruti,1/4/2007,36,Ramallah,Ramallah and al-Bira,M
+'Alaa Faruk Sharif a-Rabi,8/28/2006,25,Ramallah,Ramallah and al-Bira,M
+Ayman (Rateb) Mesbah Khalil O'deh Jabarin,6/22/2006,29,Ramallah,Ramallah and al-Bira,M
+Milad 'Atallah Saleh Abu al-'Arayes,5/24/2006,19,Ramallah,Ramallah and al-Bira,M
+Ja'far Khaled Hussein Bilelu,5/24/2006,20,Ramallah,Ramallah and al-Bira,M
+Aysar Kamal Jamil Qassem Abu 'Ara,5/24/2006,20,Ramallah,Ramallah and al-Bira,M
+Ghaleb Rabah 'Abd al-'Aziz 'Allan,5/24/2006,26,Ramallah,Ramallah and al-Bira,M
+Muhammad Ghassan 'Othman Muhammad,11/21/2004,21,Ramallah,Ramallah and al-Bira,M
+Naser Sa'id Muhammad Jawabreh,11/21/2004,30,Ramallah,Ramallah and al-Bira,M
+Salam Ya'qub 'Issa Abu Hilaneh,11/21/2004,32,Ramallah,Ramallah and al-Bira,M
+Fawaz Mashur Muhammad Farhan,10/4/2004,28,Ramallah,Ramallah and al-Bira,M
+Ibrahim Ahmad Naser Taway'ah,10/4/2004,40,Ramallah,Ramallah and al-Bira,M
+Muhammad 'Abdallah Muhammad Jad al-Haq,9/9/2004,18,Ramallah,Ramallah and al-Bira,M
+Riyad Fakhri 'Aref Khalifah,12/14/2003,33,Ramallah,Ramallah and al-Bira,M
+Muayad Mazen 'Abed Hamdan,12/1/2003,12,Ramallah,Ramallah and al-Bira,M
+Ramzi Muhammad Ahmad Jaradat,10/21/2003,23,Ramallah,Ramallah and al-Bira,M
+Mahdi Abu 'Obeid,12/26/2002,17,Ramallah,Ramallah and al-Bira,M
+Samer Shmali,12/26/2002,22,Ramallah,Ramallah and al-Bira,M
+Bassam al-Ashqar,12/26/2002,26,Ramallah,Ramallah and al-Bira,M
+Ziad Barghouti,12/3/2002,18,Ramallah,Ramallah and al-Bira,M
+'Alaa al-Maluh,12/3/2002,20,Ramallah,Ramallah and al-Bira,M
+Rami Bashir,12/3/2002,23,Ramallah,Ramallah and al-Bira,M
+Adham 'Ali,12/3/2002,23,Ramallah,Ramallah and al-Bira,M
+Firas al-Bituni,12/3/2002,26,Ramallah,Ramallah and al-Bira,M
+'Issa Isma'il,9/22/2002,28,Ramallah,Ramallah and al-Bira,M
+'Issam Hamzah,9/22/2002,32,Ramallah,Ramallah and al-Bira,M
+'Abd a-Salam Samrin,9/19/2002,12,Ramallah,Ramallah and al-Bira,M
+Muhammad Sa'adat,8/20/2002,-1,Ramallah,Ramallah and al-Bira,M
+Tareq Hanji,6/6/2002,20,Ramallah,Ramallah and al-Bira,M
+'Ali Kashir,4/19/2002,16,Ramallah,Ramallah and al-Bira,M
+Manal Sufian,4/10/2002,28,Ramallah,Ramallah and al-Bira,F
+Kamal Badran,4/8/2002,30,Ramallah,Ramallah and al-Bira,M
+Sharif al-'Umari,4/6/2002,53,Ramallah,Ramallah and al-Bira,M
+Widad Hamid,4/2/2002,45,Ramallah,Ramallah and al-Bira,F
+Muhammad Muhammad,4/1/2002,32,Ramallah,Ramallah and al-Bira,M
+Murad Wafiq 'Awaisa,3/31/2002,17,Ramallah,Ramallah and al-Bira,M
+Nader As'ad,3/31/2002,21,Ramallah,Ramallah and al-Bira,M
+Jamal 'Abd a-Salam,3/31/2002,23,Ramallah,Ramallah and al-Bira,M
+Muhammad Jarum,3/31/2002,32,Ramallah,Ramallah and al-Bira,M
+Ahmad Kalab,3/31/2002,33,Ramallah,Ramallah and al-Bira,M
+Ayub Abu Musalem,3/31/2002,40,Ramallah,Ramallah and al-Bira,M
+Marwan Shushari,3/31/2002,56,Ramallah,Ramallah and al-Bira,M
+Khaled Fathi Mahmoud 'Awwad,3/30/2002,33,Ramallah,Ramallah and al-Bira,M
+'Omar Muhammad Musa,3/30/2002,54,Ramallah,Ramallah and al-Bira,M
+Isma'il Ibrahim Zayed,3/30/2002,56,Ramallah,Ramallah and al-Bira,M
+'Abd a-Rahman 'Abdallah,3/30/2002,58,Ramallah,Ramallah and al-Bira,M
+Sa'id Hamam 'Abd a-Rahman,3/30/2002,62,Ramallah,Ramallah and al-Bira,M
+Hussein al-Ashqar,3/29/2002,-1,Ramallah,Ramallah and al-Bira,M
+Suraydah Abu Gharbiya,3/29/2002,21,Ramallah,Ramallah and al-Bira,F
+Ahmad al-Masri,3/29/2002,21,Ramallah,Ramallah and al-Bira,M
+'Iz a-Din Hassan,3/29/2002,22,Ramallah,Ramallah and al-Bira,M
+'Atef Musa Qandil,3/29/2002,22,Ramallah,Ramallah and al-Bira,M
+Jad Hammad Khalif,3/29/2002,23,Ramallah,Ramallah and al-Bira,M
+'Alaa Daraghmeh,3/29/2002,23,Ramallah,Ramallah and al-Bira,M
+Azher al-'Aamriyah,3/29/2002,24,Ramallah,Ramallah and al-Bira,M
+Raed a-Dameisi,3/29/2002,25,Ramallah,Ramallah and al-Bira,M
+Naji Salem Ahmad A'bed,3/29/2002,27,Ramallah,Ramallah and al-Bira,M
+Khaled Muhammad 'Abd a-Ra'uf,3/29/2002,31,Ramallah,Ramallah and al-Bira,M
+Muhammad Bawatna,3/29/2002,38,Ramallah,Ramallah and al-Bira,M
+'Omar Hamayel,3/29/2002,43,Ramallah,Ramallah and al-Bira,M
+Jad Dar Salim,3/29/2002,52,Ramallah,Ramallah and al-Bira,M
+Ahmad Sa'id Khalil Gharbaleh,3/14/2002,20,Ramallah,Ramallah and al-Bira,M
+Fares Fares 'Abd a-Rahman,3/14/2002,22,Ramallah,Ramallah and al-Bira,M
+Muhammad Fayeq Abu Latifah,3/14/2002,24,Ramallah,Ramallah and al-Bira,M
+Muhammad Feisal Abu Nil,3/14/2002,28,Ramallah,Ramallah and al-Bira,M
+Maher Sharif 'Abd Rabo,3/14/2002,31,Ramallah,Ramallah and al-Bira,M
+Fouad 'Adili,3/13/2002,46,Ramallah,Ramallah and al-Bira,M
+Samer Wajih Yunes 'Awis,3/9/2002,27,Ramallah,Ramallah and al-Bira,M
+Jamil 'Abdallah 'Abdallah,3/5/2002,37,Ramallah,Ramallah and al-Bira,M
+Shaimaa 'Imad al-Masri,3/4/2002,4,Ramallah,Ramallah and al-Bira,F
+Muhammad Hussein Abu Kweik,3/4/2002,8,Ramallah,Ramallah and al-Bira,M
+Bara Hussein Abu Kweik,3/4/2002,14,Ramallah,Ramallah and al-Bira,F
+'Arafat Ibrahim al-Masri,3/4/2002,16,Ramallah,Ramallah and al-Bira,M
+'Aziza Hussein Abu Kweik,3/4/2002,17,Ramallah,Ramallah and al-Bira,F
+Bushara Abu Kweik,3/4/2002,38,Ramallah,Ramallah and al-Bira,F
+Zaki Zaki 'Amar,3/3/2002,21,Ramallah,Ramallah and al-Bira,M
+Walid Khaled Jamal a-Sheikh,2/21/2002,31,Ramallah,Ramallah and al-Bira,M
+Tamer Muhammad Kashur,1/25/2002,18,Ramallah,Ramallah and al-Bira,M
+Riyad Nasri Khatab,1/24/2002,26,Ramallah,Ramallah and al-Bira,M
+Hussein a-Zubeideh,1/21/2002,36,Ramallah,Ramallah and al-Bira,M
+Samer Sami 'Ali al-Qasbah,1/19/2002,15,Ramallah,Ramallah and al-Bira,M
+Hani 'Odeh,1/18/2002,22,Ramallah,Ramallah and al-Bira,M
+Musa al-Farra,12/13/2001,24,Ramallah,Ramallah and al-Bira,M
+Ahmad Damisi,12/13/2001,26,Ramallah,Ramallah and al-Bira,M
+Sa'id Mahmoud Abu Shmeis,10/21/2001,26,Ramallah,Ramallah and al-Bira,M
+Muhammad Diab Sama'aneh,10/20/2001,24,Ramallah,Ramallah and al-Bira,M
+Muhammad Ziad Abu Ras,10/18/2001,18,Ramallah,Ramallah and al-Bira,M
+Marwan Ibrahim Halifa,10/18/2001,25,Ramallah,Ramallah and al-Bira,M
+Wafi As'ad 'Othman a-She'ybi,1/12/2005,25,Qarawat Bani Zeid,Ramallah and al-Bira,M
+'Abdallah Yusef Muhammad a-Dik,1/12/2005,30,Qarawat Bani Zeid,Ramallah and al-Bira,M
+Samer Jasser Fawzi 'Arrar,2/12/2004,28,Qarawat Bani Zeid,Ramallah and al-Bira,M
+Tamer 'Arrar,5/26/2003,11,Qarawat Bani Zeid,Ramallah and al-Bira,M
+Ramez 'Aead Khalil 'Arrar,5/21/2003,16,Qarawat Bani Zeid,Ramallah and al-Bira,M
+Rasmiya Hamdallah Sharif 'Arrar,5/21/2003,35,Qarawat Bani Zeid,Ramallah and al-Bira,F
+Faker 'Aziz 'Azzat 'Arrar,4/24/2003,17,Qarawat Bani Zeid,Ramallah and al-Bira,M
+Ousamah Hamdallah Sharif 'Arrar,4/24/2003,24,Qarawat Bani Zeid,Ramallah and al-Bira,M
+Muhammad Jibril 'Abd a-Rahman Rumaneh,9/29/2023,18,Psagot,Ramallah and al-Bira,M
+Muhammad Ahmad Yusef Qatri,8/8/2014,18,Psagot,Ramallah and al-Bira,M
+Ramzi Fathi 'Abd a-Rahman Hamed,8/2/2023,17,Ofra,Ramallah and al-Bira,M
+Muhammad Rohi 'Abd al-Halim Hammad,5/14/2021,30,Ofra,Ramallah and al-Bira,M
+Sufyan Nawaf 'Abd al-Halim Khawaja,3/22/2020,31,Ni'lin,Ramallah and al-Bira,M
+'Aqel Sadeq 'Abd a-Rahman Srur,6/5/2009,36,Ni'lin,Ramallah and al-Bira,M
+Muhammad Sa'adat Fahmi al-Khawajah,12/28/2008,19,Ni'lin,Ramallah and al-Bira,M
+'Arafat Rateb Shukri al-Khawajah,12/28/2008,21,Ni'lin,Ramallah and al-Bira,M
+Yusef Ahmad Yunes 'Amira,7/31/2008,17,Ni'lin,Ramallah and al-Bira,M
+Ahmad Husam Yusef Musa,7/29/2008,10,Ni'lin,Ramallah and al-Bira,M
+Ibrahim 'Abd al-Karim 'Adel Shamlawi,1/8/2009,21,Ma'ale Adumim,Ramallah and al-Bira,M
+Hussein Salem Hussein Abu Ghosh,1/25/2017,18,Kochav Ya'akov,Ramallah and al-Bira,M
+Anas Ibrahim Muhammad Taha,8/9/2015,20,Kharbatha al-Misbah,Ramallah and al-Bira,M
+Ramadan Muhammad Ramadan Mteir,3/23/2006,21,Kharbatha al-Misbah,Ramallah and al-Bira,M
+Khaled 'Issa Khaled 'Atiyyah,3/15/2006,18,Kharbatha al-Misbah,Ramallah and al-Bira,M
+Yusef Raed Muhammad 'Anqawi,3/4/2019,19,Kafr Ni'ma,Ramallah and al-Bira,M
+Amir Muhammad Jum'ah Dar Daraj,3/4/2019,21,Kafr Ni'ma,Ramallah and al-Bira,M
+'Abd al-'Aziz Yusef al-Haj B'uirat,10/16/2008,20,Kafr Malik,Ramallah and al-Bira,M
+Nabil Suliman Muhammad B'uirat,12/1/2004,32,Kafr Malik,Ramallah and al-Bira,M
+Zafer 'Abd a-Rahman 'Abd al-Jawad Rimawi,11/29/2022,19,Kafr Ein,Ramallah and al-Bira,M
+Jawad 'Abd a-Rahman 'Abd al-Jawad Rimawi,11/29/2022,22,Kafr Ein,Ramallah and al-Bira,M
+'Omar Muhammad 'Abd al-Majid As'ad,1/12/2022,78,Jiljilya,Ramallah and al-Bira,M
+'Abdallah Faraj Muhammad Yihya a-Tamimi,10/22/2005,17,Halamish,Ramallah and al-Bira,M
+Fakhr Mahmoud Isma'il Abu Zayed,2/6/2020,52,Dolev,Ramallah and al-Bira,M
+Bilal Ibrahim Hussni Qadah,7/10/2023,33,Deir Nizam,Ramallah and al-Bira,M
+Mus'ab Firas 'Abd al-Ghafer a-Sufi,1/3/2018,16,Deir Nizam,Ramallah and al-Bira,M
+Mujahed Mahmoud Jum'ah Hamed,12/7/2022,32,Deir Dobwan,Ramallah and al-Bira,M
+Muhammad Damer Hamdan Matar,8/19/2020,16,Deir Abu Mash'al,Ramallah and al-Bira,M
+Faiz Fares Faiz 'Ata,3/11/2009,15,Deir Abu Mash'al,Ramallah and al-Bira,M
+'Abd al-Karim Khaled Salem Zahran,4/22/2007,15,Deir Abu Mash'al,Ramallah and al-Bira,M
+Islam Hashem Rizeq Zahran,4/18/2004,14,Deir Abu Mash'al,Ramallah and al-Bira,M
+Muhammad Ahmad 'Abdallah Zahran,12/2/2003,17,Deir Abu Mash'al,Ramallah and al-Bira,M
+Shaker Samarah,2/20/2002,40,Deir a-Sudan,Ramallah and al-Bira,M
+Maher Dughlas,11/19/2001,21,Burqah,Ramallah and al-Bira,M
+Lafy Yusef Mustafa 'Awad,11/13/2015,20,Budrus,Ramallah and al-Bira,M
+Samir Ahmad Muhammad 'Awad,1/15/2013,16,Budrus,Ramallah and al-Bira,M
+Fullah Rasmi 'Abd al-'Aziz Maluh,11/14/2022,14,Bitunya,Ramallah and al-Bira,F
+Muhammad Mahmoud 'Odeh Salamah,5/15/2014,16,Bitunya,Ramallah and al-Bira,M
+Nadim Siyam Ahmad Nawarah,5/15/2014,17,Bitunya,Ramallah and al-Bira,M
+Mu'tasem Rafiq Saleh a-Sharif,12/27/2007,22,Bitunya,Ramallah and al-Bira,M
+Hussein Mahmoud 'Awad 'Alian,4/16/2004,17,Bitunya,Ramallah and al-Bira,M
+Mahmoud Harfush,9/10/2002,32,Bitunya,Ramallah and al-Bira,M
+Riyad 'Alian Nayef,9/10/2002,39,Bitunya,Ramallah and al-Bira,M
+Muhammad Ghanem,5/16/2002,21,Bitunya,Ramallah and al-Bira,M
+Fadel Abu Zahira,4/18/2002,9,Bitunya,Ramallah and al-Bira,M
+Layth Fadel 'Issa al-Khaledi,7/31/2015,15,Bir Zeit,Ramallah and al-Bira,M
+Mu'taz 'Abd a-Rahim Ahmad Washahah,2/27/2014,26,Bir Zeit,Ramallah and al-Bira,M
+Islam Wael Fahmi Dar Naser,5/18/2021,16,Bil'in,Ramallah and al-Bira,M
+Muhammad Rabah Shukri 'Asi,10/22/2013,27,Bil'in,Ramallah and al-Bira,M
+Bassem Ibrahim Ahmad Abu Rahma,4/17/2009,31,Bil'in,Ramallah and al-Bira,M
+Saji Sayel Muhammad Jarab'ah,3/10/2014,20,Beitin,Ramallah and al-Bira,M
+Dawood 'Abd a-Razeq Fayez Fayez,8/31/2023,41,Beit Sira,Ramallah and al-Bira,M
+Ahmad Hazem 'Ata Zidani (Rimawi),12/18/2016,17,Beit Rima,Ramallah and al-Bira,M
+Kamel Barghouti,10/23/2001,20,Beit Rima,Ramallah and al-Bira,M
+'Abd al-Mu'ti Zawaweh,10/23/2001,22,Beit Rima,Ramallah and al-Bira,M
+Rafiq Saqer,10/23/2001,24,Beit Rima,Ramallah and al-Bira,M
+Qassem al-Mughrabi,10/23/2001,26,Beit Rima,Ramallah and al-Bira,M
+Haris Hiju,10/23/2001,29,Beit Rima,Ramallah and al-Bira,M
+Bahaa a-Din Samir Musa Bader,10/16/2014,12,Beit Liqya,Ramallah and al-Bira,M
+'Udai Mufid Mahmoud 'Asi,5/4/2005,14,Beit Liqya,Ramallah and al-Bira,M
+Jamal Jaber Ibrahim 'Asi,5/4/2005,15,Beit Liqya,Ramallah and al-Bira,M
+Qays 'Imad Khaled Shuja'iyah,10/15/2022,22,Beit El,Ramallah and al-Bira,M
+Jasem Muhammad Musa Nakhleh,3/23/2017,16,Beit El,Ramallah and al-Bira,M
+Muhammad Mahmoud Ibrahim Khatab,3/23/2017,17,Beit El,Ramallah and al-Bira,M
+Muhammad Riyad Nayef 'Alian,8/31/2009,15,Beit El,Ramallah and al-Bira,M
+Ashraf Mansur,10/31/2002,-1,Beit El,Ramallah and al-Bira,M
+Habbas 'Abd al-Hafiz Yusef Rayan,11/2/2022,54,Beit 'Ur al-Foqa,Ramallah and al-Bira,M
+Mahmoud Raafat Mahmoud Mustafa Badran,6/21/2016,15,Beit 'Ur a-Tahta,Ramallah and al-Bira,M
+Ahmad Jamal Muhammad Taha,11/23/2015,19,Beit 'Ur a-Tahta,Ramallah and al-Bira,M
+Raed Ghazi 'Eid Na'asan,11/29/2022,21,al-Mughayir,Ramallah and al-Bira,M
+'Ali Ayman Saleh Abu 'Alia,12/4/2020,15,al-Mughayir,Ramallah and al-Bira,M
+Layth Haitham Fathi Abu Na'im,1/30/2018,16,al-Mughayir,Ramallah and al-Bira,M
+Munadel Muhammad Saleh Abu 'Alia,1/23/2006,13,al-Mughayir,Ramallah and al-Bira,M
+'Odeh Muhammad 'Odeh Sadqah,6/2/2022,16,al-Midyah,Ramallah and al-Bira,M
+Mahdi Muhammad 'Abd al-Mu'ti Ladadwah,10/7/2022,17,al-Mazra'ah al-Qibliyah,Ramallah and al-Bira,M
+Muhammad Ibrahim Khalil Shreiteh,10/26/2018,28,al-Mazra'ah al-Qibliyah,Ramallah and al-Bira,M
+'Othman Ahmad 'Ali Ladadwah,10/26/2018,33,al-Mazra'ah al-Qibliyah,Ramallah and al-Bira,M
+Mus'ab Muhammad Mahmoud Nafal,11/5/2022,18,al-Mazra'ah a-Sharqiyah,Ramallah and al-Bira,M
+Maamun a-Ziben,7/28/2002,16,al-Mazra'ah a-Sharqiyah,Ramallah and al-Bira,M
+Salamah Raafat Muhammad Sa'id Sharay'ah,10/3/2022,18,al-Jalazun R.C.,Ramallah and al-Bira,M
+Khaled Fadi Muhammad 'Anbar,10/3/2022,20,al-Jalazun R.C.,Ramallah and al-Bira,M
+Mahmoud Yusef Mahmoud Nakhleh,12/14/2018,18,al-Jalazun R.C.,Ramallah and al-Bira,M
+Fares Ziad 'Ata Bayed,10/15/2016,15,al-Jalazun R.C.,Ramallah and al-Bira,M
+'Ali Mahmoud 'Abd a-Rahman Safi,3/18/2015,20,al-Jalazun R.C.,Ramallah and al-Bira,M
+Ahmad 'Arafat Hussni Samad'ah,6/16/2014,20,al-Jalazun R.C.,Ramallah and al-Bira,M
+Wajih Wajdi Wajih a-Ramahi,12/7/2013,15,al-Jalazun R.C.,Ramallah and al-Bira,M
+Muhammad 'Ali Nawar Hamdan,4/17/2009,16,al-Jalazun R.C.,Ramallah and al-Bira,M
+Muhammad Jamal Ahmad a-Ramahi,10/15/2008,21,al-Jalazun R.C.,Ramallah and al-Bira,M
+'Abd al-Qader Muhammad Badawi Zeid,10/14/2008,17,al-Jalazun R.C.,Ramallah and al-Bira,M
+Muhammad 'Imad Sa'ed Hasanein,7/3/2023,21,al-Birah,Ramallah and al-Bira,M
+Yazan 'Omar Jamil Khasib,3/17/2023,22,al-Birah,Ramallah and al-Bira,M
+Rani Maamun Fayez Abu 'Ali,11/29/2022,45,al-Birah,Ramallah and al-Bira,M
+Muhammad Fadi Hani Nuri,9/28/2022,16,al-Birah,Ramallah and al-Bira,M
+Haitham Hani Muhammad Mubarak,9/8/2022,16,al-Birah,Ramallah and al-Bira,M
+Yazan Na'im Diab 'Afanah,9/1/2022,27,al-Birah,Ramallah and al-Bira,M
+Thaer Khalil Muhammad Mislet,5/11/2022,16,al-Birah,Ramallah and al-Bira,M
+Muhammad 'Issa Mustafa A'bbas,12/22/2021,25,al-Birah,Ramallah and al-Bira,M
+Adham Fayez Musa Kashef,5/18/2021,20,al-Birah,Ramallah and al-Bira,M
+Muhammad Muhammad Ishaq Hamid,5/18/2021,25,al-Birah,Ramallah and al-Bira,M
+Fadi Sadeq Musa Washahah,5/15/2021,34,al-Birah,Ramallah and al-Bira,M
+Hamdan Tawfiq Naji 'Ardah,12/13/2018,58,al-Birah,Ramallah and al-Bira,M
+'Udai Akram Muhammad Abu Khalil,5/15/2018,15,al-Birah,Ramallah and al-Bira,M
+Muhammad Amin Mahmoud Shehdeh 'Aqel,12/15/2017,19,al-Birah,Ramallah and al-Bira,M
+Basel Mahmoud Ibrahim al-A'araj,3/6/2017,33,al-Birah,Ramallah and al-Bira,M
+Muhammad 'Abd al-Khaleq Rida Turkman,10/31/2016,25,al-Birah,Ramallah and al-Bira,M
+Amjad Jasser 'Awad Abu O'mar,1/31/2016,34,al-Birah,Ramallah and al-Bira,M
+Ibrahim 'Abd al-Halim Yusef Dawood,11/11/2015,16,al-Birah,Ramallah and al-Bira,M
+Sayed 'Abd al-Karim Khader a-Sheikh Qassem,12/1/2003,29,al-Birah,Ramallah and al-Bira,M
+Hasanein Hamdi Hasanein Rumaneh,12/1/2003,34,al-Birah,Ramallah and al-Bira,M
+Saleh Mahmoud Hasib a-Talahmeh,12/1/2003,38,al-Birah,Ramallah and al-Bira,M
+Fatimah 'Obeid,12/3/2002,94,al-Birah,Ramallah and al-Bira,F
+Muhannad Diriyah Munir Abu Halaweh,3/5/2002,23,al-Birah,Ramallah and al-Bira,M
+'Omar Hussein Nimer Qadan,3/5/2002,27,al-Birah,Ramallah and al-Bira,M
+Fawzi Murar,3/5/2002,27,al-Birah,Ramallah and al-Bira,M
+Muhammad Abu Ramadan,2/20/2002,55,al-Birah,Ramallah and al-Bira,M
+Sa'ad 'Abd al-Qader al-Aqra',10/19/2001,22,al-Birah,Ramallah and al-Bira,M
+'Issa Khaled 'Issa Qatri,9/10/2014,22,al-Am'ari R.C.,Ramallah and al-Bira,M
+Yasser Sawalha,6/10/2002,26,al-Am'ari R.C.,Ramallah and al-Bira,M
+Mu'taz 'Atallah Ibrahim Qassem,10/21/2015,22,Adam (Geva Binyamin),Ramallah and al-Bira,M
+Firas Musa Mahmoud Qasqas,12/2/2007,32,a-Tirah,Ramallah and al-Bira,M
+Muhammad Haitham Ibrahim Tamimi,6/1/2023,2,a-Nabi Saleh,Ramallah and al-Bira,M
+Qusai Mahmoud 'Ali Tamimi,10/25/2022,19,a-Nabi Saleh,Ramallah and al-Bira,M
+Nihad Amin Yunes Dar al-'Is (Barghuthi),2/15/2022,19,a-Nabi Saleh,Ramallah and al-Bira,M
+Muhammad Munir Muhammad Tamimi,7/23/2021,17,a-Nabi Saleh,Ramallah and al-Bira,M
+Fadi 'Adnan Sarhan Samarah,5/29/2020,38,a-Nabi Saleh,Ramallah and al-Bira,M
+'Iz a-Din 'Abd al-Hafiz Mahmoud Tamimi,6/6/2018,20,a-Nabi Saleh,Ramallah and al-Bira,M
+Muhammad 'Abdallah 'Ali Musa,10/31/2017,26,a-Nabi Saleh,Ramallah and al-Bira,M
+'Ammar Ahmad Lutfi Khalil,7/16/2017,33,a-Nabi Saleh,Ramallah and al-Bira,M
+Saba Nidal Shihadah A'beid,5/12/2017,22,a-Nabi Saleh,Ramallah and al-Bira,M
+Rushdi Mahmoud Hassan a-Tamimi,11/17/2012,30,a-Nabi Saleh,Ramallah and al-Bira,M
+Mustafa 'Abd a-Razaq Mustafa a-Tamimi,12/9/2011,28,a-Nabi Saleh,Ramallah and al-Bira,M
+Ma'an Naser a-Din Hassan Abu Qari',11/3/2016,23,'Ein Yabrud,Ramallah and al-Bira,M
+Rashad 'Ali Ahmad Khater,5/9/2008,20,'Ein Yabrud,Ramallah and al-Bira,M
+Muhammad Mahmoud 'Abd al-'Aziz Mubarak,1/29/2014,20,'Ein Siniya,Ramallah and al-Bira,M
+Ahmad Riyad Mahmoud Shihadah,5/3/2016,36,'Ein 'Arik,Ramallah and al-Bira,M
+'Umran al-'Odeh,4/8/2002,26,'Ein 'Arik,Ramallah and al-Bira,M
+Nassar Abu Salim,1/26/2002,27,'Ein 'Arik,Ramallah and al-Bira,M
+'Omar Amin Yusef Abu Layla,3/19/2019,18,'Ebwein,Ramallah and al-Bira,M
+Shahin Shwaeyl,4/8/2002,25,'Ebwein,Ramallah and al-Bira,M
+Fares Ibrahim Muhammad 'Abd al-Qader,12/9/2003,14,'Atarot,Ramallah and al-Bira,M
+Ahmad Nayef Taha Abu Latifah,9/14/2003,12,'Atarot,Ramallah and al-Bira,M
+Muhammad 'Uraib Ahmad al-Malukh,8/2/2007,15,'Atarah,Ramallah and al-Bira,M
+Rasmi Kadadheh,5/4/2002,43,'Atarah,Ramallah and al-Bira,M
+Diyaa Muhammad Shafiq Rahimi,12/8/2022,16,'Abud,Ramallah and al-Bira,M
+'Abd a-Rahman Wajih Ibrahim 'Abd al-Majid,12/4/2015,27,'Abud,Ramallah and al-Bira,M
+Muhammad Samih Hussein 'Asfur,2/22/2013,22,'Abud,Ramallah and al-Bira,M
+Muhammad Ibrahim 'Abd al-'Aziz Salemah (Barghuti),3/21/2007,17,'Abud,Ramallah and al-Bira,M

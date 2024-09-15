@@ -1,0 +1,825 @@
+Name,Date,Age,Location,District,Gender
+Mazen Yusef Suliman Abu Jriban,7/25/2014,30,Wadi a-Salqa,Deir al-Balah,M
+Ibtehal Ibrahim 'Ayesh a-Ramahi,7/22/2014,4,Wadi a-Salqa,Deir al-Balah,F
+Iman Ibrahim 'Ayesh a-Ramahi,7/22/2014,16,Wadi a-Salqa,Deir al-Balah,F
+Samira Sanad Muhammad al-Munifi,7/22/2014,19,Wadi a-Salqa,Deir al-Balah,F
+Yusef Ibrahim 'Ayesh a-Ramahi,7/22/2014,21,Wadi a-Salqa,Deir al-Balah,M
+Ahmad Kamel Ahmad Abu Mgheiseb,7/22/2014,23,Wadi a-Salqa,Deir al-Balah,M
+Raed 'Abd a-Rahman 'Abdallah Abu Mgheiseb,7/22/2014,33,Wadi a-Salqa,Deir al-Balah,M
+Salwa 'Abd al-'Aziz Ahmad al-Munifi,7/22/2014,49,Wadi a-Salqa,Deir al-Balah,F
+Fadi 'Azmi 'Abd al-Majid Brei'em,7/21/2014,17,Wadi a-Salqa,Deir al-Balah,M
+'Othman Salem 'Abd al-Majid Brei'em,7/21/2014,17,Wadi a-Salqa,Deir al-Balah,M
+Ayman Anwar Salem Brei'em,7/21/2014,39,Wadi a-Salqa,Deir al-Balah,M
+Salem 'Abd al-Majid Salem Brei'em,7/21/2014,50,Wadi a-Salqa,Deir al-Balah,M
+Ibrahim 'Alian Salamah Brei'em,7/21/2014,70,Wadi a-Salqa,Deir al-Balah,M
+Muhammad Salem Silmi Abu al-Breis,7/13/2014,79,Wadi a-Salqa,Deir al-Balah,M
+Suliman Salamah Suliman Abu Sawawin,7/8/2014,22,Wadi a-Salqa,Deir al-Balah,M
+Muhammad Zayed Salem A'beid,6/29/2014,26,Wadi a-Salqa,Deir al-Balah,M
+Nader Yasser Suliman Abu Mgheiseb,11/21/2012,15,Wadi a-Salqa,Deir al-Balah,M
+'Omar 'Ali Hammad Abu Mgheiseb,1/8/2009,19,Wadi a-Salqa,Deir al-Balah,M
+Nihad Muhammad Fayad Abu Kmeil,1/13/2009,29,Netzarim Junction,Deir al-Balah,M
+'Abd a-Rahman Ahmad Abu 'Oriban,10/8/2001,34,Netzarim Junction,Deir al-Balah,M
+Jihad Kamal Hassan Ahmad,1/4/2009,17,Netzarim,Deir al-Balah,F
+Rida Khalil Hassan 'Ali,1/4/2009,42,Netzarim,Deir al-Balah,F
+a-Sayed 'Abd al-Mu'ti a-Sayed Zaqer,1/27/2005,33,Netzarim,Deir al-Balah,M
+Mustafa Jheini Zayed a-Sawarkah,12/15/2004,34,Netzarim,Deir al-Balah,M
+Khamis Yusef Muhammad al-Ghazali,11/29/2004,20,Netzarim,Deir al-Balah,M
+Muhammad Khalil 'Odeh al-Kharubi,11/29/2004,22,Netzarim,Deir al-Balah,M
+Bilal Ahmad Hassan Diab,11/11/2004,19,Netzarim,Deir al-Balah,M
+Nur a-Din Khamis Murtaja,11/11/2004,19,Netzarim,Deir al-Balah,M
+Muhammad Fathi Ahmad al-Khuli,11/11/2004,25,Netzarim,Deir al-Balah,M
+Intesar Ahmad Jaber Darwish,11/11/2004,45,Netzarim,Deir al-Balah,F
+Muhammad Talal Hussein Jaber,9/29/2004,17,Netzarim,Deir al-Balah,M
+Ajma'yan 'Ali Suliman Abu Shaqora,4/17/2004,30,Netzarim,Deir al-Balah,M
+Iyad Mahmoud Majd a-Taharawi,4/12/2004,22,Netzarim,Deir al-Balah,M
+Ahmad Rafiq Sa'id Hamdan,3/14/2004,22,Netzarim,Deir al-Balah,M
+Mahmoud Sa'di Sa'id 'Aleiwa,3/14/2004,22,Netzarim,Deir al-Balah,M
+Muhammad Mufid Saleh al-Mbayed,3/14/2004,22,Netzarim,Deir al-Balah,M
+'Ammar Muhammad Muhammad Hassan,3/3/2004,20,Netzarim,Deir al-Balah,M
+Atrad Salah Ibrahim al-Jamal,3/3/2004,25,Netzarim,Deir al-Balah,M
+Ibrahim Muhammad Swelem a-Diri,3/3/2004,34,Netzarim,Deir al-Balah,M
+Muhammad Suliman Khalil Sarsur,11/22/2003,24,Netzarim,Deir al-Balah,M
+Samir Muhammad Hamed Fuda,10/24/2003,22,Netzarim,Deir al-Balah,M
+Muhammad Mu'in al-Asqafi,6/9/2003,21,Netzarim,Deir al-Balah,M
+Tareq 'Adel 'Abd a-Razaq al-Masri,6/9/2003,24,Netzarim,Deir al-Balah,M
+Taleb Jum'ah Badiyeh Smalekh,4/7/2003,16,Netzarim,Deir al-Balah,M
+Muhammad Faruk Tafesh,3/30/2003,16,Netzarim,Deir al-Balah,M
+'Alaa Muhammad Karam,3/7/2003,20,Netzarim,Deir al-Balah,M
+'Imad Amin Fanunah,3/7/2003,20,Netzarim,Deir al-Balah,M
+Yusef 'Ali Mansur,3/7/2003,20,Netzarim,Deir al-Balah,M
+'Abdallah al-Ashab,3/4/2003,75,Netzarim,Deir al-Balah,M
+Yusef 'Atiyyah Abu Shria'h,2/23/2003,19,Netzarim,Deir al-Balah,M
+Karam Taysir al-Maghni,1/13/2003,19,Netzarim,Deir al-Balah,M
+Jamal Mahmoud Abu al-Qambaz,1/13/2003,20,Netzarim,Deir al-Balah,M
+'Issam Muhammad a-Susi,12/26/2002,21,Netzarim,Deir al-Balah,M
+Mahmoud Shaladan,12/2/2002,19,Netzarim,Deir al-Balah,M
+Fahmi Abu Hussein,11/22/2002,26,Netzarim,Deir al-Balah,M
+Anwaar Khaled Isma'il al-Hindi,7/6/2002,2,Netzarim,Deir al-Balah,F
+Randah Khaled Isma'il al-Hindi,7/6/2002,45,Netzarim,Deir al-Balah,F
+Ousamah Ahmad Jaber a-Najar,6/11/2002,24,Netzarim,Deir al-Balah,M
+Shadi Abu Wali,6/11/2002,24,Netzarim,Deir al-Balah,M
+Ahmad a-Sharihi,6/11/2002,26,Netzarim,Deir al-Balah,M
+Salman Muhammad Salman Qadum,6/11/2002,26,Netzarim,Deir al-Balah,M
+'Abed a-Rahman al-Habash,6/11/2002,32,Netzarim,Deir al-Balah,M
+Anwaar Hamduneh,4/23/2002,13,Netzarim,Deir al-Balah,M
+Isma'il Abu Nadi,4/23/2002,13,Netzarim,Deir al-Balah,M
+Yusef Zakut,4/23/2002,14,Netzarim,Deir al-Balah,M
+Haitham Abu Shuqah,4/18/2002,19,Netzarim,Deir al-Balah,M
+Ahmad Muhammad Nayef Khzeiq,3/29/2002,22,Netzarim,Deir al-Balah,M
+Nashaat Hamdan Abu 'Aasi,3/24/2002,23,Netzarim,Deir al-Balah,M
+Isma'il Hamdan,3/16/2002,25,Netzarim,Deir al-Balah,M
+Nahed Muhammad 'Issa,3/16/2002,28,Netzarim,Deir al-Balah,M
+Muhammad Ahmad Hilis,3/12/2002,18,Netzarim,Deir al-Balah,M
+Bilal Faiz Shihadah,3/12/2002,19,Netzarim,Deir al-Balah,M
+Nabil al-Masr'I,3/11/2002,25,Netzarim,Deir al-Balah,M
+Muhammad Nafez 'Abed Fatuh,3/6/2002,20,Netzarim,Deir al-Balah,M
+Saqer Maher Salam al-Bal,3/6/2002,21,Netzarim,Deir al-Balah,M
+Mahmoud Rajab 'Abd a-Rahim Bu'ari,12/28/2001,24,Netzarim,Deir al-Balah,M
+Rami Muhammad Mansur,11/28/2001,23,Netzarim,Deir al-Balah,M
+Anwaar Muhammad Suliman al-'Atawi,6/18/2005,25,Kfar Darom,Deir al-Balah,M
+Muhammad Ribhi Rashed Barakah,5/20/2005,23,Kfar Darom,Deir al-Balah,M
+Muhammad Khalil Muhammad al-Qayed,10/31/2004,22,Kfar Darom,Deir al-Balah,M
+'Ali Khaled 'Ali al-Jaru,10/6/2004,17,Kfar Darom,Deir al-Balah,M
+Iyad Faiz Yusef Abu al-'Ata,10/6/2004,21,Kfar Darom,Deir al-Balah,M
+Rami 'Abd a-Rahman Muhammad Abu Mhessen,10/6/2004,21,Kfar Darom,Deir al-Balah,M
+Muhammad Jamal Jaber Abu Misbah,9/2/2004,14,Kfar Darom,Deir al-Balah,M
+Muhammad Jamal 'Abd al-Karim Barakah,9/2/2004,18,Kfar Darom,Deir al-Balah,M
+Shadi Samir Muhammad Abu Ghurab,9/2/2004,18,Kfar Darom,Deir al-Balah,M
+Ahmad 'Amer Ahmad Abu Shawish,9/2/2004,19,Kfar Darom,Deir al-Balah,M
+'Imad Abu Gharqud,3/10/2003,19,Kfar Darom,Deir al-Balah,M
+Muhammad 'Ayash,3/10/2003,19,Kfar Darom,Deir al-Balah,M
+Wafa a-Dusoqi,8/23/2002,23,Kfar Darom,Deir al-Balah,M
+Moshin 'Atiyyah al-Atrash,5/16/2002,17,Kfar Darom,Deir al-Balah,M
+Ahmad al-'Araj,4/15/2002,27,Kfar Darom,Deir al-Balah,M
+Muhammad Abu 'Obeid,3/19/2002,26,Kfar Darom,Deir al-Balah,M
+Salah a-Razal,11/2/2001,45,Kfar Darom,Deir al-Balah,M
+Shaimaa Ibrahim Jamal a-Sheikh 'Ali,7/25/2014,0,Deir al-Balah R.C.,Deir al-Balah,F
+Shaimaa Hussein 'Abd al-Qader a-Sheikh 'Ali,7/25/2014,22,Deir al-Balah R.C.,Deir al-Balah,F
+'Abdallah Mustafa Muhammad Abu Mahruqah,7/10/2014,21,Deir al-Balah R.C.,Deir al-Balah,M
+Fawzi Mahmoud Abu al-'Araj,1/8/2009,21,Deir al-Balah R.C.,Deir al-Balah,M
+Khalil Madi Muhammad al-Hasanat,1/6/2009,19,Deir al-Balah R.C.,Deir al-Balah,M
+Husam Fathi Abu a-Subuh,1/6/2009,21,Deir al-Balah R.C.,Deir al-Balah,M
+'Alaa Isma'il Jaber Isma'il,1/6/2009,22,Deir al-Balah R.C.,Deir al-Balah,M
+Hassan Ahmad Mesmeh,1/6/2009,22,Deir al-Balah R.C.,Deir al-Balah,M
+Muhammad Muhammad Abu Sha'ira,1/6/2009,24,Deir al-Balah R.C.,Deir al-Balah,M
+Muhammad Rizeq al-Bana,1/6/2009,25,Deir al-Balah R.C.,Deir al-Balah,M
+Ahmad A'bed Hamad al-Hasanat,1/6/2009,33,Deir al-Balah R.C.,Deir al-Balah,M
+Yasser 'Atiyyah Muhammad al-Masri,5/19/2021,40,Deir al-Balah,Deir al-Balah,M
+Yusef Rafiq Isma'il al-Baz,5/17/2021,13,Deir al-Balah,Deir al-Balah,M
+Khaled Salem Hassan al-Masalhah,5/16/2021,49,Deir al-Balah,Deir al-Balah,M
+Muhammad Khaled 'Omar a-Tawashi,5/13/2021,21,Deir al-Balah,Deir al-Balah,M
+Manar 'Abd al-Karim Muhammad Barakah,5/11/2021,18,Deir al-Balah,Deir al-Balah,M
+Munzer 'Abd al-Karim Muhammad Barakah,5/11/2021,21,Deir al-Balah,Deir al-Balah,M
+Firas Rasmi Salem a-Sawarkah,11/14/2019,1,Deir al-Balah,Deir al-Balah,M
+Salem Rasmi Salem a-Sawarkah,11/14/2019,2,Deir al-Balah,Deir al-Balah,M
+Mu'az Muhammad Salem a-Sawarkah,11/14/2019,7,Deir al-Balah,Deir al-Balah,M
+Muhannad Rasmi Salem a-Sawarkah,11/14/2019,12,Deir al-Balah,Deir al-Balah,M
+Wasim Muhammad Salem a-Sawarkah,11/14/2019,13,Deir al-Balah,Deir al-Balah,M
+Maryam Salem Naser a-Sawarkah,11/14/2019,33,Deir al-Balah,Deir al-Balah,F
+Yusra Muhammad 'Awwad a-Sawarkah,11/14/2019,39,Deir al-Balah,Deir al-Balah,F
+Muhammad Salem 'Odeh a-Sawarkah,11/14/2019,40,Deir al-Balah,Deir al-Balah,M
+Rasmi Salem 'Odeh a-Sawarkah,11/14/2019,45,Deir al-Balah,Deir al-Balah,M
+'Abdallah Ashraf 'Abed al-Ghamri,8/10/2019,19,Deir al-Balah,Deir al-Balah,M
+Ahmad Ayman Musa al-'Adini,8/10/2019,20,Deir al-Balah,Deir al-Balah,M
+'Abdallah Isma'il 'Alian al-Hamaydah,8/10/2019,21,Deir al-Balah,Deir al-Balah,M
+Rashad Saleh Suliman al-Badini,8/10/2019,29,Deir al-Balah,Deir al-Balah,M
+Bayan Muhammad Kamel Abu Khamash,8/9/2018,1,Deir al-Balah,Deir al-Balah,F
+Inas Suliman Ahmad Abu Khamash,8/9/2018,22,Deir al-Balah,Deir al-Balah,F
+Adam Ahmad Muhammad Khatab,8/24/2014,26,Deir al-Balah,Deir al-Balah,M
+Mahmoud Ahmad Jum'ah al-'Attar,8/24/2014,30,Deir al-Balah,Deir al-Balah,M
+Hussein Khaled Hussein Ahmad,8/23/2014,7,Deir al-Balah,Deir al-Balah,M
+Nisreen Ibrahim Isma'il Ahmad,8/23/2014,38,Deir al-Balah,Deir al-Balah,F
+Suhair 'Abd al-Karim Hamad Abu Madyan,8/23/2014,43,Deir al-Balah,Deir al-Balah,F
+Hadi Hayel Shehdeh Abu Dahruj,8/22/2014,1,Deir al-Balah,Deir al-Balah,M
+'Abdallah Hayel Shehdeh Abu Dahruj,8/22/2014,3,Deir al-Balah,Deir al-Balah,M
+Huda Muhammad Khamis Abu Dahruj,8/22/2014,27,Deir al-Balah,Deir al-Balah,F
+Hayel Shehdeh 'Abd Rabo Abu Dahruj,8/22/2014,28,Deir al-Balah,Deir al-Balah,M
+Ibrahim Rashed Ahmad Barakah,8/22/2014,43,Deir al-Balah,Deir al-Balah,M
+Hayat 'Abd Rabo Suliman Abu Dahruj,8/22/2014,49,Deir al-Balah,Deir al-Balah,F
+Mahmoud Tal'at Ahmad Abu Shreiteh,8/21/2014,13,Deir al-Balah,Deir al-Balah,M
+Bashir Ahmad Muhammad Abu Shreiteh,8/21/2014,26,Deir al-Balah,Deir al-Balah,M
+Nabilah's son Raafat Mustafa a-Loh,8/20/2014,0,Deir al-Balah,Deir al-Balah,M
+Farah Raafat Mustafa a-Loh,8/20/2014,6,Deir al-Balah,Deir al-Balah,F
+Meyasar Raafat Mustafa a-Loh,8/20/2014,8,Deir al-Balah,Deir al-Balah,M
+Mustafa Raafat Mustafa a-Loh,8/20/2014,9,Deir al-Balah,Deir al-Balah,M
+Saher Muhammad Haydar al-'Abet,8/20/2014,11,Deir al-Balah,Deir al-Balah,M
+Muhammad 'Imad Haydar al-'Abet,8/20/2014,15,Deir al-Balah,Deir al-Balah,M
+Iman Yunes Qassem a-Loh,8/20/2014,17,Deir al-Balah,Deir al-Balah,F
+Ahmad Mustafa Mahmoud a-Loh,8/20/2014,21,Deir al-Balah,Deir al-Balah,M
+Muhammad Mustafa Mahmoud a-Loh,8/20/2014,21,Deir al-Balah,Deir al-Balah,M
+Nabilah 'Eid Salamah a-Loh,8/20/2014,29,Deir al-Balah,Deir al-Balah,F
+Raafat Mustafa Mahmoud a-Loh,8/20/2014,31,Deir al-Balah,Deir al-Balah,M
+Ahmad Muhammad 'Atiyyah al-Masri,8/10/2014,14,Deir al-Balah,Deir al-Balah,M
+Mahmoud Muhammad Ahmad al-Jurani,8/9/2014,32,Deir al-Balah,Deir al-Balah,M
+Ahmad Anwar 'Abd al-Qader al-Kurd,8/4/2014,27,Deir al-Balah,Deir al-Balah,M
+Rimas Salem Mahmoud al-'Attar,8/3/2014,4,Deir al-Balah,Deir al-Balah,F
+Tareq 'Eid Salamah Abu Mashi,8/3/2014,11,Deir al-Balah,Deir al-Balah,M
+Dalia 'Atwah Suliman Khatab,8/3/2014,15,Deir al-Balah,Deir al-Balah,F
+Fatimah Muhammad Mahmoud Abu 'Amrah,8/3/2014,21,Deir al-Balah,Deir al-Balah,F
+Safaa 'Atwah Suliman Khatab,8/3/2014,21,Deir al-Balah,Deir al-Balah,F
+Suliman 'Atwah Suliman Khatab,8/3/2014,23,Deir al-Balah,Deir al-Balah,M
+Muhammad 'Atwah Suliman Khatab,8/3/2014,26,Deir al-Balah,Deir al-Balah,M
+Nivin Suliman Salamah Khatab,8/3/2014,29,Deir al-Balah,Deir al-Balah,F
+Amirah Ahmad 'Ali Khatab,8/3/2014,54,Deir al-Balah,Deir al-Balah,F
+'Atwah Suliman 'Ali Khatab,8/3/2014,63,Deir al-Balah,Deir al-Balah,M
+Muhammad Jam'an Ahmad Haneideq,8/3/2014,65,Deir al-Balah,Deir al-Balah,M
+Ahmad Bassem Mahmoud a-Loh,7/31/2014,22,Deir al-Balah,Deir al-Balah,M
+Ilham Yihya Khamis a-Loh,7/31/2014,26,Deir al-Balah,Deir al-Balah,F
+Suliman Sa'ed Suliman Barakah,7/31/2014,30,Deir al-Balah,Deir al-Balah,M
+Kamal 'Abd al-Karim Suliman a-Loh,7/31/2014,32,Deir al-Balah,Deir al-Balah,M
+Ibrahim 'Abd al-Karim Suliman a-Loh,7/31/2014,39,Deir al-Balah,Deir al-Balah,M
+Khaled Naser 'Ali a-Loh,7/31/2014,45,Deir al-Balah,Deir al-Balah,M
+Amal 'Abd al-Karim Suliman al-Masri,7/31/2014,48,Deir al-Balah,Deir al-Balah,F
+'Aref Ahmad Muhammad Barakah,7/31/2014,48,Deir al-Balah,Deir al-Balah,M
+Mayar Jamal Jaber Abu Musbih,7/30/2014,9,Deir al-Balah,Deir al-Balah,F
+Mu'taz Amin Muhammad al-Baz,7/30/2014,16,Deir al-Balah,Deir al-Balah,M
+Muhammad 'Izzat Salem Abu Sweireh,7/30/2014,35,Deir al-Balah,Deir al-Balah,M
+Iftikhar Muhammad 'Abd al-'Aziz a-Zari'i,7/30/2014,52,Deir al-Balah,Deir al-Balah,F
+Ibrahim Mu'tasem Muhammad Kallub,7/29/2014,4,Deir al-Balah,Deir al-Balah,M
+Riham Taysir Salamah Abu Mashi,7/29/2014,11,Deir al-Balah,Deir al-Balah,F
+'Udai Raafat Muslem Abu al-Kheir,7/29/2014,13,Deir al-Balah,Deir al-Balah,M
+Dima 'Abd al-Majid Muhammad Kallub,7/29/2014,27,Deir al-Balah,Deir al-Balah,F
+'Abdallah 'Ayesh Salman Irmeilat,7/26/2014,39,Deir al-Balah,Deir al-Balah,M
+Na'im 'Abd al-'Aziz Ahmad Abu Daher,7/26/2014,39,Deir al-Balah,Deir al-Balah,M
+Ahmad Muhammad 'Ali al-Qayed,7/25/2014,11,Deir al-Balah,Deir al-Balah,M
+Walaa Muhammad 'Ali al-Qayed,7/25/2014,14,Deir al-Balah,Deir al-Balah,F
+Ibrahim Muhammad 'Odeh Barrak,7/25/2014,19,Deir al-Balah,Deir al-Balah,M
+'Eid Muhammad 'Eid Abu Qteifan,7/25/2014,23,Deir al-Balah,Deir al-Balah,M
+Maram Rajeh 'Abd a-Rahman Rajeh,7/25/2014,30,Deir al-Balah,Deir al-Balah,F
+Khadrah Ibrahim Salman Abu Balimah,7/25/2014,55,Deir al-Balah,Deir al-Balah,F
+Bilal Bassam Najib Mash'al,7/24/2014,14,Deir al-Balah,Deir al-Balah,M
+'Amer 'Abd a-Ra'uf Muhammad al-'Azab,7/24/2014,24,Deir al-Balah,Deir al-Balah,M
+Na'im Jum'ah Muhammad Abu Mazyad,7/24/2014,31,Deir al-Balah,Deir al-Balah,M
+Jana Rami Yasser al-Maqat'ah,7/23/2014,2,Deir al-Balah,Deir al-Balah,F
+Rawan Ayman So'ud Sweidan,7/23/2014,9,Deir al-Balah,Deir al-Balah,F
+'Alaa Hammad 'Ali Abu Khattab,7/23/2014,25,Deir al-Balah,Deir al-Balah,M
+Yasmin Hassan Muhammad al-Maqat'ah,7/23/2014,27,Deir al-Balah,Deir al-Balah,F
+'Abdallah Isma'il 'Omar al-Bahisi,7/22/2014,26,Deir al-Balah,Deir al-Balah,M
+'Alaa 'Abd al-Majid 'Abd al-Qader Abu Dahruj,7/21/2014,15,Deir al-Balah,Deir al-Balah,M
+Zakaria Ibrahim Muhammad Shakshak,7/21/2014,25,Deir al-Balah,Deir al-Balah,M
+Khaled 'Awad Ahmad Bayumi,7/21/2014,34,Deir al-Balah,Deir al-Balah,M
+'Azzah 'Abd al-Karim 'Abd a-Rahman al-Falit,7/21/2014,46,Deir al-Balah,Deir al-Balah,F
+Husam Muhammad Suliman Abu Mneifi,7/19/2014,18,Deir al-Balah,Deir al-Balah,M
+Bilal Bassam Salem al-Masri,7/19/2014,20,Deir al-Balah,Deir al-Balah,M
+Tareq Samir Khalil al-Hittu,7/19/2014,21,Deir al-Balah,Deir al-Balah,M
+Ayman Nasri Salem a-Na'uq,7/19/2014,23,Deir al-Balah,Deir al-Balah,M
+'Abd a-Rahman Muhammad 'Odeh Barrak,7/19/2014,24,Deir al-Balah,Deir al-Balah,M
+Muamen Taysir al-'Abed Abu Dan,7/19/2014,24,Deir al-Balah,Deir al-Balah,M
+Ahmad Maher Muhammad Abu Thurayyah,7/19/2014,27,Deir al-Balah,Deir al-Balah,M
+'Abdallah Ghazi 'Abdallah al-Masri,7/19/2014,30,Deir al-Balah,Deir al-Balah,M
+'Abd al-'Aziz Samir Abu Z'eiter,7/19/2014,31,Deir al-Balah,Deir al-Balah,M
+Sa'id 'Ali Ahmad Abu 'Issa,7/18/2014,30,Deir al-Balah,Deir al-Balah,M
+Muhammad Mahmoud Ibrahim Qadim,7/17/2014,22,Deir al-Balah,Deir al-Balah,M
+Salem Saleh Salem Fayad,7/17/2014,25,Deir al-Balah,Deir al-Balah,M
+Yamen Riyad Hussein al-Hamedi,7/13/2014,4,Deir al-Balah,Deir al-Balah,M
+Ruwayda Ahmad Hussein Abu Harb,7/13/2014,37,Deir al-Balah,Deir al-Balah,F
+Rami Sami Ahmad Abu Shanab,7/11/2014,22,Deir al-Balah,Deir al-Balah,M
+Muhammad Ahmad Suliman a-Smeiri,7/11/2014,25,Deir al-Balah,Deir al-Balah,M
+Rami Saleh Muhammad Msa'ed,7/11/2014,25,Deir al-Balah,Deir al-Balah,M
+'Imad Jamil al-'Abed al-Bardawil,7/11/2014,44,Deir al-Balah,Deir al-Balah,M
+'Abd a-Rahman Bassam 'Abd a-Rahman Khatab,7/10/2014,5,Deir al-Balah,Deir al-Balah,M
+Raed 'Alian Musa a-Zawar'ah,7/10/2014,33,Deir al-Balah,Deir al-Balah,M
+Hassan Yusef Hassan al-Austaz,11/20/2012,22,Deir al-Balah,Deir al-Balah,M
+Muhammad 'Abd Rabo Yusef Bader,11/20/2012,24,Deir al-Balah,Deir al-Balah,M
+Muhammad Musa Mahmoud Abu 'Eishah,11/20/2012,24,Deir al-Balah,Deir al-Balah,M
+Tamer Rushdi Muhammad Bashir,11/19/2012,31,Deir al-Balah,Deir al-Balah,M
+Amin Zuhdi Ibrahim Bashir,11/19/2012,41,Deir al-Balah,Deir al-Balah,M
+Rashid 'Alian 'Atiyyah Abu 'Amrah,11/19/2012,51,Deir al-Balah,Deir al-Balah,M
+'Ali Hassan 'Ali Ben Sa'id,11/17/2012,24,Deir al-Balah,Deir al-Balah,M
+Tamer Khaled Ahmad al-Hamari,11/17/2012,26,Deir al-Balah,Deir al-Balah,M
+Ramadan Ahmad Ramadan Mahmoud,11/16/2012,21,Deir al-Balah,Deir al-Balah,M
+Khaled Khalil 'Ali a-Sha'er,11/16/2012,25,Deir al-Balah,Deir al-Balah,M
+Ahmad Isma'il Muhammad Msameh,11/16/2012,29,Deir al-Balah,Deir al-Balah,M
+Muhammad Ibrahim Hamad al-Ghumari,3/10/2012,22,Deir al-Balah,Deir al-Balah,M
+Basel 'Imad Hamad Abu Jazar,12/18/2010,17,Deir al-Balah,Deir al-Balah,M
+Bilal Yasser Sa'id Zanun,12/18/2010,20,Deir al-Balah,Deir al-Balah,M
+'Abdallah Hassan Ibrahim a-Sharihi,12/18/2010,22,Deir al-Balah,Deir al-Balah,M
+Muhammad Mu'in 'Abd al-'Aziz al-'Assar,12/18/2010,22,Deir al-Balah,Deir al-Balah,M
+Khalil Tawfiq Dib a-Tawil,12/18/2010,23,Deir al-Balah,Deir al-Balah,M
+Huzaifah Muhammad Subhi al-Hams,1/10/2010,18,Deir al-Balah,Deir al-Balah,M
+Hassan Ibrahim 'Abd a-Rahim al-Qatrawi,1/10/2010,21,Deir al-Balah,Deir al-Balah,M
+'Awad Muhammad 'Awad Abu Nseir,1/10/2010,26,Deir al-Balah,Deir al-Balah,M
+Ahmad Fouad Muhammad Thabet,1/15/2009,26,Deir al-Balah,Deir al-Balah,M
+Muhammad Bassam Muhammad 'Eid,1/6/2009,18,Deir al-Balah,Deir al-Balah,M
+Muhammad Hashem Isma'il 'Afanah,1/6/2009,22,Deir al-Balah,Deir al-Balah,M
+Ziad Sa'id Hassan Nassar,1/6/2009,25,Deir al-Balah,Deir al-Balah,M
+Anas 'Aref 'Aref Barakah,1/4/2009,7,Deir al-Balah,Deir al-Balah,M
+Ahmad Sami Ahmad Abu Madyan,1/4/2009,54,Deir al-Balah,Deir al-Balah,M
+Amin Salem Darwish al-'Adini,12/29/2008,23,Deir al-Balah,Deir al-Balah,M
+'Udai 'Abd al-Hakim Rajab Mansi,12/27/2008,6,Deir al-Balah,Deir al-Balah,M
+Kamilya Raafat 'Atallah al-Bordini,12/27/2008,13,Deir al-Balah,Deir al-Balah,F
+'Abdallah Salim a-Laham,12/27/2008,19,Deir al-Balah,Deir al-Balah,M
+Muhammad Fouad Isma'il Abu Sabrah,12/27/2008,19,Deir al-Balah,Deir al-Balah,M
+Hassan Sa'di Hamdan Abu 'Arbas,12/27/2008,20,Deir al-Balah,Deir al-Balah,M
+Ashraf Hamadah Mustafa Abu Kweik,12/27/2008,21,Deir al-Balah,Deir al-Balah,M
+Muhammad Yihya Salem Mhanna,12/27/2008,21,Deir al-Balah,Deir al-Balah,M
+'Omar Sa'id 'Omar a-Laham,12/27/2008,21,Deir al-Balah,Deir al-Balah,M
+Suhaib Muhammad Mahmoud 'Asfah,12/27/2008,21,Deir al-Balah,Deir al-Balah,M
+Ahmad Salah Ahmad a-Laham,12/27/2008,22,Deir al-Balah,Deir al-Balah,M
+Muhammad Yunes Ahmad Abu Libdah,12/27/2008,23,Deir al-Balah,Deir al-Balah,M
+Wisam Ibrahim Ahmad 'Ayash,12/27/2008,23,Deir al-Balah,Deir al-Balah,M
+Tamer Muhammad 'Asfah,12/27/2008,28,Deir al-Balah,Deir al-Balah,M
+Yasser Muhammad Dib a-Laham,12/27/2008,28,Deir al-Balah,Deir al-Balah,M
+Ahmad Jamal Ahmad a-Nuri,12/27/2008,29,Deir al-Balah,Deir al-Balah,M
+'Abd al-Hakim Rajab Muhammad Mansi,12/27/2008,31,Deir al-Balah,Deir al-Balah,M
+Soheil Nawaf Hammad a-T'aban,12/27/2008,34,Deir al-Balah,Deir al-Balah,M
+Tawfiq 'Ali Hassan al-Falit,12/27/2008,51,Deir al-Balah,Deir al-Balah,M
+Salah Saber Tawfiq Qaduhah,6/17/2008,20,Deir al-Balah,Deir al-Balah,M
+'Abdallah Ahmad Mahmoud a-Loh,4/1/2008,22,Deir al-Balah,Deir al-Balah,M
+Yihya Hassan 'Odeh Barrak,4/1/2008,24,Deir al-Balah,Deir al-Balah,M
+Tamer Muhammad 'Abd a-Razeq Abu Sh'ar,2/19/2008,9,Deir al-Balah,Deir al-Balah,M
+Isma'il 'Ali Muhammad Jadallah,2/19/2008,20,Deir al-Balah,Deir al-Balah,M
+Samir 'Ali Ahmad a-Daqran,12/4/2007,17,Deir al-Balah,Deir al-Balah,M
+Salman Fouad Salman al-Huli,12/4/2007,18,Deir al-Balah,Deir al-Balah,M
+'Abd a-Rahman 'Abd al-Hamid Yusef Abu Ghazah,12/4/2007,37,Deir al-Balah,Deir al-Balah,M
+Mubarak 'Abdallah Mubarak al-Hasanat,10/23/2007,37,Deir al-Balah,Deir al-Balah,M
+Muhammad Hussein Muhammad Abu Sh'ar,8/8/2007,25,Deir al-Balah,Deir al-Balah,M
+Hani Ibrahim Na'im a-Najar,10/2/2006,26,Deir al-Balah,Deir al-Balah,M
+Bassam Yusef 'Othman Sharab,8/22/2006,21,Deir al-Balah,Deir al-Balah,M
+Sa'id 'Abd al-Haq Sa'id al-Farra,8/22/2006,21,Deir al-Balah,Deir al-Balah,M
+Saleh Mesbah 'Abd a-Ra'uf 'Abd a-Ghafur,8/22/2006,26,Deir al-Balah,Deir al-Balah,M
+Khalil Ibrahim A'bed Abu Magheseb,7/15/2006,17,Deir al-Balah,Deir al-Balah,M
+Raed Hussein As'ad Naser,7/14/2006,25,Deir al-Balah,Deir al-Balah,M
+Ibrahim 'Ali Ibrahim a-Nabahin,7/12/2006,15,Deir al-Balah,Deir al-Balah,M
+Ibrahim 'Ali Mustafa Qatush,7/12/2006,15,Deir al-Balah,Deir al-Balah,M
+Mahmoud Muhammad Khalil al-'Assar,7/12/2006,15,Deir al-Balah,Deir al-Balah,M
+Ahmad 'Abd al-Men'em Muhammad Abu Hajaj,7/12/2006,16,Deir al-Balah,Deir al-Balah,M
+Salah Hassan Hammad Abu Maktumah,7/12/2006,17,Deir al-Balah,Deir al-Balah,M
+Hassan Yusef Muhammad Abu 'Obeid,7/12/2006,18,Deir al-Balah,Deir al-Balah,M
+Tareq Faiz Isma'il Nassar,7/12/2006,19,Deir al-Balah,Deir al-Balah,M
+Hamzah Hassan Ahmad al-Jurani,7/12/2006,22,Deir al-Balah,Deir al-Balah,M
+'Ali Hassan Ibrahim Badwan,7/12/2006,23,Deir al-Balah,Deir al-Balah,M
+Muhammad Mahmoud Rajab Tanjarah,6/15/2006,22,Deir al-Balah,Deir al-Balah,M
+Salem Muhammad Salem Abu Zabeidah,6/15/2006,22,Deir al-Balah,Deir al-Balah,M
+Wael Ibrahim Mteir al-Qur'an,4/27/2006,29,Deir al-Balah,Deir al-Balah,M
+Ibrahim Muhammad 'Ali Ma'sud,4/12/2006,18,Deir al-Balah,Deir al-Balah,M
+Muhammad 'Adnan Ahmad al-'Aamudi,4/12/2006,20,Deir al-Balah,Deir al-Balah,M
+Suliman Hassan Suliman al-Hamedi,2/24/2006,20,Deir al-Balah,Deir al-Balah,M
+Zeid 'Abd al-Fatah Hassan Dukhan,2/24/2006,21,Deir al-Balah,Deir al-Balah,M
+Nayfeh Muhammad Khamis Abu Masa'ed,2/13/2006,37,Deir al-Balah,Deir al-Balah,F
+Tamer Muhammad Khamash,10/11/2004,28,Deir al-Balah,Deir al-Balah,M
+Taysir Muhammad Suliman Abu 'Awwad,5/28/2004,30,Deir al-Balah,Deir al-Balah,M
+'Abdallah 'Ali 'Abd al-Fatah al-Jamal,5/5/2004,35,Deir al-Balah,Deir al-Balah,M
+Sami (Osama) 'Ayesh al-Samri,11/26/2003,32,Deir al-Balah,Deir al-Balah,M
+Ibrahim Musa 'Abiddalah al-Samri,11/26/2003,33,Deir al-Balah,Deir al-Balah,M
+Khaled Ahmad Ibrahim al-Samri,11/26/2003,35,Deir al-Balah,Deir al-Balah,M
+Muhammad Isma'il 'Alian al-Hamaydah (A-Satri),10/24/2003,10,Deir al-Balah,Deir al-Balah,M
+Muhammad 'Abd Rabo Hassan a-Sawarkah,5/29/2003,17,Deir al-Balah,Deir al-Balah,M
+Hisham Ibrahim Tafesh,5/29/2003,19,Deir al-Balah,Deir al-Balah,M
+Subhiya Muslem Wadah Abu 'Atawi,4/30/2003,56,Deir al-Balah,Deir al-Balah,F
+Iyad Salem 'Othman Abu Sha'ar,12/22/2002,12,Deir al-Balah,Deir al-Balah,M
+Majdi Musa,12/20/2002,25,Deir al-Balah,Deir al-Balah,M
+Muhammad Abu 'Ajwah,9/28/2002,18,Deir al-Balah,Deir al-Balah,M
+Muhammad Barakah,8/28/2002,27,Deir al-Balah,Deir al-Balah,M
+Midhat al-Yajzi,8/23/2002,27,Deir al-Balah,Deir al-Balah,M
+Ayman Abu Maghaseb,8/7/2002,13,Deir al-Balah,Deir al-Balah,M
+Fatimah 'Abdallah 'Awwad Abu Daher,8/3/2002,75,Deir al-Balah,Deir al-Balah,F
+Khaled al-Khatib,7/12/2002,-1,Deir al-Balah,Deir al-Balah,M
+Mu'in 'Ali Salam al-'Adini,7/12/2002,18,Deir al-Balah,Deir al-Balah,M
+Muhammad Abu Ghararbeh,4/29/2002,30,Deir al-Balah,Deir al-Balah,M
+Ibrahim 'Abdin,4/25/2002,45,Deir al-Balah,Deir al-Balah,M
+Ahmad Hilal Ahmad,3/12/2002,25,Deir al-Balah,Deir al-Balah,M
+Khaled Abu Sitah,2/13/2002,25,Deir al-Balah,Deir al-Balah,M
+Shadi Mustafa al-Hasanat,2/13/2002,25,Deir al-Balah,Deir al-Balah,M
+'Abd al-Karim Sabri al-Hasanat,2/13/2002,41,Deir al-Balah,Deir al-Balah,M
+Ahmad Abu Mandil,10/21/2001,15,Deir al-Balah,Deir al-Balah,M
+Salem Ahmad Salem Ben Sa'id,11/17/2012,19,al-Musadar,Deir al-Balah,M
+Hani 'Abd al-Majid Salem Brei'em,11/17/2012,31,al-Musadar,Deir al-Balah,M
+Ahmad Salem Salamah Ben Sa'id,11/17/2012,52,al-Musadar,Deir al-Balah,M
+Muhammad Bassam Shukri Abu Mu'eiliq,6/19/2012,16,al-Musadar,Deir al-Balah,M
+Yusef Saber Muslem a-Talbani,6/19/2012,18,al-Musadar,Deir al-Balah,M
+Muhammad Sa'id Ahmad Abu Jazar,7/5/2011,28,al-Musadar,Deir al-Balah,M
+Kamal Hamdan Muhammad Mu'amar,7/5/2011,31,al-Musadar,Deir al-Balah,M
+Zaher 'Atiyyah Muhammad 'Anbar,5/15/2021,37,al-Maghazi R.C.,Deir al-Balah,M
+Iyad 'Abdallah Shreiqi a-Sharihi,5/5/2019,33,al-Maghazi R.C.,Deir al-Balah,M
+'Abdallah Ibrahim Mahmoud Abu Maluh,5/3/2019,33,al-Maghazi R.C.,Deir al-Balah,M
+'Alaa Hassan 'Ali al-Bubali,5/3/2019,34,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad 'Alaa Mahmoud Abu Shirbin,11/8/2018,20,al-Maghazi R.C.,Deir al-Balah,M
+'Imad Khalil Ibrahim Shahin,11/3/2018,17,al-Maghazi R.C.,Deir al-Balah,M
+Yusef Mubarak Bheiri Abu Sbeikhah,12/25/2015,49,al-Maghazi R.C.,Deir al-Balah,M
+Muamen Akram 'Ali al-Masder,8/9/2014,19,al-Maghazi R.C.,Deir al-Balah,M
+'Abd al-Hakim Suliman Salamah al-Masder,8/9/2014,56,al-Maghazi R.C.,Deir al-Balah,M
+'Amru Tareq Hassan Qandil,8/2/2014,17,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad Taysir Hassan Qandil,8/2/2014,19,al-Maghazi R.C.,Deir al-Balah,M
+Wael Nihad 'Amer a-Sayed,8/2/2014,23,al-Maghazi R.C.,Deir al-Balah,M
+'Atef Soheil 'Atef Qandil,7/31/2014,22,al-Maghazi R.C.,Deir al-Balah,M
+Hanan Salem Muhammad al-Far,7/28/2014,15,al-Maghazi R.C.,Deir al-Balah,F
+Nivin Salem Muhammad al-Far,7/28/2014,18,al-Maghazi R.C.,Deir al-Balah,F
+Jihan Salem Muhammad al-Far,7/28/2014,28,al-Maghazi R.C.,Deir al-Balah,F
+Amal Salem Muhammad al-Far,7/28/2014,35,al-Maghazi R.C.,Deir al-Balah,F
+Salem Muhammad Badawi al-Far,7/28/2014,58,al-Maghazi R.C.,Deir al-Balah,M
+Zinat Hassan Ahmad al-Far,7/28/2014,58,al-Maghazi R.C.,Deir al-Balah,F
+'Issa Kamel 'Abd a-Rahman Musa,7/28/2014,61,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad 'Ali Khalil Seidam,7/25/2014,16,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad Ahmad Mahmoud Abu Dawabah,7/25/2014,18,al-Maghazi R.C.,Deir al-Balah,M
+'Abd a-Rahman 'Odeh Yusef a-Talbani,7/25/2014,19,al-Maghazi R.C.,Deir al-Balah,M
+Ahmad Ousamah 'Abd a-Rahman Bakir,7/25/2014,19,al-Maghazi R.C.,Deir al-Balah,M
+Khaled 'Ata Muhammad Abu Shhadeh,7/25/2014,22,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad Fayez Sha'ban a-Sharif,7/25/2014,22,al-Maghazi R.C.,Deir al-Balah,M
+Hani 'Adel Muhammad Abu Hashish,7/25/2014,23,al-Maghazi R.C.,Deir al-Balah,M
+Ghassan Taher Khaled Abu Kamil,7/25/2014,24,al-Maghazi R.C.,Deir al-Balah,M
+'Arafat Salem Ahmad Abu 'Iweili,7/25/2014,25,al-Maghazi R.C.,Deir al-Balah,M
+Hassan Sha'ban Hassan al-Khamisi,7/22/2014,30,al-Maghazi R.C.,Deir al-Balah,M
+Layla Hassan Ahmad al-'Odat,7/13/2014,39,al-Maghazi R.C.,Deir al-Balah,F
+Muhammad Khalaf 'Awad a-Nawasrah,7/9/2014,2,al-Maghazi R.C.,Deir al-Balah,M
+Nidal Khalaf 'Awad a-Nawasrah,7/9/2014,4,al-Maghazi R.C.,Deir al-Balah,M
+Salah 'Awad Hussein a-Nawasrah,7/9/2014,22,al-Maghazi R.C.,Deir al-Balah,M
+'Aishah Shabib Mahmoud a-Nawasrah,7/9/2014,23,al-Maghazi R.C.,Deir al-Balah,F
+Hala Ahmad Salman Abu Sbeikhah,12/24/2013,2,al-Maghazi R.C.,Deir al-Balah,F
+Ashraf Hassan a-Sayed Abu Darwish,11/17/2012,21,al-Maghazi R.C.,Deir al-Balah,M
+'Ali 'Abd al-Hakim 'Ali al-Mana'mah,11/17/2012,23,al-Maghazi R.C.,Deir al-Balah,M
+Ousamah Musa Hassan 'Abd al-Jawad,11/17/2012,27,al-Maghazi R.C.,Deir al-Balah,M
+Ziad Farhan Suliman Abu Jalal,11/16/2012,23,al-Maghazi R.C.,Deir al-Balah,M
+Hassan Salem Salim al-Hmeile',11/16/2012,29,al-Maghazi R.C.,Deir al-Balah,M
+Amjad Muhammad Jadu' Abu Jalal,11/16/2012,33,al-Maghazi R.C.,Deir al-Balah,M
+Ahmad Muhammad Jadu' Abu Jalal,11/16/2012,43,al-Maghazi R.C.,Deir al-Balah,M
+Bilal Yusef Ibrahim a-Sa'aydeh,3/31/2012,19,al-Maghazi R.C.,Deir al-Balah,M
+Wasim Hassan Hussein Mansur,3/5/2009,20,al-Maghazi R.C.,Deir al-Balah,M
+Ibrahim Hassan Dawood Bamba,3/5/2009,24,al-Maghazi R.C.,Deir al-Balah,M
+Mahmoud al-'Abed Saleh Hammad,3/5/2009,27,al-Maghazi R.C.,Deir al-Balah,M
+Islam Isma'il Suliman 'Abd al-Jawad,1/6/2009,26,al-Maghazi R.C.,Deir al-Balah,F
+Muhammad Isma'il 'Abed al-Ghumari,12/27/2008,23,al-Maghazi R.C.,Deir al-Balah,M
+Mazen Nazmi A'bbas Sa'dah,11/4/2008,32,al-Maghazi R.C.,Deir al-Balah,M
+Bassam Hatem 'Abed al-Hazin,2/22/2008,24,al-Maghazi R.C.,Deir al-Balah,M
+Ayman Suliman 'Odeh Sa'id,2/22/2008,34,al-Maghazi R.C.,Deir al-Balah,M
+Jihad Musa Yusef Jaber,12/20/2007,18,al-Maghazi R.C.,Deir al-Balah,M
+Hamzah Salem Muhammad Abu Tyour,12/20/2007,21,al-Maghazi R.C.,Deir al-Balah,M
+Khalil Bajes Khalil al-'Issawi,12/20/2007,22,al-Maghazi R.C.,Deir al-Balah,M
+Na'im Ibrahim Ahmad al-'Aruqi,12/20/2007,22,al-Maghazi R.C.,Deir al-Balah,M
+Samer Helmi Muhammad Abu Seif,12/20/2007,22,al-Maghazi R.C.,Deir al-Balah,M
+Ibrahim 'Aead 'Aiyadah Abu Madyan,12/20/2007,24,al-Maghazi R.C.,Deir al-Balah,M
+Walid Hussein Saleh Kallub,12/20/2007,26,al-Maghazi R.C.,Deir al-Balah,M
+Mahmoud Mahmoud Ibrahim al-Mishal,12/20/2007,27,al-Maghazi R.C.,Deir al-Balah,M
+Yusef Hussein 'Omar Musa,11/25/2007,18,al-Maghazi R.C.,Deir al-Balah,M
+'Alaa 'Abd a-Ra'uf Hussein a-Zari'i,11/25/2007,20,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad 'Awad Muhammad Muhrah,7/20/2006,17,al-Maghazi R.C.,Deir al-Balah,M
+Mustafa Hussein Mustafa Qatush,7/20/2006,18,al-Maghazi R.C.,Deir al-Balah,M
+Ahmad 'Abd a-Rahman Isma'il 'Awwad,7/20/2006,19,al-Maghazi R.C.,Deir al-Balah,M
+Isma'il Nazmi Isma'il Rayan,7/20/2006,19,al-Maghazi R.C.,Deir al-Balah,M
+Yasser Muhammad Zuheir Abu Libdah,7/20/2006,23,al-Maghazi R.C.,Deir al-Balah,M
+Musa Hassan 'Abd al-Qader Qandil,7/20/2006,46,al-Maghazi R.C.,Deir al-Balah,M
+Ahmad Rohi Hassan 'Abdu,7/19/2006,13,al-Maghazi R.C.,Deir al-Balah,M
+'Ali Kamel Muhammad a-Najar,7/19/2006,13,al-Maghazi R.C.,Deir al-Balah,M
+Fadwa Feisal Suliman al-'Aruqi,7/19/2006,13,al-Maghazi R.C.,Deir al-Balah,F
+Muhammad Fouad Muhammad Abu 'Ashebah,7/19/2006,19,al-Maghazi R.C.,Deir al-Balah,M
+Yusef Sa'di 'Izzat al-Maghari,7/19/2006,20,al-Maghazi R.C.,Deir al-Balah,M
+Ahmad 'Awad Salamah a-Na'mi,7/19/2006,23,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad 'Omar Ahmad al-Bshiti,7/19/2006,24,al-Maghazi R.C.,Deir al-Balah,M
+Saed Sami 'Atef Qandil,7/19/2006,24,al-Maghazi R.C.,Deir al-Balah,M
+Khader Muhammad 'Abd a-Rahman al-Maghari,7/19/2006,29,al-Maghazi R.C.,Deir al-Balah,M
+'Omar Farhan A'beid Abu Mhessen,7/19/2006,31,al-Maghazi R.C.,Deir al-Balah,M
+Yusef Ahmad Mustafa al-Li,7/19/2006,32,al-Maghazi R.C.,Deir al-Balah,M
+Hanan Ibrahim Ahmad al-'Aruqi,7/19/2006,38,al-Maghazi R.C.,Deir al-Balah,F
+Ahmad 'Amer Ahmad al-Masri,1/24/2005,15,al-Maghazi R.C.,Deir al-Balah,M
+'Ali Ahmad 'Ali al-'Aidy,6/30/2004,15,al-Maghazi R.C.,Deir al-Balah,M
+Iyad Salah 'Abd al-Hafez Qafah,6/30/2004,22,al-Maghazi R.C.,Deir al-Balah,M
+Salah 'Abd al-Hafez Ahmad Qafah,6/30/2004,41,al-Maghazi R.C.,Deir al-Balah,M
+Samir 'Ali Ibrahim Abu Msalam,6/30/2004,44,al-Maghazi R.C.,Deir al-Balah,M
+'Ammar 'Adnan 'Ali a-Rag'udi,4/4/2004,16,al-Maghazi R.C.,Deir al-Balah,M
+Salamah 'Abd al-Karim Salem Abu Rawida,4/4/2004,16,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad Zidan Musa Abu Samhadaneh,4/4/2004,17,al-Maghazi R.C.,Deir al-Balah,M
+Muamen 'Omar Ahmad al-Maghari,11/7/2003,20,al-Maghazi R.C.,Deir al-Balah,M
+'Ali Marwan Abu Jiab,4/6/2003,26,al-Maghazi R.C.,Deir al-Balah,M
+Salem Suliman 'Abed al-Masder,4/6/2003,57,al-Maghazi R.C.,Deir al-Balah,M
+Camilla Abu Sa'id,2/5/2003,65,al-Maghazi R.C.,Deir al-Balah,F
+Muhammad Salim Suliman al-Masader,1/23/2003,25,al-Maghazi R.C.,Deir al-Balah,M
+Saqer Musleh,3/13/2002,16,al-Maghazi R.C.,Deir al-Balah,M
+Yasser al-Masder Hussni,2/20/2002,27,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad Mutlaq 'Issa,2/20/2002,35,al-Maghazi R.C.,Deir al-Balah,M
+Muhammad Muhammad 'Abd al-Karim Abu 'Ammar,9/30/2021,39,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Salem Yusef Abu 'Ayesh,5/15/2021,34,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Muhammad Isma'il Khaled,5/14/2021,24,al-Bureij R.C.,Deir al-Balah,M
+Lina Muhammad Mahmoud 'Issa,5/13/2021,13,al-Bureij R.C.,Deir al-Balah,F
+Ahmad Rami Mahmoud al-Hawajri,5/13/2021,14,al-Bureij R.C.,Deir al-Balah,M
+Muayad Taysir 'Abd a-Rahman al-Khatib,5/13/2021,20,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Kamel 'Abd al-Karim 'Ammar,5/13/2021,33,al-Bureij R.C.,Deir al-Balah,M
+Manar Khader Ahmad 'Issa,5/13/2021,39,al-Bureij R.C.,Deir al-Balah,F
+Fawzi 'Abd al-Halim Fawzi Bawadi,5/5/2019,24,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Subhi Khamis 'Issa,5/5/2019,25,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Samir Muhammad Abu 'Armaneh,5/5/2019,26,al-Bureij R.C.,Deir al-Balah,M
+Muhammad 'Abd a-Nabi Mahmoud Abu 'Armaneh,5/5/2019,30,al-Bureij R.C.,Deir al-Balah,M
+Ramzi Rohi Hassan 'Abdu,5/3/2019,30,al-Bureij R.C.,Deir al-Balah,M
+Nidal 'Abd al-Karim Ahmad Shatat,3/22/2019,29,al-Bureij R.C.,Deir al-Balah,M
+Musa Muhammad 'Abd al-Karim Musa,3/1/2019,23,al-Bureij R.C.,Deir al-Balah,M
+Hassan Nabil Ahmad Nofal,2/8/2019,16,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud al-'Abed Muhammad a-Nabahin,1/22/2019,24,al-Bureij R.C.,Deir al-Balah,M
+Samir Ghazi Mahmoud a-Nabahin,1/18/2019,47,al-Bureij R.C.,Deir al-Balah,M
+Ayman Munir Muhammad Shbeir,12/21/2018,18,al-Bureij R.C.,Deir al-Balah,M
+Maher 'Atiyyah Muhammad Yasin,12/21/2018,40,al-Bureij R.C.,Deir al-Balah,M
+Mujahed Ziad Zaki 'Aqel,10/26/2018,24,al-Bureij R.C.,Deir al-Balah,M
+Yihya Bader Muhammad al-Hasanat,10/26/2018,37,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Ahmad 'Abdallah Abu Na'im,10/12/2018,17,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Ibrahim Zaki a-Tawil,10/12/2018,22,al-Bureij R.C.,Deir al-Balah,M
+'Abdallah Barham Suliman a-Dughmah,10/12/2018,25,al-Bureij R.C.,Deir al-Balah,M
+Muhammad 'Abd al-Hafiz Yusef Isma'il,10/12/2018,29,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Nayef Yusef al-Houm,9/28/2018,14,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Ashraf Muhammad al-'Awawdeh,9/28/2018,25,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Khalil Ghazi Shaqurah,9/14/2018,20,al-Bureij R.C.,Deir al-Balah,M
+Karim Ahmad 'Ali Fatayer,8/17/2018,28,al-Bureij R.C.,Deir al-Balah,M
+Mu'az Ziad Ibrahim a-Suri,8/3/2018,15,al-Bureij R.C.,Deir al-Balah,M
+Zakaria Sayed Mustafa Bashbash,5/30/2018,14,al-Bureij R.C.,Deir al-Balah,M
+Bilal Bdeir Hussein al-Ashram,5/15/2018,17,al-Bureij R.C.,Deir al-Balah,M
+Naser Ahmad Mahmoud Ghrab,5/15/2018,51,al-Bureij R.C.,Deir al-Balah,M
+'Iz a-Din Musa Muhammad a-Samak,5/14/2018,13,al-Bureij R.C.,Deir al-Balah,M
+Wisal Fadel 'Izzat a-Sheikh Khalil,5/14/2018,14,al-Bureij R.C.,Deir al-Balah,F
+Talal 'Adel Ibrahim Matar,5/14/2018,16,al-Bureij R.C.,Deir al-Balah,M
+'Abd a-Rahman Sami 'Aqel Abu Matar,5/14/2018,18,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Mazen Ibrahim 'Alian,5/14/2018,18,al-Bureij R.C.,Deir al-Balah,M
+Muhannad Baker Muhammad Abu Tahun,5/14/2018,20,al-Bureij R.C.,Deir al-Balah,M
+Mukhtar Kamel Salam Abu Khamash,5/14/2018,22,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Yihya 'Abd al-Wahab Hussein,5/14/2018,23,al-Bureij R.C.,Deir al-Balah,M
+Ahmad 'Ali Mustafa Qatush,5/14/2018,28,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Samir Muhammad Idwidar,5/14/2018,28,al-Bureij R.C.,Deir al-Balah,M
+Ahmad 'Abdallah 'Abdallah al-'Adini,5/14/2018,36,al-Bureij R.C.,Deir al-Balah,M
+Ibrahim Ziad Salamah al-'Ur,4/6/2018,20,al-Bureij R.C.,Deir al-Balah,M
+Hamzah 'Eid Ramadan 'Abd al-'Aal,4/6/2018,22,al-Bureij R.C.,Deir al-Balah,M
+Sidqi Taleb Muhammad Abu 'Ateiwi,4/6/2018,44,al-Bureij R.C.,Deir al-Balah,M
+Ahmad 'Omar Muhammad 'Arafah,4/3/2018,25,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Jihad Ahmad al-'Aidy,3/30/2018,17,al-Bureij R.C.,Deir al-Balah,M
+Naji 'Abdallah Shehdeh Abu Hjeir,3/30/2018,24,al-Bureij R.C.,Deir al-Balah,M
+'Abd al-Qader Mardi Suliman al-Hawajri,3/30/2018,41,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Muhammad 'Abd Rabo Abu Hilu,2/16/2018,18,al-Bureij R.C.,Deir al-Balah,M
+Amir 'Abd al-Hamid Msa'ed Abu Masa'ed,1/11/2018,15,al-Bureij R.C.,Deir al-Balah,M
+Jamal Muhammad Jamal Musleh,12/29/2017,20,al-Bureij R.C.,Deir al-Balah,M
+'Abd a-Rahman Hussein Jaber Abu Hamisah,7/28/2017,16,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Muhammad Muhammad Abu S'ad,11/18/2016,25,al-Bureij R.C.,Deir al-Balah,M
+'Abd a-Rahman Ahmad 'Abd al-Qader a-Dabagh,9/9/2016,15,al-Bureij R.C.,Deir al-Balah,M
+Muhammad 'Adel Muhammad Abu Zayed,1/15/2016,18,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Majdi 'Azmi Qitah,1/15/2016,25,al-Bureij R.C.,Deir al-Balah,M
+Sami Shawqi Ahmad Madi,12/11/2015,40,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Sharif al-'Abed a-Sarhi,10/20/2015,29,al-Bureij R.C.,Deir al-Balah,M
+Khalil Hassan Khalil Abu 'Obeid,10/11/2015,25,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud 'Adel Salim 'Ashur,7/31/2014,17,al-Bureij R.C.,Deir al-Balah,M
+Zaher Tawfiq Hammad Abu Maktumah,7/31/2014,34,al-Bureij R.C.,Deir al-Balah,M
+Asmaa 'Abd al-Halim Suliman Abu al-Kas,7/30/2014,16,al-Bureij R.C.,Deir al-Balah,F
+Tuqa Salah Khalil Abu 'Issa,7/29/2014,0,al-Bureij R.C.,Deir al-Balah,F
+Salma Anwar Muhammad Abu Jaber,7/29/2014,1,al-Bureij R.C.,Deir al-Balah,F
+Sama Raed Muhammad Abu Jaber,7/29/2014,1,al-Bureij R.C.,Deir al-Balah,F
+Leen Anwar Muhammad Abu Jaber,7/29/2014,3,al-Bureij R.C.,Deir al-Balah,F
+Muhammad Raed Muhammad Abu Jaber,7/29/2014,3,al-Bureij R.C.,Deir al-Balah,M
+Hala Ahmad Hamdan Abu Jaber,7/29/2014,4,al-Bureij R.C.,Deir al-Balah,F
+Muhammad Muhammad 'Abd a-Rahman Abu Shamaleh,7/29/2014,7,al-Bureij R.C.,Deir al-Balah,M
+Fadel Hamdan Muhammad Abu Jaber,7/29/2014,19,al-Bureij R.C.,Deir al-Balah,M
+Lina Kifah Mahmoud Abu Jaber,7/29/2014,22,al-Bureij R.C.,Deir al-Balah,F
+Ahmad 'Omar Sa'id 'Abd al-'Aal,7/29/2014,23,al-Bureij R.C.,Deir al-Balah,M
+'Aishah Hamdan Muhammad a-Sa'ud,7/29/2014,23,al-Bureij R.C.,Deir al-Balah,F
+Anwaar Muhammad Salem Abu Jaber,7/29/2014,25,al-Bureij R.C.,Deir al-Balah,F
+Ayman Salah Sa'id Abu 'On,7/29/2014,25,al-Bureij R.C.,Deir al-Balah,M
+Dina Hamdan Muhammad Abu Jaber,7/29/2014,25,al-Bureij R.C.,Deir al-Balah,F
+Jaber Hamdan Muhammad Abu Jaber,7/29/2014,26,al-Bureij R.C.,Deir al-Balah,M
+Sumayah 'Abd a-Rahman Muhammad Abu Jaber,7/29/2014,32,al-Bureij R.C.,Deir al-Balah,F
+Anwar Muhammad Salem Abu Jaber,7/29/2014,35,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Hamdan Muhammad Abu Jaber,7/29/2014,36,al-Bureij R.C.,Deir al-Balah,M
+Anis 'Abd a-Rahman 'Aqilan Abu Shamaleh,7/29/2014,50,al-Bureij R.C.,Deir al-Balah,M
+Faddah Ghanam Hassan Abu Jaber,7/29/2014,60,al-Bureij R.C.,Deir al-Balah,F
+'Abd a-Rahman 'Aqilan Hassan Abu Shamaleh,7/29/2014,72,al-Bureij R.C.,Deir al-Balah,M
+Hamdan Muhammad Suliman Abu Jaber,7/29/2014,77,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Jam'an Jum'ah Abu Hjeir,7/24/2014,18,al-Bureij R.C.,Deir al-Balah,M
+'Ula Khalil 'Ali Abu 'Abdah,7/24/2014,27,al-Bureij R.C.,Deir al-Balah,F
+'Abd al-Qader Jamil 'Abd al-Qader al-Khaledi,7/23/2014,20,al-Bureij R.C.,Deir al-Balah,M
+Khalil Naser 'Atiyyah Wishah,7/22/2014,20,al-Bureij R.C.,Deir al-Balah,M
+Raed Zuheir Hassan Salah,7/22/2014,20,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Nassim Ahmad Saleh,7/22/2014,21,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Muhammad Ibrahim Ghanem,7/22/2014,23,al-Bureij R.C.,Deir al-Balah,M
+Ahmad 'Issam 'Atiyyah Wishah,7/22/2014,25,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Muhammad 'Abd al-Jalil Ramadan,7/22/2014,30,al-Bureij R.C.,Deir al-Balah,M
+Wael Muhammad 'Abd al-Jalil Ramadan,7/22/2014,37,al-Bureij R.C.,Deir al-Balah,M
+Sha'ban Jamil Sha'ban Ziyadah,7/20/2014,12,al-Bureij R.C.,Deir al-Balah,M
+Isma'il 'Abd al-'Aziz 'Abd al-Hamid al-Kurdi,7/20/2014,21,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Mahmoud Salim al-Maqadmeh,7/20/2014,29,al-Bureij R.C.,Deir al-Balah,M
+'Omar Sha'ban Hassan Ziyadah,7/20/2014,31,al-Bureij R.C.,Deir al-Balah,M
+Bayan 'Abd a-Latif Isma'il Ziyadah,7/20/2014,39,al-Bureij R.C.,Deir al-Balah,F
+Yusef Sha'ban Hassan Ziyadah,7/20/2014,43,al-Bureij R.C.,Deir al-Balah,M
+Jamil Sha'ban Hassan Ziyadah,7/20/2014,52,al-Bureij R.C.,Deir al-Balah,M
+Muftiyah Muhammad Hussein Ziyadah,7/20/2014,72,al-Bureij R.C.,Deir al-Balah,F
+Sharaman Isma'il Hussein Abu al-Kas,7/11/2014,42,al-Bureij R.C.,Deir al-Balah,M
+Mazen Mustafa Ibrahim Aslan,7/11/2014,51,al-Bureij R.C.,Deir al-Balah,M
+Marwan Hassan Muhammad Islim,7/6/2014,23,al-Bureij R.C.,Deir al-Balah,M
+Mazen Faraj Muhammad al-Jarbeh,7/6/2014,29,al-Bureij R.C.,Deir al-Balah,M
+Arkan Harbi Jamal Abu Kamil,11/19/2012,24,al-Bureij R.C.,Deir al-Balah,M
+Ibrahim Mahmoud Jebril al-Huajri,11/19/2012,25,al-Bureij R.C.,Deir al-Balah,M
+Iyad Yusef Ahmad Abu Khusah,11/18/2012,1,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Tawfiq 'Awad a-Nabahin,11/4/2012,22,al-Bureij R.C.,Deir al-Balah,M
+Zakaria Mamduh 'Omar al-Jamal,9/5/2012,21,al-Bureij R.C.,Deir al-Balah,M
+Khaled Salah Muslem al-Qaram,9/5/2012,25,al-Bureij R.C.,Deir al-Balah,M
+Khalil Faraj Muhammad al-Jarbeh,9/5/2012,27,al-Bureij R.C.,Deir al-Balah,M
+Isma'il 'Abdallah Hassan Ahmad,6/22/2012,29,al-Bureij R.C.,Deir al-Balah,M
+Isma'il Nimer Ahmad Amum,8/24/2011,62,al-Bureij R.C.,Deir al-Balah,M
+Anwar Hassan Muhammad Islim,8/19/2011,22,al-Bureij R.C.,Deir al-Balah,M
+'Imad Farid Salamah Abu 'Abdah,8/19/2011,23,al-Bureij R.C.,Deir al-Balah,M
+Ibrahim Muhammad 'Ali Frajallah,5/21/2011,18,al-Bureij R.C.,Deir al-Balah,M
+Ousamah Kamal Ghazi a-Nabahin,12/11/2010,19,al-Bureij R.C.,Deir al-Balah,M
+Jihad 'Izzat Ahmad al-Hur,12/11/2010,22,al-Bureij R.C.,Deir al-Balah,M
+'Awni Rafiq Muhammad 'Abd al-Hadi,9/27/2010,18,al-Bureij R.C.,Deir al-Balah,M
+'Alaa Muhammad Salem Abu Zabeidah,9/27/2010,24,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Khaled Hussein 'Eid,9/27/2010,26,al-Bureij R.C.,Deir al-Balah,M
+Marwan Faraj Muhammad al-Jarbeh,4/13/2010,20,al-Bureij R.C.,Deir al-Balah,M
+Wael Mahmoud Abd al-Nabi Abu Jalal,4/13/2010,28,al-Bureij R.C.,Deir al-Balah,M
+'Iz a-Din 'Issa 'Abd al-Hadi al-Batran,1/16/2009,3,al-Bureij R.C.,Deir al-Balah,M
+Bilal 'Issa 'Abd al-Hadi al-Batran,1/16/2009,6,al-Bureij R.C.,Deir al-Balah,M
+Muhannad 'Amer Khalil al-Jdeily,1/16/2009,7,al-Bureij R.C.,Deir al-Balah,M
+Ihssan 'Issa 'Abd al-Hadi al-Batran,1/16/2009,10,al-Bureij R.C.,Deir al-Balah,F
+Iman 'Issa 'Abd al-Hadi al-Batran,1/16/2009,10,al-Bureij R.C.,Deir al-Balah,F
+Islam 'Issa 'Abd al-Hadi al-Batran,1/16/2009,14,al-Bureij R.C.,Deir al-Balah,F
+Manal Hassan 'Ali al-Batran,1/16/2009,32,al-Bureij R.C.,Deir al-Balah,F
+Hassan Muhammad Mahmoud Harb,1/10/2009,22,al-Bureij R.C.,Deir al-Balah,M
+Naji Ramzi Yusef Mustafa (Mit),1/6/2009,21,al-Bureij R.C.,Deir al-Balah,M
+Naji Nidal 'Abd a-Salam al-Hamlawi,1/5/2009,15,al-Bureij R.C.,Deir al-Balah,M
+Ibrahim Rohi Muhammad 'Aqel,1/5/2009,16,al-Bureij R.C.,Deir al-Balah,M
+Ousamah Jihad 'Ali Abu Jbarah,1/5/2009,22,al-Bureij R.C.,Deir al-Balah,M
+Basel Jihad 'Ali Abu Jbarah,1/5/2009,30,al-Bureij R.C.,Deir al-Balah,M
+Jihad 'Ali Ahmad Abu Jbarah,1/5/2009,54,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Mustafa Darwish 'Ashur,1/1/2009,22,al-Bureij R.C.,Deir al-Balah,M
+Raed Jamal Sha'ban a-Naqah,5/23/2008,18,al-Bureij R.C.,Deir al-Balah,M
+Husam Talal 'Abd a-Rahim 'Abdu,5/23/2008,19,al-Bureij R.C.,Deir al-Balah,M
+Riyad Sharif Muhammad al-'Awessi,4/11/2008,11,al-Bureij R.C.,Deir al-Balah,M
+Diaa' 'Ayesh Yusef al-'Awawdeh,4/11/2008,14,al-Bureij R.C.,Deir al-Balah,M
+Yusef Ibrahim Muhammad Sarhan,4/11/2008,14,al-Bureij R.C.,Deir al-Balah,M
+Yusef 'Ali Salamah al-Maghari,4/11/2008,16,al-Bureij R.C.,Deir al-Balah,M
+Khaled 'Abd a-Naser Mahmoud 'Abd al-Hadi,4/11/2008,17,al-Bureij R.C.,Deir al-Balah,M
+Sh'hab a-Din Muhammad Ahmad Abu Zabeidah,4/11/2008,18,al-Bureij R.C.,Deir al-Balah,M
+'Abd a-Razeq 'Atiyyah Ahmad Nofal,4/11/2008,19,al-Bureij R.C.,Deir al-Balah,M
+Jihad Muhammad Salem Abu Zabeidah,4/11/2008,19,al-Bureij R.C.,Deir al-Balah,M
+Munzer Muhammad 'Atiyyah Abu Hweishel,4/11/2008,20,al-Bureij R.C.,Deir al-Balah,M
+Zaki 'Adnan Hussein Abu Zeid,2/26/2008,20,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Ahmad Mahmoud a-Safdi,1/16/2008,29,al-Bureij R.C.,Deir al-Balah,M
+Wael 'Abd al-Karim Hamuda Ahel,1/16/2008,34,al-Bureij R.C.,Deir al-Balah,M
+Ziad Isma'il Hassan Abu Rakbah,1/6/2008,16,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Rabah Muhammad A'bed,1/6/2008,17,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Muhammad Ahmad Khalaf,1/6/2008,19,al-Bureij R.C.,Deir al-Balah,M
+Iman Muhammad Ibrahim Hamdan,1/6/2008,26,al-Bureij R.C.,Deir al-Balah,F
+Yihya Sa'id Jamil Jaber,1/1/2008,22,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Fawzi Muhammad Abu Hasanein,12/27/2007,30,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Ahmad Suliman Abu Hasanein,12/27/2007,42,al-Bureij R.C.,Deir al-Balah,M
+'Atallah Ahmad Suliman al-'Awawdeh,12/24/2007,23,al-Bureij R.C.,Deir al-Balah,M
+Jum'ah Maflah Jum'ah Abu Hajir,12/24/2007,24,al-Bureij R.C.,Deir al-Balah,M
+Bilal Ahmad 'Alian a-Nabahin,11/9/2007,14,al-Bureij R.C.,Deir al-Balah,M
+Jihad 'Alian Muhammad a-Nabahin,11/9/2007,17,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Fa'iq Muhammad Abu al-Haj,10/31/2007,25,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Kayed Ahmad al-Kafafi,9/20/2007,18,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Suliman 'Abd Rabo Abu Hajir,9/20/2007,21,al-Bureij R.C.,Deir al-Balah,M
+Yunes 'Abdallah Muhammad Abu Hajir,9/20/2007,24,al-Bureij R.C.,Deir al-Balah,M
+'Imad Rizeq Harb Abu Hajir,9/20/2007,30,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Ibrahim 'Abdallah al-Qreinawi,8/20/2007,21,al-Bureij R.C.,Deir al-Balah,M
+'Abd Rabo Khaled 'Abd Rabo Abu Hilu,8/20/2007,22,al-Bureij R.C.,Deir al-Balah,M
+Ahmad 'Ali Muhammad al-Qreinawi,8/20/2007,22,al-Bureij R.C.,Deir al-Balah,M
+Isma'il Muhammad Isma'il Abu 'Abdah,8/20/2007,22,al-Bureij R.C.,Deir al-Balah,M
+'Ali Sa'id 'Ali Barud,8/20/2007,28,al-Bureij R.C.,Deir al-Balah,M
+Muhammad 'Atiyyah Muhammad Abu 'Arab,8/20/2007,34,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Jamil Khamis Abu Naje',7/5/2007,17,al-Bureij R.C.,Deir al-Balah,M
+'Obaydah Hijazi 'Adnan al-Qassas,7/5/2007,17,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Saqer Muhammad Nofal,7/5/2007,18,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Suliman Salamah al-Qreinawi,7/5/2007,20,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud 'Awad Salem Abu Gharqud,7/5/2007,21,al-Bureij R.C.,Deir al-Balah,M
+Mahmoud Subhi Yusef Nur,7/5/2007,21,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Mustafa Ahmad Mansur,7/5/2007,21,al-Bureij R.C.,Deir al-Balah,M
+Ahmad Nabil Hussein Abu Jalad,7/5/2007,22,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Nayef Mahmoud al-'Odat,7/5/2007,22,al-Bureij R.C.,Deir al-Balah,M
+'Ammar Ibrahim Sa'id Shahin,7/5/2007,23,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Jawwad Muhammad Siyam,7/5/2007,37,al-Bureij R.C.,Deir al-Balah,M
+Saed Bassam Rafiq Hiles,4/28/2007,21,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Saleh Muhammad al-Faqi,4/28/2007,22,al-Bureij R.C.,Deir al-Balah,M
+'Abd al-Halim Saqer 'Abd al-Fatah al-Fayumi,4/28/2007,27,al-Bureij R.C.,Deir al-Balah,M
+'Abd al-Wahab Samir Muhammad Abu 'Areban,4/24/2006,19,al-Bureij R.C.,Deir al-Balah,M
+Hammad Hamdan Mahmoud Musleh,3/25/2006,16,al-Bureij R.C.,Deir al-Balah,M
+Idris Zakaria Idris a-Sharif,2/8/2006,24,al-Bureij R.C.,Deir al-Balah,M
+Murad 'Abd al-Hamid Muhammad al-Hur,2/8/2006,27,al-Bureij R.C.,Deir al-Balah,M
+Akram 'Eid Salamah Abu Ghadain,11/10/2005,22,al-Bureij R.C.,Deir al-Balah,M
+Ihab Salah Salim a-Nabahin,6/20/2005,17,al-Bureij R.C.,Deir al-Balah,M
+'Omar Ramadan Muhammad al-Qreinawi,1/13/2005,9,al-Bureij R.C.,Deir al-Balah,M
+Sa'id Mahmoud Ahmad 'Abd a-Salam,1/13/2005,23,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Hamdan Abu Jaber,12/26/2004,22,al-Bureij R.C.,Deir al-Balah,M
+Muhammad 'Abd a-Salam Abu a-Rus,12/26/2004,24,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Ahmad Muhammad Shahin,4/2/2004,25,al-Bureij R.C.,Deir al-Balah,M
+Ousamah Yusef Salamah al-Maghari,2/21/2004,33,al-Bureij R.C.,Deir al-Balah,M
+Nahed Muhammad Hussein Qotqut,11/12/2003,41,al-Bureij R.C.,Deir al-Balah,M
+'Ali Mustafa Shihadah Abu Taha,10/20/2003,20,al-Bureij R.C.,Deir al-Balah,M
+Habi Suliman 'Ayash,10/20/2003,22,al-Bureij R.C.,Deir al-Balah,M
+Nur 'Abd al-Qader Abu 'Armaneh,9/25/2003,20,al-Bureij R.C.,Deir al-Balah,M
+Muhammad Bashir Muhammad 'Aqel,9/25/2003,25,al-Bureij R.C.,Deir al-Balah,M
+Hamdi 'Atiyyah 'Abd Rabo Abu Khusah,5/25/2003,27,al-Bureij R.C.,Deir al-Balah,M
+Tareq Sami 'Aqel Abu Matar,3/3/2003,14,al-Bureij R.C.,Deir al-Balah,M
+Fadi Faiz Muhammad al-Huajri,3/3/2003,16,al-Bureij R.C.,Deir al-Balah,M
+Rami Yusef 'Awad,3/3/2003,21,al-Bureij R.C.,Deir al-Balah,M
+Muhammad 'Ali al-Babli,3/3/2003,22,al-Bureij R.C.,Deir al-Balah,M
+Maher Khamis a-Rifa'I,3/3/2003,24,al-Bureij R.C.,Deir al-Balah,M
+Mu'tasem Hamed 'Aqel,3/3/2003,24,al-Bureij R.C.,Deir al-Balah,M
+Walid 'Abd Allah al-Khatib,3/3/2003,24,al-Bureij R.C.,Deir al-Balah,M
+Nuha Sabri 'Abd al-Hamid al-Maqadmeh,3/2/2003,33,al-Bureij R.C.,Deir al-Balah,F
+Hassan 'Abdallah Abu Zeid,2/17/2003,33,al-Bureij R.C.,Deir al-Balah,M
+Marwan Saber a-Taharawi,12/6/2002,16,al-Bureij R.C.,Deir al-Balah,M
+Ramez 'Omar al-'Aalem,12/6/2002,21,al-Bureij R.C.,Deir al-Balah,M
+Muhammad 'Abd al-Hamid al-'Awini,12/6/2002,26,al-Bureij R.C.,Deir al-Balah,M
+Hazem Jamil Abu 'Abdu,12/6/2002,27,al-Bureij R.C.,Deir al-Balah,M
+'Imad 'Abd al-Hamid al-'Awini,12/6/2002,28,al-Bureij R.C.,Deir al-Balah,M
+Ousamah Hassan a-Taharawi,12/6/2002,28,al-Bureij R.C.,Deir al-Balah,M
+Tareq Yihya Ramadan,12/6/2002,28,al-Bureij R.C.,Deir al-Balah,M
+'Abd al-Mun'im Muhammad al-Bahar,12/6/2002,30,al-Bureij R.C.,Deir al-Balah,M
+Ahlam Rizeq Qandil,12/6/2002,30,al-Bureij R.C.,Deir al-Balah,F
+Raed Yihya Ramadan,12/6/2002,30,al-Bureij R.C.,Deir al-Balah,M
+Yihya Abu Sa'id,3/11/2002,22,al-Bureij R.C.,Deir al-Balah,M
+Hassan Muhammad Mabhu,2/15/2002,16,al-Bureij R.C.,Deir al-Balah,M
+Ma'sud Abu Jalalah,2/15/2002,17,al-Bureij R.C.,Deir al-Balah,M
+Nael Lutfi Saqer,2/15/2002,23,al-Bureij R.C.,Deir al-Balah,M
+Ramzi al-Masri,2/15/2002,30,al-Bureij R.C.,Deir al-Balah,M
+Musa Mahmoud Jum'ah a-Smeiri,11/18/2012,76,Abu al-'Ajin,Deir al-Balah,M
+Ahmad Iyad Ahmad Fatuh,5/13/2021,22,a-Zawaydah,Deir al-Balah,M
+Isma'il Muslem Hamad Abu Bteihan,8/22/2014,69,a-Zawaydah,Deir al-Balah,M
+Muhammad 'Ammar Bashir Shalat,7/31/2014,7,a-Zawaydah,Deir al-Balah,M
+'Ammar Suliman 'Ali al-Musaddar,7/30/2014,30,a-Zawaydah,Deir al-Balah,M
+Meyasar Muhammad Mhareb a-T'aban,7/30/2014,34,a-Zawaydah,Deir al-Balah,F
+Ibrahim Karim 'Abdallah a-Smeiri,7/29/2014,9,a-Zawaydah,Deir al-Balah,M
+Muhammad Karim 'Abdallah a-Smeiri,7/29/2014,12,a-Zawaydah,Deir al-Balah,M
+Ahmad Ibrahim Sa'ed al-Qur'an,7/24/2014,26,a-Zawaydah,Deir al-Balah,M
+M'aali 'Abd a-Rahman Suliman Abu Zayed,7/19/2014,24,a-Zawaydah,Deir al-Balah,F
+Muhammad Ahmad Sa'id Abu Sitah,11/20/2012,21,a-Zawaydah,Deir al-Balah,M
+Salem 'Ayesh Hussein Abu Sitah,11/20/2012,32,a-Zawaydah,Deir al-Balah,M
+Suhaib Muhammad Ibrahim al-Qur'an,1/9/2009,15,a-Zawaydah,Deir al-Balah,M
+Widad Muhammad Ibrahim al-Qur'an,1/9/2009,16,a-Zawaydah,Deir al-Balah,F
+Iyad Saber Hassan Nassar (al-Quar'an),1/9/2009,20,a-Zawaydah,Deir al-Balah,M
+Riyad Yihya Muhammad al-Qur'an,1/9/2009,21,a-Zawaydah,Deir al-Balah,M
+Husam Ibrahim Mteir Nassar (al-Quar'an),1/9/2009,23,a-Zawaydah,Deir al-Balah,M
+Bassem Ibrahim Hussein Nassar (al-Quar'an),1/9/2009,24,a-Zawaydah,Deir al-Balah,M
+Muhammad Hussein Naser al-Qur'an,1/9/2009,40,a-Zawaydah,Deir al-Balah,M
+Muhammad Ibrahim Khalil al-Qur'an,1/9/2009,55,a-Zawaydah,Deir al-Balah,M
+Muhammad Maher Sayah Abu Sweireh,1/1/2009,16,a-Zawaydah,Deir al-Balah,M
+Muhammad Husam Radwan 'Alian,1/1/2009,17,a-Zawaydah,Deir al-Balah,M
+'Udai Riyad Ahmad a-Loh,5/11/2023,43,a-Nuseirat R.C.,Deir al-Balah,M
+Hamzah Mahmoud Ibrahim al-Hur,5/12/2021,24,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad 'Abd al-Mun'im Ibrahim Shahin,5/12/2021,26,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Mu'in Muhammad al-Qar'ah,5/12/2021,26,a-Nuseirat R.C.,Deir al-Balah,M
+Ahmad Walid Hussein a-Tala'a,5/12/2021,29,a-Nuseirat R.C.,Deir al-Balah,M
+Yasin Hamed Jebril Abu Hamad,8/22/2014,22,a-Nuseirat R.C.,Deir al-Balah,M
+Mahmoud Naser Mansur Qashlan,8/22/2014,23,a-Nuseirat R.C.,Deir al-Balah,M
+Jum'ah Ibrahim Salem Matar,8/21/2014,26,a-Nuseirat R.C.,Deir al-Balah,M
+'Omar Taysir Ibrahim Abu Nada,8/21/2014,30,a-Nuseirat R.C.,Deir al-Balah,M
+Zuhdi 'Abd al-Hamid Abu a-Rus,8/9/2014,22,a-Nuseirat R.C.,Deir al-Balah,M
+Tareq Ziad Jadallah,8/9/2014,24,a-Nuseirat R.C.,Deir al-Balah,M
+Mu'az 'Azzam Zayed Abu Zayed,8/9/2014,37,a-Nuseirat R.C.,Deir al-Balah,M
+Nidal Muhammad 'Abd al-Majid Badran,8/9/2014,44,a-Nuseirat R.C.,Deir al-Balah,M
+'Abdallah Soheil Abu Shawish,8/3/2014,22,a-Nuseirat R.C.,Deir al-Balah,M
+Basel Walid Hussein a-Tala'a,8/3/2014,24,a-Nuseirat R.C.,Deir al-Balah,M
+Hala Shadi Yusef Abu Madi,8/2/2014,0,a-Nuseirat R.C.,Deir al-Balah,F
+Yusef Shadi Yusef Abu Madi,8/2/2014,6,a-Nuseirat R.C.,Deir al-Balah,M
+Amin Yusef Dawood Abu Madi,8/2/2014,10,a-Nuseirat R.C.,Deir al-Balah,M
+Hassan Yusef Dawood Abu Madi,8/2/2014,17,a-Nuseirat R.C.,Deir al-Balah,M
+'Abd al-Karim Yusef Dawood Abu Madi,8/2/2014,23,a-Nuseirat R.C.,Deir al-Balah,M
+Yusef Dawood 'Abd al-Mun'im Abu Madi,8/2/2014,68,a-Nuseirat R.C.,Deir al-Balah,M
+Malak Shaker Muhammad Abu Shuqah,7/31/2014,1,a-Nuseirat R.C.,Deir al-Balah,F
+Rinad Ashraf Muhammad al-'Assar,7/31/2014,2,a-Nuseirat R.C.,Deir al-Balah,F
+Lama Raafat Muhammad al-'Assar,7/31/2014,6,a-Nuseirat R.C.,Deir al-Balah,F
+al-Hassan Muhammad 'Abd al-Hamid al-Bayumi,7/31/2014,13,a-Nuseirat R.C.,Deir al-Balah,M
+Hadil 'Amer 'Abd al-Hamid al-Bayumi,7/31/2014,13,a-Nuseirat R.C.,Deir al-Balah,F
+Asil 'Amer 'Abd al-Hamid al-Bayumi,7/31/2014,15,a-Nuseirat R.C.,Deir al-Balah,F
+'Abir 'Amer 'Abd al-Hamid al-Bayumi,7/31/2014,18,a-Nuseirat R.C.,Deir al-Balah,F
+Ilham Ibrahim Shaker Abu Shuqah,7/31/2014,18,a-Nuseirat R.C.,Deir al-Balah,F
+Hassan Naser Hussein Zaqut,7/31/2014,21,a-Nuseirat R.C.,Deir al-Balah,M
+'Abir Nahed Muhammad al-'Assar,7/31/2014,23,a-Nuseirat R.C.,Deir al-Balah,F
+Labibah Ibrahim Shaker Abu Shuqah,7/31/2014,23,a-Nuseirat R.C.,Deir al-Balah,F
+Ni'mah Darwish Hussein Abu Shuqah,7/31/2014,44,a-Nuseirat R.C.,Deir al-Balah,F
+Zeinab Yusef 'Issa Zaqut,7/31/2014,77,a-Nuseirat R.C.,Deir al-Balah,F
+Baraa Yusef Kamel Ibrahim,7/30/2014,17,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Taysir Nazmi Abu Haza',7/30/2014,25,a-Nuseirat R.C.,Deir al-Balah,M
+Jana Bilal Muhammad Abu Khusah,7/29/2014,0,a-Nuseirat R.C.,Deir al-Balah,F
+Rital Bashir Muhammad Abu Khusah,7/29/2014,0,a-Nuseirat R.C.,Deir al-Balah,F
+Muhammad Ibrahim Suliman Abu Khusah,7/29/2014,1,a-Nuseirat R.C.,Deir al-Balah,M
+Yazan 'Imad Muhammad Abu Khusah,7/29/2014,4,a-Nuseirat R.C.,Deir al-Balah,M
+Shahd Ibrahim Suliman Abu Khusah,7/29/2014,9,a-Nuseirat R.C.,Deir al-Balah,F
+'Aishah Salamah 'Abd al-Karim Abu 'Eid,7/29/2014,26,a-Nuseirat R.C.,Deir al-Balah,F
+Sabrin Muhammad 'Atiyyah Abu Khusah,7/29/2014,32,a-Nuseirat R.C.,Deir al-Balah,F
+Ibrahim Suliman 'Abd Rabo Abu Khusah,7/29/2014,36,a-Nuseirat R.C.,Deir al-Balah,M
+'Abd al-Hai Salamah Suliman al-Qreinawi,7/29/2014,48,a-Nuseirat R.C.,Deir al-Balah,M
+Farid Muhammad Muhammad Ahmad,7/29/2014,50,a-Nuseirat R.C.,Deir al-Balah,M
+Sabah Mubarak Bheiri Abu Khusah,7/29/2014,50,a-Nuseirat R.C.,Deir al-Balah,F
+Ahmad Muhammad Muhammad Ahmad,7/29/2014,51,a-Nuseirat R.C.,Deir al-Balah,M
+'Abd a-Samad Mahmoud Ahmad Ramadan,7/28/2014,15,a-Nuseirat R.C.,Deir al-Balah,M
+Ayman 'Adnan Musa Shukur,7/28/2014,25,a-Nuseirat R.C.,Deir al-Balah,M
+'Alaa Nahed Ibrahim Matar,7/27/2014,23,a-Nuseirat R.C.,Deir al-Balah,M
+Ibrahim Khalil Ibrahim a-Dirawi,7/27/2014,26,a-Nuseirat R.C.,Deir al-Balah,M
+Ahmad Sa'ed a-Din Muhammad Abu Sweireh,7/27/2014,27,a-Nuseirat R.C.,Deir al-Balah,M
+Bahaa Salah Ahmad Abu Is'id,7/27/2014,27,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Kamal 'Abd a-Rahman Harun,7/27/2014,29,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Anwar Suliman Darazin,7/25/2014,3,a-Nuseirat R.C.,Deir al-Balah,M
+'Abd al-Karim Anwar Suliman Darazin,7/25/2014,4,a-Nuseirat R.C.,Deir al-Balah,M
+'Ali Hassan Hussein al-Hawari,7/25/2014,11,a-Nuseirat R.C.,Deir al-Balah,M
+Ahmad Ramzi Muhammad Mu'in Abu Qadus,7/25/2014,12,a-Nuseirat R.C.,Deir al-Balah,M
+Nur Muhammad Salamah Abu Dabagh,7/25/2014,12,a-Nuseirat R.C.,Deir al-Balah,M
+Yasser Yusef Salem Abu Dabagh,7/25/2014,19,a-Nuseirat R.C.,Deir al-Balah,M
+Ghassan Yusef Salem Abu Dabagh,7/25/2014,25,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Ahmad Muhammad Hamad,7/25/2014,25,a-Nuseirat R.C.,Deir al-Balah,M
+Ousamah 'Abd al-Malek Salman Abu M'alla,7/25/2014,36,a-Nuseirat R.C.,Deir al-Balah,M
+Hassan Hussein Hassan al-Hawari,7/25/2014,38,a-Nuseirat R.C.,Deir al-Balah,M
+Naser 'Abd a-Rahman Hamad Abu Marahil,7/25/2014,45,a-Nuseirat R.C.,Deir al-Balah,M
+Sa'id Ahmad Tawfiq a-Tawil,7/23/2014,22,a-Nuseirat R.C.,Deir al-Balah,M
+Nur al-Islam Raed Ahmad Abu Hweishel,7/22/2014,6,a-Nuseirat R.C.,Deir al-Balah,M
+'Obaydah Fadel Muhammad Abu Hweishel,7/22/2014,9,a-Nuseirat R.C.,Deir al-Balah,M
+Yusef Fawzi Ibrahim Abu Mustafa,7/22/2014,19,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Naser Khaled Harun,7/22/2014,27,a-Nuseirat R.C.,Deir al-Balah,M
+'Atiyyah Muhammad Muhammad 'Abd a-Razeq,7/22/2014,33,a-Nuseirat R.C.,Deir al-Balah,M
+'Adel Muhammad Hweishel Abu Hweishel,7/22/2014,40,a-Nuseirat R.C.,Deir al-Balah,M
+'Abdallah Trad 'Abdallah Abu Hjeir,7/21/2014,16,a-Nuseirat R.C.,Deir al-Balah,M
+Fahmi 'Abd al-'Aziz Sa'ed Abu Sa'id,7/20/2014,28,a-Nuseirat R.C.,Deir al-Balah,M
+Bilal Muhammad Nassar,7/19/2014,24,a-Nuseirat R.C.,Deir al-Balah,M
+Mahmoud 'Ali 'Abd al-'Aziz Darwish,7/18/2014,35,a-Nuseirat R.C.,Deir al-Balah,M
+Khawlah Mahmoud Sarhan al-Hawajri,7/12/2014,24,a-Nuseirat R.C.,Deir al-Balah,F
+Raed Muhammad Rayeq Abu Shalat,7/10/2014,36,a-Nuseirat R.C.,Deir al-Balah,M
+Khaled 'Abd a-Naser Salim Abu Kweik,7/9/2014,30,a-Nuseirat R.C.,Deir al-Balah,M
+'Abd a-Naser Salim Fares Abu Kweik,7/9/2014,62,a-Nuseirat R.C.,Deir al-Balah,M
+Rashad a-Din 'Abd a-Rahman Hussein Yasin,7/8/2014,28,a-Nuseirat R.C.,Deir al-Balah,M
+'Abd al-Halim 'Abd al-Mu'ti Muhammad 'Ashrah,7/8/2014,54,a-Nuseirat R.C.,Deir al-Balah,M
+Mubarak Ibrahim Mubarak Abu Ghulah,11/21/2012,24,a-Nuseirat R.C.,Deir al-Balah,M
+Ousamah Walid Ibrahim Shihadah,11/19/2012,17,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Zidan Zayed Tbeil,11/19/2012,25,a-Nuseirat R.C.,Deir al-Balah,M
+'Aead Sabri Muhammad Radi,11/19/2012,48,a-Nuseirat R.C.,Deir al-Balah,M
+Khalil Ibrahim 'Abd al-'Aziz Shihadah,11/19/2012,53,a-Nuseirat R.C.,Deir al-Balah,M
+Husam Hassan Muhammad Abu Shawish,11/18/2012,37,a-Nuseirat R.C.,Deir al-Balah,M
+'Atiyyah 'Abdallah Muhammad Mubarak,11/18/2012,57,a-Nuseirat R.C.,Deir al-Balah,M
+Mahmoud Hamad Mahmoud Abu Sawawin,11/14/2012,61,a-Nuseirat R.C.,Deir al-Balah,M
+'Issa 'Abd al-Hadi Musa al-Batran,7/31/2010,36,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad 'Abdallah Salamah Abu 'Ateiwi,1/17/2009,17,a-Nuseirat R.C.,Deir al-Balah,M
+'Imad 'Abdallah Ahmad Miqdad,1/15/2009,20,a-Nuseirat R.C.,Deir al-Balah,M
+'Abdallah Naser 'Abdallah a-Sadudi,1/14/2009,6,a-Nuseirat R.C.,Deir al-Balah,M
+Ramzi Rawhi Khalil 'Awad,1/14/2009,25,a-Nuseirat R.C.,Deir al-Balah,M
+'Iz a-Din 'Ali 'Awad al-Baras,1/10/2009,16,a-Nuseirat R.C.,Deir al-Balah,M
+Ibrahim Rashid 'Abd al-Ghani Qweider,1/9/2009,24,a-Nuseirat R.C.,Deir al-Balah,M
+Ibrahim Mahmoud Ahmad Wishah,1/9/2009,26,a-Nuseirat R.C.,Deir al-Balah,M
+'Amru Muhammad 'Abdallah Nassar,1/8/2009,20,a-Nuseirat R.C.,Deir al-Balah,M
+Zakaria Yihya Ibrahim a-Tawil,1/6/2009,4,a-Nuseirat R.C.,Deir al-Balah,M
+Majed Khalil Muhammad al-Bardawil,1/2/2009,30,a-Nuseirat R.C.,Deir al-Balah,M
+Shehdeh Hamdan Hussein Abu Teilakh,12/31/2008,51,a-Nuseirat R.C.,Deir al-Balah,M
+Diaa' A-Din 'Aref Farhud Abu Khabizeh,12/28/2008,14,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad 'Ali Salem Abu Khabizeh,12/28/2008,19,a-Nuseirat R.C.,Deir al-Balah,M
+Yunes Jamil Farhud Abu Khabizeh,12/28/2008,19,a-Nuseirat R.C.,Deir al-Balah,M
+Walid Tawfiq Salamah Abu Yusef,3/3/2008,22,a-Nuseirat R.C.,Deir al-Balah,M
+Darwish 'Adel Muhammad Miqdad,3/3/2008,34,a-Nuseirat R.C.,Deir al-Balah,M
+Ibrahim 'Ali Salem a-Loh,12/27/2007,29,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Murshed Khalil Abu 'Abdallah,12/27/2007,43,a-Nuseirat R.C.,Deir al-Balah,M
+Tareq Taleb 'Abd Rabo Abu Jarai,10/4/2007,22,a-Nuseirat R.C.,Deir al-Balah,M
+Mahmoud 'Abdallah Hassan Yunes,3/7/2004,10,a-Nuseirat R.C.,Deir al-Balah,M
+Salim 'Amer Khamis Abu Zreiq,3/7/2004,13,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad 'Ali 'Abd al-Fatah Badawi,3/7/2004,15,a-Nuseirat R.C.,Deir al-Balah,M
+Haitham Muhammad Khalil al-'Issawi,3/7/2004,16,a-Nuseirat R.C.,Deir al-Balah,M
+'Omar Muhammad Yusef al-Jamal,3/7/2004,17,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Isma'il Muhammad a-Shatli,3/7/2004,19,a-Nuseirat R.C.,Deir al-Balah,M
+Musa Manar Musa Hamu,3/7/2004,19,a-Nuseirat R.C.,Deir al-Balah,M
+Ahmad Hassan Mahmoud Harb,3/7/2004,21,a-Nuseirat R.C.,Deir al-Balah,M
+Shadi Ahmad 'Abd al-Karim a-Sa'idani,3/7/2004,21,a-Nuseirat R.C.,Deir al-Balah,M
+Khaled Qassem Ibrahim al-Hazqi,3/7/2004,22,a-Nuseirat R.C.,Deir al-Balah,M
+Fares Fathi Muhammad al-Huajri,3/7/2004,23,a-Nuseirat R.C.,Deir al-Balah,M
+Hazem Rohi Muhammad 'Aqel,3/7/2004,23,a-Nuseirat R.C.,Deir al-Balah,M
+Yusef Mahmoud Salim a-Sanwar,3/7/2004,25,a-Nuseirat R.C.,Deir al-Balah,M
+Hassan Ahmad Mahmoud Zuhd,3/7/2004,42,a-Nuseirat R.C.,Deir al-Balah,M
+Jihad 'Azzat Salem Abu Sweireh,9/18/2003,33,a-Nuseirat R.C.,Deir al-Balah,M
+Fadel Muhammad 'Ashur Abu 'Ateiwi,5/14/2003,21,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Khalil Ahmad Thabet,5/14/2003,24,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Mustafa 'Abdallah Wishah,5/14/2003,26,a-Nuseirat R.C.,Deir al-Balah,M
+Yusef Riyad Abu Wadi,4/6/2003,15,a-Nuseirat R.C.,Deir al-Balah,M
+Nabil Muhammad a-Dawidar,3/18/2003,40,a-Nuseirat R.C.,Deir al-Balah,M
+Ilham Ziad Hassan al-'Assar,3/17/2003,4,a-Nuseirat R.C.,Deir al-Balah,F
+'Omar Hassan Darwish,3/17/2003,16,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Tawfiq Salamah Abu Yusef,3/17/2003,17,a-Nuseirat R.C.,Deir al-Balah,M
+Iyad Bashir Abu Zreiq,3/17/2003,18,a-Nuseirat R.C.,Deir al-Balah,M
+Ibrahim al-'Athmani,3/17/2003,22,a-Nuseirat R.C.,Deir al-Balah,M
+Sa'id a-Tawil,3/17/2003,27,a-Nuseirat R.C.,Deir al-Balah,M
+Muhammad Rajab a-Sa'afin,3/17/2003,34,a-Nuseirat R.C.,Deir al-Balah,M
+Saleh Diab Abu 'Atios,3/3/2003,44,a-Nuseirat R.C.,Deir al-Balah,M

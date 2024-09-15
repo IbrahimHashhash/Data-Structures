@@ -1,0 +1,211 @@
+Name,Date,Age,Location,District,Gender
+Yasin Hassan Yasin Hamad,5/15/2021,25,Zeita,Tulkarm,M
+Mahmoud 'Othman Muhammad 'Asi,7/11/2008,48,Yaqir,Tulkarm,M
+Mahmoud Jihad 'Abd a-Razeq Jarad,8/11/2023,24,Tulkarm R.C.,Tulkarm,M
+Samer Salah 'Abed Shaf'i,5/6/2023,20,Tulkarm R.C.,Tulkarm,M
+Hamzah Jamil Mahmoud Khreiwish,5/6/2023,23,Tulkarm R.C.,Tulkarm,M
+Muhammad Zaki Muhammad Quzah,11/25/2007,20,Tulkarm R.C.,Tulkarm,M
+Jasser Nader Muhammad Abu Zgheib,2/1/2007,24,Tulkarm R.C.,Tulkarm,M
+Luai Jihad Fathallah a-S'adi,10/23/2005,26,Tulkarm R.C.,Tulkarm,M
+Majed Samir Ahmad al-Ashqar,10/23/2005,26,Tulkarm R.C.,Tulkarm,M
+Anas M'aruf 'Assaf Abu Zeinah,8/25/2005,16,Tulkarm R.C.,Tulkarm,M
+Mahmoud Muhammad Isma'il Hadib,8/25/2005,16,Tulkarm R.C.,Tulkarm,M
+Muhammad Tareq 'Abd a-Latif 'Othman,8/25/2005,16,Tulkarm R.C.,Tulkarm,M
+Majdi Muhammad 'Abd al-Karim Hussein,8/25/2005,18,Tulkarm R.C.,Tulkarm,M
+'Adel Muhammad Amin Qassem Abu Khalil,8/25/2005,28,Tulkarm R.C.,Tulkarm,M
+Jamal Khaled 'Adnan A'zem,12/24/2004,16,Tulkarm R.C.,Tulkarm,M
+Kamel 'Abdallah Kamel Sabarini,12/24/2004,17,Tulkarm R.C.,Tulkarm,M
+Iyad 'Azmi Ghanem Tanuh,12/24/2004,21,Tulkarm R.C.,Tulkarm,M
+Amjad Ribhi 'Ali 'Amarah,4/27/2004,19,Tulkarm R.C.,Tulkarm,M
+Ashraf Thaher Hassan Nafe'a,4/27/2004,25,Tulkarm R.C.,Tulkarm,M
+Ayman Yusef Faiz Barahmeh,4/22/2004,27,Tulkarm R.C.,Tulkarm,M
+Bilal 'Ali Musa Abu 'Amshah,4/22/2004,29,Tulkarm R.C.,Tulkarm,M
+Ghanem Mahmoud Darwish Ghanem,4/22/2004,31,Tulkarm R.C.,Tulkarm,M
+Rami Muhammad Isma'il Hadib,4/4/2004,16,Tulkarm R.C.,Tulkarm,M
+Khaled Jamal Muhammad Kharyush,4/4/2004,28,Tulkarm R.C.,Tulkarm,M
+Thaer Khaled Mahmoud Abu Sorrayha,3/6/2004,18,Tulkarm R.C.,Tulkarm,M
+Qays 'Aref Yusef 'Ofi,3/3/2004,20,Tulkarm R.C.,Tulkarm,M
+Hisham Ahmad 'Abd al-Fatah Kharyush,1/7/2004,22,Tulkarm R.C.,Tulkarm,M
+Yusef Taleb Khader Diab,11/17/2003,23,Tulkarm R.C.,Tulkarm,M
+Ibrahim 'Aref Ibrahim a-N'anish,10/28/2003,28,Tulkarm R.C.,Tulkarm,M
+Muhammad Ayman Yusef Ibrahim,10/4/2003,7,Tulkarm R.C.,Tulkarm,M
+Sarhan Burhan Hussein Sarhan,10/4/2003,20,Tulkarm R.C.,Tulkarm,M
+Muhammad Nassim Amin 'Awwad,5/27/2003,16,Tulkarm R.C.,Tulkarm,M
+Muhammad 'Awad Ghanem,3/28/2003,20,Tulkarm R.C.,Tulkarm,M
+Ahmad Seif Khader al-Hamshri,3/3/2003,15,Tulkarm R.C.,Tulkarm,M
+Muhammad 'Ofeh,2/20/2003,-1,Tulkarm R.C.,Tulkarm,M
+Haza'a Shadid,1/15/2003,15,Tulkarm R.C.,Tulkarm,M
+Muhei a-Din Mubarak,1/15/2003,16,Tulkarm R.C.,Tulkarm,M
+Raafat Isma'il Balawaneh,11/8/2002,25,Tulkarm R.C.,Tulkarm,M
+Ahmad 'Einbus,10/28/2002,18,Tulkarm R.C.,Tulkarm,M
+Ahmad Radwan,9/22/2002,19,Tulkarm R.C.,Tulkarm,M
+Hussni 'Ali Jaber Damiri,8/9/2002,40,Tulkarm R.C.,Tulkarm,M
+Khader Taleb,3/7/2002,-1,Tulkarm R.C.,Tulkarm,M
+Shadi A'bbas,3/7/2002,22,Tulkarm R.C.,Tulkarm,M
+Walid Ghanem,3/7/2002,22,Tulkarm R.C.,Tulkarm,M
+Muhannad Abu Hilal,3/7/2002,24,Tulkarm R.C.,Tulkarm,M
+Tareq Abu Jimus,3/7/2002,24,Tulkarm R.C.,Tulkarm,M
+Hussni Nayef,3/7/2002,28,Tulkarm R.C.,Tulkarm,M
+Mahmoud Husam Hassan Abu Sa'an,8/4/2023,17,Tulkarm,Tulkarm,M
+Muhammad Husam 'Abd a-Latif Hbali,12/4/2018,22,Tulkarm,Tulkarm,M
+Nidal Dawood Tawfiq Mahdawi,1/17/2017,44,Tulkarm,Tulkarm,M
+Huzaifah 'Othman Rajeh Suliman,10/4/2015,18,Tulkarm,Tulkarm,M
+Tamer Faraj Muhammad Qab,8/1/2014,20,Tulkarm,Tulkarm,M
+Murad Ibrahim Ahmad Basha,1/21/2008,24,Tulkarm,Tulkarm,M
+Fadel Mutlaq Daji Balawaneh,1/25/2007,17,Tulkarm,Tulkarm,M
+Mahmoud Muhammad Ahmad 'Abd al-'Aal,12/4/2006,24,Tulkarm,Tulkarm,M
+'Itaf Ahmad Mahmoud Zalat,5/1/2006,45,Tulkarm,Tulkarm,F
+Thabet Mahmoud Salah a-Din 'Aiyadah,1/17/2006,24,Tulkarm,Tulkarm,M
+Muhammad Fawzi Yusef Shihadah,7/13/2005,19,Tulkarm,Tulkarm,M
+Muhammad Mesbah Ghanam,7/13/2005,22,Tulkarm,Tulkarm,M
+'Omar Muti'a 'Abd a-Rahman 'Asrawi,5/16/2005,23,Tulkarm,Tulkarm,M
+Sanad Ghanam Mustafa Knuh,1/11/2005,30,Tulkarm,Tulkarm,M
+Ahmad Nabil Ahmad Bruck,7/25/2004,16,Tulkarm,Tulkarm,M
+Sa'id Jamal Sa'id Abu Qamer,7/25/2004,16,Tulkarm,Tulkarm,M
+Muhammad 'Adnan Mahmoud a-Shantir,7/25/2004,18,Tulkarm,Tulkarm,M
+Mahdi Rayik Na'im Tanbur,7/25/2004,22,Tulkarm,Tulkarm,M
+Hani Yusef Muhammad 'Aweidah,7/25/2004,26,Tulkarm,Tulkarm,M
+'Abd a-Rahim Hassan Mustafa Shadid,7/25/2004,33,Tulkarm,Tulkarm,M
+Yihya Hassan Ma'sud Rihan,10/18/2003,16,Tulkarm,Tulkarm,M
+Rabah Ibrahim Barham Abu Daqah,10/1/2003,22,Tulkarm,Tulkarm,M
+Mazen Yusef Salamah a-Salalmeh,10/1/2003,30,Tulkarm,Tulkarm,M
+Sa'id 'Awwad Miqbal Ghanem,8/20/2003,15,Tulkarm,Tulkarm,M
+Nuhad Rizeq Muhammad Qassem,8/4/2003,27,Tulkarm,Tulkarm,M
+Nimer Taher Musa al-Jayusi,7/1/2003,18,Tulkarm,Tulkarm,M
+Hani Ahmad 'Abd al-Fatah Khreiwish,6/5/2003,24,Tulkarm,Tulkarm,M
+'Adel Muhammad Ibrahim Hadaida,6/5/2003,27,Tulkarm,Tulkarm,M
+Ibrahim 'Abd a-Latif Abu Hableh,5/28/2003,16,Tulkarm,Tulkarm,M
+Amir Khalil 'Abd a-Latif Jabali,5/22/2003,15,Tulkarm,Tulkarm,M
+Yusef 'Abd a-Razaq Yihya,4/12/2003,15,Tulkarm,Tulkarm,M
+Jasser Hussein Ahmad 'Alumi,4/10/2003,23,Tulkarm,Tulkarm,M
+'Ali al-'Abbas,3/4/2003,26,Tulkarm,Tulkarm,M
+Muaiad Salamah,2/23/2003,24,Tulkarm,Tulkarm,M
+Ahmad a-Najar,2/21/2003,35,Tulkarm,Tulkarm,M
+'Abd al-Baqi Muhammad 'Abd al-Baqi Muslem,2/6/2003,25,Tulkarm,Tulkarm,M
+Muhammad Mahmoud Qadurah,2/1/2003,22,Tulkarm,Tulkarm,M
+Badi'a Rafe'a,1/30/2003,23,Tulkarm,Tulkarm,M
+Faiz al-Jabber,1/30/2003,32,Tulkarm,Tulkarm,M
+'Abd al-Karim Yasser Salamah,12/29/2002,11,Tulkarm,Tulkarm,M
+Jamal Yihya,12/26/2002,27,Tulkarm,Tulkarm,M
+Maher Saqallah,12/2/2002,19,Tulkarm,Tulkarm,M
+'Amru al-Qudsi,11/20/2002,13,Tulkarm,Tulkarm,M
+Ihab a-Zaqtah,11/19/2002,16,Tulkarm,Tulkarm,M
+Tareq a-Zaghal,11/19/2002,20,Tulkarm,Tulkarm,M
+Ahmad Jussi,11/19/2002,30,Tulkarm,Tulkarm,M
+Sha'ban Bdeir,11/19/2002,40,Tulkarm,Tulkarm,M
+Ziad Masharqah,11/19/2002,40,Tulkarm,Tulkarm,M
+Muhammad Sabri a-Tamuni,10/16/2002,17,Tulkarm,Tulkarm,M
+Taher Badran,10/12/2002,19,Tulkarm,Tulkarm,M
+Nashaat Jbarah,9/26/2002,-1,Tulkarm,Tulkarm,M
+'Issam Salim,8/20/2002,28,Tulkarm,Tulkarm,M
+Maher Muhammad Jazmai,8/7/2002,18,Tulkarm,Tulkarm,M
+Muhammad Khamis Sa'adah,8/7/2002,20,Tulkarm,Tulkarm,M
+Ziad D'aas,8/7/2002,25,Tulkarm,Tulkarm,M
+Islam Fouad a-Rahil,6/23/2002,20,Tulkarm,Tulkarm,M
+Waked As'ad Ibrahim al-Qutub,5/26/2002,55,Tulkarm,Tulkarm,M
+Tamer Khaled Mahmoud Abu Sorrayha,5/5/2002,10,Tulkarm,Tulkarm,M
+'Abd al-'Aziz Samarah,4/30/2002,50,Tulkarm,Tulkarm,M
+'Abd al-Karim Abu Sha'ala,4/10/2002,38,Tulkarm,Tulkarm,M
+Mahmoud Faiz,3/7/2002,10,Tulkarm,Tulkarm,M
+Mahmoud A'bbas,3/7/2002,20,Tulkarm,Tulkarm,M
+Bilal Rajab,3/7/2002,24,Tulkarm,Tulkarm,M
+Ibrahim Muhammad As'ad,3/7/2002,25,Tulkarm,Tulkarm,M
+Khaled Harun,3/7/2002,27,Tulkarm,Tulkarm,M
+M'azuz al-Jarushi,3/7/2002,30,Tulkarm,Tulkarm,M
+Ghassan Salem,3/7/2002,36,Tulkarm,Tulkarm,M
+Kamal Salem,3/7/2002,36,Tulkarm,Tulkarm,M
+Khaled Kheirallah,3/7/2002,36,Tulkarm,Tulkarm,M
+Ziad al-Jarar,3/7/2002,36,Tulkarm,Tulkarm,M
+Bassem Darsiyeh,3/7/2002,40,Tulkarm,Tulkarm,M
+Ahmad Abu Tamam,3/7/2002,50,Tulkarm,Tulkarm,M
+'Adel Abu Safaqah,3/7/2002,55,Tulkarm,Tulkarm,M
+Heijar Persh,3/7/2002,70,Tulkarm,Tulkarm,F
+Nur Jamal Ghanem Jamal,2/25/2002,15,Tulkarm,Tulkarm,F
+Jamal Hasunah,1/25/2002,39,Tulkarm,Tulkarm,M
+Khaldun Ghazi Ma'ydi,1/21/2002,20,Tulkarm,Tulkarm,M
+Jawwad Hassan al-Aswad,1/18/2002,-1,Tulkarm,Tulkarm,M
+Raed Muhammad Ra'if Carmi,1/14/2002,28,Tulkarm,Tulkarm,M
+Khaled Subhi 'Ali Sunjuq,12/2/2001,20,Tulkarm,Tulkarm,M
+Yasser Ahmad 'Asidah,11/1/2001,25,Tulkarm,Tulkarm,M
+Fahmi Fayeq Abu 'Eishah,11/1/2001,28,Tulkarm,Tulkarm,M
+'Abdallah Rashed al-Jarushi,10/31/2001,42,Tulkarm,Tulkarm,M
+Fares Jaber,10/27/2001,26,Tulkarm,Tulkarm,M
+Saleh Rushdi 'Asi,10/24/2001,19,Tulkarm,Tulkarm,M
+Ayman al-Jalad,10/24/2001,20,Tulkarm,Tulkarm,M
+Mahmoud al-Jalad,10/24/2001,25,Tulkarm,Tulkarm,M
+Tal'at Jaber,10/23/2001,19,Tulkarm,Tulkarm,M
+Bader a-Sha'er,10/23/2001,50,Tulkarm,Tulkarm,M
+Maher Abu Hasnah,10/20/2001,24,Tulkarm,Tulkarm,M
+Mustafa Zitawi,10/20/2001,53,Tulkarm,Tulkarm,M
+Nizar Riyad M'aruf Abu Zeinah,5/14/2021,23,Shweikah,Tulkarm,M
+'Abd a-Rahman Fares Muhammad 'Ata,10/5/2023,23,Shufah,Tulkarm,M
+Huzaifah 'Adnan Muhammad Fares,10/5/2023,26,Shufah,Tulkarm,M
+Amjad Suliman Hassan Abu Salim,5/17/2003,16,Sha'arei Tikva,Tulkarm,M
+'Amer Shaker 'Abd a-Latif Abu 'Ayash,5/17/2003,19,Sha'arei Tikva,Tulkarm,M
+Saleh 'Omar Saleh Qarqur,3/12/2008,25,Saida,Tulkarm,M
+Tareq Ziad Ibrahim Malham,8/24/2007,22,Saida,Tulkarm,M
+Muhammad 'Abd al-Jabbar Muhammad Twier,6/14/2007,31,Saida,Tulkarm,M
+'Abd al-Fatah Yusef Mahmoud Raddad,5/2/2005,25,Saida,Tulkarm,M
+Shafiq 'Awni Mustafa 'Abd al-Ghani,5/2/2005,38,Saida,Tulkarm,M
+Muhammad Bassem Rushdi Raddad,10/6/2004,16,Saida,Tulkarm,M
+Basel Mahmoud Ahmad Shihab,7/19/2004,26,Saida,Tulkarm,M
+Saher Subhi Ahmad 'Ajaj,7/19/2004,26,Saida,Tulkarm,M
+Rami al-Ashqar,3/12/2003,20,Saida,Tulkarm,M
+Ahmad 'Ajaj,1/8/2003,18,Saida,Tulkarm,M
+Muhammad 'Abd al-Ghani,11/17/2002,25,Saida,Tulkarm,M
+Ahmad Fathi 'Ajaj,3/30/2002,32,Saida,Tulkarm,M
+'Azmi 'Ajaj,3/30/2002,34,Saida,Tulkarm,M
+Anwaar Mustafa 'Abd al-Ghani,2/15/2002,28,Saida,Tulkarm,M
+Faiz Ahmad Mustafa Salamah,11/6/2003,44,Ramin,Tulkarm,M
+Bilal Fahmi Suliman Zidan,10/14/2003,31,Ramin,Tulkarm,M
+Bader Nidal Ahmad Naflah,2/7/2020,19,Qaffin,Tulkarm,M
+Usayed Farhan Muhammad 'Ali Abu 'Ali,9/24/2023,21,Nur Shams R.C.,Tulkarm,M
+'Abd a-Rahman Suleiman Muhammad Abu Daghash,9/24/2023,32,Nur Shams R.C.,Tulkarm,M
+'Ayed Samih Khaled Abu Harb,9/5/2023,21,Nur Shams R.C.,Tulkarm,M
+Ghazi Yusef Mustafa Shihab,5/11/2023,66,Nur Shams R.C.,Tulkarm,M
+Iyad As'ad Ahmad Abu Shalbayah,9/17/2010,38,Nur Shams R.C.,Tulkarm,M
+Fallah Hassan Na'im Masharqah,9/14/2004,37,Nur Shams R.C.,Tulkarm,M
+Walid Tareq 'Abd Rabo,12/13/2002,-1,Nur Shams R.C.,Tulkarm,M
+Akram Ghneim,3/7/2002,18,Nur Shams R.C.,Tulkarm,M
+Yusef Shihadah,3/7/2002,33,Nur Shams R.C.,Tulkarm,M
+Hassan Abu Sorrayha,10/25/2001,43,Nur Shams R.C.,Tulkarm,M
+Tamer As'ad Khader Zandik,8/8/2005,17,Nur Shams,Tulkarm,M
+"Wael Khiri Khader 'Eid ""Rabah""",5/7/2004,26,Nur Shams,Tulkarm,M
+Saed Ibrahim Hassan Masi'I,5/7/2004,27,Nur Shams,Tulkarm,M
+Yusef Hussein 'Abed Shalabi,10/22/2001,60,Nur Shams,Tulkarm,M
+'Aref 'Abd a-Naser 'Aref Lahlouh,1/25/2023,20,Kedumim,Tulkarm,M
+Muhammad Yusef Hamzah,6/14/2002,21,Kedumim,Tulkarm,M
+Ahmad Hassan 'Abd a-Latif Toabah,2/1/2016,17,Kafr Jammal,Tulkarm,M
+Wafa Muhammad As'ad Nasif,11/13/2001,28,Irtah,Tulkarm,F
+'Assem Samih Muhammad 'Asidah,7/17/2002,22,Immanuel,Tulkarm,M
+'Assem Yusef Muhammad Abu Rihan,12/12/2001,20,Immanuel,Tulkarm,M
+Muhammad 'Abd al-Qader Jami'an,12/11/2001,25,Iktaba,Tulkarm,M
+Muhammad Khalil Abu Marahil,12/11/2001,26,Iktaba,Tulkarm,M
+Mahmoud Sami Khalil 'Aram,5/8/2022,27,Far'on,Tulkarm,M
+Du'aa Naser Saleh 'Abd al-Qader,12/19/2006,14,Far'on,Tulkarm,F
+'Omar 'Abd al-Jabbar 'Abd al-Fatah Farah,6/7/2004,26,Far'on,Tulkarm,M
+Muhammad 'Omar Salah Diab,7/12/2007,24,Einav,Tulkarm,M
+Basel Mustafa al-Ku',12/9/2002,28,Beit Lid,Tulkarm,M
+Mufid Muhammad Ibrahim 'Asrawi,2/21/2002,25,Baqah a-Sharqiyah,Tulkarm,M
+Ramzi Fakhri 'Abd a-Rahman al-'Ardah,4/3/2004,17,Avne Hefetz,Tulkarm,M
+Muhammad 'Abd a-Latif Hussein Abu Khalil,3/10/2005,26,a-Nazlah al-Wusta,Tulkarm,M
+Amir 'Imad Amin Khadijah,3/23/2023,24,'Izbat Shufah,Tulkarm,M
+Muhammad Nidal Yunes Musa,12/6/2021,15,'Izbat Shufah,Tulkarm,M
+Ra'd Majed Muhammad al-Bahri,10/18/2019,25,'Izbat Shufah,Tulkarm,M
+Muhammad Subhi Asmar 'Anbar,4/2/2018,45,'Izbat Shufah,Tulkarm,M
+Muhammad Ahmad Mahmoud Hamad,12/19/2006,23,'Illar,Tulkarm,M
+Amin Fawzi 'Abd a-Rahim Hamdan,11/6/2004,19,'Illar,Tulkarm,M
+Zaher 'Issa 'Ali al-Ashqar,7/29/2004,27,'Illar,Tulkarm,M
+Samir Ahmad 'Abd al-Jalil Hamidah,10/5/2020,28,'Einav,Tulkarm,M
+Maram Ramez 'Abed Hasunah,12/1/2015,20,'Einav,Tulkarm,F
+Hussein Sadeq Hussein Sbihat,5/19/2004,33,'Einav,Tulkarm,M
+Ansar Husam Hifzi Harshah,6/2/2016,24,'Anabta,Tulkarm,F
+'Amer Ibrahim Naji Nassar,4/3/2013,18,'Anabta,Tulkarm,M
+Naji 'Abd a-Salam Naji al-Balbisi,4/3/2013,19,'Anabta,Tulkarm,M
+Raed Ahmad 'Ali Shihadah,10/21/2005,20,'Anabta,Tulkarm,M
+Maher Subhi 'Abd al-Karim Balbisi,3/14/2002,28,'Anabta,Tulkarm,M
+Mu'tasem Mahmoud 'Abdallah Makhluf,3/14/2002,28,'Anabta,Tulkarm,M
+Ahmad Samih Ahmad al-Qu',12/9/2001,23,'Anabta,Tulkarm,M
+Sa'id 'Abd al-Fatah Sa'id a-Daridi,12/9/2001,25,'Anabta,Tulkarm,M
+Munif Helmi Muhammad Hamadah,12/9/2001,26,'Anabta,Tulkarm,M
+'Adnan Muhammad Suliman Jum'ah,12/9/2001,28,'Anabta,Tulkarm,M

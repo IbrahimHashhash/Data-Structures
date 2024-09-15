@@ -1,0 +1,82 @@
+Name,Date,Age,Location,District,Gender
+Iyad 'Azmi 'Ali 'Aweisat,4/7/2009,21,Zur Baher,East Jerusalem,M
+Ahmad Ibrahim Muhammad 'Abdah,3/10/2002,19,Zur Baher,East Jerusalem,M
+Taleb Ousamah Hirmas,3/10/2002,21,Zur Baher,East Jerusalem,M
+Muhammad 'Abd al-Hamid Ibrahim Sinuqrut,8/31/2014,15,Wadi al-Joz,East Jerusalem,M
+Ziad Badawi Musa a-Julani,6/11/2010,40,Wadi al-Joz,East Jerusalem,M
+Wadi' 'Abd al-'Aziz Mar'i Abu Ramuz,1/25/2023,17,Silwan,East Jerusalem,M
+'Ali 'Atef Ibrahim a-Shyukhi,10/11/2016,19,Silwan,East Jerusalem,M
+Khader 'Abd al-Fatah al-Gharbi,6/13/2002,62,Silwan,East Jerusalem,M
+Muhammad Nabil Judah Zidan,11/25/2016,14,Shu'fat R.C.,East Jerusalem,M
+Mustafa Talal Hassan Nimer,9/5/2016,26,Shu'fat R.C.,East Jerusalem,M
+Ahmad Jamal Ahmad Salah,10/10/2015,25,Shu'fat R.C.,East Jerusalem,M
+Wisam Jamal Taleb Faraj,10/8/2015,20,Shu'fat R.C.,East Jerusalem,M
+Shaher Mahmoud Ahmad Abu Khadijeh,5/16/2021,42,Sheikh Jarrah,East Jerusalem,M
+Ayman Samih Hassan al-'Abasi,11/29/2015,17,Ras al-'Amud,East Jerusalem,M
+Hussein Khaled Hussein Qaraqe',2/10/2023,31,Ramot Alon,East Jerusalem,M
+Zuhdi Muhannad Zuhdi a-Tawil,5/24/2021,17,Ramat Eshkol East/Givat Hamivtar,East Jerusalem,M
+Ibtesam Khaled Saleh Ka'abneh,6/12/2021,26,Qalandia (Jerusalem),East Jerusalem,F
+Nayfeh Muhammad 'Ali Ka'abneh,9/18/2019,50,Qalandia (Jerusalem),East Jerusalem,F
+Hassan Khaled Jebril Mahani,10/12/2015,14,Pisgat Ze'ev,East Jerusalem,M
+'Amer Husam Bader Halabiyah,11/3/2022,20,Old City (Jerusalem),East Jerusalem,M
+'Abd a-Rahman Jamal Muhammad Qassem,3/7/2022,22,Old City (Jerusalem),East Jerusalem,M
+Karim Jamal Muhammad Isma'il al-Qawasmi,3/6/2022,18,Old City (Jerusalem),East Jerusalem,M
+Muhammad Shawkat Muhammad Salimeh,12/4/2021,25,Old City (Jerusalem),East Jerusalem,M
+Fadi Mahmoud 'Abed Abu Skhidem,11/21/2021,42,Old City (Jerusalem),East Jerusalem,M
+Israa Khaled 'Aref Khzeimiyyah,9/30/2021,30,Old City (Jerusalem),East Jerusalem,F
+Hazem al-Julani,9/10/2021,50,Old City (Jerusalem),East Jerusalem,M
+Mahmoud 'Omar Sadeq Kmeil,12/21/2020,17,Old City (Jerusalem),East Jerusalem,M
+Ashraf Hassan 'Atallah Halaseh,8/17/2020,30,Old City (Jerusalem),East Jerusalem,M
+Iyad Khairi Rohi al-Halaq,5/30/2020,31,Old City (Jerusalem),East Jerusalem,M
+Maher Ibrahim Muhammad Za'atrah,2/22/2020,33,Old City (Jerusalem),East Jerusalem,M
+Nassim Mukafeh Musa Abu Rumi,8/15/2019,14,Old City (Jerusalem),East Jerusalem,M
+Yusef Wajih Yusef Ahmad,5/31/2019,19,Old City (Jerusalem),East Jerusalem,M
+Majd Jamal Muhammad Mteir,12/13/2018,26,Old City (Jerusalem),East Jerusalem,M
+'Abd a-Rahman Maher Sa'adah Bani Fadel,3/18/2018,28,Old City (Jerusalem),East Jerusalem,M
+Ousamah Ahmad Mustafa 'Ata,6/16/2017,18,Old City (Jerusalem),East Jerusalem,M
+Bara Ibrahim Muhammad Saleh,6/16/2017,18,Old City (Jerusalem),East Jerusalem,M
+'Adel Hassan Ahmad 'Ankush,6/16/2017,18,Old City (Jerusalem),East Jerusalem,M
+Fatimah 'Abd a-Rahman Shaker Hjeiji,5/7/2017,16,Old City (Jerusalem),East Jerusalem,F
+Ahmad Zaher Fathi Ghazal,4/1/2017,17,Old City (Jerusalem),East Jerusalem,M
+Siham Rateb Rashid Nimer,3/29/2017,49,Old City (Jerusalem),East Jerusalem,F
+Ibrahim Mahmoud Jamil Matar,3/13/2017,24,Old City (Jerusalem),East Jerusalem,M
+Hammad Dakhil Khader a-Sheikh,12/14/2016,21,Old City (Jerusalem),East Jerusalem,M
+Fouad al-Kassaf 'Abdallah Abu Rajab a-Tamimi,3/8/2016,21,Old City (Jerusalem),East Jerusalem,M
+Fadwa Ahmad Muhammad Abu Teir,3/8/2016,50,Old City (Jerusalem),East Jerusalem,F
+Muhammad Ziad Muhammad Abu Khalaf,2/19/2016,20,Old City (Jerusalem),East Jerusalem,M
+Mansur Yasser 'Abd al-'Aziz Shawamreh,2/14/2016,19,Old City (Jerusalem),East Jerusalem,M
+'Omar Muhammad Ahmad 'Amru,2/14/2016,20,Old City (Jerusalem),East Jerusalem,M
+Muhammad Ahmad Muhammad Kmeil,2/3/2016,19,Old City (Jerusalem),East Jerusalem,M
+Ahmad Najeh Isma'il Nassar,2/3/2016,19,Old City (Jerusalem),East Jerusalem,M
+Ahmad Najeh 'Abd a-Latif Abu a-Rob,2/3/2016,20,Old City (Jerusalem),East Jerusalem,M
+Mus'ab Mahmoud Muhammad al-Ghazali,12/26/2015,26,Old City (Jerusalem),East Jerusalem,M
+'Anan Muhammad Saleh Hammad,12/23/2015,20,Old City (Jerusalem),East Jerusalem,M
+'Issa Yasin Yusef 'Assaf,12/23/2015,21,Old City (Jerusalem),East Jerusalem,M
+'Iz a-Din 'Abdallah Muhammad Raddad,12/3/2015,21,Old City (Jerusalem),East Jerusalem,M
+Bassim 'Abd a-Rahman Mustafa Salah,11/29/2015,38,Old City (Jerusalem),East Jerusalem,M
+Basel Bassam Ragheb Sidr,10/14/2015,19,Old City (Jerusalem),East Jerusalem,M
+Mustafa 'Adel Baker al-Khatib,10/12/2015,17,Old City (Jerusalem),East Jerusalem,M
+Muhannad Shafiq Muhammad Halabi,10/3/2015,19,Old City (Jerusalem),East Jerusalem,M
+Khayri Musa Khayri Alkam,1/27/2023,21,Neve Ya'akov,East Jerusalem,M
+Na'im Ahmad Musa Safi,2/14/2016,16,Khallet a-Nu'man,East Jerusalem,M
+Muhammad Ibrahim Kamel Shahham,8/15/2022,20,Kafr 'Aqab (Jerusalem),East Jerusalem,M
+Muhammad 'Ali Muhammad Dar 'Udwan,4/2/2019,24,Kafr 'Aqab (Jerusalem),East Jerusalem,M
+Ahmad Nashaat 'Othman Kharubi,12/22/2016,19,Kafr 'Aqab (Jerusalem),East Jerusalem,M
+'Abd a-Rahman 'Ali Ahmad Abu Jamal,11/14/2018,17,Jabal al-Mukabber,East Jerusalem,M
+Samir Ribhi Muhammad Dari,11/9/2005,31,French Hill (Giv'at Shapira),East Jerusalem,M
+Muhammad Yusef Sha'ban 'Alian,9/18/2018,26,East Jerusalem,East Jerusalem,M
+Musbah Sbieh 'Abd al-'Azim Abu Sbeih,10/9/2016,39,East Jerusalem,East Jerusalem,M
+Mu'taz Ahmad Hajes 'Alian,10/17/2015,16,East Jerusalem,East Jerusalem,M
+Bahaa Muhammad Khalil 'Alian,10/13/2015,23,East Jerusalem,East Jerusalem,M
+Ishaq Qassem Ishaq Badran,10/10/2015,16,East Jerusalem,East Jerusalem,M
+Muhammad Sa'id 'Abd al-Karim Muhammad 'Ali,10/10/2015,19,East Jerusalem,East Jerusalem,M
+'Abd a-Rahman Idris Muhammd Yihya a-Shaloudi,10/22/2014,21,East Jerusalem,East Jerusalem,M
+Jamal Malek Abu 'Issa,8/15/2004,40,East Jerusalem,East Jerusalem,M
+Ibrahim Sa'ed a-Din Hamed a-Sa'ou,8/4/2002,19,East Jerusalem,East Jerusalem,M
+Hatem Sufian Yaqin a-Shweiki,11/4/2001,24,East Jerusalem,East Jerusalem,M
+Khaled Samer Fadel a-Z'anin,8/30/2023,14,al-Musrarah,East Jerusalem,M
+Muhammad Samir Muhammad A'beid,6/27/2019,21,al-'Esawiyah,East Jerusalem,M
+Mu'taz Ibrahim Khalil Hijazi,10/30/2014,32,Abu Tur,East Jerusalem,M
+Muhammad Hassan Mahmoud Abu Ghannam,7/21/2017,20,a-Tur,East Jerusalem,M
+'Umran 'Omar Muhammad Abu Dheim,5/20/2015,41,a-Tur,East Jerusalem,M
+Muhammad 'Abed Musa Muhammad 'Ali,1/25/2023,18,'Anata new (Dahiyat a-Salam),East Jerusalem,M

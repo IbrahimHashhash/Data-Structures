@@ -1,0 +1,10 @@
+Name,Date,Age,Location,District,Gender
+Elias Khayri Muhammad al-Ashqar,5/14/2006,24,Qabatiyah,Jenin,M
+Fadi Hassan Raja Kreini,1/28/2003,17,Jenin R.C.,Jenin,M
+Fadi Kamal Jamil Abu 'Ara,4/1/2002,19,Jenin R.C.,Jenin,M
+Yusef Yihya 'Abd al-Karim Muheisen,2/20/2015,22,Jenin,Jenin,M
+Wisam Naser 'Abd al-Hadi Abu Ghweilah,1/24/2015,20,Jenin,Jenin,M
+Yunes Jamal Muhammad Jahjouh,8/26/2013,22,Jenin,Jenin,M
+Diaa' Nasif Ghawadreh,5/14/2003,15,Jenin,Jenin,M
+Rabah 'Othman Mustafa Haji,11/19/2001,72,Jenin,Jenin,M
+Fadi Fakhri Fawaz Zakarneh,9/13/2004,24,AlYamoun,Jenin,M

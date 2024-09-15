@@ -1,0 +1,1038 @@
+Name,Date,Age,Location,District,Gender
+Mazen 'Adnan Salman 'Abdin,7/25/2014,24,Um a-Naser (al-Bayuk),Rafah,M
+Saleh Ishteiwi Ibrahim 'Abdin,7/25/2014,42,Um a-Naser (al-Bayuk),Rafah,M
+Muhammad 'Abd al-'Aziz 'Odeh Shteiwi,7/19/2014,27,Um a-Naser (al-Bayuk),Rafah,M
+Ahmad 'Abdallah Ahmad al-Bahnasawi,7/18/2014,22,Um a-Naser (al-Bayuk),Rafah,M
+Bushra Khalil Ahmad Zo'rub,7/15/2014,53,Um a-Naser (al-Bayuk),Rafah,F
+Sadam Musa Shehdeh Abu Mu'amar,7/13/2014,23,Um a-Naser (al-Bayuk),Rafah,M
+Hanadi Hamdan Mansur Abu Mu'amar,7/13/2014,26,Um a-Naser (al-Bayuk),Rafah,F
+Musa Shehdeh Marzuq Abu Mu'amar,7/13/2014,56,Um a-Naser (al-Bayuk),Rafah,M
+Isma'il Hamed 'Abed Abu Judah,3/11/2014,22,Um a-Naser (al-Bayuk),Rafah,M
+Shaher Hamuda Mahmoud Abu Shanab,3/11/2014,23,Um a-Naser (al-Bayuk),Rafah,M
+'Abd a-Shafi Saleh Mahmoud Abu Mu'ammar,3/11/2014,33,Um a-Naser (al-Bayuk),Rafah,M
+Mahmoud Subhi Muhammad Farhat,7/30/2014,22,Tall a-Sultan R.C.,Rafah,M
+Isma'il Zuhdi Isma'il al-Asmar,8/24/2011,36,Tall a-Sultan R.C.,Rafah,M
+Taysir Sa'id Salman Abu Sneimah,4/9/2011,27,Tall a-Sultan R.C.,Rafah,M
+Shadi Mahmoud Darwish a-Zatmeh,4/9/2011,28,Tall a-Sultan R.C.,Rafah,M
+Muhammad 'Ali Saleh 'Awajeh,4/9/2011,28,Tall a-Sultan R.C.,Rafah,M
+Muhammad Mahmoud Jaber Abu Hani,7/2/2006,21,Tall a-Sultan R.C.,Rafah,M
+'Arafat Suliman Musa al-A'bed,7/2/2006,22,Tall a-Sultan R.C.,Rafah,M
+Bashir 'Ayad Hamid a-Sufi,9/8/2005,18,Tall a-Sultan R.C.,Rafah,M
+'Abd al-Karim Jamil Ahmad 'Afanah,5/8/2003,21,Tall a-Sultan R.C.,Rafah,M
+Mahmoud Hamdan Yusef Abu Sh'ar,5/3/2003,19,Tall a-Sultan R.C.,Rafah,M
+Sumayah Hassan,4/6/2002,5,Tall a-Sultan R.C.,Rafah,F
+Salawah Dahaliz,4/6/2002,10,Tall a-Sultan R.C.,Rafah,F
+Shadi Abu Ghali,4/6/2002,20,Tall a-Sultan R.C.,Rafah,M
+Riham Abu Taha,3/21/2002,4,Tall a-Sultan R.C.,Rafah,F
+Ousamah Shehdeh 'Abd Rabo al-Ghuti,5/28/2008,31,Sufah Checkpoint,Rafah,M
+'Abd a-Razeq Mahmoud Hamad Abu Mu'ammar,5/28/2008,33,Sufah Checkpoint,Rafah,M
+Ibrahim Farid Mahmoud Madi,5/23/2008,17,Sufah Checkpoint,Rafah,M
+Muhannad Hamed Muhammad 'Awwad,5/23/2008,21,Sufah Checkpoint,Rafah,M
+Muhammad Hafez 'Eid Abu Rizeq,5/23/2008,26,Sufah Checkpoint,Rafah,M
+Yihya Suliman Musa al-Byuk,1/23/2008,24,Sufah Checkpoint,Rafah,M
+Ahmad Ibrahim 'Abd al-Qader Abu Tahun,10/29/2007,22,Sufah Checkpoint,Rafah,M
+'Abd al-Karim Jum'ah Ahmad Sha'th,5/29/2007,18,Sufah Checkpoint,Rafah,M
+Muhammad Ahmad Mansur M'amer,5/29/2007,20,Sufah Checkpoint,Rafah,M
+Iyad 'Atwah Musa Abu Mur,9/14/2006,31,Sufah Checkpoint,Rafah,M
+Mazen Ahmad 'Awwad Ben Hassan,2/25/2005,21,Sufah Checkpoint,Rafah,M
+'Abd al-'Aziz Najeh 'Abd al-'Aziz al-Jazar,10/18/2004,20,Sufah Checkpoint,Rafah,M
+Abd a-Sattar Suliman Rizeq al-J'afri,10/18/2004,21,Sufah Checkpoint,Rafah,M
+Ahmad Saleh Muhammad al-Qiq,8/19/2004,15,Sufah Checkpoint,Rafah,M
+'Imad Khalil Muhammad Abu 'Eid,5/26/2004,21,Sufah Checkpoint,Rafah,M
+Jamal Suliman Shaluf,9/8/2002,18,Sufah Checkpoint,Rafah,M
+'Atiyyah Ahmad al-Kashef,9/8/2002,24,Sufah Checkpoint,Rafah,M
+Isma'il Abu Taha,3/15/2002,28,Sufah Checkpoint,Rafah,M
+'Alam a-Din Samir Tawfiq 'Abd al-'Aziz,5/10/2023,23,Shokat a-Sufi,Rafah,M
+Ayman Karam Hussein Seidam,5/10/2023,26,Shokat a-Sufi,Rafah,M
+Mahmoud Khalil Ibrahim Qishtah,7/20/2018,26,Shokat a-Sufi,Rafah,M
+'Abd al-Karim Isma'il Suliman Radwan,7/19/2018,38,Shokat a-Sufi,Rafah,M
+'Abd al-Fatah Mustafa Muhammad Abu 'Azzum,6/28/2018,17,Shokat a-Sufi,Rafah,M
+Yusef Jasser Yusef Abu Jazar,4/29/2018,17,Shokat a-Sufi,Rafah,M
+'Abdallah Ayman Suliman Irmeilat,2/17/2018,14,Shokat a-Sufi,Rafah,M
+Salem Muhammad Suliman Sabah,2/17/2018,16,Shokat a-Sufi,Rafah,M
+Yusef Sha'ban Ahmad Abu 'Athrah,3/22/2017,15,Shokat a-Sufi,Rafah,M
+'Abd a-Rahman Sa'ed Muhammad Shaluf,8/22/2014,30,Shokat a-Sufi,Rafah,M
+Raedah 'Abd Rabo Musa Abu Khatlah,8/1/2014,40,Shokat a-Sufi,Rafah,F
+Jihad Hassan Mahmoud Hamad,7/25/2014,19,Shokat a-Sufi,Rafah,M
+Ibrahim al-Masri,11/4/2002,18,Shokat a-Sufi,Rafah,M
+Muhammad Iyad Muhammad Hasunah,8/6/2022,13,Rafah R.C.,Rafah,M
+Isma'il 'Abd al-Hamid Muhammad Dweik,8/6/2022,30,Rafah R.C.,Rafah,M
+Alaa Saleh 'Abd al-Muhsen al-Mallahi,8/6/2022,30,Rafah R.C.,Rafah,F
+Ziad Ahmad Khalil al-Modalal,8/6/2022,35,Rafah R.C.,Rafah,M
+Raafat Sameh Ibrahim a-Zamli,8/6/2022,41,Rafah R.C.,Rafah,M
+Khaled Sa'id Shihadah Mansur,8/6/2022,46,Rafah R.C.,Rafah,M
+Hanaa Isma'il 'Ali Dweik,8/6/2022,50,Rafah R.C.,Rafah,F
+Nur Marwan 'Abdallah a-Najdi,7/11/2014,10,Rafah R.C.,Rafah,F
+Mahmoud 'Abd a-Razeq Hassan al-Ghannam,7/11/2014,27,Rafah R.C.,Rafah,M
+Wisam 'Abd a-Razeq Hassan al-Ghannam,7/11/2014,31,Rafah R.C.,Rafah,F
+Kifah Shaker Diab al-Ghannam,7/11/2014,33,Rafah R.C.,Rafah,F
+Ghaliah Dib Jaber al-Ghannam,7/11/2014,57,Rafah R.C.,Rafah,F
+'Abd a-Razeq Hassan Sarhan al-Ghannam,7/11/2014,58,Rafah R.C.,Rafah,M
+Mahmoud Hassan 'Abd a-Rahman a-Da'alseh,1/31/2008,22,Rafah R.C.,Rafah,M
+Ibrahim Samir Ibrahim al-'Absi,1/25/2008,21,Rafah R.C.,Rafah,M
+Zayed Mesleh Salem 'Abd al-'Aal,1/25/2008,23,Rafah R.C.,Rafah,M
+'Abdallah Muhammad Ibrahim Qishtah,1/3/2008,33,Rafah R.C.,Rafah,M
+'Adel Yusef 'Ali Qishtah,12/30/2007,22,Rafah R.C.,Rafah,M
+Hani Najeh Muhammad Barhum,12/18/2007,19,Rafah R.C.,Rafah,M
+Muhammad Khaled Hassan a-Sharif,12/18/2007,21,Rafah R.C.,Rafah,M
+Muhammad Bassam Muhammad Hassan,10/2/2007,18,Rafah R.C.,Rafah,M
+Ahmad Rubin 'Abd a-Rahman Barhum,5/18/2005,23,Rafah R.C.,Rafah,M
+Mazen Majd Muhammad al-Agha,8/30/2004,15,Rafah R.C.,Rafah,M
+Hazem Fouad Mahmoud Abu a-Zaheri,8/23/2004,20,Rafah R.C.,Rafah,M
+Ahmad 'Abd al-Fatah 'Ali al-Hams,8/19/2004,17,Rafah R.C.,Rafah,M
+Seif a-Din Suliman Ni'amat al-Barahmeh,8/9/2004,13,Rafah R.C.,Rafah,M
+Jihad Sami Muhammad al-Bis,8/4/2004,18,Rafah R.C.,Rafah,M
+Iman Suliman Ibrahim Barhum,7/30/2004,13,Rafah R.C.,Rafah,F
+Yasser Muhammad Ahmad al-'Arja,7/2/2004,21,Rafah R.C.,Rafah,M
+Saber Ahmad Muhammad Abu Libdah,5/19/2004,14,Rafah R.C.,Rafah,M
+Ayman Khamis Jamil Hasanein,5/19/2004,24,Rafah R.C.,Rafah,M
+Shadi Faiz Khalil al-Maghari,5/19/2004,26,Rafah R.C.,Rafah,M
+Muhammad Khalil al-Jundi,5/18/2004,23,Rafah R.C.,Rafah,M
+Walid Musa Suliman Abu Jazar,5/18/2004,26,Rafah R.C.,Rafah,M
+Muhammad 'Abd a-Rahman Muhammad a-Nawajhah,5/18/2004,31,Rafah R.C.,Rafah,M
+Ahmad Saleh Suliman Abu Siyam,5/15/2004,44,Rafah R.C.,Rafah,M
+Akram 'Abd al-Karim Abu Naja,5/14/2004,30,Rafah R.C.,Rafah,M
+Ashraf Hassan 'Abd al-Hadi Qishtah,5/14/2004,34,Rafah R.C.,Rafah,M
+Sameh Yusef Muhammad Abu Jaz,5/13/2004,16,Rafah R.C.,Rafah,M
+Muhammad Musa Mesbah Mwafi,5/13/2004,16,Rafah R.C.,Rafah,M
+Fouad Khaled 'Abdallah Abu Hashem,5/13/2004,16,Rafah R.C.,Rafah,M
+Mahmoud Jamal Mahmoud a-Saqsaq,5/13/2004,17,Rafah R.C.,Rafah,M
+Hamed Faiz Hamed Abu Hamrah,5/13/2004,17,Rafah R.C.,Rafah,M
+Ihab Jamal 'Ali Yusef,5/13/2004,18,Rafah R.C.,Rafah,M
+Hassan Khader 'Awajeh,5/13/2004,18,Rafah R.C.,Rafah,M
+Muhammad 'Azmi Saleh al-Buji,5/13/2004,19,Rafah R.C.,Rafah,M
+Ahmad Muhammad Khalil al-Yaqubi,5/13/2004,19,Rafah R.C.,Rafah,M
+Hani Muhammad 'Abd Rabo al-Magheyr,5/13/2004,20,Rafah R.C.,Rafah,M
+Ramez Jamal Samih Abu Ghali,5/13/2004,22,Rafah R.C.,Rafah,M
+Rami 'Azmi al-Haj Ahmad,12/23/2003,21,Rafah R.C.,Rafah,M
+Khamis Anwaar Khamis a-Ra'i,12/23/2003,21,Rafah R.C.,Rafah,M
+'Alaa a-Din 'Ata Ahmad Bahlul,12/23/2003,21,Rafah R.C.,Rafah,M
+Wiam Rizeq Zaki Musa,12/23/2003,26,Rafah R.C.,Rafah,M
+Muhammad Kamel Hassan Mansur,12/23/2003,27,Rafah R.C.,Rafah,M
+'Ali Hussein Hassan a-Najar,12/23/2003,29,Rafah R.C.,Rafah,M
+Ahmad al-'Abed a-Najar,12/23/2003,32,Rafah R.C.,Rafah,M
+'Aead Ahmad 'Abd al-Hadi a-Najar,12/23/2003,34,Rafah R.C.,Rafah,M
+Khalil Muhammad 'Abdallah al-Qassas,12/23/2003,49,Rafah R.C.,Rafah,M
+Shadi Nabil Mahmoud Abu 'Alwan,10/19/2003,17,Rafah R.C.,Rafah,M
+Ibrahim Ahmad Faraj al-Qreinawi,10/10/2003,10,Rafah R.C.,Rafah,M
+Sami Talal Najib Salah,10/10/2003,15,Rafah R.C.,Rafah,M
+'Atwah Yusef Abu Muhsen,10/10/2003,17,Rafah R.C.,Rafah,M
+Mabruk Muhammad Dib Judah,10/10/2003,18,Rafah R.C.,Rafah,M
+Muhammad Ahmad Yunes 'Abd al-Wahab,10/10/2003,23,Rafah R.C.,Rafah,M
+'Alaa Nu'man Mansur,10/10/2003,23,Rafah R.C.,Rafah,M
+"Nader ""Ahmad Fuad"" Salim Abu Taha",10/10/2003,24,Rafah R.C.,Rafah,M
+Humad al-Masri,11/13/2002,2,Rafah R.C.,Rafah,M
+Salem a-Sha'er,10/26/2002,13,Rafah R.C.,Rafah,M
+Samer Mu'amar 'Abd al-Jawad,3/25/2002,23,Rafah R.C.,Rafah,M
+Ahmad Yusef Hmeid Sufi,3/4/2002,24,Rafah R.C.,Rafah,M
+Saber Fakhri Abu Libdah,3/4/2002,28,Rafah R.C.,Rafah,M
+Ibrahim 'Ali Barhum,3/4/2002,42,Rafah R.C.,Rafah,M
+Hazem Tal'at Mahmoud al-Hut,1/15/2005,14,Rafah Crossing,Rafah,M
+Nidal Mesbah Ahmad Abu Tyour,1/15/2005,25,Rafah Crossing,Rafah,M
+al-Mu'aiad Behukm Allah Khalil Muhammad al-Agha,12/12/2004,29,Rafah Crossing,Rafah,M
+Nabil Rajab Muhammad Zino,5/28/2004,22,Rafah Crossing,Rafah,M
+Jihad Musa Hassan al-Akhras,12/6/2003,16,Rafah Crossing,Rafah,M
+Muhammad 'Issa 'Abd al-'Aziz Hamdan,9/24/2003,15,Rafah Crossing,Rafah,M
+Wafaa Nimer Tawfiq Ghanam,5/9/2023,61,Rafah,Rafah,F
+Jihad Shaker Diab 'Abd al-Hafez Ghanam,5/9/2023,61,Rafah,Rafah,M
+Sameh Jihad Msameh al-Qadi,5/16/2021,23,Rafah,Rafah,M
+Tareq Mahmoud Qassem al-Qadi,5/16/2021,39,Rafah,Rafah,M
+Musa Ghaleb Ibrahim Madi,5/14/2021,25,Rafah,Rafah,M
+Ibrahim Muhammad Ibrahim a-Rantisi,5/13/2021,0,Rafah,Rafah,M
+Hur Muamen Jamal a-Zamli,5/13/2021,2,Rafah,Rafah,F
+Shaimaa Diab Muhammad a-Rantisi,5/13/2021,21,Rafah,Rafah,F
+Khulud Fouad Farhan a-Zamli,5/13/2021,26,Rafah,Rafah,F
+Raed Ibrahim Khamis a-Rantisi,5/13/2021,29,Rafah,Rafah,M
+Siham Yusef Mahmoud a-Rantisi,5/13/2021,65,Rafah,Rafah,F
+Muhammad Hassan Muhammad Abu Mu'amar,11/13/2019,23,Rafah,Rafah,M
+Ahmad Hassan Yusef al-Kurdi,11/13/2019,27,Rafah,Rafah,M
+Saher 'Awadallah Jaber 'Othman,9/27/2019,20,Rafah,Rafah,M
+'Abdallah Jum'ah Ahmad 'Abd al-'Aal,5/10/2019,24,Rafah,Rafah,M
+Musa Hussein Lafy Mu'amar,5/5/2019,35,Rafah,Rafah,M
+Hani Hamdan Salman Abu Sh'ar,5/5/2019,37,Rafah,Rafah,M
+'Ali Ahmad 'Ali 'Abd al-Jawad,5/5/2019,50,Rafah,Rafah,M
+Tamer Khaled Mustafa 'Arafat,3/8/2019,22,Rafah,Rafah,M
+Ihab 'Atallah Hussein A'bed,1/25/2019,24,Rafah,Rafah,M
+Musa Iyad 'Ali 'Abd al-'Aal,11/12/2018,22,Rafah,Rafah,M
+Hamad Muhammad Musa a-Nahal,11/12/2018,23,Rafah,Rafah,M
+Rami Wael Ishaq Qahman,11/9/2018,28,Rafah,Rafah,M
+Tamer Iyad Mahmoud Abu 'Armaneh,10/12/2018,21,Rafah,Rafah,M
+Muamen Ibrahim Salim Abu 'Iyada,9/19/2018,15,Rafah,Rafah,M
+Hani Ramzi Muhammad 'Afanah,9/14/2018,21,Rafah,Rafah,M
+Bilal Mustafa Muhammad Khafajah,9/7/2018,16,Rafah,Rafah,M
+Ahmad Musbah Ahmad Abu Tyour,9/7/2018,16,Rafah,Rafah,M
+Sa'di Akram Ahmad Abu Mu'amar,8/17/2018,27,Rafah,Rafah,M
+'Abdallah Sabri 'Atiyyah Qutati,8/10/2018,22,Rafah,Rafah,M
+Ahmad Jamal Suliman Abu Luli,8/10/2018,30,Rafah,Rafah,M
+'Ali Sa'id 'Ali al-'Alul,8/10/2018,54,Rafah,Rafah,M
+Majdi Ramzi Kamal a-Satari,7/27/2018,11,Rafah,Rafah,M
+Muamen Fathi Yusef al-Hams,7/27/2018,16,Rafah,Rafah,M
+Muhammad Fawzi Muhammad al-Hamaydah,6/29/2018,24,Rafah,Rafah,M
+al-Haitham Muhammad Khalil al-Jamal,6/8/2018,14,Rafah,Rafah,M
+Naji Myasarah 'Abdallah Ghneim,5/18/2018,22,Rafah,Rafah,M
+Mu'tasem Fawzi Muhammad Abu Luli,5/14/2018,20,Rafah,Rafah,M
+'Ali Muhammad Ahmad Khafajah,5/14/2018,21,Rafah,Rafah,M
+Ahmad Fawzi Kamel a-Tatr,5/14/2018,27,Rafah,Rafah,M
+Muhammad Mahmoud 'Abd al-Mu'ti 'Abd al-'Aal,5/14/2018,38,Rafah,Rafah,M
+Jamal 'Abd al-Hadi Muhammad 'Afanah,5/11/2018,15,Rafah,Rafah,M
+'Abdallah Muhammad Jebril a-Shamali,4/20/2018,19,Rafah,Rafah,M
+'Alaa a-Din Yihya Isma'il a-Zamli,4/6/2018,15,Rafah,Rafah,M
+Muhammad Sa'id Musa al-Haj Saleh,4/6/2018,32,Rafah,Rafah,M
+Ibrahim Salah Ibrahim Abu Sh'ar,3/30/2018,17,Rafah,Rafah,M
+Amin Mahmoud Hamad Abu Mu'amar,3/30/2018,25,Rafah,Rafah,M
+Shadi Hamdan 'Ali al-Kashef,3/30/2018,33,Rafah,Rafah,M
+Muhammad Saleh Mahmoud a-Riyati,8/26/2014,18,Rafah,Rafah,M
+Yusef Subhi Yusef Swelem (Ghanam),8/26/2014,21,Rafah,Rafah,M
+Ahmad Kamel 'Abd al-Karim Jarbo'a,8/26/2014,26,Rafah,Rafah,M
+Siba Rami Hassan Yunes,8/21/2014,4,Rafah,Rafah,F
+'Abdallah Naser Hussein Kulab,8/21/2014,10,Rafah,Rafah,M
+Yusef Naser Hussein Kulab,8/21/2014,15,Rafah,Rafah,M
+Ahmad Naser Hussein Kulab,8/21/2014,17,Rafah,Rafah,M
+Ibrahim 'Issam 'Eid Hammad,8/21/2014,22,Rafah,Rafah,M
+Marwan Muhammad Ibrahim Shaluf,8/21/2014,24,Rafah,Rafah,M
+'Abd a-Rahman Salem Muhammad Abu Hadayed,8/21/2014,25,Rafah,Rafah,M
+Raed Subhi Ahmad al-'Attar,8/21/2014,40,Rafah,Rafah,M
+Muhammad Ibrahim Salah Abu Shamaleh,8/21/2014,40,Rafah,Rafah,M
+Nazirah Ramadan Isma'il Kulab,8/21/2014,41,Rafah,Rafah,F
+Hamdan Salem Muhammad Abu Hadayed,8/21/2014,44,Rafah,Rafah,M
+Muhammad Hamdan Muhammad Barhum,8/21/2014,45,Rafah,Rafah,M
+Amal Ibrahim Ahmad Yunes,8/21/2014,53,Rafah,Rafah,F
+'Aishah Isma'il Hassan 'Atiyyah,8/21/2014,63,Rafah,Rafah,F
+'Abd al-Fatah Hussein al-'Abed Abu Salimah,8/21/2014,72,Rafah,Rafah,M
+Hassan Hussein I'bayyan Yunes,8/21/2014,79,Rafah,Rafah,M
+Sa'id 'Atef 'Abd al-Hamid Tamraz,8/9/2014,26,Rafah,Rafah,M
+Muhammad Tamer 'Adel Ibrahim al-'Aidy,8/9/2014,27,Rafah,Rafah,M
+Ahmad Na'im 'Abd Rabo 'Okal,8/8/2014,21,Rafah,Rafah,M
+Hala 'Omar 'Ayadah Abu Mas'ud,8/4/2014,0,Rafah,Rafah,F
+Raghad 'Omar 'Ayadah Abu Mas'ud,8/4/2014,2,Rafah,Rafah,F
+Amal Amjad 'Abd al-'Aziz 'Aweidah,8/4/2014,5,Rafah,Rafah,F
+Muhammad Amjad 'Abd al-'Aziz 'Aweidah,8/4/2014,13,Rafah,Rafah,M
+Isma'il Muhammad Naser Irmeilat,8/4/2014,19,Rafah,Rafah,M
+Thaer Majdi Hamed Abu Jazar,8/4/2014,22,Rafah,Rafah,M
+Karam Mahrus Hmeidan Khatab,8/4/2014,26,Rafah,Rafah,F
+Ashraf Mahmoud Suliman Mash'al,8/4/2014,28,Rafah,Rafah,M
+Sumayah 'Abed Hamad Dheir,8/4/2014,52,Rafah,Rafah,F
+Zaa'l Rizeq Salah Musleh,8/4/2014,53,Rafah,Rafah,M
+Mustafa Wael Isma'il al-Ghul,8/3/2014,0,Rafah,Rafah,M
+Maria Muhammad 'Awwad Abu Jazar,8/3/2014,1,Rafah,Rafah,F
+Firas Muhammad 'Awwad Abu Jazar,8/3/2014,2,Rafah,Rafah,M
+Malak Wael Isma'il al-Ghul,8/3/2014,5,Rafah,Rafah,F
+Bilal Wael Isma'il al-Ghul,8/3/2014,5,Rafah,Rafah,M
+Mahmoud Muhammad Na'im 'Okal,8/3/2014,9,Rafah,Rafah,M
+Isma'il Wael Isma'il al-Ghul,8/3/2014,13,Rafah,Rafah,M
+Munir Khalil Muhammad Abu Dba',8/3/2014,16,Rafah,Rafah,M
+Muhammad As'ad Muhammad Hijazi,8/3/2014,17,Rafah,Rafah,M
+Ayman Nabil Muhammad a-Sha'er,8/3/2014,18,Rafah,Rafah,M
+Nur a-Din Khalil Muhammad al-'Akar,8/3/2014,22,Rafah,Rafah,M
+'Issa Muhammad 'Issa a-Sha'er,8/3/2014,22,Rafah,Rafah,M
+Fadi 'Abd al-Karim Hamdan Madi,8/3/2014,22,Rafah,Rafah,M
+Asmaa Isma'il Muhammad Jum'ah al-Ghul,8/3/2014,22,Rafah,Rafah,F
+Amani Fadel Salem Abu Jazar,8/3/2014,22,Rafah,Rafah,F
+Saed Mahmoud Muhammad al-Lahwani,8/3/2014,23,Rafah,Rafah,M
+Khaled 'Atallah Muhammad Abu Sh'ar,8/3/2014,23,Rafah,Rafah,M
+Hanadi Isma'il Muhammad Jum'ah al-Ghul,8/3/2014,28,Rafah,Rafah,F
+Muhammad Isma'il Muhammad Jum'ah al-Ghul,8/3/2014,33,Rafah,Rafah,M
+Ilham Muhammad Mahmoud 'Okal,8/3/2014,33,Rafah,Rafah,F
+Muhammad Zaki Ibrahim al-Hur,8/3/2014,36,Rafah,Rafah,M
+Wael Isma'il Muhammad Jum'ah al-Ghul,8/3/2014,41,Rafah,Rafah,M
+Khalil Muhammad Ramadan Abu Dba',8/3/2014,43,Rafah,Rafah,M
+Salam Naser Salim Jbarah,8/3/2014,61,Rafah,Rafah,M
+Isma'il Muhammad Jum'ah Ibrahim al-Ghul,8/3/2014,63,Rafah,Rafah,M
+Khadrah Khaled Ibrahim al-Ghul,8/3/2014,64,Rafah,Rafah,F
+Turkiyyah Mahmoud 'Alian 'Okal,8/3/2014,65,Rafah,Rafah,F
+Rizeq Isma'il 'Ali Abu Taha,8/2/2014,0,Rafah,Rafah,M
+Rizeq Isma'il 'Ali Abu Taha,8/2/2014,0,Rafah,Rafah,M
+Ahmad Rami Muhammad Abu Suliman,8/2/2014,2,Rafah,Rafah,M
+Lama Rami Muhammad Abu Suliman,8/2/2014,3,Rafah,Rafah,F
+Jannah Rami Muhammad Abu Suliman,8/2/2014,3,Rafah,Rafah,F
+Sumoud Ahmad Swelem a-Rumi,8/2/2014,5,Rafah,Rafah,F
+Yusef Mahmoud Rizeq Abu Taha,8/2/2014,9,Rafah,Rafah,M
+Muhammad Rami Muhammad Abu Suliman,8/2/2014,9,Rafah,Rafah,M
+Rana Raed Muhammad Abu Suliman,8/2/2014,10,Rafah,Rafah,F
+Muhammad Mahmoud Rizeq Abu Taha,8/2/2014,12,Rafah,Rafah,M
+Amin Ahmad Swelem a-Rumi,8/2/2014,13,Rafah,Rafah,M
+Muhammad Shu'eib Hussein al-Bahabsah,8/2/2014,15,Rafah,Rafah,M
+'Imad Nassim 'Issa Seidam,8/2/2014,16,Rafah,Rafah,M
+Muhammad Nidal Yusef Abu Muhsen,8/2/2014,17,Rafah,Rafah,M
+Husam Anwar Ahmad Abu Nqeirah,8/2/2014,17,Rafah,Rafah,M
+'Abdallah Na'im Hassan Qishtah,8/2/2014,17,Rafah,Rafah,M
+Husam Yasin Musa Abu Nqeirah,8/2/2014,19,Rafah,Rafah,M
+Ahmad Shteiwi Hamdan Qishtah,8/2/2014,19,Rafah,Rafah,M
+'Abd a-Rahman Ahmad Swelem a-Rumi,8/2/2014,19,Rafah,Rafah,M
+Musa Yasin Musa Abu Nqeirah,8/2/2014,21,Rafah,Rafah,M
+Muhammad Hassan Mahmoud Qishtah,8/2/2014,21,Rafah,Rafah,M
+Muhammad Ahmad Swelem a-Rumi,8/2/2014,22,Rafah,Rafah,M
+Hazem Muhammad Suliman Abu Muhsen,8/2/2014,23,Rafah,Rafah,M
+Ghadir Muhammad Suliman al-'Arjani,8/2/2014,23,Rafah,Rafah,F
+Mahmoud Khader Ragheb Qishtah,8/2/2014,24,Rafah,Rafah,M
+'Alaa Myasarah Mahmoud al-Masri,8/2/2014,24,Rafah,Rafah,M
+Hakmeh 'Awwad 'Odeh al-'Arjani,8/2/2014,26,Rafah,Rafah,F
+Ziad Muhammad Suliman al-'Arjani,8/2/2014,28,Rafah,Rafah,M
+Salim Hussein Salim al-Bahabsah,8/2/2014,28,Rafah,Rafah,M
+Fidaa Yusef Muhammad Abu Suliman,8/2/2014,29,Rafah,Rafah,F
+Yihya Yusef 'Ali Abu Muhsen,8/2/2014,30,Rafah,Rafah,M
+Hibah Hassan 'Abd a-Rahman Abu Suliman,8/2/2014,33,Rafah,Rafah,F
+Jum'ah Hussein Salim al-Bahabsah,8/2/2014,36,Rafah,Rafah,M
+Muhammad Mus'ad 'Abed Qishtah,8/2/2014,38,Rafah,Rafah,M
+Sa'diyah Rizeq 'Abd a-Razeq Abu Taha,8/2/2014,40,Rafah,Rafah,F
+Salah Mahmoud Ahmad al-Masri,8/2/2014,42,Rafah,Rafah,M
+'Abir Sa'id Sha'ban Abu 'Arab,8/2/2014,42,Rafah,Rafah,F
+Salamah Hussein Salim al-Bahabsah,8/2/2014,45,Rafah,Rafah,M
+Ahmad Hussein Salim al-Bahabsah,8/2/2014,47,Rafah,Rafah,M
+Muhammad Suliman 'Amira al-'Arjani,8/2/2014,48,Rafah,Rafah,M
+Fawaz Hussein Salim al-Bahabsah,8/2/2014,50,Rafah,Rafah,M
+Ahmad Swelem Salamah a-Rumi,8/2/2014,51,Rafah,Rafah,M
+So'ud Mahmoud Isma'il Hasunah,8/2/2014,56,Rafah,Rafah,M
+Maryam Hassan 'Ali Abu Jazar,8/2/2014,87,Rafah,Rafah,F
+'Obadah Mustafa Naser al-Mahmum,8/1/2014,0,Rafah,Rafah,M
+Nur Muhammad Shaker Abu 'Aasi,8/1/2014,0,Rafah,Rafah,M
+Muhammad Anas Muhammad 'Arafat,8/1/2014,0,Rafah,Rafah,M
+Yusef Ahmad Salem Madi,8/1/2014,1,Rafah,Rafah,M
+Jana Bassam Salem Madi,8/1/2014,1,Rafah,Rafah,F
+'Abd al-Karim Ibrahim Ahmad Sheikh al-'Eid,8/1/2014,1,Rafah,Rafah,M
+Mu'tasem Mustafa 'Abed Zo'rub,8/1/2014,2,Rafah,Rafah,M
+Khalil Ibrahim Ahmad Sheikh al-'Eid,8/1/2014,2,Rafah,Rafah,M
+Khaled Suliman Ibrahim al-Masri,8/1/2014,2,Rafah,Rafah,M
+Hala Bassam Salem Madi,8/1/2014,3,Rafah,Rafah,F
+Asil Sufian Faruk Gheith,8/1/2014,3,Rafah,Rafah,F
+Du'aa Mustafa Naser al-Mahmum,8/1/2014,4,Rafah,Rafah,F
+Aya Ibrahim Ahmad Sheikh al-'Eid,8/1/2014,4,Rafah,Rafah,F
+Anas Ibrahim Hamdan Ben Hammad,8/1/2014,4,Rafah,Rafah,M
+Walid Mustafa 'Abed Zo'rub,8/1/2014,5,Rafah,Rafah,M
+Ibrahim Suliman Ibrahim al-Masri,8/1/2014,5,Rafah,Rafah,M
+Hibah Mustafa Naser al-Mahmum,8/1/2014,7,Rafah,Rafah,F
+Rawan Nashaat Ghazi Siyam,8/1/2014,8,Rafah,Rafah,F
+Khaled Raafat 'Odeh Zo'rub,8/1/2014,8,Rafah,Rafah,M
+Bisan Mustafa Naser al-Mahmum,8/1/2014,9,Rafah,Rafah,F
+Shahd Raafat 'Odeh Zo'rub,8/1/2014,10,Rafah,Rafah,F
+Hamam Muhammad Safa Abu Shiban,8/1/2014,10,Rafah,Rafah,M
+Angham Sharif Yusef a-Namlah,8/1/2014,10,Rafah,Rafah,F
+Ousamah Hussein Khalil Lafy,8/1/2014,11,Rafah,Rafah,M
+Muhammad Mustafa 'Abed Zo'rub,8/1/2014,12,Rafah,Rafah,M
+Jihad Suliman Zayed 'Umran,8/1/2014,12,Rafah,Rafah,M
+Yihya Salem Suliman al-Mahmum,8/1/2014,13,Rafah,Rafah,M
+'Udai Raafat 'Odeh Zo'rub,8/1/2014,13,Rafah,Rafah,M
+Rami Nashaat Ghazi Siyam,8/1/2014,15,Rafah,Rafah,M
+Amir Raafat 'Odeh Zo'rub,8/1/2014,15,Rafah,Rafah,M
+Ahmad Mustafa 'Abed Zo'rub,8/1/2014,15,Rafah,Rafah,M
+Asmaa Salem Suliman al-Mahmum,8/1/2014,16,Rafah,Rafah,F
+Imad a-Din Ahmad Shawqi Ahmad,8/1/2014,17,Rafah,Rafah,M
+Bilal Suliman Khader a-Lolahi,8/1/2014,17,Rafah,Rafah,M
+Bader Anwar Khalil a-Sha'er,8/1/2014,17,Rafah,Rafah,M
+Asil Saleh Hussein Abu Muhsen,8/1/2014,17,Rafah,Rafah,F
+Ibtesam Hammad Salman al-Mahmum,8/1/2014,18,Rafah,Rafah,F
+Ahmad Ibrahim Suliman al-Masri,8/1/2014,18,Rafah,Rafah,M
+'Abd a-Razeq Hussein Salamah a-Tarabin,8/1/2014,18,Rafah,Rafah,M
+'Abd a-Rahman Muhammad Hamdan Abu Darb,8/1/2014,18,Rafah,Rafah,M
+Nuha Jamal Yusef Ghneim,8/1/2014,19,Rafah,Rafah,F
+Muhammad Ziad Salman al-Hamaydah,8/1/2014,19,Rafah,Rafah,M
+Muhammad Khaled Sa'di al-'Alul,8/1/2014,19,Rafah,Rafah,M
+Ahmad Ibrahim Suliman a-Nims,8/1/2014,19,Rafah,Rafah,M
+Yusef Nidal Muhammad Abu Rizeq,8/1/2014,20,Rafah,Rafah,M
+Muhammad Ibrahim Suliman a-Nims,8/1/2014,20,Rafah,Rafah,M
+Hilal 'Eid Salamah Abu 'Emran,8/1/2014,20,Rafah,Rafah,M
+Ghassan Sa'dallah 'Abd al-Wahed Abu 'Athrah,8/1/2014,20,Rafah,Rafah,M
+'Abdallah Naser Khalil Fahjan,8/1/2014,20,Rafah,Rafah,M
+'Abdallah Faiz Muhammad Barhum,8/1/2014,20,Rafah,Rafah,M
+Yusef Jalal Dib Barakat,8/1/2014,21,Rafah,Rafah,M
+Muhammad Khamis Yusef Hamdan,8/1/2014,21,Rafah,Rafah,M
+Maryam Hussein Salamah a-Tarabin,8/1/2014,21,Rafah,Rafah,F
+Hazem Khaled 'Abd al-Mu'ti 'Aweidah,8/1/2014,21,Rafah,Rafah,M
+Hamzah Khaled Islim al-Qadi,8/1/2014,21,Rafah,Rafah,M
+Yihya 'Abd al-Karim 'Abd a-Rahim Lafy,8/1/2014,22,Rafah,Rafah,M
+Ibrahim 'Abd al-Hakim Dawood a-Zaqzuq,8/1/2014,22,Rafah,Rafah,M
+Yunes 'Eid Salamah Abu 'Emran,8/1/2014,23,Rafah,Rafah,M
+Walid Tawfiq Hussein Ma'sud,8/1/2014,23,Rafah,Rafah,M
+Walaa Jamal Muhammad a-Namlah,8/1/2014,23,Rafah,Rafah,F
+Saher Talal 'Odeh Abu Muhsen,8/1/2014,23,Rafah,Rafah,M
+Mahmoud Suliman 'Abd al-Karim Sheikh al-'Eid,8/1/2014,23,Rafah,Rafah,M
+Mahmoud Ahmad 'Abdallah Sheikh al-'Eid,8/1/2014,23,Rafah,Rafah,M
+Hani Salem Suliman al-Mahmum,8/1/2014,23,Rafah,Rafah,M
+Du'aa Ibrahim Mahmoud Sheikh al-'Eid,8/1/2014,23,Rafah,Rafah,F
+Yusef Sharif Yusef a-Namlah,8/1/2014,24,Rafah,Rafah,M
+Wafa Salem Suliman al-Mahmum,8/1/2014,24,Rafah,Rafah,F
+Nael Khaled Sa'di al-'Alul,8/1/2014,24,Rafah,Rafah,M
+Hazem Ahmad 'Abdallah Sheikh al-'Eid,8/1/2014,24,Rafah,Rafah,M
+Jum'ah Salem 'Atiyyah a-Tarabin,8/1/2014,25,Rafah,Rafah,M
+Ibrahim Ahmad 'Abdallah Sheikh al-'Eid,8/1/2014,25,Rafah,Rafah,M
+Ayman 'Abd a-Ra'uf Sha'ban a-Sheikh,8/1/2014,25,Rafah,Rafah,M
+Ahmad Hamdan 'Ali al-Kashef,8/1/2014,25,Rafah,Rafah,M
+Ziad 'Abd a-Rahman Muhammad Jarghon,8/1/2014,26,Rafah,Rafah,M
+Yasser Mahmoud Ibrahim al-Kurd,8/1/2014,26,Rafah,Rafah,M
+Raed Mahmoud Shreiqi Abu Shaluf,8/1/2014,26,Rafah,Rafah,M
+Nur Saleh Salamah Abu Mashi,8/1/2014,26,Rafah,Rafah,F
+Maher Jum'ah Salman Abu Rizeq,8/1/2014,26,Rafah,Rafah,M
+Jum'ah Hussein Musbah al-Hams,8/1/2014,26,Rafah,Rafah,M
+Yusef Jaber Hassan Darabiyah,8/1/2014,27,Rafah,Rafah,M
+Yusef Ahmad 'Abdallah Sheikh al-'Eid,8/1/2014,28,Rafah,Rafah,M
+Ibrahim Talal Shehdeh Kaware',8/1/2014,28,Rafah,Rafah,M
+Sufian Faruk 'Awwad Gheith,8/1/2014,30,Rafah,Rafah,M
+Su'ad Jum'ah Hammad a-Tarabin,8/1/2014,30,Rafah,Rafah,F
+Sharif Musa 'Odeh Abu Muhsen,8/1/2014,30,Rafah,Rafah,M
+'Itaf Hammad Salman al-Mahmum,8/1/2014,30,Rafah,Rafah,F
+Ibrahim Salamah Khalil Abu Jlidan,8/1/2014,30,Rafah,Rafah,M
+Hamzah Muhammad Suliman Abu Susein,8/1/2014,30,Rafah,Rafah,M
+Iman Nazmi Muhammad Madi,8/1/2014,31,Rafah,Rafah,F
+Ahmad Hassan Subhi Khalifah,8/1/2014,31,Rafah,Rafah,M
+Diaa' Ibrahim Suliman al-Masri,8/1/2014,32,Rafah,Rafah,M
+Bassam Salem Salim Madi,8/1/2014,32,Rafah,Rafah,M
+Yusef Ajmi'an Nasrallah Sheikh al-'Eid,8/1/2014,33,Rafah,Rafah,M
+Rami Amin Jum'ah a-Sarfandi,8/1/2014,33,Rafah,Rafah,M
+Iqzayah Hammad Salman al-Mahmum,8/1/2014,36,Rafah,Rafah,F
+'Abd al-Hai Muhammad Musa Abu 'Adwan,8/1/2014,36,Rafah,Rafah,M
+Muhammad Harbi Muhammad Sheikh al-'Eid,8/1/2014,37,Rafah,Rafah,M
+Ahlam Nu'man Muhammad Siyam,8/1/2014,38,Rafah,Rafah,F
+Su'ad Nu'man Muhammad Zo'rub,8/1/2014,39,Rafah,Rafah,F
+Musa Ibrahim Muhammad Jazar,8/1/2014,40,Rafah,Rafah,M
+Amneh Saber Muhammad a-Zamli,8/1/2014,40,Rafah,Rafah,F
+Sanaa Nu'man Muhammad Zo'rub,8/1/2014,41,Rafah,Rafah,F
+Sami Nafel Salam Sheikh al-'Eid,8/1/2014,42,Rafah,Rafah,M
+'Atef Saleh Ibrahim Sheikh al-'Eid (al-Zamli),8/1/2014,42,Rafah,Rafah,M
+Yusra Muhammad Salman Jazar,8/1/2014,43,Rafah,Rafah,F
+Fayzeh Jermi 'Atiyyah a-Tarabin,8/1/2014,44,Rafah,Rafah,F
+Hanan 'Abd a-Latif Dakhlallah Gheith,8/1/2014,46,Rafah,Rafah,F
+Hamdi Yusef 'Alian al-Masri,8/1/2014,46,Rafah,Rafah,M
+Salamah Mahmoud Muhammad a-Zamli,8/1/2014,47,Rafah,Rafah,M
+Musa Hamad Hmeidan Abu 'Emran,8/1/2014,47,Rafah,Rafah,M
+Radyah Zayed Suliman Abu 'Emran,8/1/2014,48,Rafah,Rafah,F
+'Aziza Mahmoud Salamah al-Mahmum,8/1/2014,49,Rafah,Rafah,F
+Raafat 'Odeh Muhammad Zo'rub,8/1/2014,51,Rafah,Rafah,M
+Khaled Mahmoud Khalil Abu Jlidan,8/1/2014,51,Rafah,Rafah,M
+Suliman Salim Salem Madi,8/1/2014,53,Rafah,Rafah,M
+Najiyah Yusef 'Alian al-Masri,8/1/2014,54,Rafah,Rafah,F
+Faruk 'Awwad Salam Gheith,8/1/2014,55,Rafah,Rafah,M
+Ibrahim Suliman 'Alian al-Masri,8/1/2014,56,Rafah,Rafah,M
+Swelem Mhawesh Suliman Al-Hashash,8/1/2014,57,Rafah,Rafah,M
+Naser Suliman 'Odeh Abu Sneimah,8/1/2014,61,Rafah,Rafah,M
+Ibrahim Mustafa Khalil Ghneim,8/1/2014,62,Rafah,Rafah,M
+Hussein Salem 'Abd a-Rahman al-J'afri,8/1/2014,63,Rafah,Rafah,M
+Harbi Muhammad 'Ayadah Sheikh al-'Eid,8/1/2014,63,Rafah,Rafah,M
+Sabha Mustafa Darwish Zo'rub,8/1/2014,66,Rafah,Rafah,F
+Hussein Salamah Swelem a-Tarabin,8/1/2014,66,Rafah,Rafah,M
+Fayzeh Harb Muhammad Abu Mor,8/1/2014,73,Rafah,Rafah,F
+Ihmidan Suliman Salam Abu Breik,8/1/2014,75,Rafah,Rafah,M
+Fidiyyah Hmeidan Hammad Abu 'Emran,8/1/2014,77,Rafah,Rafah,F
+Fadel Nader 'Abd al-Hamid al-Maghari,7/31/2014,25,Rafah,Rafah,M
+Maha 'Abd a-Nabi Salim Abu Hilal,7/31/2014,33,Rafah,Rafah,F
+'Atiyyah Salamah Mhawesh Al-Hashash,7/31/2014,68,Rafah,Rafah,M
+Ramadan Muhammad Ramadan Abu Jazar,7/30/2014,23,Rafah,Rafah,M
+Walid Shehdeh Marzuq Abu Mu'amar,7/30/2014,50,Rafah,Rafah,M
+Karim 'Abd al-Hadi 'Abdallah Abu Zeid,7/29/2014,0,Rafah,Rafah,M
+Tasnim Muhammad Salamah Dheir,7/29/2014,3,Rafah,Rafah,F
+'Abdallah Nidal 'Abdallah Abu Zeid,7/29/2014,4,Rafah,Rafah,M
+Yamen 'Omar Salamah Dheir,7/29/2014,5,Rafah,Rafah,M
+Muhammad Mahmoud Salamah Dheir,7/29/2014,7,Rafah,Rafah,M
+Ghaidaa 'Omar Salamah Dheir,7/29/2014,7,Rafah,Rafah,F
+Muamen 'Omar Salamah Dheir,7/29/2014,8,Rafah,Rafah,M
+Muhammad 'Omar Salamah Dheir,7/29/2014,10,Rafah,Rafah,M
+Mariah 'Omar Salamah Dheir,7/29/2014,11,Rafah,Rafah,F
+Bisan Iyad 'Abdallah Abu Zeid,7/29/2014,11,Rafah,Rafah,F
+Salamah Mahmoud Salamah Dheir,7/29/2014,12,Rafah,Rafah,M
+Shammah Wael Darwish a-Salibi,7/29/2014,14,Rafah,Rafah,F
+Ibrahim Ahmad Sa'id Al-Hashash,7/29/2014,15,Rafah,Rafah,M
+Arwa Mahmoud Salamah Dheir,7/29/2014,16,Rafah,Rafah,F
+'Ula Bahaa a-Din Kamel Gharib,7/29/2014,17,Rafah,Rafah,F
+'Ula Mahmoud Salamah Dheir,7/29/2014,18,Rafah,Rafah,F
+Muhammad Ahmad Sa'id Al-Hashash,7/29/2014,18,Rafah,Rafah,M
+Muhammad Musa Muslem Al-Hashash,7/29/2014,19,Rafah,Rafah,M
+Ma'sud Ahmad Sa'id Al-Hashash,7/29/2014,19,Rafah,Rafah,M
+Shuruq Mahmoud Salamah Dheir,7/29/2014,20,Rafah,Rafah,F
+Sa'id Ahmad Sa'id Al-Hashash,7/29/2014,20,Rafah,Rafah,M
+Jam'an 'Odeh Jam'an Abu Shaluf,7/29/2014,20,Rafah,Rafah,M
+Muhammad 'Imad Ibrahim Abu Hamdeh,7/29/2014,21,Rafah,Rafah,M
+'Izat Salamah Mahmoud Dheir,7/29/2014,23,Rafah,Rafah,M
+Bilal Ahmad Sa'id Al-Hashash,7/29/2014,23,Rafah,Rafah,M
+Ahmad 'Abdallah Hassan Abu Zeid,7/29/2014,23,Rafah,Rafah,M
+Yasmin Ahmad Hammad Dheir,7/29/2014,24,Rafah,Rafah,F
+Falastin Muhammad Sa'id Abu Zeid,7/29/2014,25,Rafah,Rafah,F
+Rami Suliman Marzuq al-'Attar,7/29/2014,26,Rafah,Rafah,M
+Isma'il Shahin Isma'il Shahin,7/29/2014,27,Rafah,Rafah,M
+Wafa 'Abd a-Razeq 'Eid Dheir,7/29/2014,29,Rafah,Rafah,F
+Suliman Mus'ad Ibrahim Al-Hashash,7/29/2014,29,Rafah,Rafah,M
+Ayman Samir Muhammad Qishtah,7/29/2014,30,Rafah,Rafah,M
+Sabrin Khader Sa'id Abu Zeid,7/29/2014,31,Rafah,Rafah,F
+Rim 'Abd al-'Aziz Muhammad Dheir,7/29/2014,31,Rafah,Rafah,F
+Maryam Marzuq 'Abd al-Karim Abu Zeid,7/29/2014,31,Rafah,Rafah,F
+'Omar Salamah Mahmoud Dheir,7/29/2014,37,Rafah,Rafah,M
+Marwan Khalil Jebril Jebril,7/29/2014,40,Rafah,Rafah,M
+Jamalat Mahmoud Muhammad Dheir,7/29/2014,40,Rafah,Rafah,F
+Mahmoud Salamah Mahmoud Dheir,7/29/2014,46,Rafah,Rafah,M
+Hanaa 'Ali Jaber Al-Hashash,7/29/2014,46,Rafah,Rafah,F
+Jamal Ramadan Diab Lafy,7/29/2014,50,Rafah,Rafah,M
+Bahaa a-Din Kamel Muhammad Gharib,7/29/2014,58,Rafah,Rafah,M
+Widad Ahmad Salamah Abu Zeid,7/29/2014,64,Rafah,Rafah,F
+Turkiyyah Khalil Hamed Dheir,7/29/2014,66,Rafah,Rafah,F
+Hiyam 'Abd al-Karim Ahmad Abu Mur,7/26/2014,37,Rafah,Rafah,F
+Nidal Ahmad 'Issa Abu al-'Asal,7/25/2014,26,Rafah,Rafah,M
+Hani Kamel 'Abed Judah,7/25/2014,32,Rafah,Rafah,M
+Muhammad Ahmad Harbi Siyam,7/24/2014,6,Rafah,Rafah,M
+Fares Muhammad 'Abd al-Qader Abu Siyam,7/24/2014,11,Rafah,Rafah,M
+Amir 'Adel Khamis Siyam,7/24/2014,12,Rafah,Rafah,M
+'Issam Feisal Khamis Siyam,7/24/2014,26,Rafah,Rafah,M
+Fathiya Nadi Marzuq Abu Mu'ammar,7/23/2014,72,Rafah,Rafah,F
+Khalaf 'Atiyyah 'Odeh Abu Sneimah,7/22/2014,16,Rafah,Rafah,M
+Khalil 'Atiyyah 'Odeh Abu Sneimah,7/22/2014,20,Rafah,Rafah,M
+Yasmin Ahmad 'Odeh Abu Mur,7/22/2014,26,Rafah,Rafah,F
+Najah Nafe'a Silmi Abu 'Adwan,7/22/2014,47,Rafah,Rafah,F
+Khadrah 'Awwad Salam Abu Teilakh,7/22/2014,53,Rafah,Rafah,F
+Hakmeh Nafe'a Silmi Abu 'Adwan,7/22/2014,66,Rafah,Rafah,F
+Dalal Nabil Mahrus Siyam,7/21/2014,0,Rafah,Rafah,F
+Mu'in Muhammad Mahrus Siyam,7/21/2014,3,Rafah,Rafah,M
+'Abd a-Rahman Nabil Mahrus Siyam,7/21/2014,6,Rafah,Rafah,M
+Ghaidaa Nabil Mahrus Siyam,7/21/2014,7,Rafah,Rafah,F
+Mustafa Nabil Mahrus Siyam,7/21/2014,9,Rafah,Rafah,M
+Fatimah Ahmad 'Abd al-Qader al-'Arja,7/21/2014,13,Rafah,Rafah,F
+Ahmad Ayman Mahrus Siyam,7/21/2014,14,Rafah,Rafah,M
+Muhammad Amin Mahrus Siyam,7/21/2014,15,Rafah,Rafah,M
+Iyad Muhammad Suliman Sabah,7/21/2014,17,Rafah,Rafah,M
+Amin Ayman Mahrus Siyam,7/21/2014,17,Rafah,Rafah,M
+Yusef Ahmad Muhammad a-Zamli,7/21/2014,20,Rafah,Rafah,M
+Muhammad Muhammad 'Abd a-Salam al-Bakri,7/21/2014,22,Rafah,Rafah,M
+Muhammad Fares Muhammad al-Hamaydah,7/21/2014,23,Rafah,Rafah,M
+Mahmoud 'Atiyyah Muhammad al-Hamaydah,7/21/2014,23,Rafah,Rafah,M
+Sumoud Naser Mustafa Siyam,7/21/2014,25,Rafah,Rafah,F
+Raed Isma'il al-Bardawil,7/21/2014,25,Rafah,Rafah,M
+Muhammad Mahrus Salam Siyam,7/21/2014,26,Rafah,Rafah,M
+Rasha 'Abd Rabo Muhammad 'Afanah,7/21/2014,28,Rafah,Rafah,F
+Shirin Muhammad Salam Siyam,7/21/2014,30,Rafah,Rafah,F
+Kamal Mahrus Salam Siyam,7/21/2014,31,Rafah,Rafah,M
+Rizeq Nayef E'teiwi Abu 'Adwan,7/21/2014,35,Rafah,Rafah,M
+Saedah Hassan Hamad Siyam,7/21/2014,42,Rafah,Rafah,F
+'Abdallah Yusef 'Abd al-Jabbar Daraji,7/20/2014,2,Rafah,Rafah,M
+Muhammad Rajaa Muhammad Handam,7/20/2014,15,Rafah,Rafah,M
+Anas Mahmoud Hussein M'amer,7/20/2014,16,Rafah,Rafah,M
+Suhaib 'Ali Jum'ah Abu Qurah,7/20/2014,22,Rafah,Rafah,M
+Hamzah Mahmoud Hussein M'amer,7/20/2014,22,Rafah,Rafah,M
+Hamid Subuh Muhammad Abu Fuju,7/20/2014,22,Rafah,Rafah,M
+Ahmad Tawfiq Muhammad Zanun,7/20/2014,26,Rafah,Rafah,M
+Muhammad Mahmoud Hussein M'amer,7/20/2014,30,Rafah,Rafah,M
+Najah Sa'ed a-Din Mahmoud Daraji,7/20/2014,48,Rafah,Rafah,F
+Mahmoud Anwar Muhammad Abu Shabab,7/19/2014,16,Rafah,Rafah,M
+'Ula Muhammad Ahmad Abu a-So'ud,7/19/2014,23,Rafah,Rafah,F
+Salah Muhammad Ibrahim a-Riyati,7/19/2014,23,Rafah,Rafah,M
+Fares Jum'ah Hammad a-Tarabin,7/18/2014,0,Rafah,Rafah,M
+Siham Muhammad Ibrahim Zo'rub,7/18/2014,11,Rafah,Rafah,F
+'Omar 'Eid 'Awwad al-Mahmum,7/18/2014,17,Rafah,Rafah,M
+Muhammad Yusef Mansur al-Qadi,7/18/2014,19,Rafah,Rafah,M
+Isma'il Ramadan Silmi a-Lolahi,7/18/2014,20,Rafah,Rafah,M
+'Imad Feisal 'Odeh Abu Sneimah,7/18/2014,20,Rafah,Rafah,M
+Saleh Suliman Muhammad a-Zgheibi,7/18/2014,21,Rafah,Rafah,M
+Muhammad Talal Suliman a-Sane',7/18/2014,21,Rafah,Rafah,M
+Majdi Suliman Salamah Jbarah,7/18/2014,22,Rafah,Rafah,M
+'Alaa Muhammad 'Abd al-Majid Abu Shabab,7/18/2014,23,Rafah,Rafah,M
+Hamzah Muhammad Hammad Abu al-Hsein,7/18/2014,27,Rafah,Rafah,M
+Mustafa 'Odeh Muhammad Abu Sneimah,7/18/2014,32,Rafah,Rafah,M
+Raafat 'Ali Muhammad Bahlul,7/18/2014,35,Rafah,Rafah,M
+Muhammad Suliman Na'im 'Okal,7/18/2014,36,Rafah,Rafah,M
+Nizar Faiz Hammad Abu Sneimah,7/18/2014,39,Rafah,Rafah,M
+Layla Ibrahim Ahmad Zo'rub,7/18/2014,40,Rafah,Rafah,F
+Selmiyeh Suliman Jadu' Ghayad,7/18/2014,70,Rafah,Rafah,F
+Bashir Muhammad Hassan 'Abd al-'Aal,7/17/2014,18,Rafah,Rafah,M
+Muhammad Nabil Muhammad Zaki Ghanem,7/17/2014,26,Rafah,Rafah,M
+'Abdallah Salem Mansur al-Akhras,7/17/2014,38,Rafah,Rafah,M
+Muhammad Ahmad Muhammad al-Hut,7/17/2014,40,Rafah,Rafah,M
+Muhammad 'Abd a-Rahman Ahmad Hasunah,7/17/2014,70,Rafah,Rafah,M
+Muhammad 'Abdallah Ahmad a-Zahuq,7/16/2014,25,Rafah,Rafah,M
+Muhammad Isma'il Isma'il Abu 'Odeh,7/16/2014,27,Rafah,Rafah,M
+Ashraf Fares Jum'ah Abu Shanab,7/16/2014,36,Rafah,Rafah,M
+Yasser 'Eid Mahmoud al-Mahmum,7/15/2014,18,Rafah,Rafah,M
+Muhammad Sabri Hammad a-Dabari,7/15/2014,21,Rafah,Rafah,M
+Musa Sa'id Ahmad Dihliz,7/15/2014,22,Rafah,Rafah,M
+Ahmad 'Adel Ahmad a-Nawajhah,7/15/2014,23,Rafah,Rafah,M
+Sarah 'Omar Ahmad Sheikh al-'Eid,7/14/2014,3,Rafah,Rafah,F
+'Omar Ahmad 'Abdallah Sheikh al-'Eid,7/14/2014,26,Rafah,Rafah,M
+Jihad Ahmad 'Abdallah Sheikh al-'Eid,7/14/2014,35,Rafah,Rafah,M
+Maher Thabet 'Odeh Abu Mor,7/13/2014,25,Rafah,Rafah,M
+Muhannad Yusef Muhammad Dheir,7/12/2014,20,Rafah,Rafah,M
+Haitham Ashraf Hmeidan Zo'rub,7/12/2014,20,Rafah,Rafah,M
+'Imad Bassem Muhammad Zo'rub,7/12/2014,23,Rafah,Rafah,M
+Fadi Muhammad Rizeq Zo'rub,7/12/2014,24,Rafah,Rafah,M
+'Iz a-Din Na'im Naser Bulbul,7/12/2014,27,Rafah,Rafah,M
+Ziad Suliman Mahmoud a-Shawi,7/12/2014,41,Rafah,Rafah,M
+Muhammad Munir Mustafa 'Ashur,7/11/2014,25,Rafah,Rafah,M
+Raed Hani Jaber Abu Hani,7/11/2014,31,Rafah,Rafah,M
+Maryam 'Atiyyah Muhammad al-'Arja,7/9/2014,9,Rafah,Rafah,F
+'Abd al-Hadi Jum'ah Muhammad a-Sufi,7/9/2014,23,Rafah,Rafah,M
+Suliman Salamah Muhammad Abu Luli,7/9/2014,27,Rafah,Rafah,M
+Selmiyeh Hassan Muslem al-'Arja,7/9/2014,60,Rafah,Rafah,F
+Mahmoud 'Ali Ahmad Jarghon,11/30/2012,20,Rafah,Rafah,M
+Muhammad Kamel Salamah Abu 'Adwan,11/21/2012,18,Rafah,Rafah,M
+'Abdallah Tal'at Ahmad Ibrahim,11/21/2012,18,Rafah,Rafah,M
+Mahmoud Khalil Mahmoud al-'Arja,11/20/2012,16,Rafah,Rafah,M
+Ibrahim Ahmad Mahmoud Hamad,11/20/2012,16,Rafah,Rafah,M
+Khaled A'bed Ibrahim Abu Mur,11/20/2012,19,Rafah,Rafah,M
+Ahmad A'bed Ibrahim Abu Mur,11/20/2012,24,Rafah,Rafah,M
+Shawqi Salman Silmi Abu Sneimah,11/20/2012,28,Rafah,Rafah,M
+Ahmad Tawfiq Mamduh a-Nesasreh,11/19/2012,17,Rafah,Rafah,M
+Muhammad Tawfiq Mamduh a-Nesasreh,11/19/2012,19,Rafah,Rafah,M
+Muhammad Saleh Ishteiwi a-Lolahi,11/17/2012,23,Rafah,Rafah,M
+'Abd a-Rahman Salem Samarah al-Masri,11/17/2012,23,Rafah,Rafah,M
+Ahmad Ousamah Muhammad al-Atrash,11/17/2012,24,Rafah,Rafah,M
+Ousamah Yusef Mansur al-Qadi,11/17/2012,26,Rafah,Rafah,M
+Mukhles Mahmoud 'Abdallah 'Udwan,11/17/2012,30,Rafah,Rafah,M
+'Awad Hamdi Hassan a-Nahal,11/17/2012,31,Rafah,Rafah,M
+Husam Samir Saleh al-Hams,11/17/2012,36,Rafah,Rafah,M
+Muhammad Jaber Sha'ban a-Sheikh,10/24/2012,22,Rafah,Rafah,M
+Ahmad Fawzi Muhammad Hirzallah,10/24/2012,24,Rafah,Rafah,M
+'Abdallah Hassan Muhammad Makawi,10/7/2012,24,Rafah,Rafah,M
+Ashraf Mahmoud Muhammad Saleh,9/19/2012,33,Rafah,Rafah,M
+Anis Muhammad Mahmoud Abu al-'Anin,9/19/2012,36,Rafah,Rafah,M
+'Eid 'Okal Muhammad Hijazi,8/3/2012,22,Rafah,Rafah,M
+Ghaleb 'Awwad 'Ayad Irmeilat,6/20/2012,21,Rafah,Rafah,M
+Ahmad 'Ali Ahmad Jarghon,10/30/2011,25,Rafah,Rafah,M
+Suliman Mahrus Suliman Abu Fatmeh,10/29/2011,21,Rafah,Rafah,M
+Sami Hamad Hammad Abu Sabt,10/29/2011,23,Rafah,Rafah,M
+Muhammad Khamis Mar'i 'Ashur,10/29/2011,23,Rafah,Rafah,M
+'Abd al-Karim Musa 'Odeh Shatat,10/29/2011,24,Rafah,Rafah,M
+Hassan Muhammad Hassan al-Khadari,10/29/2011,26,Rafah,Rafah,M
+Bassem Muhammad Salman Abu al-'Ata,10/29/2011,33,Rafah,Rafah,M
+Ahmad Khalil 'Abd a-Latif a-Sheikh Khalil,10/29/2011,36,Rafah,Rafah,M
+Mahmoud Rajaa Sa'id a-Sabakhi,8/24/2011,19,Rafah,Rafah,M
+Hisham 'Adnan 'Abd a-Razeq Abu Harb,8/24/2011,20,Rafah,Rafah,M
+'Imad Jamal Khamis Abu Harb,8/24/2011,21,Rafah,Rafah,M
+Muhammad Khaled Muhammad Tafesh,8/24/2011,22,Rafah,Rafah,M
+Malek Khaled Hamad Sha'th,8/18/2011,1,Rafah,Rafah,M
+Khaled Ibrahim Salman al-Masri,8/18/2011,26,Rafah,Rafah,M
+Khaled Hamad Sha'th Sha'th,8/18/2011,32,Rafah,Rafah,M
+'Imad 'Abd al-Karim 'Abd al-Khaleq Hammad,8/18/2011,40,Rafah,Rafah,M
+Kamal 'Awad Muhammad a-Nayrab,8/18/2011,43,Rafah,Rafah,M
+Imad a-Din Na'im Sayed Naser,8/18/2011,46,Rafah,Rafah,M
+Muhammad Ibrahim Muhammad al-Byuk,7/14/2011,21,Rafah,Rafah,M
+Khaled Isma'il Hamdan al-Dabari,4/7/2011,17,Rafah,Rafah,M
+Mahdi Jum'ah Musa Abu 'Athrah,4/7/2011,19,Rafah,Rafah,M
+Mus'ab Muhammad A'beid a-Sufi,4/7/2011,20,Rafah,Rafah,M
+Muhammad 'Ayadah 'Eid Mahamum,4/7/2011,24,Rafah,Rafah,M
+Saleh Jermi 'Atiyyah a-Tarabin,4/7/2011,38,Rafah,Rafah,M
+Muhammad Khaled Suliman Abu Mu'ammar,3/30/2011,24,Rafah,Rafah,M
+Wajdi Jihad Ahmad al-Qadi,9/15/2010,23,Rafah,Rafah,M
+Salim Muhammad Badawi Khatab,9/4/2010,20,Rafah,Rafah,M
+Khaled 'Abd al-Karim Muhammad al-Khatib,9/4/2010,34,Rafah,Rafah,M
+'Amer 'Atwah Ibrahim Hadaid,6/25/2010,22,Rafah,Rafah,M
+Muhammad Fawzi Jum'ah Abu Shiban,6/25/2010,28,Rafah,Rafah,M
+'Udai Muhammad Sabah Abu Hish,1/8/2010,15,Rafah,Rafah,M
+Naser Jum'ah 'Eid a-Tarabin,1/8/2010,21,Rafah,Rafah,M
+Mubarak Ruba'a Rabi' Abu Shaluf,1/8/2010,27,Rafah,Rafah,M
+Ibrahim 'Ali Muhammad al-Batnijy,8/25/2009,19,Rafah,Rafah,M
+Nael 'Ali Muhammad al-Batnijy,8/25/2009,25,Rafah,Rafah,M
+Mansur 'Ali Muhammad al-Batnijy,8/25/2009,32,Rafah,Rafah,M
+Yasin Salim Yasin Jasser,5/22/2009,18,Rafah,Rafah,M
+'Abd al-Majid Sa'id Musa Saleh,5/22/2009,20,Rafah,Rafah,M
+Jihad Khalil Muhammad Abu Jaradah,5/2/2009,20,Rafah,Rafah,M
+Hamdan Fa'iq Muhammad al-Astal,5/2/2009,20,Rafah,Rafah,M
+Ayman Shihadah Muhammad Abu Jazar,2/2/2009,25,Rafah,Rafah,M
+'Issa Muhammad 'Aiyadah Irmeilat,1/16/2009,11,Rafah,Rafah,M
+Hamuda Zayed Ahmad Thabet,1/16/2009,21,Rafah,Rafah,M
+Anwar Salah Ibrahim Abu Teilakh,1/16/2009,22,Rafah,Rafah,M
+'Atiyyah Talab 'Abd Rabo Abu al-Hasir,1/16/2009,44,Rafah,Rafah,M
+Shehdeh Fathi Shehdeh al-Kurd,1/15/2009,28,Rafah,Rafah,M
+Rasmi Muhammad 'Ali Abu Jarir,1/15/2009,36,Rafah,Rafah,M
+Mustafa Kamel Ahmad Barakah,1/15/2009,44,Rafah,Rafah,M
+Ahmad Muhammad 'Abd Rabo al-Balbisi,1/14/2009,40,Rafah,Rafah,M
+Munir 'Abd al-'Aziz Muhammad Abu Sneimah,1/13/2009,25,Rafah,Rafah,M
+Muhammad 'Abd al-Mu'ti Hamad Abu Sneimah,1/13/2009,31,Rafah,Rafah,M
+Ahmad Ibrahim Muhammad Abu Jazar,1/12/2009,18,Rafah,Rafah,M
+Muhammad Lutfi Mahmoud al-Hur,1/12/2009,19,Rafah,Rafah,M
+Muhammad 'Abdallah Mustafa a-Sha'er,1/11/2009,24,Rafah,Rafah,M
+Ahmad Jum'ah Suliman a-Sha'er,1/10/2009,21,Rafah,Rafah,M
+Khaled Suliman Salim Kaware',1/8/2009,43,Rafah,Rafah,M
+Salem Harb Hammad al-Bansh,1/7/2009,56,Rafah,Rafah,M
+Iyad 'Adli Ramadan a-Najar,1/5/2009,24,Rafah,Rafah,M
+Ziad Muhammad Salma Abu Sneimah,1/4/2009,9,Rafah,Rafah,M
+Yusef 'Abed Muhsen Barbakh,1/4/2009,14,Rafah,Rafah,M
+Isma'il 'Abdallah Suliman Abu Sneimah,1/4/2009,14,Rafah,Rafah,M
+Musa Yusef Hassan Barbakh,1/4/2009,16,Rafah,Rafah,M
+Muhammad 'Abed Hassan Barbakh,1/4/2009,19,Rafah,Rafah,M
+Mahdi 'Abed Hassan Barbakh,1/4/2009,20,Rafah,Rafah,M
+Muhammad Ibrahim Hussein Abu Sh'ar,1/4/2009,21,Rafah,Rafah,M
+Salman Hammad Maraziq Abu Khamash,1/4/2009,39,Rafah,Rafah,M
+'Abed Hassan Muhammad Barbakh,1/4/2009,44,Rafah,Rafah,M
+Sharif 'Abd al-Mu'ti Suliman Irmeilat,1/3/2009,15,Rafah,Rafah,M
+Yusef 'Othman Mustafa Abu Hasanein,1/3/2009,36,Rafah,Rafah,M
+Sedqi Ziad Mahmoud al-'Absi,12/28/2008,4,Rafah,Rafah,M
+Ahmad Ziad Mahmoud al-'Absi,12/28/2008,12,Rafah,Rafah,M
+Muhammad Ziad Mahmoud al-'Absi,12/28/2008,13,Rafah,Rafah,M
+Mahmoud Majed Mahmoud Abu Nahleh,12/27/2008,16,Rafah,Rafah,M
+Ahmad Rasmi Muhammad Abu Jazar,12/27/2008,16,Rafah,Rafah,M
+Haitham Yasser Ahmad a-Sha'er,12/27/2008,22,Rafah,Rafah,M
+Ayman Fouad 'Eid a-Nahal,12/27/2008,22,Rafah,Rafah,M
+Ziad Dawood 'Odeh Abu 'Iyada,12/27/2008,32,Rafah,Rafah,M
+Qarib 'Omar Mahmoud A'bed,12/27/2008,32,Rafah,Rafah,M
+Ihab Jasser Ahmad a-Sha'er,12/27/2008,32,Rafah,Rafah,M
+Hamdan Khamis Rabi' Abu Nqeirah,12/27/2008,32,Rafah,Rafah,M
+Haydar Mahmoud Muhammad Hasunah,12/27/2008,36,Rafah,Rafah,M
+Mu'in Mahmoud 'Abd a-Rahman al-Qan,12/27/2008,43,Rafah,Rafah,M
+Ahmad Mahmoud 'Abd a-Rahman al-Khatib,12/27/2008,43,Rafah,Rafah,M
+Yasser Ahmad Muhammad a-Sha'er,12/27/2008,46,Rafah,Rafah,M
+Nazir Khalil Hussein a-Luqah,12/27/2008,52,Rafah,Rafah,M
+'Omar Musa 'Odeh Abu Hamad,12/2/2008,15,Rafah,Rafah,M
+Ramzi Ibrahim Mansur al-Deheini,12/2/2008,19,Rafah,Rafah,M
+Muhammad Mazen Ahmad Abu 'Armaneh,5/9/2008,22,Rafah,Rafah,M
+Bassam Ahmad Hassan Abu Shbekah,5/9/2008,33,Rafah,Rafah,M
+Nafez Kamel Muhammad Mansur,5/1/2008,42,Rafah,Rafah,M
+'Awad 'Abd al-Fatah Muhammad al-Qiq,4/30/2008,33,Rafah,Rafah,M
+Ousamah 'Abd al-Hamid 'Abd a-Dayem al-Hubi,4/30/2008,42,Rafah,Rafah,M
+Nur a-Din Salman 'Ayad al-Dabari,4/20/2008,23,Rafah,Rafah,M
+Ousamah Khaled 'Abd al-Hakim Abu 'Anza,4/17/2008,19,Rafah,Rafah,M
+Midhat 'Ayesh 'Awwad 'Awwad,2/24/2008,19,Rafah,Rafah,M
+Naser 'Ali 'Abd a-Razeq Abu Shabab,2/17/2008,22,Rafah,Rafah,M
+'Abd al-Karim Muhammad Hussein al-Ghalban,2/17/2008,27,Rafah,Rafah,M
+Ibrahim Salman Hussein Sabah,2/17/2008,28,Rafah,Rafah,M
+'Abd a-Salam Muhammad Salamah Abu Susein,2/17/2008,31,Rafah,Rafah,M
+'Awni Muhammad 'Abd al-Hamid Abu Taha,2/17/2008,46,Rafah,Rafah,M
+Muhammad Bassam Isma'il Abu Mteir,2/9/2008,21,Rafah,Rafah,M
+Mahmoud Rasmi a-Sayed Abu Taha,2/4/2008,18,Rafah,Rafah,M
+Baker Fayad Qassem Abu Rajal,2/4/2008,22,Rafah,Rafah,M
+Muhammad Fouad Suliman Abu Harb,1/25/2008,29,Rafah,Rafah,M
+Sami Muhammad Salah al-Hamaydah,1/25/2008,33,Rafah,Rafah,M
+Muhammad Jamal Hamed Abu Hamrah,12/11/2007,19,Rafah,Rafah,M
+'Omar Hassan 'Omar Khalil,12/11/2007,22,Rafah,Rafah,M
+Khalil Muhammad Mustafa al-Aswad,12/11/2007,26,Rafah,Rafah,M
+Muhammad Hussein Muhammad 'Ashur,12/11/2007,36,Rafah,Rafah,M
+'Ali Muhammad As'ad a-Sufi,11/27/2007,22,Rafah,Rafah,M
+Muhammad Harbi Khamis Siyam,11/3/2007,24,Rafah,Rafah,M
+Midhat Ahmad Muhammad al-Halabi,8/4/2007,24,Rafah,Rafah,M
+Hisham Naser Ahmad al-Jamal,8/4/2007,32,Rafah,Rafah,M
+Lutfi Lutfi Mahmoud al-Barahmeh,5/16/2007,21,Rafah,Rafah,M
+Hammad Hammad Mibrad Hassan,5/16/2007,24,Rafah,Rafah,M
+Najeh Khalil Muhammad Abu Fakher,5/16/2007,33,Rafah,Rafah,M
+Hamdan Muhammad Hamdan Barhum,12/13/2006,20,Rafah,Rafah,M
+Ahmad Mansur Ahmad Abu Hameid,11/3/2006,34,Rafah,Rafah,M
+Muhammad Muhammad Suliman Abu 'Arar,10/18/2006,21,Rafah,Rafah,M
+Ashraf Muti'a Mahmoud al-Ma'shar,10/18/2006,26,Rafah,Rafah,M
+Amin Ajmi'an Muhammad a-Sufi,10/10/2006,20,Rafah,Rafah,M
+Husam Faiz Muhammad Ghayad,9/30/2006,23,Rafah,Rafah,M
+Bassam Salamah Barrak Ben Hammad,9/30/2006,26,Rafah,Rafah,M
+Dam al-'Iz Ahmad Muhammad Hammad,9/27/2006,14,Rafah,Rafah,F
+Muhammad Suliman Mansur Abu Mu'ammar,9/21/2006,27,Rafah,Rafah,M
+I'atimad Isma'il Suliman Abu Mu'ammar,9/21/2006,41,Rafah,Rafah,F
+Jihad Suliman Silmi Abu Sneimah,9/10/2006,14,Rafah,Rafah,M
+'Ali 'Issa 'Ali a-Nashar,9/5/2006,23,Rafah,Rafah,M
+Ahmad 'Abd al-Karim Mahmoud 'Ashur,9/5/2006,26,Rafah,Rafah,M
+'Aead 'Abd al-Qader Isma'il al-Bshiti,9/5/2006,32,Rafah,Rafah,M
+Ahmad 'Abd al-Karim Metwali al-'Arkan,9/5/2006,33,Rafah,Rafah,M
+Salamah Thabet Salamah Abu 'Adwan,8/28/2006,18,Rafah,Rafah,M
+Muhammad Salah Ahmad al-Khawajah,8/6/2006,17,Rafah,Rafah,M
+Ibrahim Suliman Muhammad Irmeilat,8/5/2006,15,Rafah,Rafah,M
+Kifah Rajaa Ya'qub a-Natur,8/4/2006,14,Rafah,Rafah,F
+'Ammar Rajaa Ya'qub a-Natur,8/4/2006,16,Rafah,Rafah,M
+Sharif Saber 'Atiyyah 'Ayash,8/4/2006,21,Rafah,Rafah,M
+'Issam Yunes Marzuq al-Bshiti,8/4/2006,22,Rafah,Rafah,M
+Ahmad Muhammad Ahmad Shahin,8/4/2006,25,Rafah,Rafah,M
+Huda 'Issa 'Abd Rabo a-Natur,8/4/2006,43,Rafah,Rafah,F
+Shahd Saleh 'Omar Sheikh al-'Eid,8/3/2006,0,Rafah,Rafah,F
+Anis Salem Jadu' Abu 'Awwad,8/3/2006,11,Rafah,Rafah,M
+'Adnan Bassam Mahmoud Abu Libdah,8/3/2006,16,Rafah,Rafah,M
+'Iz a-Din Samir Suliman Abu Jazar,8/3/2006,17,Rafah,Rafah,M
+Yusef 'Abdallah Ahmad Abu Mur,8/3/2006,21,Rafah,Rafah,M
+Ziad Muhammad Sheikh al-'Eid,8/3/2006,23,Rafah,Rafah,M
+Wael Muhammad 'Atiyyah Yunes,8/3/2006,23,Rafah,Rafah,M
+Mahmoud Anwaar Ahmad Kalab,8/3/2006,42,Rafah,Rafah,M
+'Abd a-Rahman Ahmad 'Odeh Abu Sneimah,8/3/2006,42,Rafah,Rafah,M
+Suliman Mahfuz Muhammad Irmeilat,8/3/2006,53,Rafah,Rafah,M
+Fatimah Fadel Bashir Jadallah,7/15/2006,65,Rafah,Rafah,F
+Bilal Suliman Salman Raba',7/9/2006,18,Rafah,Rafah,M
+Muhammad Hussein Muhammad 'Abd al-'Aal,6/30/2006,25,Rafah,Rafah,M
+Muhammad Khalil Muhammad 'Asaliyah,6/8/2006,19,Rafah,Rafah,M
+Nidal Nabil Muhammad Musa,6/8/2006,21,Rafah,Rafah,M
+Ahmad Muhammad Murjan Abu Sitah,6/8/2006,28,Rafah,Rafah,M
+Jamal 'Ataya Zayed Abu Samhadaneh (Abu 'Ataya),6/8/2006,43,Rafah,Rafah,M
+Bilal Iyad Muhammad Abu al-'Anin,4/7/2006,6,Rafah,Rafah,M
+Ibrahim Nafez Ibrahim al-'Alul,4/7/2006,23,Rafah,Rafah,M
+Bassam Ahmad Muhammad Hussein,4/7/2006,24,Rafah,Rafah,M
+'Adel 'Abd al-Karim Khamis Sha'th,4/7/2006,25,Rafah,Rafah,M
+'Aiyadah Suliman 'Abdallah a-Tarabin (Abu Jaridah),4/7/2006,27,Rafah,Rafah,M
+Iyad Muhammad Mahmoud Abu al-'Anin,4/7/2006,32,Rafah,Rafah,M
+Mahmoud Suliman Metwali al-'Arkan,12/7/2005,29,Rafah,Rafah,M
+Ziad Isma'il Isma'il al-Bardawil,12/3/2005,24,Rafah,Rafah,M
+Muhammad Hamdan 'Abd al-Qader Qishtah,8/7/2005,23,Rafah,Rafah,M
+'Eid 'Odeh Salem Abu Jarabi',1/30/2005,67,Rafah,Rafah,M
+Salah a-Din 'Abd al-Fatah 'Abd a-Rahman Abu al-'Eish,1/20/2005,12,Rafah,Rafah,M
+'Awwad Khamis Hammad 'Ataya,12/31/2004,18,Rafah,Rafah,M
+Samir Sultan Muhammad Khafajah,12/14/2004,29,Rafah,Rafah,M
+Saber Salamah Abu Shaluf,12/12/2004,36,Rafah,Rafah,M
+Iyad Salman 'Awwad Ghayad,12/9/2004,17,Rafah,Rafah,M
+'Abd al-Mu'ti Salamah Mahmoud Abu Shiban,12/9/2004,18,Rafah,Rafah,M
+Rashad Ibrahim 'Atiyyah Abu Asneimeh,12/9/2004,22,Rafah,Rafah,M
+Walid Mus'ad Suliman a-Tarabin,12/9/2004,23,Rafah,Rafah,M
+Salah 'Omar Hammad Sheikh al-'Eid,12/9/2004,25,Rafah,Rafah,M
+Mu'taz 'Abdallah Muhammad a-Rakhawi,11/28/2004,17,Rafah,Rafah,M
+Sa'id Muhammad Sa'id Taha,11/28/2004,18,Rafah,Rafah,M
+Samir Mahmoud 'Awwad Hijazi,11/28/2004,39,Rafah,Rafah,M
+Musa 'Abd al-Fatah Muhammad Ghreiz,11/25/2004,36,Rafah,Rafah,M
+Raafat Samir Fas al-Hams,11/3/2004,25,Rafah,Rafah,M
+'Abd al-'Aziz Mahmoud Muhsen Abu Mu'ammar,10/26/2004,27,Rafah,Rafah,M
+Jihad Ahmad Hasanein Hasanein,10/20/2004,20,Rafah,Rafah,M
+Ahmad Muhammad Ahmad Bariqah,10/20/2004,29,Rafah,Rafah,M
+Ahmad Saleh 'Abd al-Muhsen a-Taharawi,10/14/2004,21,Rafah,Rafah,M
+'Ali 'Abd al-Karim Sha'th,10/14/2004,23,Rafah,Rafah,M
+Isma'il Muhammad Mahmoud a-Sawalha,10/14/2004,70,Rafah,Rafah,M
+Jihad Hassan Barhum,10/13/2004,16,Rafah,Rafah,M
+Mahmoud Khalil a-Sheikh Khalil,10/10/2004,30,Rafah,Rafah,M
+Iman Samir Darwish al-Hams,10/5/2004,13,Rafah,Rafah,F
+Mahmoud Muhammad 'Atwah Al-Hashash,10/2/2004,63,Rafah,Rafah,M
+Husam Fathi Ahmad Abu a-Naja,9/19/2004,17,Rafah,Rafah,M
+Muhammad 'Abdallah Mu'taz al-Hamaydah,8/19/2004,62,Rafah,Rafah,M
+'Omar 'Abdallah 'Omar Abu Sitah,7/29/2004,34,Rafah,Rafah,M
+Zaki 'Ali Muhammad Abu Zarkah,7/29/2004,41,Rafah,Rafah,M
+Jamil Isma'il Ahmad al-Farmawi,7/19/2004,20,Rafah,Rafah,M
+Hanin 'Odeh 'Aiyadah Abu Samhadaneh,7/10/2004,16,Rafah,Rafah,F
+Samar 'Omar Hassan Fujo,7/8/2004,3,Rafah,Rafah,F
+Rif'at 'Omar Salamah Abu 'Amrah,7/4/2004,28,Rafah,Rafah,M
+'Omar Muhammad 'Awwad Abu Zar'an,7/1/2004,12,Rafah,Rafah,M
+Rawan Muhammad Sa'id Abu Zeid,5/22/2004,4,Rafah,Rafah,F
+Wael Muhammad Ahmad Abu Jazar,5/20/2004,16,Rafah,Rafah,M
+Hamed Yasin Hamed Bahlul,5/20/2004,16,Rafah,Rafah,M
+Mahmoud Najib Muhammad al-Akhras,5/20/2004,19,Rafah,Rafah,M
+Yusef Mahmoud Maflah al-Maghari,5/20/2004,23,Rafah,Rafah,M
+Mahmoud Fathi Mustafa Dib,5/20/2004,23,Rafah,Rafah,M
+Muhammad Ibrahim 'Abd a-Salam Jaber,5/20/2004,27,Rafah,Rafah,M
+Jamal 'Awad Yusef al-'Attar,5/20/2004,37,Rafah,Rafah,M
+Khaled 'Abd al-Hakim 'Abd al-'Aziz Abu 'Anza,5/20/2004,39,Rafah,Rafah,M
+Mubarak Salim Mubarak al-Malalhah (Al-Hashash),5/19/2004,9,Rafah,Rafah,M
+Walid Naji Sa'id Abu Qamer,5/19/2004,12,Rafah,Rafah,M
+Mahmoud Tareq Mahmoud Mansur,5/19/2004,12,Rafah,Rafah,M
+Ahmad Jamal Khalil Abu a-Sa'id,5/19/2004,14,Rafah,Rafah,M
+Yusef Ahmad Muhammad Abu Libdah,5/19/2004,16,Rafah,Rafah,M
+Rajab Nimer Muhammad Barhum,5/19/2004,17,Rafah,Rafah,M
+Muhammad Talal Hussein Abu Sh'ar,5/19/2004,19,Rafah,Rafah,M
+'Alaa Msallam Isma'il a-Sheikh 'Eid,5/19/2004,20,Rafah,Rafah,M
+Ousamah 'Abdallah 'Abd al-Fatah Abu Nasser,5/19/2004,21,Rafah,Rafah,M
+Fouad Khamis Musa a-Saqa,5/19/2004,32,Rafah,Rafah,M
+Khalil Hassan Khalil Abu S'adah,5/19/2004,33,Rafah,Rafah,M
+Asmaa Muhammad 'Ali al-Magheyr,5/18/2004,12,Rafah,Rafah,F
+Ahmad Muhammad 'Ali al-Magheyr,5/18/2004,16,Rafah,Rafah,M
+Ibrahim Jihad Muhammad al-Qan,5/18/2004,17,Rafah,Rafah,M
+Ibrahim Isma'il Ribhi al-Bal'awi,5/18/2004,17,Rafah,Rafah,M
+Hani Muhammad 'Abd a-Rahman Qafa,5/18/2004,17,Rafah,Rafah,M
+Muhammad Jasser Ahmad a-Sha'er,5/18/2004,18,Rafah,Rafah,M
+Ahmad Jasser Ahmad a-Sha'er,5/18/2004,19,Rafah,Rafah,M
+Ziad Hussein Shihadah Shabaneh,5/18/2004,22,Rafah,Rafah,M
+Sa'id Ibrahim Sa'id al-Magheyr,5/18/2004,23,Rafah,Rafah,M
+Tareq Ahmad Salam a-Sheikh 'Eid,5/18/2004,24,Rafah,Rafah,M
+'Imad Fadel Khalil al-Maghari,5/18/2004,24,Rafah,Rafah,M
+Yusef Zahi 'Abdallah Kahush,5/18/2004,26,Rafah,Rafah,M
+Taysir Zaki Hassan Qalub,5/18/2004,30,Rafah,Rafah,M
+Muhammad Ma'sud 'Atwah Zo'rub,5/18/2004,33,Rafah,Rafah,M
+Mahmoud Isma'il Muhammad Abu Tuq,5/18/2004,34,Rafah,Rafah,M
+'Abd a-Salam Mahmoud Muhammad Abu 'Iyada,5/18/2004,37,Rafah,Rafah,M
+Isma'il Ribhi Musa al-Bal'awi,5/18/2004,43,Rafah,Rafah,M
+'Ali Mahmoud Muhammad Barhum,4/15/2004,18,Rafah,Rafah,M
+Muhammad 'Azmi Ibrahim A'bed,4/2/2004,19,Rafah,Rafah,M
+Mesbah 'Abdallah Mesbah Mwafi,3/17/2004,14,Rafah,Rafah,M
+'Alaa Wael 'Ali a-Najili,3/17/2004,16,Rafah,Rafah,M
+'Abdallah Hassan 'Abdallah al-Magheyr,3/17/2004,19,Rafah,Rafah,M
+Faraj Sa'id Ahmad Abu Jazar,3/17/2004,22,Rafah,Rafah,M
+Ayman 'Abd al-Karim Ahmad Hashem,3/17/2004,23,Rafah,Rafah,M
+'Adli Muhammad 'Abdallah Abu Taha,3/17/2004,26,Rafah,Rafah,M
+Mahmoud 'Abd al-Fatah Jebril Abu Nahel,3/17/2004,34,Rafah,Rafah,M
+Mus'ad 'Ayesh Shabib Irmeilat,3/15/2004,27,Rafah,Rafah,M
+Muhammad 'Abed Hassan 'Othman,3/4/2004,13,Rafah,Rafah,M
+Jamal Muhammad Yusef al-'Afifi,2/16/2004,45,Rafah,Rafah,M
+Muhammad Zahran Mahmoud a-Tantawi,2/11/2004,19,Rafah,Rafah,M
+Muhammad 'Abd al-Ghani Muhammad al-Hamaydah,2/11/2004,20,Rafah,Rafah,M
+Ibrahim Ahmad Barham Zo'rub,2/11/2004,25,Rafah,Rafah,M
+Muhammad Saleh Rizeq Zo'rub,2/11/2004,26,Rafah,Rafah,M
+Ashraf 'Adnan Abu Libdah,2/8/2004,32,Rafah,Rafah,M
+Bahaa Hatem Judah,2/2/2004,24,Rafah,Rafah,M
+Yasser 'Abd al-Hamid Abu al-'Eish,2/2/2004,35,Rafah,Rafah,M
+Majdi Mahmoud al-Khatib,2/2/2004,36,Rafah,Rafah,M
+Hussein 'Abd al-Hamid Abu al-'Eish,2/2/2004,38,Rafah,Rafah,M
+Muna Faiz Ahmad Isma'il,1/21/2004,31,Rafah,Rafah,F
+Mahmoud Ibrahim 'Odeh al-Qard,1/8/2004,44,Rafah,Rafah,M
+Mustafa 'Abd al-Hamid Mustafa al-Hams,12/17/2003,17,Rafah,Rafah,M
+Suliman Muhammad Salamah al-Akhras,12/11/2003,15,Rafah,Rafah,M
+Sabri Ahmad Abu Luli,12/11/2003,19,Rafah,Rafah,M
+Muhammad Rajab Muhammad Zino,12/11/2003,26,Rafah,Rafah,M
+'Omar Faiz Salman Abu Muhsen,12/11/2003,28,Rafah,Rafah,M
+Naser Muhammad Hassan a-Naja,12/11/2003,28,Rafah,Rafah,M
+'Ayad Muhammad 'Abed Mahamum,12/11/2003,55,Rafah,Rafah,M
+Dawood 'Abdallah Yusef Abu Jazar,11/17/2003,19,Rafah,Rafah,M
+Hassan Ziyadah Abu Khatleh,11/16/2003,29,Rafah,Rafah,M
+Shadi Na'im Khalil Abu 'Anza,11/10/2003,14,Rafah,Rafah,M
+Husam 'Omar al-Magheyr,10/18/2003,19,Rafah,Rafah,M
+Widad Kamel 'Abd a-Rahman al-'A'jrami,10/18/2003,30,Rafah,Rafah,F
+Tareq Subuh Abu al-Hussein,10/18/2003,39,Rafah,Rafah,M
+Walid Hussein 'Abd al-'Aal,10/16/2003,23,Rafah,Rafah,M
+Walid Muhammad Yunes 'Abd al-Wahab,10/16/2003,37,Rafah,Rafah,M
+Zaki Yihya a-Sharif,10/11/2003,18,Rafah,Rafah,M
+Shadi Khalil Isma'il Saqer,10/10/2003,17,Rafah,Rafah,M
+Salim Muhammad Salim al-Bayumi,10/2/2003,62,Rafah,Rafah,M
+Su'ad 'Abd al-'Aziz Shteiwi al-Bahadri,6/22/2003,27,Rafah,Rafah,F
+Ahmad Khaled Yusef al-Haq,5/29/2003,24,Rafah,Rafah,M
+Ahmad Muhammad Isma'il a-Nuajhah,5/16/2003,22,Rafah,Rafah,M
+Salim Saleh Dakhel al-'Arjah,5/12/2003,19,Rafah,Rafah,M
+Muhammad 'Abdallah Muhammad 'Aramneh,5/12/2003,19,Rafah,Rafah,M
+Iyad Rasmi a-Sayed Abu Taha,4/22/2003,24,Rafah,Rafah,M
+Hussein Mahmoud Khamis Zanun,4/20/2003,19,Rafah,Rafah,M
+Muhammad Ibrahim al-Hamaydah,4/19/2003,14,Rafah,Rafah,M
+Mahmoud Ahmad Ibrahim Abu Qush,4/19/2003,14,Rafah,Rafah,M
+Sa'id Ibrahim Mubarak al-Masri,4/19/2003,20,Rafah,Rafah,M
+Khaled Muhammad Ahmad Jarbo'a,4/19/2003,23,Rafah,Rafah,M
+Sa'ed Jum'ah Ibrahim Hadaid,4/19/2003,26,Rafah,Rafah,M
+Mahmoud a-Zatmeh,4/10/2003,35,Rafah,Rafah,M
+Walid Tawfiq Isma'il a-Lidawi,4/3/2003,19,Rafah,Rafah,M
+Ibrahim 'Abd a-Nur Barham Abu Shaluf,4/3/2003,19,Rafah,Rafah,M
+Rasem 'Abd al-Karim a-Sha'er,4/3/2003,24,Rafah,Rafah,M
+Mahmoud Nafez Mahmoud Sha'th,4/3/2003,25,Rafah,Rafah,M
+'Aziza Dib al-Qaysar,3/3/2003,55,Rafah,Rafah,F
+Ahmad Khalil 'Atallah Abu 'Alwan,2/25/2003,13,Rafah,Rafah,M
+Muhammad Hamad Hamdan Qishtah,2/14/2003,21,Rafah,Rafah,M
+Ziad 'Abed Salam a-Sha'er,2/14/2003,33,Rafah,Rafah,M
+'Ali 'Aziz,1/28/2003,8,Rafah,Rafah,M
+Tamer Khader,1/2/2003,21,Rafah,Rafah,M
+Hanin Abu Sitah,12/21/2002,12,Rafah,Rafah,F
+Nada Madi,12/19/2002,11,Rafah,Rafah,F
+Sadiqa Abu Shalub,12/19/2002,48,Rafah,Rafah,F
+'Alaa Muhammad Musleh a-Sadudi,12/18/2002,15,Rafah,Rafah,M
+'Eid Abu Halal,12/16/2002,16,Rafah,Rafah,M
+Nahlah 'Aqel,12/8/2002,41,Rafah,Rafah,F
+Khaled Harb Abu Hilal,11/14/2002,36,Rafah,Rafah,M
+Nafez Mash'al,11/11/2002,2,Rafah,Rafah,M
+Adham Hamdan,11/5/2002,18,Rafah,Rafah,M
+Iyad Abu Taha,11/5/2002,20,Rafah,Rafah,M
+Ahmad 'Abd al-Qader 'Othman,11/4/2002,24,Rafah,Rafah,M
+Mahmoud Samer Abu Mur,10/26/2002,16,Rafah,Rafah,M
+Shaimaa Kamal Yusef Abu Shamaleh,10/17/2002,8,Rafah,Rafah,F
+Muhammad Abu Naja,10/17/2002,8,Rafah,Rafah,M
+Muhammad Sami Zakri Abu Hilal,10/17/2002,15,Rafah,Rafah,M
+Sa'id 'Abd al-'Ati 'Ali 'Obeid,10/17/2002,25,Rafah,Rafah,M
+Ayman Muhammad 'Ali al-Ghul,10/17/2002,29,Rafah,Rafah,M
+Samira Muhammad Abu Jazar,10/17/2002,32,Rafah,Rafah,F
+Fatimah Ahmad Abu Jazar,10/17/2002,70,Rafah,Rafah,F
+Ahmad 'Asfur,10/16/2002,55,Rafah,Rafah,M
+Tawfiq Husam Hafez Bariqi,10/13/2002,2,Rafah,Rafah,M
+Ibrahim Muhammad Yusef al-Ghuti,10/13/2002,26,Rafah,Rafah,M
+Tawfiq Bariqi,10/13/2002,60,Rafah,Rafah,M
+Maysaa Zanun,10/11/2002,12,Rafah,Rafah,F
+Ahmad Radwan,10/11/2002,15,Rafah,Rafah,M
+Fathiya 'Abdallah Jum'ah a-Sufi,10/11/2002,43,Rafah,Rafah,F
+Thaer Salah Saleh al-Hut,10/10/2002,13,Rafah,Rafah,M
+Ihab Fathi 'Abdallah al-Magheyr,10/10/2002,18,Rafah,Rafah,M
+Muhammad 'Ashur,10/9/2002,14,Rafah,Rafah,M
+Sami 'Abd al-'Aal,9/28/2002,25,Rafah,Rafah,M
+Subhi Rajab Zino,9/14/2002,26,Rafah,Rafah,M
+Ahmad Tawfiq Ibrahim 'Abd al-'Aziz,8/2/2002,18,Rafah,Rafah,M
+Midhat 'Abd al-Wahab al-Jurani,6/24/2002,17,Rafah,Rafah,M
+Yusef Sa'id Rizeq,6/24/2002,24,Rafah,Rafah,M
+Amir Ahmad Qafah,6/24/2002,28,Rafah,Rafah,M
+Yasser Sa'id Rizeq,6/24/2002,29,Rafah,Rafah,M
+Sami Muhammad 'Omar,6/24/2002,30,Rafah,Rafah,M
+Bassem Sa'id Rizeq,6/24/2002,32,Rafah,Rafah,M
+'Awni 'Odeh,5/30/2002,29,Rafah,Rafah,M
+Bassam Qishtah,5/23/2002,30,Rafah,Rafah,M
+Muhammad Talal Kassab,5/22/2002,17,Rafah,Rafah,M
+Salem Sami a-Sha'er,5/7/2002,15,Rafah,Rafah,M
+Jamal Sami a-Sha'er,5/7/2002,17,Rafah,Rafah,M
+Sabha Ghanem,5/2/2002,48,Rafah,Rafah,F
+Bilal a-Darbi,5/1/2002,20,Rafah,Rafah,M
+Ahmad Abu Haleh,5/1/2002,22,Rafah,Rafah,M
+Hassan Hussein Abu Jazar,5/1/2002,55,Rafah,Rafah,M
+Huda Muhammad Sa'id Shaluf,4/30/2002,1,Rafah,Rafah,F
+'Abdallah Hamdan Shaluf,4/30/2002,20,Rafah,Rafah,M
+Murad Qishtah,4/19/2002,19,Rafah,Rafah,M
+Manar a-Sha'er,4/19/2002,32,Rafah,Rafah,M
+Yusef Zanun Khalil,4/19/2002,38,Rafah,Rafah,M
+Hamadah Akram Sajali,4/1/2002,13,Rafah,Rafah,M
+Wael Musa al-Akhras,3/15/2002,28,Rafah,Rafah,M
+Ihab Fathi 'Abd al-Wahab,2/21/2002,16,Rafah,Rafah,M
+Basel al-'Atar,2/21/2002,17,Rafah,Rafah,M
+Muhammad a-Nims,2/21/2002,20,Rafah,Rafah,M
+Mahmoud Abu Taha,2/21/2002,24,Rafah,Rafah,M
+Raed Abu Luli,2/21/2002,25,Rafah,Rafah,M
+Samir Abu Sa'ud,2/21/2002,39,Rafah,Rafah,M
+Fadi al-'Azzi,2/6/2002,13,Rafah,Rafah,M
+Ibrahim Jarbo'a,2/4/2002,26,Rafah,Rafah,M
+Muhammad Faiz Abu Sneineh,2/4/2002,27,Rafah,Rafah,M
+Naser Ahmad Abu 'Adra,2/4/2002,30,Rafah,Rafah,M
+Majed Abu Mu'ammar,2/4/2002,31,Rafah,Rafah,M
+Ayman 'Abd al-Qader al-Bahadri,2/4/2002,31,Rafah,Rafah,M
+Mahmoud Muhammad Kabajeh,2/3/2002,26,Rafah,Rafah,M
+Rami Khamis Zo'rub,12/13/2001,13,Rafah,Rafah,M
+Khalil 'Abd al-Fatah Abu Shawish,12/9/2001,24,Rafah,Rafah,M
+Saqer Ahmad Hamed a-Dabri,11/28/2001,21,Rafah,Rafah,M
+Ahmad Muhammad al-hinawi,11/23/2001,25,Rafah,Rafah,M
+Muhammad Abu 'Iya,11/8/2001,57,Rafah,Rafah,M
+Iyad Lafy al-Akhras,10/16/2001,29,Rafah,Rafah,M
+Nidal Soheil Hamdan Badawi,8/23/2014,24,Kh. al-'Adas,Rafah,M
+Aya Anwar Khalil a-Sha'er,8/9/2014,12,Kh. al-'Adas,Rafah,F
+Ibrahim Anwar Khalil a-Sha'er,8/1/2014,15,Kh. al-'Adas,Rafah,M
+'Othman Fouad 'Ali 'Abd al-'Aal,8/1/2014,18,Kh. al-'Adas,Rafah,M
+Jihad Hani 'Abd al-Hadi Dheir,8/1/2014,18,Kh. al-'Adas,Rafah,M
+Ahmad Ashraf Faiz 'Abd al-'Aal,8/1/2014,19,Kh. al-'Adas,Rafah,M
+Nidal 'Issa Ahmad a-Nahal,8/1/2014,23,Kh. al-'Adas,Rafah,M
+Safaa Hamad Sa'id Qishtah,8/1/2014,24,Kh. al-'Adas,Rafah,F
+Ousamah Hussein Hassan Abu Sneimah,8/1/2014,30,Kh. al-'Adas,Rafah,M
+Muhammad 'Abd al-Hadi Muhammad Dheir,8/1/2014,33,Kh. al-'Adas,Rafah,M
+Nazmi Hussein Musa Zo'rub,8/1/2014,36,Kh. al-'Adas,Rafah,M
+Raafat Jum'ah 'Awwad Zo'rub,8/1/2014,40,Kh. al-'Adas,Rafah,M
+Ibrahim 'Abdallah Muhammad Jarghon,8/1/2014,54,Kh. al-'Adas,Rafah,M
+'Othman Fawzi Lafy 'Abdin,7/31/2014,17,Kh. al-'Adas,Rafah,M
+Bassem Muhammad Mahmoud Madi,7/18/2014,21,Kh. al-'Adas,Rafah,M
+Mahmoud Sami A'beid Sha'th,11/19/2012,21,Kh. al-'Adas,Rafah,M
+Seif a-Din Mahmoud Suliman Sadeq,11/19/2012,27,Kh. al-'Adas,Rafah,M
+Husam Muhammad Hamdan a-Zini,11/19/2012,27,Kh. al-'Adas,Rafah,M
+Mahmoud Ahmad Khaled Hasunah,7/25/2014,23,Egyptian Border,Rafah,M
+Ibrahim 'Awwad Ibrahim Qishtah,7/25/2014,23,Egyptian Border,Rafah,M
+Mahdi Ahmad Mahmoud Abu Shawish,3/10/2012,25,Egyptian Border,Rafah,M
+Lutfi Jihad Muhammad Wadi,6/19/2005,22,Egyptian Border,Rafah,M
+Khaled Fouad Shaker Ghanam,4/9/2005,15,Egyptian Border,Rafah,M
+Ashraf Samir Ahmad Musa,4/9/2005,15,Egyptian Border,Rafah,M
+Hassan Ahmad Khalil Abu Zeid,4/9/2005,16,Egyptian Border,Rafah,M
+Jadu' Hadewah Musa al-Qurd,8/26/2004,70,Egyptian Border,Rafah,M
+Bashir Khalil Muhammad Abu 'Armaneh,2/12/2004,14,Egyptian Border,Rafah,M
+Ikram Barhum Salman Qdeih,5/8/2003,22,Egyptian Border,Rafah,F
+Muhammad 'Othman,3/23/2002,22,Egyptian Border,Rafah,M
+Muhammad Yasser Ahmad 'Abd al-Wahab,8/2/2014,2,Bshit R.C,Rafah,M
+Lama Yasser Ahmad 'Abd al-Wahab,8/2/2014,9,Bshit R.C,Rafah,F
+Ayman Yasser Ahmad 'Abd al-Wahab,8/2/2014,13,Bshit R.C,Rafah,M
+Haitham Yasser Ahmad 'Abd al-Wahab,8/2/2014,15,Bshit R.C,Rafah,M
+Hani Sa'di 'Issa a-Sha'er,8/2/2014,33,Bshit R.C,Rafah,M
+Nihaya Sa'di 'Issa 'Abd al-Wahab,8/2/2014,35,Bshit R.C,Rafah,F
+'Issa Sa'di 'Issa a-Sha'er,8/2/2014,45,Bshit R.C,Rafah,M
+'Atef Sa'di 'Issa a-Sha'er,8/2/2014,47,Bshit R.C,Rafah,M
+Muhammad 'Issa Isma'il a-Sha'er,8/2/2014,57,Bshit R.C,Rafah,M
+Yusef Muhammad Ajmi'an Shalalfah,8/3/2014,10,al-Mawasi (Rafah),Rafah,M
+Khitam Jum'ah Turban a-Shalalfeh,8/3/2014,39,al-Mawasi (Rafah),Rafah,F
+Muhammad Ajmi'an Turban a-Shalalfeh,8/3/2014,42,al-Mawasi (Rafah),Rafah,M
+'Awad Ghanem Suliman al-Masri,8/3/2014,42,al-Mawasi (Rafah),Rafah,M
+Nazir Yusef Ahmad Farhat,12/10/2005,37,al-Mawasi (Rafah),Rafah,M
+Salah a-Din Ahmad al-Ghuti,8/4/2014,22,a-Shaburah (R.C),Rafah,M
+Aya Muhammad Ghanem Abu Rejel,8/3/2014,3,a-Shaburah (R.C),Rafah,F
+Munzer Muhammad Ghanem Abu Rejel,8/3/2014,5,a-Shaburah (R.C),Rafah,M
+Saqer Bassam Suliman al-Kashef,8/3/2014,7,a-Shaburah (R.C),Rafah,M
+Tareq Ziad Suliman Abu Khatlah,8/3/2014,9,a-Shaburah (R.C),Rafah,M
+'Iz a-Din Walid Muhammad Abu Sneimah,8/3/2014,12,a-Shaburah (R.C),Rafah,M
+Ahmad Khaled 'Ali Abu Harbah,8/3/2014,14,a-Shaburah (R.C),Rafah,M
+Yusef Akram Saleh a-Skafi,8/3/2014,15,a-Shaburah (R.C),Rafah,M
+'Amru Tareq Sa'id Abu a-Rus,8/3/2014,15,a-Shaburah (R.C),Rafah,M
+Isma'il Samir Suliman Shaluf,8/3/2014,16,a-Shaburah (R.C),Rafah,M
+Hazem 'Abd al-Basset 'Abd al-Fatah Abu Hilal,8/3/2014,24,a-Shaburah (R.C),Rafah,M
+Nadiah Fawzi Hussein Abu Hamad,8/3/2014,25,a-Shaburah (R.C),Rafah,F
+Ahmad Kamal 'Abed a-Nahal,8/3/2014,25,a-Shaburah (R.C),Rafah,M
+Midhat Faiz Muhammad Ghayad,8/3/2014,30,a-Shaburah (R.C),Rafah,M
+Jamal 'Abd a-Rahman Hamzah Abu Libdah,8/3/2014,50,a-Shaburah (R.C),Rafah,M
+'Ula Bassam Muhammad a-Nayrab,8/2/2014,4,a-Shaburah (R.C),Rafah,F
+Muhammad Fathi Ibrahim 'Eitah,8/2/2014,5,a-Shaburah (R.C),Rafah,M
+Ahmad Fathi Ibrahim 'Eitah,8/2/2014,7,a-Shaburah (R.C),Rafah,M
+Ibrahim Fathi Ibrahim 'Eitah,8/2/2014,9,a-Shaburah (R.C),Rafah,M
+Ibtesam Bassam Muhammad a-Nayrab,8/2/2014,12,a-Shaburah (R.C),Rafah,F
+Duha Bassam Muhammad a-Nayrab,8/2/2014,14,a-Shaburah (R.C),Rafah,F
+Muhammad 'Omar Ahmad Saleh,8/2/2014,17,a-Shaburah (R.C),Rafah,M
+Arwa Mahmoud Ahmud a-Nayrab,8/2/2014,46,a-Shaburah (R.C),Rafah,F
+Ibrahim Mahmoud Muhammad al-Mnirawi,8/2/2014,54,a-Shaburah (R.C),Rafah,M
+Muhammad Ahmad Radwan Abu Sh'ar,8/1/2014,17,a-Shaburah (R.C),Rafah,M
+Hussein Muhammad Khalil Abu Rizeq,7/29/2014,36,a-Shaburah (R.C),Rafah,M
+Mahmoud Muhammad Hammad Hammad,7/29/2014,78,a-Shaburah (R.C),Rafah,M
+Hadi Salah a-Din Ahmad Abu Hasanein,7/25/2014,12,a-Shaburah (R.C),Rafah,M
+'Abd al-'Aziz Salah a-Din Ahmad Abu Hasanein,7/25/2014,14,a-Shaburah (R.C),Rafah,M
+Salah a-Din Ahmad Ibrahim Abu Hasanein,7/25/2014,47,a-Shaburah (R.C),Rafah,M
+Mahmoud Silmi Salim Abu Rweished,7/24/2014,49,a-Shaburah (R.C),Rafah,M
+Ahmad Suliman Rabi' Abu Nqeirah,11/18/2012,61,a-Shaburah (R.C),Rafah,M
+'Othman Ibrahim 'Atiyyah Abu Sneimah,1/14/2009,19,a-Shaburah (R.C),Rafah,M
+Yusef Mustafa Hassan al-Kurdi,1/14/2009,21,a-Shaburah (R.C),Rafah,M
+Fares Muhammad Khalil 'Abdin,1/14/2009,31,a-Shaburah (R.C),Rafah,M
+'Ali Zuheir Mahmoud al-Hubi,12/31/2008,21,a-Shaburah (R.C),Rafah,M
+Iman Hassan Mahmoud Abu 'Aridah,12/31/2008,34,a-Shaburah (R.C),Rafah,F
+Mahmoud 'Adnan Mahmoud Abu Ma'ruf,1/3/2009,24,a-Sater R.C.,Rafah,M
+Shadi 'Ayesh Hussein a-Shurbaji,1/3/2009,28,a-Sater R.C.,Rafah,M
+'Abd al-Hadi al-Hamaydah,8/29/2002,13,a-Sater R.C.,Rafah,M

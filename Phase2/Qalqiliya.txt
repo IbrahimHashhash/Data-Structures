@@ -1,0 +1,59 @@
+Name,Date,Age,Location,District,Gender
+Amir Maamun Rashid 'Odeh,3/10/2023,14,Qalqiliyah,Qalqiliya,M
+Rabi 'Arafah 'Adnan Rabi,10/22/2022,32,Qalqiliyah,Qalqiliya,M
+'Adel Ibrahim 'Adel Dawood,10/7/2022,14,Qalqiliyah,Qalqiliya,M
+Nabil Ahmad Salim Ghanem,6/19/2022,53,Qalqiliyah,Qalqiliya,M
+Rasha Muhammad Hamed Rayan,11/9/2015,24,Qalqiliyah,Qalqiliya,F
+Saleh Samir 'Abd a-Rahman Yasin,12/19/2013,27,Qalqiliyah,Qalqiliya,M
+Mufid Saleh Muhammad Wleiwel,1/4/2009,21,Qalqiliyah,Qalqiliya,M
+Yasin Hassan Ahmad Yasin,6/14/2007,27,Qalqiliyah,Qalqiliya,M
+Tareq Ziad Ahmad Taha,11/17/2006,18,Qalqiliyah,Qalqiliya,M
+Muhammad 'Abd al-Hamid Hashem Basha,1/26/2005,17,Qalqiliyah,Qalqiliya,M
+Maher Harb 'Alian Abu Sneineh,1/26/2005,23,Qalqiliyah,Qalqiliya,M
+Ibrahim Muhammad Fayed 'Issa,10/28/2004,47,Qalqiliyah,Qalqiliya,M
+Mazen Mahmoud Ibrahim Yasin,5/21/2004,42,Qalqiliyah,Qalqiliya,M
+Muhammad Kamel 'Aref Nazzal,4/23/2004,24,Qalqiliyah,Qalqiliya,M
+'Abd a-Rahman Wasef 'Abd a-Rahman Nazzal,4/23/2004,25,Qalqiliyah,Qalqiliya,M
+Muhammad 'Abd al-Hafiz Salim 'Odeh Nazzal,4/23/2004,30,Qalqiliyah,Qalqiliya,M
+Ahmad 'Atiyyah Ahmad Khamis,10/22/2003,27,Qalqiliyah,Qalqiliya,M
+Mahmoud Ahmad Sawar,7/3/2003,31,Qalqiliyah,Qalqiliya,M
+'Abd a-Rahman Zuhdi Ahmad A'bed,4/20/2003,16,Qalqiliyah,Qalqiliya,M
+Jihad 'Aziz 'Abd a-Ra'uf Nazzal,4/3/2003,14,Qalqiliyah,Qalqiliya,M
+Fathi Abu Jbarah,2/26/2003,62,Qalqiliyah,Qalqiliya,M
+Hassan al-Ghul,2/11/2003,8,Qalqiliyah,Qalqiliya,M
+Rida Ghanem,2/5/2003,20,Qalqiliyah,Qalqiliya,M
+Iyad Taysir al-Haj Hassan,7/26/2002,32,Qalqiliyah,Qalqiliya,M
+Mahmoud Samir Hilal Zeid,7/15/2002,22,Qalqiliyah,Qalqiliya,M
+Shukri Fa'iq 'Abd al-Haj Dawood,6/27/2002,10,Qalqiliyah,Qalqiliya,M
+Sahar Mahmoud al-Hindi,6/20/2002,28,Qalqiliyah,Qalqiliya,F
+Mazen a-Dik,6/19/2002,-1,Qalqiliyah,Qalqiliya,M
+Ziad Raf'at 'Ali Yamin,5/26/2002,43,Qalqiliyah,Qalqiliya,M
+Tahsin al-'Adel,4/26/2002,28,Qalqiliyah,Qalqiliya,M
+Raed Musa Ibrahim Nazzal,4/26/2002,33,Qalqiliyah,Qalqiliya,M
+Mahmoud Muhammad Yusef Shuli,4/20/2002,19,Qalqiliyah,Qalqiliya,M
+Yusef al-Aqra',3/11/2002,29,Qalqiliyah,Qalqiliya,M
+'Atef al-Biari,3/11/2002,50,Qalqiliyah,Qalqiliya,M
+Hussein al-Qaysi,3/7/2002,18,Qalqiliyah,Qalqiliya,M
+Khaled Soweleh,3/3/2002,20,Qalqiliyah,Qalqiliya,M
+Islam Shawahaneh,3/3/2002,27,Qalqiliyah,Qalqiliya,M
+Raed Jamil al-Akhras,10/31/2001,25,Qalqiliyah,Qalqiliya,M
+Muhammad 'Abd al-Fatah Jamil,10/31/2001,40,Qalqiliyah,Qalqiliya,M
+Naser Qur'an,10/23/2001,13,Qalqiliyah,Qalqiliya,M
+Samer Shawahneh,10/20/2001,22,Qalqiliyah,Qalqiliya,M
+Mustafa 'Abd a-Rahim Nofal,10/20/2001,34,Qalqiliyah,Qalqiliya,M
+'Abd a-Rahman Sa'id Hamed,10/14/2001,33,Qalqiliyah,Qalqiliya,M
+Hamadah Subhi Shaker Shteiwi,7/26/2006,18,Kafr Qadum,Qalqiliya,M
+Ayman Ghneim,3/4/2002,18,Kafr Qadum,Qalqiliya,M
+Mustafa Mazen Mustafa Hanani,11/7/2002,18,Jit,Qalqiliya,M
+Iyad Muhammad Mahmoud Harb,11/7/2002,20,Jit,Qalqiliya,M
+Ahmad 'Abd al-Jabber Muhammad Salim,1/15/2018,28,Jayus,Qalqiliya,M
+Kamleh Muhammad As'ad a-Shuli,12/13/2003,20,Immatin,Qalqiliya,F
+Muhammad 'Ali Hassan 'Awad,9/24/2022,36,Havat Gilad,Qalqiliya,M
+Muhammad Khamis Muhammad Rubo'a,7/11/2004,20,Hajjah,Qalqiliya,M
+Fatah a-Deen Muhammad 'Ali al-Khuli,1/22/2005,20,Hablah,Qalqiliya,M
+Jamal Yusef Dawood 'Arar ('Odeh),7/10/2002,37,Hablah,Qalqiliya,M
+'Aead 'Azzam Mahmoud Salim,4/8/2023,19,'Azzun,Qalqiliya,M
+Muhammad Nidal Ibrahim Salim,3/2/2023,17,'Azzun,Qalqiliya,M
+Yihya 'Ali 'Abd al-Hafez 'Udwan,4/30/2022,26,'Azzun,Qalqiliya,M
+Muhammad Nizar Ibrahim Salim,3/14/2003,18,'Azzun,Qalqiliya,M
+Hussein 'Abd a-Rahman Sweidan,7/20/2002,55,'Azzun,Qalqiliya,M

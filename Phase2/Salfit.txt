@@ -1,0 +1,32 @@
+Name,Date,Age,Location,District,Gender
+Muhammad Jamil 'Abd al-Fatah Shahin,3/12/2019,23,Salfit,Salfit,M
+Mu'az Jamal Mustafa a-Salimah,7/15/2005,15,Salfit,Salfit,M
+Muhammad Ahmad Salamah Mar'i,7/15/2005,19,Salfit,Salfit,M
+Samer 'Abd al-Hadi Dawahqah Herbawi,7/15/2005,24,Salfit,Salfit,M
+Muhammad Yusef 'Abd al-Fatah 'Ayash,7/15/2005,30,Salfit,Salfit,M
+Muhammad 'Othman Muhammad Balafneh,8/6/2004,28,Salfit,Salfit,M
+Khaled Taha 'Abd al-Hafiz Madi,3/8/2004,35,Salfit,Salfit,M
+Bader 'Abd a-Ra'uf Yasin,4/10/2003,23,Salfit,Salfit,M
+'Abdallah Thabet,3/3/2002,22,Salfit,Salfit,M
+Muhammad Muhammad 'Ashur,12/14/2001,19,Salfit,Salfit,M
+Diaa' Nadi Ibda,12/14/2001,19,Salfit,Salfit,M
+As'ad 'Atiyyah,12/14/2001,22,Salfit,Salfit,M
+Jawwad 'Abd a-Latif a-Dams,12/14/2001,25,Salfit,Salfit,M
+Khaled Abu Y'aqub,12/14/2001,27,Salfit,Salfit,M
+Razeq Sha'ban Muhammad Hirzallah,12/14/2001,32,Salfit,Salfit,M
+Mujahed Ahmad Muhammad Sa'id Dawood,10/15/2022,30,Qarawat Bani Hassan,Salfit,M
+Sharif Khaled Muhammad Suliman,5/14/2021,38,Marda,Salfit,M
+Ibrahim Mustafa Ibrahim Abu Y'aqub,7/9/2020,34,Kifl Hares,Salfit,M
+Wahib Musleh Nayef a-Dik,12/14/2006,28,Kafr a-Dik,Salfit,M
+'Aead Ahmad 'Alian,12/7/2001,23,Kafr a-Dik,Salfit,M
+Luai Salim Mashel,12/7/2001,24,Kafr a-Dik,Salfit,M
+Amir 'Atef Khader Rayan,12/31/2021,36,Haris,Salfit,M
+'Atallah Muhammad Harb Rayan,1/26/2021,17,Haris,Salfit,M
+Elias Saleh 'Abed Yasin,10/15/2018,20,Haris,Salfit,M
+Ahmad 'Abdallah Muhammad Qalib,4/28/2004,22,Haris,Salfit,M
+Wasim Sab'aneh,10/14/2002,23,Bruqin,Salfit,M
+Muhammad Nafe'a Musa,10/14/2002,27,Bruqin,Salfit,M
+Muhammad Amin Abu 'Odeh,8/19/2002,13,Bruqin,Salfit,M
+Rashid Shahaleh,12/1/2001,10,Bruqin,Salfit,M
+Rami Mahmoud Musa 'As'us,12/1/2001,19,Bruqin,Salfit,M
+Ahmad Yusef Ibrahim 'Amer,3/9/2016,16,a-Zawiya,Salfit,M

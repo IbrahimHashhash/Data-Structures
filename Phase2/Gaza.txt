@@ -1,0 +1,7 @@
+Name,Date,Age,Location,District,Gender
+Rab'ah Iyad Faiz a-Dayah,1/6/2009,2,Gaza City,Gaza,F
+Raafat Sami Ibrahim Muharam,1/4/2009,20,Gaza City,Gaza,M
+Rabab 'Izzat 'Ali a-Samuni,1/4/2009,36,Gaza City,Gaza,F
+Raafat Nabil Sha'ban Shameyah,12/27/2008,28,Gaza City,Gaza,M
+Rabah Darwish Hassan Zaqut,9/20/2004,38,Gaza City,Gaza,M
+Rabi' 'Abd al-Hai Ahmad 'Abd al-'Aal,3/22/2004,27,Gaza City,Gaza,M

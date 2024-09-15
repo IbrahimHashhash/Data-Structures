@@ -1,0 +1,575 @@
+Name,Date,Age,Location,District,Gender
+Ayman Hawaldi,3/23/2002,23,Zawata,Nablus,M
+Ahmad 'Abd al-Fatah Suliman Suliman,5/11/2021,37,Za'tara,Nablus,M
+'Omar 'Awni 'Abd al-Karim Yunes,4/20/2019,19,Za'tara,Nablus,M
+Qutaybah Ziad Yusef Zahran,8/19/2017,16,Za'tara,Nablus,M
+Muhammad Jihad Hussein Harb,12/8/2016,18,Za'tara,Nablus,M
+Rahiq Shaji' Muhammad Yusef,10/19/2016,19,Za'tara,Nablus,F
+Samer Hassan Mbadda Sarisi,11/26/2015,51,Za'tara,Nablus,M
+Suliman 'Adel Muhammad Shahin,11/8/2015,22,Za'tara,Nablus,M
+Qassem Mahmoud Qassem Saba'aneh,10/30/2015,19,Za'tara,Nablus,M
+Muhammad Bassam Mustafa 'Amshah,8/17/2015,25,Za'tara,Nablus,M
+'Alaa Muhammad 'Awad 'Odeh,6/2/2014,30,Za'tara,Nablus,M
+Bashir Sami Salem Habanin,11/7/2013,28,Za'tara,Nablus,M
+Suhaib Yasser Ahmad Saleh,9/20/2008,14,Yitzhar,Nablus,M
+Ahmad Yasser Ahmad Saleh,6/8/2002,17,Yitzhar,Nablus,M
+Tareq 'Omar Ahmad Snobar,5/14/2021,27,Yatma,Nablus,M
+Muhammad 'Omar Sa'id Najjar,5/12/2021,35,Tell,Nablus,M
+Ahmad Ramadan,11/8/2002,34,Tell,Nablus,M
+Bilal 'Eid al-Aqra',7/23/2002,21,Tell,Nablus,M
+'Anan Isma'il Hamed Qadus,7/23/2002,21,Tell,Nablus,M
+Maamun Faraj,7/23/2002,22,Tell,Nablus,M
+Nael Tahsin Ramadan,1/4/2002,23,Tell,Nablus,M
+Muhammad Sa'id Hawash,12/20/2001,-1,Tell,Nablus,M
+Dib a-Sarawi,12/20/2001,37,Tell,Nablus,M
+Munjed Muhammad Khaled Suliman,12/17/2001,22,Tell,Nablus,M
+Ahmad Mahmoud al-Bassiuni,12/17/2001,28,Tell,Nablus,M
+Muhammad Yusef Hamad,11/12/2001,25,Tell,Nablus,M
+'Ali Ibrahim Abu Hajleh,11/6/2001,22,Tell,Nablus,M
+Jamal Malawah,11/6/2001,27,Tell,Nablus,M
+Iyad 'Odeh al-Khatib,11/6/2001,28,Tell,Nablus,M
+'Imad Muhammad Hafez Janajreh,5/5/2004,31,Talluzah,Nablus,M
+Yasser Ahmad Muhammad Abu Limon,4/23/2004,33,Talluzah,Nablus,M
+Muhammad Raed Naji Dabbik,3/12/2023,18,Sarra,Nablus,M
+'Udai 'Othman Rafiq Shami,3/12/2023,22,Sarra,Nablus,M
+Jihad Muhammad Wasfi Shami,3/12/2023,24,Sarra,Nablus,M
+Mahmoud Taysir Ghanem,3/10/2002,16,Sarra,Nablus,M
+Malek Musbah Ahmad Hamdan,5/14/2021,20,Salem,Nablus,M
+Muhammad Ayman Muhammad Fanny,5/7/2021,20,Salem,Nablus,M
+'Abdallah Khaled Muhammad Di'bas,5/7/2021,20,Salem,Nablus,M
+Amjad Jabur,8/2/2002,35,Salem,Nablus,M
+Yihya a-Shtiyeh,3/7/2002,26,Salem,Nablus,M
+Fawzi Hani Fawzi Makhalfeh,7/21/2023,18,Sabastiya,Nablus,M
+Fawzi Munjed Fawaz Dweikat,1/15/2006,24,Rujeib,Nablus,M
+Nawal Ahmad As'ad Dweikat,1/15/2006,45,Rujeib,Nablus,F
+Mustafa Hussein Mustafa 'Abd al-Ghani,5/17/2006,22,Rafidya,Nablus,M
+'Othman Qassem Muhammad Sadqah,5/17/2006,26,Rafidya,Nablus,M
+Ahmad Suliman Farid Raddad,2/7/2006,31,Rafidya,Nablus,M
+Muhammad Safwat Khalil al-'Aasi,7/13/2005,26,Rafidya,Nablus,M
+Muhammad Farid 'Ali Hassan,7/3/2021,21,Qusrah,Nablus,M
+'Issam Kamal 'Abed Badran,9/23/2011,37,Qusrah,Nablus,M
+Zakaria Musa Dawood Sa'id,8/11/2014,22,Qabalan,Nablus,M
+Muhammad Ahmad Abu Snobar,5/29/2002,26,Osarin,Nablus,M
+Luai Muhammad Musa 'Adili,1/31/2002,15,Osarin,Nablus,M
+Sa'id Yusef Muhammad 'Odeh,5/5/2021,16,Odala,Nablus,M
+Amir Ahmad Muhammad Khalifah,8/10/2023,24,Nablus,Nablus,M
+Nur a-Din Taysir Khalil 'Ardah,7/25/2023,32,Nablus,Nablus,M
+Muntasser Bahajat Muhammad 'Ali Salamah,7/25/2023,32,Nablus,Nablus,M
+Sa'ed Maher Taher Kharaz,7/25/2023,42,Nablus,Nablus,M
+Bader Sami Ribhi Masri,7/20/2023,18,Nablus,Nablus,M
+Hamzah Muayad Muhammad Maqbul,7/7/2023,32,Nablus,Nablus,M
+Khayri Muhammad Sari Jamal Shahin,7/7/2023,34,Nablus,Nablus,M
+Khalil Yihya Anis Yihya,6/15/2023,19,Nablus,Nablus,M
+Mu'az Sa'ed Nabih Masri,5/4/2023,35,Nablus,Nablus,M
+Hassan Suliman Hassan Qatnani,5/4/2023,35,Nablus,Nablus,M
+Ibrahim Ahmad Muhammad Jibrin,5/4/2023,45,Nablus,Nablus,M
+Muhammad Naser Muhammad Sa'id,4/3/2023,20,Nablus,Nablus,M
+Muhammad Mustafa 'Ali Abu Baker,4/3/2023,42,Nablus,Nablus,M
+Muhammad Farid Muhammad al-Haj Muhammad,2/22/2023,16,Nablus,Nablus,M
+Jasser Jamil 'Abd al-Wahab Qan'ir,2/22/2023,22,Nablus,Nablus,M
+Walid Riyad Hussein a-Dakhil,2/22/2023,23,Nablus,Nablus,M
+Muhammad 'Omar Abd al-Ghani 'Abd al-Fatah,2/22/2023,23,Nablus,Nablus,M
+Husam Bassam Bashir Islim,2/22/2023,23,Nablus,Nablus,M
+Muhammad Khaled Hamdi 'Anabusi,2/22/2023,24,Nablus,Nablus,M
+Mus'ab Munir Muhammad 'Awis,2/22/2023,25,Nablus,Nablus,M
+'Omayr Muhammad Ghaleb Lolah,2/22/2023,28,Nablus,Nablus,M
+Tamer Nimer Ahmad Minawi,2/22/2023,32,Nablus,Nablus,M
+'Abd al-'Aziz Muhammad 'Abd al-'Aziz al-Ashqar,2/22/2023,64,Nablus,Nablus,M
+'Adnan Sabe' Hussein Ba'arah,2/22/2023,71,Nablus,Nablus,M
+Amir Ihab 'Omar al-Bistami,2/13/2023,21,Nablus,Nablus,M
+Hamzah Amjad Yusef Ashqar,2/7/2023,16,Nablus,Nablus,M
+Ahmad 'Atef Mustafa Daraghmeh,12/22/2022,23,Nablus,Nablus,M
+Ahmad Amjad Muhammad Shihadah,11/22/2022,16,Nablus,Nablus,M
+Muhammad Hisham Muhammad Abu Kishk,11/22/2022,23,Nablus,Nablus,M
+Mahdi Muhammad Hamdallah Hashash,11/9/2022,15,Nablus,Nablus,M
+Mash'al Zahi Ahmad al-Baghdadi,10/25/2022,26,Nablus,Nablus,M
+'Ali Khaled 'Omar 'Antar,10/25/2022,26,Nablus,Nablus,M
+Wadi' Sabih Wadi' al-Hawah,10/25/2022,31,Nablus,Nablus,M
+Hamdi Muhammad Sabri Hamed Sharaf,10/25/2022,34,Nablus,Nablus,M
+Tamer Sufian Fawaz Zeid Kilani,10/23/2022,32,Nablus,Nablus,M
+Saed 'Adnan 'Izat Kawni,9/25/2022,22,Nablus,Nablus,M
+Wasim Naser Muhammad Abu Khalifah,8/18/2022,19,Nablus,Nablus,M
+Hussein Jamal Hussein Taha,8/9/2022,16,Nablus,Nablus,M
+Ibrahim 'Alaa 'Izat Nabulsi,8/9/2022,18,Nablus,Nablus,M
+Muhammad Marzuq 'Ali 'Arayshi,8/9/2022,25,Nablus,Nablus,M
+Islam Muhammad Sharif As'ad Sabuh,8/9/2022,32,Nablus,Nablus,M
+Muhammad Bashar Nimer 'Azizi,7/24/2022,24,Nablus,Nablus,M
+'Abd a-Rahman Jamal Suliman Subuh,7/24/2022,28,Nablus,Nablus,M
+Muhammad Ahmad Hassan Hirzallah,7/24/2022,30,Nablus,Nablus,M
+Gheith Muhammad Rafiq Ziad Yamin,5/25/2022,16,Nablus,Nablus,M
+Muhammad Hassan Muhammad 'Assaf,4/13/2022,32,Nablus,Nablus,M
+Nader Haitham Fathi Rayan,3/15/2022,16,Nablus,Nablus,M
+Muhammad Raed Hussein Dakhil,2/8/2022,21,Nablus,Nablus,M
+Ashraf Muhammad 'Abd al-Fatah Mbaslat,2/8/2022,21,Nablus,Nablus,M
+Adham Jamal 'Abd a-Rahim Mabrukah,2/8/2022,26,Nablus,Nablus,M
+Jamil Muhammad Faraj Sa'id al-Kayal,12/13/2021,31,Nablus,Nablus,M
+Zeid 'Imad Muhammad Nuri,3/19/2019,20,Nablus,Nablus,M
+Raed Hashem Muhammad Hamdan,3/19/2019,20,Nablus,Nablus,M
+Khaled Walid Jamil Tayeh,2/6/2018,22,Nablus,Nablus,M
+Jamal Muhammad Mraweh Salman (Dweikat),6/2/2016,19,Nablus,Nablus,M
+Ahmad Sa'id So'ud Khaled,6/22/2014,27,Nablus,Nablus,M
+'Anan Suliman Mustafa Subuh,12/26/2009,36,Nablus,Nablus,M
+Ghassan Fathi Nayef Abu Sharkh,12/26/2009,37,Nablus,Nablus,M
+Nader 'Abd al-Jabbar Muhammad a-Sarkaji,12/26/2009,40,Nablus,Nablus,M
+Walid Farid Walid Freitakh,9/10/2008,22,Nablus,Nablus,M
+Tareq Jum'ah Ahmad Abu Ghali,6/24/2008,23,Nablus,Nablus,M
+Iyad Radwan 'Abd al-Halim Khanfar,6/24/2008,23,Nablus,Nablus,M
+Ibrahim Zaki 'Issa al-Masimi,2/27/2008,27,Nablus,Nablus,M
+Ahmad Muhammad Feisal Mahmoud Abu Hantash,1/4/2008,32,Nablus,Nablus,M
+'Abd a-Rahman Hassan a-Shinawi,10/16/2007,24,Nablus,Nablus,M
+Bassem Khamis Mustafa Abu Sorrayha,10/16/2007,35,Nablus,Nablus,M
+'Abed Shaker Muhammad al-Wazir,10/16/2007,69,Nablus,Nablus,M
+'Ammar Taysir 'Anbusi,10/10/2007,22,Nablus,Nablus,M
+Raed 'Ali 'Abd a-Rahman Abu al-'Adas,8/2/2007,34,Nablus,Nablus,M
+Haitham Ja'far 'Ali Saleh,6/29/2007,28,Nablus,Nablus,M
+Rami Samir Nayef Shana'ah,6/2/2007,25,Nablus,Nablus,M
+Amin Mahmoud Amin Lubadeh,4/22/2007,20,Nablus,Nablus,M
+Fadel Muhammad Mahmoud Nur,4/22/2007,25,Nablus,Nablus,M
+Muhannad Bassam Hamdi Marish,3/27/2007,23,Nablus,Nablus,M
+'Alaa Ziad Khalil Ghalez,3/27/2007,24,Nablus,Nablus,M
+'Anan Muhammad As'ad a-tibi,2/26/2007,52,Nablus,Nablus,M
+Wael Khamis Saleh 'Awad,2/1/2007,20,Nablus,Nablus,M
+'Amer Bassam Muhammad Kalaboneh,2/1/2007,21,Nablus,Nablus,M
+Muhannad Muhammad 'Abd Rabo Ghandur,1/18/2007,32,Nablus,Nablus,M
+Amin Marwan Amin Makhluf,12/16/2006,19,Nablus,Nablus,M
+Firas Bassam Shaker Abu a-Rish,10/17/2006,21,Nablus,Nablus,M
+'Adel Fawzi Yusef Abu a-Rish,10/17/2006,24,Nablus,Nablus,M
+Fadi 'Abd al-Hafiz 'Abd a-Latif Qafishah,8/31/2006,28,Nablus,Nablus,M
+Muntasser Suliman Muhammad 'Okah,8/26/2006,15,Nablus,Nablus,M
+'Amid Iyad 'Ahed al-Masri,7/29/2006,22,Nablus,Nablus,M
+Hani Muhammad Taher A'wejan,7/29/2006,27,Nablus,Nablus,M
+Mahmoud Hamdi 'Omar Abu Qdameh,7/21/2006,16,Nablus,Nablus,M
+Husam Naser Khalil Badersawi,7/19/2006,20,Nablus,Nablus,M
+Mahmoud Miqdar Muhammad al-Khatib,7/19/2006,22,Nablus,Nablus,M
+Ahmad Mustafa Musa Abu Leil,7/19/2006,27,Nablus,Nablus,M
+'Imran Ibrahim Muhammad 'Alem,7/19/2006,32,Nablus,Nablus,M
+Mahmoud Muhammad Yusef a-Zakari,6/30/2006,21,Nablus,Nablus,M
+Raed Hani Hassan Tbeileh,5/12/2006,26,Nablus,Nablus,M
+Muhammad Mustafa Qassem al-Qutub,5/5/2006,19,Nablus,Nablus,M
+Sameh Nizar 'Adel a-Shaf'i,4/6/2006,17,Nablus,Nablus,M
+Ibrahim Muhsen 'Ali a-Sa'idi,2/23/2006,19,Nablus,Nablus,M
+Ahmad Muhammad Nayef Abu Sharkh,2/19/2006,16,Nablus,Nablus,M
+Ahmad 'Abd a-Ra'uf Mustafa Khaled,12/22/2005,22,Nablus,Nablus,M
+Anas Ahmad Mahmoud a-Sheikh,12/22/2005,24,Nablus,Nablus,M
+Bashar 'Abd a-Latif 'Aref Hanani,12/22/2005,29,Nablus,Nablus,M
+Husam Soheil Jamil Saqer,12/13/2005,23,Nablus,Nablus,M
+Amjad Bashir Helmi Hinawi,11/14/2005,33,Nablus,Nablus,M
+Muhammad Hamdi Muhammad Abu Salha,11/8/2005,15,Nablus,Nablus,M
+Ihssan Na'im Hassan Shawahaneh,12/13/2004,26,Nablus,Nablus,M
+Muntasser Jihad Radwan Hdadeh,11/20/2004,16,Nablus,Nablus,M
+'Amer Muhammad Darwish Banat,11/20/2004,17,Nablus,Nablus,M
+Ja'far Muhammad 'Eid hubal,11/9/2004,20,Nablus,Nablus,M
+Kadri Faiz Harbi 'Ashur,11/9/2004,23,Nablus,Nablus,M
+Fadi Samer Nur a-Sarwan,11/1/2004,20,Nablus,Nablus,M
+Majdi Wadah Mar'i Hajub,11/1/2004,25,Nablus,Nablus,M
+Jihad 'Omar Muhammad Abu Salha,11/1/2004,26,Nablus,Nablus,M
+Majdi Salah Qassem Khalifah,9/29/2004,26,Nablus,Nablus,M
+Ibriz Durgham Dib al-Minawi,9/17/2004,19,Nablus,Nablus,F
+Maram Mufid 'Abd al-'Aziz a-Nahlah,9/15/2004,11,Nablus,Nablus,F
+Muhammad Ribhi Sa'id Mar'i,9/15/2004,20,Nablus,Nablus,M
+'Abd al-Halim Sa'id 'Abd al-Halim Salem,9/15/2004,21,Nablus,Nablus,M
+Hani Ahmad Fathi al-'Aqad,9/15/2004,24,Nablus,Nablus,M
+Mulham 'Afif Ibrahim Abu Jamileh,9/15/2004,26,Nablus,Nablus,M
+Nader Ibrahim Rida al-Aswad,9/15/2004,27,Nablus,Nablus,M
+Khaled Jamal Salim al-Usta,8/17/2004,9,Nablus,Nablus,M
+Zaher Samir 'Abdu al-Adham,8/16/2004,32,Nablus,Nablus,M
+Salim 'Omar Salim al-Quseh,8/10/2004,17,Nablus,Nablus,M
+'Awad Musa Farhan Hashash,8/4/2004,26,Nablus,Nablus,M
+Muhammad Khalad Saleh Salah,7/6/2004,16,Nablus,Nablus,M
+Yamen a-Tayeb 'Ali Faraj,7/6/2004,25,Nablus,Nablus,M
+Amjad 'Abd a-Latif Muhammad Malitat,7/6/2004,28,Nablus,Nablus,M
+Khaled Saleh Musa Salah,7/6/2004,57,Nablus,Nablus,M
+Samer Tareq Salim 'Akub,6/26/2004,23,Nablus,Nablus,M
+Wajdi Hamdi Saleh Kadumi,6/26/2004,24,Nablus,Nablus,M
+'Omar Muhammad Shihadah Masmar,6/26/2004,24,Nablus,Nablus,M
+Fadi Bassam Mahmoud al-Hiti,6/26/2004,27,Nablus,Nablus,M
+Nidal Sa'id 'Ali al-Wawi,6/26/2004,32,Nablus,Nablus,M
+Ja'far Muhammad Nabil al-Masri,6/26/2004,34,Nablus,Nablus,M
+Nayef Fathi Nayef Abu Sharkh,6/26/2004,45,Nablus,Nablus,M
+Muhammad Haitham Jamil Fuqaha,6/25/2004,17,Nablus,Nablus,M
+Ihab Maher Muhammad 'Ali Islim,6/25/2004,17,Nablus,Nablus,M
+Shadi Muhammad 'Abd a-Rahim Islim,6/23/2004,24,Nablus,Nablus,M
+Hani Mahmoud Khaled Qandil,6/10/2004,13,Nablus,Nablus,M
+'Issam Kazem Kamel 'Arafat,5/19/2004,26,Nablus,Nablus,M
+Nidal 'Abd a-Rahman Muhammad 'Aqasheh,5/18/2004,24,Nablus,Nablus,M
+Bassim Bassam Muhammad Kalbonah,5/7/2004,19,Nablus,Nablus,M
+Jamal Shihadah Radwan Hamdan,5/2/2004,22,Nablus,Nablus,M
+Nael Ziad Hussni Hasanein,2/2/2004,22,Nablus,Nablus,M
+Hashem Dawood Ishteiwi Abu Hamdan,2/2/2004,23,Nablus,Nablus,M
+Nader Mahmoud 'Abd al-Hafiz Abu Leil,2/2/2004,24,Nablus,Nablus,M
+Muhammad Hasanein Mustafa Abu Hamdan,2/2/2004,24,Nablus,Nablus,M
+'Abd al-'Afo Nobuh Qassas,1/7/2004,27,Nablus,Nablus,M
+Ibrahim Radwan 'Atari,1/7/2004,32,Nablus,Nablus,M
+Amjad Bilal Nabil al-Masri,1/3/2004,15,Nablus,Nablus,M
+'Amer Qathem Kamel 'Arafat,1/3/2004,17,Nablus,Nablus,M
+Muhammad Qays Isma'il al-Masri,1/3/2004,19,Nablus,Nablus,M
+Rawhi Hazem Rohi Shumann,1/3/2004,21,Nablus,Nablus,M
+Muhammad Jaber Hassan 'Adili,12/31/2003,15,Nablus,Nablus,M
+Rajaai 'Azmi Isma'il Rayan,12/27/2003,16,Nablus,Nablus,M
+Jebril Hassan 'Awwad,12/18/2003,24,Nablus,Nablus,M
+Majdi Muhammad Fakhri al-Bahash,12/18/2003,25,Nablus,Nablus,M
+'Alaa a-Din Yusef a-Dawaya,12/18/2003,25,Nablus,Nablus,M
+Fadi Tawfiq Hanani,12/18/2003,30,Nablus,Nablus,M
+Imtiaz Abu Ras,11/6/2003,40,Nablus,Nablus,F
+Fadi Kamal Saleh Abu Zant,9/17/2003,21,Nablus,Nablus,M
+Fathi Mahmoud Bulbul,9/12/2003,80,Nablus,Nablus,M
+Muhammad Yusef 'Abd a-Rahim al-Hanbli,9/5/2003,27,Nablus,Nablus,M
+Khaled Amin Muhammad a-Nimroti,8/22/2003,35,Nablus,Nablus,M
+Taysir Abu Shihab,5/14/2003,22,Nablus,Nablus,M
+Nazih Derawazeh,4/19/2003,45,Nablus,Nablus,M
+Mazen Freitakh,4/15/2003,25,Nablus,Nablus,M
+Khaled Ghian,4/3/2003,33,Nablus,Nablus,M
+Muhammad Ahmad Darwish,3/29/2003,14,Nablus,Nablus,M
+Naser a-Din Mustafa Ahmad 'Asidah,3/18/2003,27,Nablus,Nablus,M
+Baker Hiash,3/6/2003,24,Nablus,Nablus,M
+Muhammad 'Issa,3/3/2003,22,Nablus,Nablus,M
+'Alaa Abu Sharh,2/26/2003,23,Nablus,Nablus,M
+Naser Ja'rah,2/24/2003,14,Nablus,Nablus,M
+Walid Majd al-Masri,2/22/2003,23,Nablus,Nablus,M
+Sami Mustafa Halawah,2/22/2003,43,Nablus,Nablus,M
+Ahmad Munir Abu Zahara,2/20/2003,17,Nablus,Nablus,M
+Ahmad 'Abd a-Rahman Abu Zahara,2/20/2003,61,Nablus,Nablus,M
+Muhammad a-Sabber,2/19/2003,16,Nablus,Nablus,M
+Naser Abu Safiyeh,2/19/2003,32,Nablus,Nablus,M
+Feras a-Dib Mabruki,2/16/2003,22,Nablus,Nablus,M
+Ayman Abu Zant,2/16/2003,22,Nablus,Nablus,M
+Muhammad Samer Takruri,2/16/2003,35,Nablus,Nablus,M
+Ahmad 'Abd al-Karim Salim Nofal,2/5/2003,18,Nablus,Nablus,M
+'Anan Muhammad Mahmoud Hanani,2/5/2003,19,Nablus,Nablus,M
+Jamal Zuheir Zabarah,12/30/2002,20,Nablus,Nablus,M
+Muhammad 'Ashur,12/26/2002,16,Nablus,Nablus,M
+Ibrahim Huash,12/25/2002,26,Nablus,Nablus,M
+Ousamah Badreh,12/11/2002,27,Nablus,Nablus,M
+Shadi Mansur,12/6/2002,16,Nablus,Nablus,M
+Husam Khalil al-Faqih,11/25/2002,8,Nablus,Nablus,M
+Samar Shar'ab,11/16/2002,21,Nablus,Nablus,F
+'Imran Isma'il a-Shilah,11/15/2002,17,Nablus,Nablus,M
+Jalal Muhammad 'Awijan,11/14/2002,17,Nablus,Nablus,M
+Firas Abu Ghazalah,11/4/2002,27,Nablus,Nablus,M
+Hamed 'Omar a-Sader,11/4/2002,36,Nablus,Nablus,M
+'Alaa Hdir,10/27/2002,23,Nablus,Nablus,M
+Ahmad Jadallah,10/27/2002,24,Nablus,Nablus,M
+Shaden Abu Hajleh,10/11/2002,50,Nablus,Nablus,F
+Mahmoud Zaghlul,9/30/2002,12,Nablus,Nablus,M
+Rami Halim Ibrahim Badiri,9/30/2002,13,Nablus,Nablus,M
+Bahaa a-S'adi Bahbash,9/22/2002,14,Nablus,Nablus,M
+Ghassan Hamdi Fares a-Sha'bi,9/1/2002,23,Nablus,Nablus,M
+Muhammad Hatem Ahmad al-'Ut,8/24/2002,22,Nablus,Nablus,M
+Ahmad al-Qureini,8/10/2002,54,Nablus,Nablus,M
+Raed Fathi al-'Amed,8/3/2002,25,Nablus,Nablus,M
+Nu'man Hussein Zalum,8/3/2002,40,Nablus,Nablus,M
+Muhannad Taher,6/30/2002,26,Nablus,Nablus,M
+'Imad Darujeh,6/30/2002,30,Nablus,Nablus,M
+Saed al-Aqra',6/24/2002,27,Nablus,Nablus,M
+Tareq al-Kharez,6/1/2002,23,Nablus,Nablus,M
+Jamal Khalil Hassan Abu Musalem,5/4/2002,35,Nablus,Nablus,M
+Iyad Hamdaneh,4/22/2002,23,Nablus,Nablus,M
+Taher Naser,4/22/2002,28,Nablus,Nablus,M
+'Issam Daramleh,4/9/2002,26,Nablus,Nablus,M
+Rizeq Baker,4/9/2002,40,Nablus,Nablus,M
+Ahmad Tabuq,4/7/2002,39,Nablus,Nablus,M
+Yasser Hassan al-Quni,4/6/2002,-1,Nablus,Nablus,M
+Suliman a-Tantush,4/6/2002,-1,Nablus,Nablus,M
+Ahmad Qaza'h,4/6/2002,24,Nablus,Nablus,M
+Muhammad Ghandur,4/6/2002,26,Nablus,Nablus,M
+Saleh 'Abd a-Nabi,4/4/2002,-1,Nablus,Nablus,M
+Mu'tasem Rahal,4/4/2002,-1,Nablus,Nablus,M
+Mu'in Makhluf,4/4/2002,-1,Nablus,Nablus,M
+Muhammad Ghazi Muhammad Wadi,4/4/2002,-1,Nablus,Nablus,M
+Ibrahim Hmeidan,4/4/2002,-1,Nablus,Nablus,M
+Hani Shalabi,4/4/2002,-1,Nablus,Nablus,M
+'Abdallah Khader Abu 'Obeid,4/4/2002,-1,Nablus,Nablus,M
+'Azzam Samir a-Sha'bi,4/4/2002,3,Nablus,Nablus,M
+Anas Samir a-Sha'bi,4/4/2002,7,Nablus,Nablus,M
+'Abdallah Samir a-Sha'bi,4/4/2002,10,Nablus,Nablus,M
+Ahmad Amjad 'Abadah,4/4/2002,12,Nablus,Nablus,M
+Muhammad Hasib 'Awad,4/4/2002,14,Nablus,Nablus,M
+'Abdallah Muti'a al-'Aklib,4/4/2002,18,Nablus,Nablus,M
+Basel Zaghlul,4/4/2002,19,Nablus,Nablus,M
+Faruk Fahim Mashaqi,4/4/2002,21,Nablus,Nablus,M
+Bilal Abu Ta'imah,4/4/2002,21,Nablus,Nablus,M
+Yasser a-Shawish,4/4/2002,22,Nablus,Nablus,M
+Majd Suaftah,4/4/2002,22,Nablus,Nablus,M
+Ribhi a-Lulu,4/4/2002,23,Nablus,Nablus,M
+Nidal Abu 'Odeh,4/4/2002,23,Nablus,Nablus,M
+Muhammad Nayef Muhammad Wadi,4/4/2002,23,Nablus,Nablus,M
+Muhammad Hassan Salamah al-Hams,4/4/2002,23,Nablus,Nablus,M
+Iyad Abu a-Rob,4/4/2002,23,Nablus,Nablus,M
+Naser al-'Asali,4/4/2002,26,Nablus,Nablus,M
+Hisham al-Hoh,4/4/2002,26,Nablus,Nablus,M
+Nidal 'Abidat,4/4/2002,27,Nablus,Nablus,M
+Kamal Abu Shihab,4/4/2002,27,Nablus,Nablus,M
+Jamil Ibrahim al-'Arbudi,4/4/2002,27,Nablus,Nablus,M
+'Issam Shaqu,4/4/2002,27,Nablus,Nablus,M
+'Imad al-Haj Ahmad Karsu'a,4/4/2002,27,Nablus,Nablus,M
+Ihab Fahmawi,4/4/2002,27,Nablus,Nablus,M
+Amjad 'Abd a-Latif Qatoni,4/4/2002,27,Nablus,Nablus,M
+Salam a-J'abbur,4/4/2002,30,Nablus,Nablus,M
+Kamal Nimer 'Awwad,4/4/2002,31,Nablus,Nablus,M
+Majd al-Quni,4/4/2002,32,Nablus,Nablus,M
+Khalil Anis a-Lums,4/4/2002,32,Nablus,Nablus,M
+Kamleh Tawfiq a-Tirawi,4/4/2002,32,Nablus,Nablus,M
+Samir Wajih Dweikat,4/4/2002,35,Nablus,Nablus,M
+Naser Abu a-So'ud,4/4/2002,35,Nablus,Nablus,M
+Mahmoud al-Qani,4/4/2002,35,Nablus,Nablus,M
+Khaled 'Abdallah Habashi,4/4/2002,35,Nablus,Nablus,M
+Ibrahim 'Afanah,4/4/2002,35,Nablus,Nablus,M
+Zeha Faiz Freitakh,4/4/2002,37,Nablus,Nablus,F
+Rasha Faiz Freitakh,4/4/2002,37,Nablus,Nablus,F
+Kamal al-Malah,4/4/2002,38,Nablus,Nablus,M
+Yusef Abu Zeid,4/4/2002,40,Nablus,Nablus,M
+Nabilah 'Abd a-Ra'uf Ahmad Ghanem,4/4/2002,40,Nablus,Nablus,F
+Muhammad Rohi al-'Aqa,4/4/2002,42,Nablus,Nablus,M
+Samir 'Omar Ahmad a-Sha'bi,4/4/2002,47,Nablus,Nablus,M
+Ribhi Ahmad Hadad,4/4/2002,49,Nablus,Nablus,M
+Kamel Frij 'Odeh,4/4/2002,51,Nablus,Nablus,M
+'Omar Muhammad Ahmad a-Sha'bi,4/4/2002,85,Nablus,Nablus,M
+Muhammad Abu Khattab,4/3/2002,35,Nablus,Nablus,M
+Jamal Raja Zayed al-Kiswani,3/6/2002,25,Nablus,Nablus,M
+Muhammad al-Hayek,2/25/2002,24,Nablus,Nablus,M
+Mahmoud 'Abd al-Karim al-Ashqar,2/20/2002,20,Nablus,Nablus,M
+Zuheir 'Abd a-Rahman 'Aqel,2/20/2002,24,Nablus,Nablus,M
+Zahi Mahmoud Muhammad Zawati,2/20/2002,26,Nablus,Nablus,M
+Hamad Khalil Muhammad a-Najar,2/20/2002,26,Nablus,Nablus,M
+Ghanem Taysir Ahmad Burhum,2/20/2002,27,Nablus,Nablus,M
+Fouad Ya'qub Muhammad a-Shtiyeh,2/20/2002,35,Nablus,Nablus,M
+'Odeh Muhammad Salim Balawaneh,2/20/2002,47,Nablus,Nablus,M
+Karim Mafranjeh,1/22/2002,22,Nablus,Nablus,M
+Nassim Abu a-Rus,1/22/2002,28,Nablus,Nablus,M
+Jasser Samaru,1/22/2002,28,Nablus,Nablus,M
+Yusef Khaled Sarakji,1/22/2002,42,Nablus,Nablus,M
+Amjad 'Abd a-Rahim Tubasi,12/3/2001,26,Nablus,Nablus,M
+Ayman Halawah,10/22/2001,26,Nablus,Nablus,M
+Ahmad Hassan Marshud,10/15/2001,29,Nablus,Nablus,M
+Sari Muhammad Ahmad Abu Ghrab,8/24/2016,26,Madama,Nablus,M
+Haifaa Dawood Muhammad Hindeyah,10/4/2005,37,Kh. al-'Adas,Nablus,F
+Mahyoub Mar'i Yusef al-Kini,2/15/2005,25,Kafr Qalil,Nablus,M
+'Issam Khamis 'Ali Hamzah,2/15/2005,25,Kafr Qalil,Nablus,M
+Iyad Mansur,10/31/2002,37,Kafr Qalil,Nablus,M
+Sami Zidan,1/1/2003,23,Jamma'in,Nablus,M
+Muhammad 'Aziz 'Abd a-Ra'uf al-Haj Ali,2/13/2002,39,Jamma'in,Nablus,M
+Yusef Ahmad Hassan Hanani,8/13/2004,29,Itamar,Nablus,M
+Samer 'Abd al-Hafiz Yusef 'Awwad,7/30/2002,23,Itamar,Nablus,M
+Iyad Amin Muhammad Ramaheh,6/20/2002,18,Itamar,Nablus,M
+Jamal Mahmoud Jamal Majdoub,10/5/2023,25,Huwarah,Nablus,M
+Iman Ziad Ahmad 'Odeh,5/4/2023,26,Huwarah,Nablus,F
+'Abdallah Samih Ahmad Qalalwah,2/3/2023,25,Huwarah,Nablus,M
+'Ammar Hamdi Nayef Muflih,12/2/2022,23,Huwarah,Nablus,M
+Ramzi Sami Sa'id Zabarah,10/28/2022,34,Huwarah,Nablus,M
+'Imad Yusef Muhammad Abu Rashid,10/28/2022,50,Huwarah,Nablus,M
+Hussein Hassan Ibrahim Qawariq,7/26/2022,59,Huwarah,Nablus,M
+Bilal 'Adnan 'Ayed Rawajbeh,11/4/2020,28,Huwarah,Nablus,M
+Muhammad Fawzi Yusef 'Adawi,1/21/2019,36,Huwarah,Nablus,M
+Muhammad ('Amer) Ibrahim Thabet al-Jalad,11/9/2016,24,Huwarah,Nablus,M
+Rami Muhammad Za'im 'Ali 'Awartani,7/31/2016,31,Huwarah,Nablus,M
+Wisam Marwan Muhammad Qasarwah,1/17/2016,21,Huwarah,Nablus,M
+Nur a-Din Muhammad 'Abd al-Qader Saba'aneh,12/27/2015,17,Huwarah,Nablus,M
+Muhammad Rafiq Hussein Saba'aneh,12/27/2015,23,Huwarah,Nablus,M
+Maher Zaki Hussein Jabi,12/26/2015,56,Huwarah,Nablus,M
+'Abdallah Hussein Ahmad Nasasrah,12/17/2015,15,Huwarah,Nablus,M
+'Alaa Khalil Sabah Hashash,11/23/2015,16,Huwarah,Nablus,M
+Samah 'Abd al-Mumin Ahmad 'Abdallah,11/23/2015,18,Huwarah,Nablus,F
+Ashraqat Taha Ahmad Qatnani,11/22/2015,16,Huwarah,Nablus,F
+a-Tayeb Saleh Muhammad Saleh Shihadah,7/25/2014,20,Huwarah,Nablus,M
+Fahmi 'Abd al-Jawad Hussein a-Darduk,5/19/2008,15,Huwarah,Nablus,M
+Muhammad Walid Mustafa Sa'adah,10/9/2006,24,Huwarah,Nablus,M
+Amjad Yusef Muhammad a-Tirawi,10/8/2006,24,Huwarah,Nablus,M
+Jalal Husam Salim 'Odeh,8/20/2006,24,Huwarah,Nablus,M
+Thaer Muhammad Helmi Ramadan,7/4/2004,37,Har Bracha,Nablus,M
+Ahmad Saleh Isma'il 'Eid,10/7/2002,42,Git,Nablus,M
+Muhammad Ghazi Muhammad Abu Dra',4/11/2023,35,Elon Moreh,Nablus,M
+So'ud 'Abdallah Sa'id a-Titi,4/11/2023,38,Elon Moreh,Nablus,M
+Ahmad Hafez Sa'adat 'Abd al-Jawad,3/28/2002,18,Elon Moreh,Nablus,M
+Hamed Suliman 'Imran,3/9/2002,28,Elon Moreh,Nablus,M
+Muhammad Hashem 'Ali Zaghlawan,3/2/2016,17,Eli,Nablus,M
+Labib Khaldun Anwar A'zem,3/2/2016,17,Eli,Nablus,M
+Hatem Mustafa Hussein Shadid,12/3/2012,38,Deir Sharaf,Nablus,M
+'Alaa Naser Ahmad Zaghal,10/5/2022,21,Deir al-Hatab,Nablus,M
+Muhammad Amjad Salem Da'das,11/5/2021,15,Deir al-Hatab,Nablus,M
+Ahmad Hikmat Ahmad Seif,3/1/2022,23,Burqah,Nablus,M
+Muhammad Rida Khalil Faruniyeh,8/5/2002,36,Burqah,Nablus,M
+Khaled Seif,8/5/2002,41,Burqah,Nablus,M
+Ahmad Ibrahim Jaber Abu al-'Azzah,1/31/2015,18,Burin,Nablus,M
+Jamal Isma'il Ibrahim Qadus,10/25/2003,39,Burin,Nablus,M
+Hussein 'Abd al-Jabba Hussein a-Najar,9/3/2002,21,Burin,Nablus,M
+Baher 'Abd a-Ra'uf Ahmad 'Eid,9/3/2002,24,Burin,Nablus,M
+Rabi' Ghanem,10/31/2001,22,Bizzariya,Nablus,M
+Muhammad Ghanem,10/31/2001,30,Bizzariya,Nablus,M
+Fawaz Ahmad Saleh Hamayel,4/13/2022,46,Beita,Nablus,M
+Jamil Jamal Ahmad Abu 'Ayash,12/10/2021,32,Beita,Nablus,M
+Muhammad 'Ali Muhammad Khabisah,9/24/2021,28,Beita,Nablus,M
+'Imad 'Ali Muhammad Dweikat,8/6/2021,38,Beita,Nablus,M
+Shadi 'Omar Lutfi Salim,7/27/2021,41,Beita,Nablus,M
+Ahmad Zahi Ibrahim Bani Shamsah,6/16/2021,15,Beita,Nablus,M
+Muhammad Sa'id Muhammad Hamayel,6/11/2021,16,Beita,Nablus,M
+Zakaria Maher 'Abd al-Hamid Fallah,5/28/2021,25,Beita,Nablus,M
+'Issa Suliman Barham Barham,5/14/2021,40,Beita,Nablus,M
+Muhammad 'Abd al-Karim Ghasab Hamayel,3/11/2020,15,Beita,Nablus,M
+Islam 'Abd al-Ghani Tawfiq Dweikat,3/11/2020,22,Beita,Nablus,M
+Qusai Diab Fouad Abu a-Rob,2/21/2016,16,Beita,Nablus,M
+Hassan 'Ali Hassan al-Bzur,12/31/2015,21,Beita,Nablus,M
+Rafiq Kamel Rafiq a-Taj,8/15/2015,21,Beita,Nablus,M
+Imam Jamil Ahmad Dweikat,12/29/2014,16,Beita,Nablus,M
+Shadi 'Issam Nayef Bani Shamsah,11/30/2006,17,Beita,Nablus,M
+Muntasser Mahmoud Muhammad Diab,5/7/2004,17,Beita,Nablus,M
+Fouad Kamel 'Omar Jarwan,1/11/2004,17,Beita,Nablus,M
+Taher 'Abdu,5/16/2003,28,Beit Imrin,Nablus,M
+Ayman Hamawi,1/24/2003,20,Beit Iba,Nablus,M
+Su'ad Jadallah,1/24/2003,45,Beit Iba,Nablus,F
+Ihab Jihad Yusef Hanani,10/16/2015,19,Beit Furik,Nablus,M
+Ahmad 'Izat 'Issa Khatatbeh,9/18/2015,24,Beit Furik,Nablus,M
+Hassan Hazem 'Abd al-Hamid 'Ashur,8/22/2014,16,Beit Furik,Nablus,M
+Ahmad Marwan Naser Hanini,11/15/2003,15,Beit Furik,Nablus,M
+'Atef Yusef Ahmad Hanayshi,3/19/2021,46,Beit Dajan,Nablus,M
+Bilal Ibrahim Mahmoud Abu Libdah,7/22/2010,26,Barkan,Nablus,M
+Muhammad Naser Salem Dawood,8/16/2023,19,Balata R.C.,Nablus,M
+Fares 'Abd al-Mun'im Muhammad Hashash,6/13/2023,19,Balata R.C.,Nablus,M
+'Abdallah Yusef Muhammad Abu Hamdan,5/22/2023,24,Balata R.C.,Nablus,M
+Muhammad Bilal Muhammad Zaytun,5/22/2023,30,Balata R.C.,Nablus,M
+Fathi Jihad 'Abd a-Salam Rizeq,5/22/2023,30,Balata R.C.,Nablus,M
+Wasim 'Adnan Yusef al-A'araj,5/13/2023,19,Balata R.C.,Nablus,M
+Saed Shaker Jihad Masheh,5/13/2023,32,Balata R.C.,Nablus,M
+Muntasser Muhammad Dhib a-Shawa,2/8/2023,16,Balata R.C.,Nablus,M
+Ahmad 'Amer Salim Abu Jneid,1/11/2023,21,Balata R.C.,Nablus,M
+'Amer Ghazi Mahmoud Zaytun,1/5/2023,16,Balata R.C.,Nablus,M
+'Imad Khaled Saleh Al-Hashash,8/24/2021,15,Balata R.C.,Nablus,M
+Hani Muhammad Hassan Ka'bi,4/18/2008,26,Balata R.C.,Nablus,M
+Ahmad 'Adel A'bbas a-Nadi,2/28/2008,28,Balata R.C.,Nablus,M
+Maher Salim Abu a-Rish,2/28/2008,29,Balata R.C.,Nablus,M
+Ahmad Muhammad Ibrahim Sanaqrah,1/18/2008,25,Balata R.C.,Nablus,M
+Yusef Shaker Khalil al-'Aasi,9/16/2007,21,Balata R.C.,Nablus,M
+Ibrahim Muhammad Ibrahim Sanajrah,11/3/2006,16,Balata R.C.,Nablus,M
+Ousamah Tal'at 'Ali Saleh,10/8/2006,24,Balata R.C.,Nablus,M
+Ibrahim Nimer Yusef Abu a-Nif,8/29/2006,23,Balata R.C.,Nablus,M
+Hani Ibrahim 'Abed Hashash,8/29/2006,27,Balata R.C.,Nablus,M
+Hani Ibrahim Khalil a-Saqa,5/30/2006,24,Balata R.C.,Nablus,M
+'Aishah Fares Saleh Abu Msalam,5/21/2006,48,Balata R.C.,Nablus,F
+Hassan Fathi Hassan Hajjaj,2/23/2006,22,Balata R.C.,Nablus,M
+Na'im Muhammad Saleh Abu Saris,2/23/2006,25,Balata R.C.,Nablus,M
+Muhammad Hamdan 'Abd al-Hadi Ishteiwi,2/23/2006,34,Balata R.C.,Nablus,M
+Muhammad Khamis Hussein 'Ammar,2/23/2006,38,Balata R.C.,Nablus,M
+Ibrahim Muhammad Ahmad a-Sheikh 'Ali,2/19/2006,16,Balata R.C.,Nablus,M
+Muhammad Ahmad Muhammad a-Natur,2/19/2006,17,Balata R.C.,Nablus,M
+Iyad Muhammad 'Abed Hashash,12/11/2005,19,Balata R.C.,Nablus,M
+Khaled Muhammad 'Issa al-Masimi,7/7/2005,15,Balata R.C.,Nablus,M
+Nur a-Din Fares Nijem,7/6/2005,17,Balata R.C.,Nablus,M
+Ibrahim Muhammad Hashash Smayri,4/14/2005,21,Balata R.C.,Nablus,M
+Wael a-Riyahi,12/27/2004,30,Balata R.C.,Nablus,M
+Ahmad Nidal 'Aqel Tirawi,9/27/2004,20,Balata R.C.,Nablus,M
+'Ammar Da'san 'Ali Nafisah,9/27/2004,24,Balata R.C.,Nablus,M
+Saleh Radi Muhammad Hurani,8/11/2004,16,Balata R.C.,Nablus,M
+Husam Samih 'Abed Zeitun,7/19/2004,17,Balata R.C.,Nablus,M
+Yasser Khalil 'Abd al-Qader Tantawi,7/17/2004,21,Balata R.C.,Nablus,M
+'Issam 'Ali Sa'id Hamed,7/6/2004,30,Balata R.C.,Nablus,M
+Mahmoud Saleh Ibrahim al-Lahwani,7/3/2004,21,Balata R.C.,Nablus,M
+Salah Saleh Ibrahim Hawani,6/15/2004,18,Balata R.C.,Nablus,M
+Khalil Mahmoud Zuhdi Marshud,6/14/2004,24,Balata R.C.,Nablus,M
+'Awad Hassan Ahmad Abu Zeid,6/14/2004,24,Balata R.C.,Nablus,M
+Hamzah 'Ali As'ad Hussein,5/24/2004,16,Balata R.C.,Nablus,M
+Muhammad 'Abd a-Rahman Abu Halimah,3/22/2004,22,Balata R.C.,Nablus,M
+Muhammad Istiwi Saleh Abu Muhsen,3/20/2004,16,Balata R.C.,Nablus,M
+Riyad Sa'id 'Ali Shalal,2/29/2004,19,Balata R.C.,Nablus,M
+Muhammad Zuheir Mahmoud 'Awis,2/29/2004,23,Balata R.C.,Nablus,M
+Muhammad Na'im Yusef al-A'araj,12/21/2003,6,Balata R.C.,Nablus,M
+Nur a-Din Ahmad 'Izzat 'Imran,12/16/2003,15,Balata R.C.,Nablus,M
+Muhammad Nazmi Hashash,11/7/2003,23,Balata R.C.,Nablus,M
+Samer Abu 'Asab,11/6/2003,23,Balata R.C.,Nablus,M
+Mahmoud Muhammad Sarhan,11/1/2003,15,Balata R.C.,Nablus,M
+Bahaa Jaber Zbeidi,10/31/2003,12,Balata R.C.,Nablus,M
+Muhammad Shukri Khalil al-'Aasi,9/10/2003,19,Balata R.C.,Nablus,M
+Mahmoud Naser 'Issa,9/10/2003,20,Balata R.C.,Nablus,M
+'Ali Hussein Muhammad Abu Salim,8/28/2003,25,Balata R.C.,Nablus,M
+Zahi Majdi Hijazi,5/4/2003,14,Balata R.C.,Nablus,M
+Riyad Hashash,9/22/2002,19,Balata R.C.,Nablus,M
+Ghazi Jamal Abu 'Obayah,7/14/2002,24,Balata R.C.,Nablus,M
+Muhammad 'Ayesh,6/27/2002,17,Balata R.C.,Nablus,M
+Iyad Hamdan,5/22/2002,22,Balata R.C.,Nablus,M
+'Imad Khatib,5/22/2002,25,Balata R.C.,Nablus,M
+Mahmoud 'Abdallah Sa'id Titi,5/22/2002,30,Balata R.C.,Nablus,M
+Bashir Yaish,5/22/2002,40,Balata R.C.,Nablus,M
+Naser Kharmeh,4/4/2002,-1,Balata R.C.,Nablus,M
+Samer Abu Leil,4/4/2002,20,Balata R.C.,Nablus,M
+Maher al-'Umari,4/4/2002,20,Balata R.C.,Nablus,M
+Rami Darwazeh,4/4/2002,23,Balata R.C.,Nablus,M
+Raed Hiju,4/4/2002,26,Balata R.C.,Nablus,M
+Raed Fatuh,4/4/2002,26,Balata R.C.,Nablus,M
+Ahmad Fakhri Hashhash,3/2/2002,15,Balata R.C.,Nablus,M
+Taysir Kamal Ja'rah,3/2/2002,18,Balata R.C.,Nablus,M
+'Abdallah al-Hilu,3/1/2002,17,Balata R.C.,Nablus,M
+Muhammad a-Tantawi,3/1/2002,18,Balata R.C.,Nablus,M
+'Abd a-Rahim Mustafa Seif,3/1/2002,41,Balata R.C.,Nablus,M
+Mahmoud Khalil 'Abed Tantawi,2/28/2002,18,Balata R.C.,Nablus,M
+'Abdallah Kamel Hassan al-Hilu,2/28/2002,18,Balata R.C.,Nablus,M
+Kayed Khalil Abu Mustafa,2/28/2002,24,Balata R.C.,Nablus,M
+Muhammad al-Qassem,2/28/2002,27,Balata R.C.,Nablus,M
+Hakem Abu 'Eishah,2/28/2002,30,Balata R.C.,Nablus,M
+Mahdi Hassan Namur,2/28/2002,34,Balata R.C.,Nablus,M
+'Imad al-Mughrabi,2/27/2002,25,Balata R.C.,Nablus,M
+Layla Kamal Qatawi,2/19/2002,25,Balata R.C.,Nablus,F
+Salah a-Din Faraj,2/19/2002,35,Balata R.C.,Nablus,M
+Bakir Muhammad Musa Hashash,1/6/2022,20,Balata,Nablus,M
+Muhammad Kamel Ibrahim Abu Dra',12/1/2008,27,Balata,Nablus,M
+Rami Rashid 'Annab Abu Keshk,12/19/2006,27,Balata,Nablus,M
+Khaled Maher Zaki Wleiwel,3/27/2004,6,Balata,Nablus,M
+Hamzah Badawi,8/5/2002,13,Balata,Nablus,M
+Muhammad 'Ali Hussein Hashhash,2/20/2002,18,Balata,Nablus,M
+Muhammad 'Abdallah Abu Marsel,2/20/2002,19,Balata,Nablus,M
+Khalil Harb,2/20/2002,22,Balata,Nablus,M
+Ahmad Ya'qub Muhammad Taha,4/27/2023,39,Ari'el,Nablus,M
+Muhammad Murad Sami Suf,11/15/2022,18,Ari'el,Nablus,M
+'Ali Jamal Muhammad Taqatqah,3/17/2016,19,Ari'el,Nablus,M
+'Ali 'Abd a-Rahim 'Abd a-Rahman al-Kar,3/17/2016,19,Ari'el,Nablus,M
+Zakaria Hussein Muhammad Daraghmeh,5/4/2006,37,al-Badhan,Nablus,M
+'Omayr 'Omar I'meir Shihadah,3/10/2018,19,'Urif,Nablus,M
+'Ali 'Omar Nimer Qinu,1/11/2018,17,'Iraq Burin,Nablus,M
+Muhammad Ibrahim 'Abd al-Qader Qadus,3/20/2010,15,'Iraq Burin,Nablus,M
+Usayed Abd al-Naser Muhammad Qadus,3/20/2010,17,'Iraq Burin,Nablus,M
+Muhammad 'Abd al-Hakim Na'im Nada,7/26/2023,23,'Ein Beit al-Maa R.C.,Nablus,M
+Adib Salim Ibrahim Ahmad,9/19/2007,38,'Ein Beit al-Maa R.C.,Nablus,M
+Muhammad Rida Mahmoud Khaled,9/18/2007,16,'Ein Beit al-Maa R.C.,Nablus,M
+Naser 'Ali Qassem Mabruk,8/21/2007,38,'Ein Beit al-Maa R.C.,Nablus,M
+Muhammad ('Eid) Amin Mahmoud Ramaheh,12/14/2006,27,'Ein Beit al-Maa R.C.,Nablus,M
+Jihad Salem 'Abd al-Jawad Zaqauq,12/14/2006,32,'Ein Beit al-Maa R.C.,Nablus,M
+Muhammad Salamah Hussein Hmeidan,11/15/2006,25,'Ein Beit al-Maa R.C.,Nablus,M
+Bahaa Salah 'Abd al-'Aal Khatari,11/14/2006,25,'Ein Beit al-Maa R.C.,Nablus,M
+'Abdallah Muhammad Ahmad Mansur,10/11/2006,31,'Ein Beit al-Maa R.C.,Nablus,M
+Dawood Ribhi Mahmoud Qatoni,6/21/2006,22,'Ein Beit al-Maa R.C.,Nablus,M
+Wafa Myasarah 'Abd a-Latif Yaish,4/7/2006,22,'Ein Beit al-Maa R.C.,Nablus,M
+'Amer Hassan Hassan Basuni,3/3/2006,16,'Ein Beit al-Maa R.C.,Nablus,M
+Taj a-Din 'Abd al-Karim Muhammad - Sa'id Seif,1/5/2004,17,'Ein Beit al-Maa R.C.,Nablus,M
+Muhammad Hassan Sh'alan,2/12/2003,22,'Ein Beit al-Maa R.C.,Nablus,M
+'Imad Mabruki,2/10/2003,25,'Ein Beit al-Maa R.C.,Nablus,M
+'Ammar Jamal Hashem Rajab,10/5/2002,16,'Ein Beit al-Maa R.C.,Nablus,M
+Salah Muhammad Kamel Qawariq,3/21/2010,18,'Awarta,Nablus,M
+Muhammad Feisal Mahmoud Qawariq,3/21/2010,18,'Awarta,Nablus,M
+Tareq Musa Khalil Idris,6/23/2023,39,'Askar R.C.,Nablus,M
+Saleh Muhammad Saleh Sabrah,5/15/2023,22,'Askar R.C.,Nablus,M
+Ashraf Walid Suliman Na'alwah,12/13/2018,22,'Askar R.C.,Nablus,M
+Fadi Akram Mahmoud Abu Keshk,3/21/2007,20,'Askar R.C.,Nablus,M
+Jamil 'Abd al-Karim Jamil al-Jabaji,12/3/2006,14,'Askar R.C.,Nablus,M
+Tamer Fathi 'Abd al-Fatah Qandil,7/7/2006,21,'Askar R.C.,Nablus,M
+'Udai Khaled Sa'id Tantawi,9/30/2005,13,'Askar R.C.,Nablus,M
+Jamal Ibrahim Mahmoud al-Jarmi,9/30/2005,20,'Askar R.C.,Nablus,M
+'Alaa Yusef Muhammad a-Tirawi,9/30/2005,28,'Askar R.C.,Nablus,M
+Bashar Sami Sa'id Zabarah,11/1/2004,12,'Askar R.C.,Nablus,M
+Muhammad Hussein Hamed,11/1/2003,23,'Askar R.C.,Nablus,M
+Mahmoud a-Tiq,8/8/2003,19,'Askar R.C.,Nablus,M
+Faiz Farid a-Sader,8/8/2003,23,'Askar R.C.,Nablus,M
+Khamis Yusef Abu Salem,8/8/2003,28,'Askar R.C.,Nablus,M
+Khaled 'Adnan Saqer,6/14/2003,19,'Askar R.C.,Nablus,M
+Basman Snir,1/11/2003,20,'Askar R.C.,Nablus,M
+Rihaneh al-Qilani,12/9/2002,21,'Askar R.C.,Nablus,F
+Jihad a-Natur,11/27/2002,24,'Askar R.C.,Nablus,M
+Rami 'Odeh al-Qutush,7/10/2002,18,'Askar R.C.,Nablus,M
+A'beid Ahmad 'Abd a-Samed,5/16/2002,7,'Askar R.C.,Nablus,M
+Qusai Abu 'Eishah,4/16/2002,12,'Askar R.C.,Nablus,M
+Hafez Muhammad Sabrah,4/9/2002,65,'Askar R.C.,Nablus,M
+Sadiqa 'Oqasheh,4/3/2002,56,'Askar R.C.,Nablus,F
+Muhammad Iyad Mughrabi,3/17/2002,11,'Askar R.C.,Nablus,M
+Khamis Ahmad 'Ali 'Abdallah,1/17/2002,45,'Askar R.C.,Nablus,M
+Husam Wael Musa 'Asayrah,5/14/2021,19,'Asirah al-Qibliyah,Nablus,M
+Haitham Mahmoud 'Abd al-Jalil Yasin,1/14/2016,34,'Asirah a-Shamaliyah,Nablus,M
+Mu'taz Hilal Darwish a-Zarba,10/9/2005,22,'Asirah a-Shamaliyah,Nablus,M
+Zaher Hamad As'ad Shuli,5/8/2003,36,'Asirah a-Shamaliyah,Nablus,M
+Hani Mustafa Rawajbeh,10/11/2001,24,'Asirah a-Shamaliyah,Nablus,M
+Muhammad Mahmoud Abu Qaber Diriyah,4/11/2004,35,'Aqraba,Nablus,M

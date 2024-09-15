@@ -1,0 +1,51 @@
+Name,Date,Age,Location,District,Gender
+Khaled Mustafa 'Abd a-Latif Sabah,6/20/2023,24,Tubas,Tubas,M
+Salah Tawfiq Muhammad Suaftah,8/19/2022,58,Tubas,Tubas,M
+Sadam Hussein 'Abd al-Wali Bani 'Odeh,11/16/2021,26,Tubas,Tubas,M
+Muhammad Naser Sa'id Daraghmeh,6/29/2008,16,Tubas,Tubas,M
+Salah a-Din Hafez Mahmoud Suaftah,12/20/2006,22,Tubas,Tubas,M
+Husam Mahmoud Ibrahim 'Issa,12/20/2006,23,Tubas,Tubas,M
+Salah a-Din 'Ikab Saqer Abu Muhsen,1/20/2005,13,Tubas,Tubas,M
+Walaa Hashem Srur,11/15/2002,21,Tubas,Tubas,M
+'Assem Suaftah,10/29/2002,20,Tubas,Tubas,M
+Tareq Bsharat,9/17/2002,-1,Tubas,Tubas,M
+Bahira Daraghmeh,8/31/2002,6,Tubas,Tubas,F
+Ousamah Daraghmeh,8/31/2002,12,Tubas,Tubas,M
+Yazid 'Abd al-Razaq Daraghmeh,8/31/2002,17,Tubas,Tubas,M
+Sari Mahmoud Subuh,8/31/2002,17,Tubas,Tubas,M
+Raafat Daraghmeh,8/31/2002,29,Tubas,Tubas,M
+Naser Khaled Jarar,8/14/2002,44,Tubas,Tubas,M
+Dima Sawaftah,4/5/2002,13,Tubas,Tubas,F
+Iyad 'Abed Sawaftah,4/5/2002,22,Tubas,Tubas,M
+Saed 'Awwad,4/5/2002,25,Tubas,Tubas,M
+Qays 'Udwan,4/5/2002,25,Tubas,Tubas,M
+Majdi Balasmeh,4/5/2002,26,Tubas,Tubas,M
+Muhammad Kmeil,4/5/2002,28,Tubas,Tubas,M
+Munqez Suaftah,4/5/2002,29,Tubas,Tubas,M
+Ashraf Daraghmeh,4/5/2002,29,Tubas,Tubas,M
+Ayman Qassem Daraghmeh,3/3/2002,-1,Tubas,Tubas,M
+Muhammad Mahmoud Sa'ed Bsharat,10/24/2018,22,Tammun,Tubas,M
+Muhammad 'Abd al-Fatah Yusef Bani 'Odeh,10/22/2006,22,Tammun,Tubas,M
+Amin 'Ali Sa'ed Bsharat,3/13/2003,17,Tammun,Tubas,M
+Sami Mustafa Bsharat,3/13/2003,22,Tammun,Tubas,M
+Muhammad Ghazi Radwan Mahajnah,3/13/2003,22,Tammun,Tubas,M
+Baker Nayef 'Atiyyah Bani 'Odeh,3/13/2003,28,Tammun,Tubas,M
+'Imad Nayef 'Atiyyah Bani 'Odeh,3/13/2003,29,Tammun,Tubas,M
+'Aref Muhammad 'Aref Bsharat,2/6/2003,13,Tammun,Tubas,M
+Fouad Muhammad Hassan Bsharat,3/3/2002,23,Tammun,Tubas,M
+Hassan Taysir Zabdeh,11/29/2001,25,Tammun,Tubas,M
+Rashad Mhanna,11/29/2001,37,Tammun,Tubas,M
+Ahmad 'Ali 'Atiq,3/19/2002,19,al-Malih,Tubas,M
+Saleh Muhammad Kamil,3/19/2002,23,al-Malih,Tubas,M
+Mahmoud Majed Muhammad 'Ayed,2/14/2023,17,al-Far'ah R.C.,Tubas,M
+Yunes Ghassan Hassan Tayeh,9/7/2022,20,al-Far'ah R.C.,Tubas,M
+Muhammad Subhi Mahmoud a-Salhi,1/10/2017,33,al-Far'ah R.C.,Tubas,M
+Ibrahim 'Omar Muhammad Sarhan,7/13/2011,21,al-Far'ah R.C.,Tubas,M
+Mustafa Mustafa Jaber Jaber,10/27/2006,16,al-Far'ah R.C.,Tubas,M
+Fadi 'Abed Nimer Subuh,10/27/2006,27,al-Far'ah R.C.,Tubas,M
+Muhammad Ahmad Mubaraq Ishteiwi,6/29/2002,14,al-Far'ah R.C.,Tubas,M
+Maamun 'Awaisa,11/23/2001,28,al-Far'ah R.C.,Tubas,M
+Mahmoud a-Shuli (Abu Hanud),11/23/2001,34,al-Far'ah R.C.,Tubas,M
+Ayman 'Awaisa,11/23/2001,34,al-Far'ah R.C.,Tubas,M
+'Abd a-Rahim Fayez 'Awad Ghanam,9/1/2023,45,'Aqqabah,Tubas,M
+Rashid Muhammad Rashid Abu 'Ara,5/12/2021,16,'Aqqabah,Tubas,M

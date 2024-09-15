@@ -1,0 +1,154 @@
+Name,Date,Age,Location,District,Gender
+'Imad Musa Abu 'Eishah,7/22/2002,23,Um Salamuna,Bethlehem,M
+'Ali Khalil Abu Sitah,6/2/2002,19,Um 'Asla,Bethlehem,M
+Muhammad Hussein Ahmad Tanuh,7/20/2017,26,Tuqu',Bethlehem,M
+Muhammad Ibrahim Ahmad Jibrin,7/10/2017,23,Tuqu',Bethlehem,M
+Qusai Hassan Muhammad al-'Amur,1/16/2017,17,Tuqu',Bethlehem,M
+Hassan Muhammad Hassan Hamid,9/13/2008,17,Tuqu',Bethlehem,M
+Mustafa 'Amer 'Ali Sabah,4/28/2023,15,Tekoa,Bethlehem,M
+Jihad Khalil Hussein a-Sha'er,7/26/2007,19,Tekoa,Bethlehem,M
+'Ali 'Allan,3/18/2003,27,Marah Rabah,Bethlehem,M
+Zakaria Muhammad Zakaria Za'ul,6/19/2023,19,Husan,Bethlehem,M
+Qusai Fouad Muhammad Hamamreh,4/13/2022,16,Husan,Bethlehem,M
+Ghadah Ibrahim 'Ali Hassan,4/10/2022,44,Husan,Bethlehem,F
+Muhammad Qassem Muhammad Hamamreh,7/23/2014,20,Husan,Bethlehem,M
+Mahmoud Saleh 'Ali Hamamreh,7/22/2014,29,Husan,Bethlehem,M
+Akram Taysir Mahmoud Za'ul,10/20/2005,17,Husan,Bethlehem,M
+Mahmoud Hassan a-Shusha,7/6/2002,35,Husan,Bethlehem,M
+Falah Musa Shaker Jaradat,1/17/2022,39,Gush Etzion,Bethlehem,M
+Fahmiyah (Rihab) Muhammad Musa al-Hrub,5/2/2021,60,Gush Etzion,Bethlehem,F
+Muhammad Hussein Muhammad 'Amru,1/31/2021,35,Gush Etzion,Bethlehem,M
+'Abdallah 'Ali Mahmoud Taqatqah,7/28/2017,24,Gush Etzion,Bethlehem,M
+Suhaib Musa Mashur Mashahrah,4/19/2017,20,Gush Etzion,Bethlehem,M
+Mahmoud Muhammad Ahmad Abu Fanunah,3/18/2016,20,Gush Etzion,Bethlehem,M
+Amani Hussni 'Abdallah Sabatin,3/4/2016,33,Gush Etzion,Bethlehem,F
+'Alaa a-Din 'Abed Muhammad Kawazbah,1/7/2016,17,Gush Etzion,Bethlehem,M
+Muhannad Ziad Muhammad Kawazbah,1/7/2016,20,Gush Etzion,Bethlehem,M
+Ahmad Salem 'Abd al-Majid Kawazbah,1/7/2016,21,Gush Etzion,Bethlehem,M
+Ahmad Yunes Ahmad Kawazbah,1/5/2016,17,Gush Etzion,Bethlehem,M
+Maamun Raed Muhammad al-Khatib,12/1/2015,16,Gush Etzion,Bethlehem,M
+'Issam Ahmad Salman Thawabteh,11/22/2015,34,Gush Etzion,Bethlehem,M
+Malek Jalal Muhammad a-Sharif,11/5/2015,25,Gush Etzion,Bethlehem,M
+'Iz a-Din Nadi Sha'ban Abu Shakhdam,10/27/2015,18,Gush Etzion,Bethlehem,M
+Shadi Nabil 'Abd al-Mu'ti al-Qudsi,10/27/2015,21,Gush Etzion,Bethlehem,M
+Hamzah Musa Muhammad al-'Amleh,10/20/2015,24,Gush Etzion,Bethlehem,M
+Ousamah Muhammad 'Ali Jundiyah,1/14/2015,18,Gush Etzion,Bethlehem,M
+'Alaa Khader 'Abed al-Harimi,8/16/2019,26,Elazar,Bethlehem,M
+Mu'taz Ibrahim Hamdan Zawahreh,10/13/2015,28,Bethlehem,Bethlehem,M
+'Issa Marzuqah Saleh Zawahreh,3/12/2008,40,Bethlehem,Bethlehem,M
+'Imad Hussein Mahmoud al-Kamel,3/12/2008,47,Bethlehem,Bethlehem,M
+Muhammad Shihadah 'Abed Shhadeh (a-Ta'mari),3/12/2008,48,Bethlehem,Bethlehem,M
+Fouad Khalil Salem al-Balbul,3/12/2008,48,Bethlehem,Bethlehem,M
+Qusai Suliman al-Afandi,1/28/2008,17,Bethlehem,Bethlehem,M
+Muhammad Khalil Muhammad Salah,12/5/2007,35,Bethlehem,Bethlehem,M
+'Abd al-Karim Khalil 'Ayad Subuh,11/3/2006,17,Bethlehem,Bethlehem,M
+Thaer Ahmad Muhammad Hassan,11/3/2006,27,Bethlehem,Bethlehem,M
+Fatimah 'Abd al-Fatah Ahmad Zahran,11/3/2006,83,Bethlehem,Bethlehem,F
+Muhammad 'Omar Mahmoud Shuriyeh,9/12/2006,13,Bethlehem,Bethlehem,M
+Daniel Saba George Abu Hamamah,4/23/2006,23,Bethlehem,Bethlehem,M
+Ahmad Muhammad 'Ali Musleh,4/23/2006,28,Bethlehem,Bethlehem,M
+Nassar Ibrahim 'Issa Abu Nasar,4/2/2004,18,Bethlehem,Bethlehem,M
+Mahmoud 'Omar Mahmoud a-Zaghari,3/26/2004,24,Bethlehem,Bethlehem,M
+Mustafa Muhammad 'Ali Salahat,8/27/2003,39,Bethlehem,Bethlehem,M
+Christine George Sa'adah,3/25/2003,11,Bethlehem,Bethlehem,F
+'Alaa Iyad,3/25/2003,24,Bethlehem,Bethlehem,M
+Nader Salamah Jawarish,3/25/2003,25,Bethlehem,Bethlehem,M
+Mwafaq 'Abd a-Razaq Shihadah Badawneh,3/25/2003,40,Bethlehem,Bethlehem,M
+Ousamah Ahmad al-'Asas,3/6/2003,30,Bethlehem,Bethlehem,M
+Musa Daraghmeh,5/22/2002,35,Bethlehem,Bethlehem,M
+Fadi Muhammad 'Ali Shihadah,5/13/2002,15,Bethlehem,Bethlehem,M
+Khalaf Ahmad Suliman Najajrah,5/4/2002,38,Bethlehem,Bethlehem,M
+Nidal Isma'il 'Awad 'Abiyat,4/29/2002,28,Bethlehem,Bethlehem,M
+Raed 'Umran Ahmad al-Khatib,4/26/2002,22,Bethlehem,Bethlehem,M
+'Issam Nafez Rashed Jawabreh,4/26/2002,24,Bethlehem,Bethlehem,M
+Muhammad 'Abd Rabo,4/25/2002,22,Bethlehem,Bethlehem,M
+Muhammad Hamdan Hasanein Abu 'Abed,4/24/2002,23,Bethlehem,Bethlehem,M
+Rana Sa'di al-Qarjeh,4/15/2002,24,Bethlehem,Bethlehem,F
+Hassan 'Abdallah Hassan Nasman,4/13/2002,24,Bethlehem,Bethlehem,M
+Hassan a-Salman,4/8/2002,-1,Bethlehem,Bethlehem,M
+Khaled Ibrahim Musa Abu Siyam,4/8/2002,23,Bethlehem,Bethlehem,M
+Samir Ibrahim Dib Salman,4/5/2002,54,Bethlehem,Bethlehem,M
+'Issa Muhammad D'abub a-Sghayer,4/3/2002,14,Bethlehem,Bethlehem,M
+'Izzat Yusef Shahin,4/3/2002,27,Bethlehem,Bethlehem,M
+'Awwad Musa 'Awwad al-Malhi,4/2/2002,22,Bethlehem,Bethlehem,M
+'Anan Jawarish,4/2/2002,22,Bethlehem,Bethlehem,M
+Yihya D'amaseh,4/2/2002,24,Bethlehem,Bethlehem,M
+Mahmoud Mahmoud 'Abd al-Fatah Salah,4/2/2002,25,Bethlehem,Bethlehem,M
+'Abd al-Khaleq Abu 'Amrah,4/2/2002,35,Bethlehem,Bethlehem,M
+Khaled Ya'qub 'Abdah,4/2/2002,36,Bethlehem,Bethlehem,M
+'Omar Shihadah Muhammad Salahat,4/2/2002,39,Bethlehem,Bethlehem,M
+Jack As'ad,4/2/2002,45,Bethlehem,Bethlehem,M
+'Abud 'Issa al-'Umari,4/2/2002,60,Bethlehem,Bethlehem,M
+Sumayah Musa Na'im 'Abdah,4/2/2002,64,Bethlehem,Bethlehem,F
+Ahmad Yusef Ahmad al-Mughrabi,4/1/2002,28,Bethlehem,Bethlehem,M
+Mahmoud 'Awwad,3/17/2002,27,Bethlehem,Bethlehem,M
+Nidaa Suliman al-'Azzah,3/8/2002,15,Bethlehem,Bethlehem,F
+'Issa Faraj,3/8/2002,20,Bethlehem,Bethlehem,M
+'Imad Majdi a-Sufi,3/8/2002,23,Bethlehem,Bethlehem,M
+Suliman a-Debs,3/8/2002,35,Bethlehem,Bethlehem,M
+Sa'id 'Eid,3/8/2002,35,Bethlehem,Bethlehem,M
+Huda Isma'il al-Khawajah,3/8/2002,36,Bethlehem,Bethlehem,F
+Ahmad Nu'man Sbieh,3/8/2002,38,Bethlehem,Bethlehem,M
+Ibrahim al-A'araj,3/8/2002,42,Bethlehem,Bethlehem,M
+Kifah Khaled 'Obeid,11/25/2001,13,Bethlehem,Bethlehem,M
+Firas Salahat,10/25/2001,29,Bethlehem,Bethlehem,M
+'Issa Jereys Jalil,10/24/2001,55,Bethlehem,Bethlehem,M
+Juni Yusef George Taljiyah,10/20/2001,16,Bethlehem,Bethlehem,M
+Nidal 'Alian,10/20/2001,19,Bethlehem,Bethlehem,M
+Fadi Muhammad a-Z'amreh,10/19/2001,-1,Bethlehem,Bethlehem,M
+Ibrahim Mustafa 'Atiyyah Abu Fareh,10/19/2001,52,Bethlehem,Bethlehem,M
+Rabi' Walid 'Issa a-Tawil,9/22/2009,22,Beitar Illit,Bethlehem,M
+Jaber Fawaz Ibrahim al-Akhras,4/9/2006,23,Beit Ta'mar,Bethlehem,M
+Raed Muhammad Hussein 'Abayat,4/3/2006,31,Beit Sahur,Bethlehem,M
+'Atiyyah Rabaiya'h,11/27/2002,33,Beit Sahur,Bethlehem,M
+'Atallah Michael al-Hayek,4/12/2002,46,Beit Sahur,Bethlehem,M
+Yusef Muhammad 'Abayiat,10/20/2001,15,Beit Sahur,Bethlehem,M
+'Atef Ahmad 'Abayiat,10/18/2001,26,Beit Sahur,Bethlehem,M
+'Issa 'Atef Khatib 'Abayiat,10/18/2001,28,Beit Sahur,Bethlehem,M
+Jamal 'Abdallah 'Abayiat,10/18/2001,35,Beit Sahur,Bethlehem,M
+Amjad Ousamah Jalal Abu Sultan,10/14/2021,14,Beit Jala,Bethlehem,M
+Fares Bassam Salem Abu Nab,11/17/2019,24,Beit Jala,Bethlehem,M
+Srur Ahmad Ibrahim Abu Srur,1/12/2016,19,Beit Jala,Bethlehem,M
+'Adnan Taysir 'Abdallah Jawarish,4/29/2003,25,Beit Jala,Bethlehem,M
+Mahmoud Mahmoud 'Abd al-Fatah,4/29/2003,30,Beit Jala,Bethlehem,M
+Muhammad Ishteiwi 'Abayat,10/13/2002,28,Beit Jala,Bethlehem,M
+'Issa Fawzi Abu Hleil,10/21/2001,28,Beit Jala,Bethlehem,M
+Rania Elias Nasri Kharuf,10/20/2001,22,Beit Jala,Bethlehem,F
+Musa George Abu 'Eid,10/19/2001,19,Beit Jala,Bethlehem,M
+'Ammar Shafiq 'Issa Abu 'Afifah,3/1/2022,18,Beit Fajjar,Bethlehem,M
+Khaled Tareq Yusef Taqatqah,2/19/2016,21,Beit Fajjar,Bethlehem,M
+Nasri Mahmoud Nasri Taqatqah,7/25/2014,14,Beit Fajjar,Bethlehem,M
+Shaher 'Awni Ahmad Taqatqah,6/10/2004,21,Beit Fajjar,Bethlehem,M
+'Abdallah Luai Muhammad Ramadan Gheith,5/31/2019,15,al-Khas,Bethlehem,M
+Zeid Muhammad Sa'id Ghneim,5/27/2022,14,al-Khader,Bethlehem,M
+Muhammad 'Ali Ahmad Ghneim,4/10/2022,19,al-Khader,Bethlehem,M
+Muhammad Rizeq Shihadah Salah,2/22/2022,13,al-Khader,Bethlehem,M
+Ahmad Jamal Mahmoud Manasrah,3/20/2019,22,al-Khader,Bethlehem,M
+Walid Sbieh,6/17/2002,29,al-Khader,Bethlehem,M
+Sa'id Sbieh,2/28/2002,13,al-Khader,Bethlehem,M
+Maryam Suliman 'Othman Sbieh,10/19/2001,36,al-Khader,Bethlehem,F
+Khaled Muhammad 'Ata Shanaytah,8/17/2006,24,al-Hadadiyah,Bethlehem,M
+'Uqlah Suliman Muhammad Shanaytah,8/17/2006,32,al-Hadadiyah,Bethlehem,M
+Muhammad Ahmad Muhareb,4/15/2002,19,al-'Ubeidiyah,Bethlehem,M
+Wael 'Abayat,10/25/2001,22,al-'Aza R.C.,Bethlehem,M
+Muhammad Salman Hamdan al-Barqa'h,10/21/2001,26,al-'Aza R.C.,Bethlehem,M
+Nahed Hussein,10/21/2001,40,al-'Aza R.C.,Bethlehem,M
+Jadallah Shuqa,12/13/2002,32,a-Thabra,Bethlehem,M
+'Amru Khaled Lutfi al-Khmur,1/23/2023,14,a-Duheisheh R.C.,Bethlehem,M
+Adam 'Issam Shaker 'Ayad,1/3/2023,15,a-Duheisheh R.C.,Bethlehem,M
+'Omar Yusef Hassan Manna',12/5/2022,22,a-Duheisheh R.C.,Bethlehem,M
+Ayman Ahmad Mahmoud Muheisen,6/2/2022,29,a-Duheisheh R.C.,Bethlehem,M
+Sajed 'Abd al-Hakim Helmi Muzher,3/27/2019,17,a-Duheisheh R.C.,Bethlehem,M
+Arkan Thaer Helmi Mizher,7/23/2018,14,a-Duheisheh R.C.,Bethlehem,M
+Raed As'ad Ibrahim Salhi,8/9/2017,21,a-Duheisheh R.C.,Bethlehem,M
+Baraa Isma'il Ahmad al-Hamamdah,7/14/2017,18,a-Duheisheh R.C.,Bethlehem,M
+Malek Akram Mahmoud Shahin,12/8/2015,19,a-Duheisheh R.C.,Bethlehem,M
+Jihad Shihadah 'Abdallah al-J'afri,2/24/2015,19,a-Duheisheh R.C.,Bethlehem,M
+Muhammad Ahmad 'Atallah,6/29/2002,18,a-Duheisheh R.C.,Bethlehem,M
+'Abd a-Rahman Shadi Khalil 'Obeidallah,10/5/2015,13,'Aydah R.C.,Bethlehem,M
+Saleh Ahmad Sa'id al-'Amarin,1/18/2013,15,'Aydah R.C.,Bethlehem,M
+Muhammad Mahmoud 'Abd al-Fatah Abu 'Odeh,2/2/2004,35,'Aydah R.C.,Bethlehem,M
+Tareq Mahmoud 'Abd al-Qader Jadu,1/10/2003,20,'Aydah R.C.,Bethlehem,M
+Salamah Hamdan,10/25/2001,39,'Aydah R.C.,Bethlehem,M
+'Aishah Mahmoud 'Abd al-Fatah 'Odeh,10/20/2001,39,'Aydah R.C.,Bethlehem,F
+'Abd al-Qader Jamil Abu Srur,10/19/2001,25,'Aydah R.C.,Bethlehem,M
